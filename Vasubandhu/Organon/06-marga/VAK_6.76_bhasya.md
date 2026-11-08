@@ -5,7 +5,7 @@
 > asaṃskṛtā kleśahānam adhimuktas tu saṃskṛtā |
 > sāṅgaḥ saiva vimuktī dve jñānaṃ bodhir yathoditā || 6.76 ||
 
-> The unconditioned [liberation] is abandonment of afflictions; the conditioned [liberation] is the liberative determination. The former is counted with the factors. That same conditioned liberation is the two liberations. Knowledge is Bodhi, as previously stated.
+> The unconditioned [liberation] is abandonment of afflictions; the conditioned [liberation] is the liberative determination. The former is counted with the factors. That same conditioned liberation is the two liberations. Knowing is Bodhi, as previously stated.
 
 Kārikā study: [VAK_6.76.md](./VAK_6.76.md). The question about which consciousness is liberated begins after this unit and leads into 6.77.
 
@@ -54,13 +54,15 @@ yaiva hi pūrvaṃ bodhiruktā saiveha samyagjñānaṃ veditavyam /
 yaduta kṣayajñānamanutpādajñānaṃ ca /
 ```
 
-This is the complete continuous unit [388|03]–[388|18–19] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The opening repeats the twofold division introduced at the end of 6.75. The source's spellings, including `vimuktiskndho`, are retained. A new question about which consciousness is liberated begins at [388|20].
+This is the complete continuous unit [388|03]–[388|18–19] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The opening repeats the twofold division introduced at the end of 6.75. The source's spellings, including `vimuktiskndho` and the uncertain addressee `vyāgrābodhyāyanā`, are retained. A new question about which consciousness is liberated begins at [388|20].
 
 ## 3. Continuous Translation
 
-Liberation is conditioned and unconditioned. Unconditioned liberation is the abandonment of afflictions; conditioned liberation is the liberative determination of one beyond training. The unconditioned liberation is joined with the factors of one beyond training, whose factors are conditioned. That same conditioned liberation is the two liberations named in the sūtra: liberation of consciousness and liberation through Prajñā. The Base of liberation should be understood in the same way.
+Liberation is conditioned and unconditioned. The unconditioned [liberation] is abandonment of afflictions; conditioned liberation is the liberative determination of one beyond training. That same unconditioned liberation is joined to the factors of one beyond training, for those factors are conditioned. That same conditioned liberation is the two liberations named in the sūtra: liberation of consciousness and liberation through Prajñā. The liberation Base too is to be understood as that same [conditioned liberation].
 
-An objection cites a sūtra on the purification of liberation: consciousness becomes dispassionate and liberated from desire, hatred, and delusion, and effort and energy serve to complete or sustain the Base of liberation. Thus, is liberation simply `adhimokṣa`? Others answer that liberation is the purity of consciousness when Knowing of reality has removed desire and the other afflictions. Having discussed liberation, the commentary asks which right Knowing is distinct from right view. It answers with the Bodhi previously stated: Knowing of exhaustion and Knowing of non-arising.
+But what of the sūtra's statement: “What, [Vyāgrābodhyāyanā], is the chief practice for purification of liberation? Here, monks, Consciousness becomes dispassionate and liberated from desire; from hatred and delusion Consciousness becomes dispassionate and liberated. Aspiration and energy serve to complete the liberation Base when incomplete, and to support it when complete,” and so forth? Hence, liberation is not simply `adhimokṣa`. What then is it? Others say that liberation is the purity of Consciousness when desire and the other afflictions have been removed by Knowing of reality.
+
+Liberation has been stated. But right Knowing is right view; what [right Knowing] is distinct? “Knowing is Bodhi, as previously stated.” The Bodhi stated earlier is to be understood here as right Knowing: namely, Knowing of exhaustion and Knowing of non-arising.
 
 ## 4. Movement of the Commentary
 

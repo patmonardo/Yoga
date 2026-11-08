@@ -14,7 +14,7 @@ asaṃskṛtaiva dhātvākhyā virāgo rāgasaṃkṣayaḥ |
 prahāṇadhātur anyeṣāṃ nirodhākhyas tu vastunaḥ || 6.78 ||
 ```
 
-The Bhāṣya asks what distinguishes the three liberation Principles and answers that they are three names of the same unconditioned liberation, differentiated according to the terminus of cessation.
+The Bhāṣya asks how unconditioned liberation differs from the three liberation Principles and answers that the same unconditioned liberation receives all three names, differentiated by what is abandoned.
 
 ## 3. Lexical Analysis
 
@@ -31,11 +31,11 @@ The Bhāṣya asks what distinguishes the three liberation Principles and answer
 | tu | adversative particle | whereas, distinguishing the third designation |
 | vastunaḥ | neuter genitive singular | of the basis already freed from affliction, according to the Bhāṣya |
 
-The sense of **saṃkṣaya**, complete exhaustion, carries through the compact clauses. The Bhāṣya supplies **kleśanirmuktasya** as the decisive restriction on **vastunaḥ**.
+The Bhāṣya explicitly carries **saṃkṣaya**, exhaustion, into both later clauses. The Bhāṣya supplies **kleśanirmuktasya** as the decisive restriction on **vastunaḥ**.
 
 ## 4. Grammar
 
-The opening identifies the Principle-designated member with the same **asaṃskṛta vimukti** discussed in 6.75–6.76. The three following expressions distribute its names by genitive relation:
+The opening identifies the Principle-designated member with the same **asaṃskṛta vimukti** discussed in 6.75–6.76. The Bhāṣya states explicitly that the same unconditioned liberation is the three Principles. The three following expressions distribute its names by genitive relation:
 
 ```text
 rāgasya
@@ -56,11 +56,11 @@ The verse classifies one unconditioned liberation under three relations. It does
 
 ### Literal Translation
 
-The [liberation] named as a Principle is exclusively unconditioned. Dispassion is the complete exhaustion of attachment; the abandonment-Principle concerns the others, whereas what is called cessation concerns the basis.
+Only unconditioned [liberation] bears the Principle-name. Dispassion is exhaustion of attachment; the abandonment-Principle [concerns] the others, whereas the cessation-named [Principle concerns] the basis.
 
 ### Bhāṣya-informed study translation
 
-> The designation “Principle” is exclusively unconditioned. Dispassion is the exhaustion of attachment; the Principle of abandonment concerns the other afflictions, while the Principle called cessation concerns the basis.
+> Only unconditioned [liberation] bears the name Principle. Dispassion is exhaustion of attachment; the Principle of abandonment [is exhaustion] of the other afflictions; the Principle called cessation [is exhaustion] of the affliction-free basis.
 
 ## 6. Philosophical Translation
 

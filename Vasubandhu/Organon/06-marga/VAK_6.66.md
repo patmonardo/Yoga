@@ -14,7 +14,7 @@ dhyāneṣu mārgaḥ pratipat sukhā duḥkhānyabhūmiṣu |
 dhandhābhijñā mṛdumateḥ kṣiprābhijñetarasya tu || 6.66 ||
 ```
 
-The electronic kārikā witness also transmits **dhanyābhijñā**, but the explanatory prose consistently reads and defines the technical contrast **dhandhābhijñā / kṣiprābhijñā**, slow and quick realization. The controlled reading follows that explicit Bhāṣya determination.
+The local running kārikā transmits **dhanyābhijñā**, but the explanatory prose consistently reads and defines **dhandhābhijñā / kṣiprābhijñā**, slow and quick realization. The edited Pradhan Sanskrit text also reads `dhandhābhijñā` in the verse. The study follows that reading while preserving the local variant in the paired witness.
 
 ## 3. Lexical Analysis
 
@@ -32,7 +32,7 @@ The electronic kārikā witness also transmits **dhanyābhijñā**, but the expl
 | **itarasya** | masculine genitive singular | for the other, one of sharp faculty |
 | **tu** | adversative particle | but, by contrast |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `dhyāneṣu · mārgaḥ · pratipat · sukhā · duḥkhā · anya-bhūmiṣu · dhandha-abhijñā · mṛdu-mateḥ · kṣipra-abhijñā · itarasya · tu`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `dhyāneṣu · mārgaḥ · pratipat · sukhā · duḥkhā · anya-bhūmiṣu · dhandha-abhijñā · mṛdu-mateḥ · kṣipra-abhijñā · itarasya · tu`.
 
 The Bhāṣya replaces the verse’s **mati** language with the technical faculty contrast **mṛdvindriya / tīkṣṇendriya**.
 
@@ -74,7 +74,7 @@ EASE × SPEED → FOUR-POSSIBLE-COURSES
 
 ### Literal Translation
 
-> In the dhyānas the Path is an easy course; in the other grounds it is difficult. For one of mild faculty it has slow realization, but for the other it has quick realization.
+> In the dhyānas the Path is an easy course; in the other grounds it is difficult. For one of mild understanding it has slow realization, but for the other it has quick realization.
 
 ### Bhāṣya-informed study translation
 
@@ -238,7 +238,7 @@ This guards against treating Path-development as a single scalar quantity. Groun
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya grounds **sukhā** in possessed factors, balanced calm and insight, and progress without strain; other grounds lack that balance. The verse’s second distinction concerns faculty, not ground, so easy progress can be slow and difficult progress quick. The running verse reads `dhanyābhijñā`, while the prose repeatedly gives and explains `dhandhābhijñā`; the study follows the latter and records the former in the source witness.
+**Translation note.** The Bhāṣya grounds **sukhā** in possessed factors, balanced calm and insight, and progress without strain; other grounds lack that balance. The verse’s **mṛdumati** is “mild in understanding”; the Bhāṣya specifies mild faculty. The second distinction concerns faculty, not ground, so easy progress can be slow and difficult progress quick. The running verse reads `dhanyābhijñā`, while the prose repeatedly gives and explains `dhandhābhijñā`; the [Pradhan Sanskrit edition](https://www2.hf.uio.no/polyglotta/index.php?cid=504731&level=2&page=fulltext) also reads the latter in the verse. The local form remains in the paired witness.
 
 Here the earlier Dhātu–Indriya insight reaches a particularly exact Path-form. **Bhūmi** supplies the determinate field in which movement is possible; **indriya** supplies the operative capacity by which that field is traversed.
 

@@ -20,8 +20,8 @@ The Bhāṣya introduces this verse by saying that **this same Mārga** now rece
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| **anutpāda-kṣaya-jñāne** | neuter nominative dual compound | knowledge of non-arising and knowledge of exhaustion |
-| **bodhiḥ** | feminine nominative singular | awakening, technically constituted here by the two knowledges |
+| **anutpāda-kṣaya-jñāne** | neuter nominative dual compound | Knowing of non-arising and Knowing of exhaustion |
+| **bodhiḥ** | feminine nominative singular | awakening, technically constituted here by the two Knowings |
 | **tad-anulomyataḥ** | ablatival adverbial compound | because of conformity with that Bodhi |
 | **sapta-triṃśat** | numeral | thirty-seven |
 | **tu** | adversative or resumptive particle | but, now, as for |
@@ -30,9 +30,9 @@ The Bhāṣya introduces this verse by saying that **this same Mārga** now rece
 | **dravyataḥ** | indeclinable ablatival adverb | according to underlying operative dharma-reality |
 | **daśa** | numeral | ten |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `anutpāda-kṣaya-jñāne · bodhiḥ · tad-anulomyataḥ · sapta-triṃśat · tu · tat-pakṣyāḥ · nāmataḥ · dravyataḥ · daśa`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `anutpāda-kṣaya-jñāne · bodhiḥ · tad-anulomyataḥ · sapta-triṃśat · tu · tat-pakṣyāḥ · nāmataḥ · dravyataḥ · daśa`.
 
-The dual **jñāne** is predicated of singular **bodhiḥ**: one awakening is formally articulated through two consummate knowledges.
+The dual **jñāne** is predicated of singular **bodhiḥ**: one awakening is formally articulated through two consummate Knowings.
 
 ## 4. Grammar
 
@@ -71,11 +71,11 @@ BODHI-ALIGNED-DHARMA[RELATION=conforms-to-Bodhi]
 
 ### Literal Translation
 
-> Bodhi is knowledge of non-arising and knowledge of exhaustion. Because of conformity with that, those belonging to its side are thirty-seven by designation, but ten according to underlying dharma-reality.
+> Bodhi is Knowing of non-arising and Knowing of exhaustion. Because of conformity with that, those belonging to its side are thirty-seven by designation, but ten according to underlying dharma-reality.
 
 ### Bhāṣya-informed study translation
 
-> Awakening is the two knowledges: non-arising and exhaustion. In conformity with it, its factors are thirty-seven by name, but ten by constituent dharmas.
+> Awakening is the two Knowings: non-arising and exhaustion. In conformity with it, its factors are thirty-seven by name, but ten by constituent dharmas.
 
 ## 6. Philosophical Translation
 
@@ -85,16 +85,16 @@ Their plurality is functional rather than a multiplication of underlying realiti
 
 ## 7. Technical Vocabulary
 
-**`Kṣayajñāna / anutpādajñāna` — Bodhi as two knowledges**
+**`Kṣayajñāna / anutpādajñāna` — Bodhi as two Knowings**
 
 The Bhāṣya directly glosses:
 
 ```text
 kṣayajñāna
-    knowledge of exhaustion
+    Knowing of exhaustion
 
 anutpādajñāna
-    knowledge of non-arising
+    Knowing of non-arising
 ```
 
 Their articulated unity is:
@@ -104,14 +104,14 @@ kṣayajñāna
     the required abandonment is complete
 
 anutpādajñāna
-    the abandoned affliction will not recur
+    the accomplished task need not be done again
 
 together
     the task has been done
     and is not to be done again
 ```
 
-The Bhāṣya grounds this in the abandonment of ignorance without remainder (**aśeṣāvidyāprahāṇa**). Bodhi is therefore knowledge of both completion and irreversibility.
+The Bhāṣya grounds this in the abandonment of ignorance without remainder (**aśeṣāvidyāprahāṇa**) and in understanding one's own aim (**svārtha**) as accomplished and not needing repetition. The two Knowings articulate that completed aim in distinct respects.
 
 **`Śrāvakabodhi / pratyekabodhi / samyaksaṃbodhi` — three awakenings by person**
 
@@ -128,9 +128,7 @@ anuttarā samyaksaṃbodhi
     unsurpassed complete awakening
 ```
 
-This is the decisive source-layer answer to whether the thirty-seven belong exclusively to a Bodhisattva path: they do not. The Path-system is common to the modes of awakening, although unsurpassed complete awakening supplies its distinct Buddha-determination.
-
-The verse itself does not present a separate Bodhisattva curriculum. Later Mahāyāna can cultivate these factors under the vows, perfections, emptiness, compassion, and complete Buddhahood, but that is a further determination rather than their original restriction.
+The passage does not restrict Bodhi to a Buddha alone: it names disciple, solitary-Buddha, and unsurpassed complete awakenings. It introduces the thirty-seven aligned dharmas without an exclusive Bodhisattva restriction. Whether every item operates identically in each mode of awakening requires a further comparison; this unit does not make that mapping.
 
 **`Saptatriṃśad bodhipakṣyāḥ` — thirty-seven Bodhi-aligned dharmas**
 
@@ -278,7 +276,7 @@ The system holds identity and difference together under explicitly distinct coun
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya glosses **kṣayajñāna** and **anutpādajñāna** as the two knowledges through which the practitioner understands that the work has been done and will not need repeating. **Tad-anulomyataḥ** grounds the designation *bodhipakṣya* in conformity with Bodhi. **Nāmataḥ / dravyataḥ** distinguishes the count of thirty-seven named functions from ten constituent dharmas; 6.68 supplies their list.
+**Translation note.** The Bhāṣya glosses **kṣayajñāna** and **anutpādajñāna** as the two Knowings through which the practitioner understands their own aim as accomplished and not needing repetition. **Tad-anulomyataḥ** grounds the designation *bodhipakṣya* in conformity with Bodhi. **Nāmataḥ / dravyataḥ** distinguishes the count of thirty-seven named functions from ten constituent dharmas; 6.68 supplies their list.
 
 This is the promised LogoGenesis of Path from its End. Bodhi is not merely the final event waiting at the far side of practice. As the accomplished and irreversible End, it determines which operations belong to its side and gives the thirty-seven their systematic direction.
 
@@ -345,7 +343,7 @@ Bodhi realizedAs SolitaryAwakening
 Bodhi realizedAs UnsurpassedCompleteAwakening
 NamedPathFunction isRealizedBy UnderlyingOperativeDharma
 
-KārikāRule: Bodhi is knowledge of exhaustion and knowledge of non-arising.
+KārikāRule: Bodhi is Knowing of exhaustion and Knowing of non-arising.
 KārikāRule: Thirty-seven factors belong to Bodhi's side because they conform to it.
 KārikāRule: The system counts as thirty-seven by designation and ten by underlying dharma-reality.
 BhāṣyaRule: Bodhi is threefold according to the person who realizes it.

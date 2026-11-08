@@ -28,7 +28,7 @@ The Bhāṣya immediately continues the verse with **mārgaś ca**, “and the P
 | **satya-trayam** | neuter nominative singular | the triad of suffering, origin, and cessation |
 | **bodhisattva-pratyekabuddhayoḥ** | masculine dual compound in genitive/locative form | compressed reference to Bodhisattva and Pratyekabuddha; immediate syntactic function uncertain |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `lābhaḥ · mārga-abhisamaye · buddha-tat-saṃghayoḥ · api · dharmaḥ · satya-trayam · bodhisattva-pratyekabuddhayoḥ`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `lābhaḥ · mārga-abhisamaye · buddha-tat-saṃghayoḥ · api · dharmaḥ · satya-trayam · bodhisattva-pratyekabuddhayoḥ`.
 
 The prose continuation **mārgaś ca** coordinates the Path with **satya-trayam**. Therefore “Dharma” in the completed Bhāṣya analysis includes all Four Truths rather than only the first three.
 
@@ -71,7 +71,7 @@ BODHISATTVA-PRATYEKABUDDHA-DUAL[ATTACHMENT=unresolved]
 
 ### Literal Translation
 
-> At direct realization of the Path there is also acquisition [of verified confidence] concerning the Buddha and his Saṃgha. Dharma is the triad of Truths—[and, according to the Bhāṣya, the Path also]. The Bodhisattva–Pratyekabuddha dual remains compressed in the transmitted verse.
+> At direct realization of the Path there is also acquisition [of verified confidence] concerning the Buddha and his Saṃgha. Dharma is the triad of Truths; [the relation of the named Bodhisattva and Pratyekabuddha to this clause is uncertain].
 
 ### Bhāṣya-informed study translation
 
@@ -81,13 +81,13 @@ BODHISATTVA-PRATYEKABUDDHA-DUAL[ATTACHMENT=unresolved]
 
 The Path verifies more than itself as an abstract method. In realizing its efficacy, cognition becomes settled toward the awakened teacher, the realized teaching, the community constituted through that realization, and the ethical form appropriate to noble life.
 
-These are four valid orientations because their objects differ, yet their operative constitution is twofold. Knowledge becomes confidence in relation to Buddha, Dharma, and Saṃgha; knowledge becomes stable comportment in noble ethical discipline.
+These are four valid orientations: three are distinguished by confidence-object, while the fourth is noble ethical discipline. Their operative constitution is twofold: knowledge becomes confidence in relation to Buddha, Dharma, and Saṃgha, and becomes stable comportment in noble ethical discipline.
 
 ## 7. Technical Vocabulary
 
 **`Avetyaprasāda` — four verified confidences**
 
-The four named objects are:
+The four designations are:
 
 ```text
 Buddha
@@ -137,9 +137,9 @@ ethical confidence → śīla
 two operative dravyas
 ```
 
-The three confidences are one underlying **śraddhā**, differentiated by their supports or objects (**śraddhādhiṣṭhāna-bheda**). The fourth is ethical discipline itself.
+The three confidences share **śraddhā** as constituent dharma while differing in their confidence-bases (**śraddhādhiṣṭhāna-bheda**). The fourth is ethical discipline itself.
 
-This reduction does not erase the four objects. Object-difference is exactly what generates the four valid Path-determinations.
+This reduction does not erase the four designations. Difference of confidence-basis distinguishes the first three; ethical discipline is the fourth constituent form.
 
 **`Nirmala / anāsrava` — all four are uncontaminated**
 
@@ -197,13 +197,13 @@ In emergent reflection, the Bhāṣya orders the four confidences through two an
 
 ```text
 physician     medicine     attendant     health
-Buddha        Dharma       Saṃgha        ethical integrity
+Buddha        Dharma       Saṃgha        ethical discipline
 
-guide         path         caravan       vehicle
+guide         path         caravan traveler  vehicle
 Buddha        Dharma       Saṃgha        ethical discipline
 ```
 
-These analogies do not define the dravyas; they display the four objects as one practical system of orientation.
+These analogies do not define the dravyas; they display the four designations as one practical system of orientation.
 
 **`Bodhisattva-pratyekabuddhayoḥ` — unresolved dual compound**
 
@@ -239,7 +239,7 @@ Realizes(PathTruth)
 The object/dravya mapping is:
 
 ```text
-countBy(ObjectOfConfidence) = 4
+countBy(Designation) = 4
 countBy(OperativeDharma) = 2
 ```
 
@@ -263,7 +263,7 @@ Avetyaprasāda(x)
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya reads `api` as including Dharma and ethical confidence at Path-realization. It adds `mārgaś ca` to the three Truths, making all four Truths objects of Dharma-confidence. Its further analysis reduces the four confidences by object to two operative dharmas, `śraddhā` and `śīla`; this belongs in the Bhāṣya study rather than the verse translation. The transmitted Bodhisattva–Pratyekabuddha dual has no secure attachment in the immediate prose.
+**Translation note.** The Bhāṣya reads `api` as including Dharma and ethical confidence at Path-realization. It adds `mārgaś ca` to the three Truths, making all four Truths objects of Dharma-confidence. Its further analysis reduces four designations to two operative dharmas, `śraddhā` and `śīla`; this belongs in the Bhāṣya study rather than the verse translation. The transmitted Bodhisattva–Pratyekabuddha dual has no secure attachment in the immediate prose.
 
 This passage gives the Path a remarkable reflexive result. By realizing Mārga, the practitioner does not merely reach an object called “the Path.” The realization returns as a fourfold stable orientation toward the agent of awakening, its truth, its realized community, and its practical ethical form.
 
@@ -276,7 +276,7 @@ Truth directly seen
 
 Thus knowledge passes into practical actuality without ceasing to be knowledge-grounded. The three śraddhā-confidences are Meaning differentiated by object; ethical confidence is that verified meaning embodied as comportment.
 
-For the Organon reconstruction, this is Truth becoming Knowledge and then returning into Path as stable practical orientation. But the textual claim is more restrained and exact: *avetyaprasāda* is **saṃpratyaya** arising after **yathābhūta** comprehension, four by object and two by operative dharma.
+For the Organon reconstruction, this is Truth becoming Knowledge and then returning into Path as stable practical orientation. The textual claim is more restrained and exact: *avetyaprasāda* is **saṃpratyaya** arising after **yathābhūta** comprehension, four by designation and two by operative dharma.
 
 The unresolved Bodhisattva–Pratyekabuddha compound also provides an important methodological limit: systematic pressure cannot authorize a translation where the immediate syntax and Bhāṣya do not securely determine one.
 
@@ -320,7 +320,7 @@ Verse674 textuallyMentions BodhisattvaPratyekabuddhaDual
 
 KārikāRule: Realization of the Path produces verified confidence concerning Buddha and Saṃgha and also includes the prior confidences.
 BhāṣyaRule: Dharma-confidence arises through realization of all Four Truths.
-BhāṣyaRule: Four confidences by object reduce to śraddhā and śīla as two operative dharmas.
+BhāṣyaRule: Four confidences by designation reduce to śraddhā and śīla as two operative dharmas.
 BhāṣyaRule: Avetyaprasāda is uncontaminated settled assurance generated after knowing the Truths as they are.
 PhilologicalRule: The Bodhisattva–Pratyekabuddha dual remains unresolved in the immediate prose and must not be silently expanded.
 ProjectRule: Realized Truth returns into Path as differentiated stable orientation and ethical comportment.

@@ -1,4 +1,4 @@
-# VAK 6.76 — Liberation, Its Factors, and Bodhi as Knowledge
+# VAK 6.76 — Liberation, Its Factors, and Bodhi as Knowing
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,7 +14,7 @@ asaṃskṛtā kleśahānam adhimuktas tu saṃskṛtā |
 sāṅgaḥ saiva vimuktī dve jñānaṃ bodhir yathoditā || 6.76 ||
 ```
 
-The verse is metrically compressed. The Bhāṣya supplies the decisive resolutions: conditioned liberation is the Aśaikṣa’s *adhimokṣa*; unconditioned liberation is counted with conditioned Aśaikṣa factors without itself becoming conditioned; and the conditioned member receives the two scriptural names liberation of consciousness and liberation through discriminative comprehension.
+The verse is metrically compressed. The Bhāṣya supplies the decisive resolutions: conditioned liberation is the Aśaikṣa’s *adhimokṣa*; unconditioned liberation is counted with conditioned Aśaikṣa factors without itself becoming conditioned; and the conditioned member receives the two scriptural names liberation of consciousness and liberation through Prajñā.
 
 ## 3. Lexical Analysis
 
@@ -27,11 +27,11 @@ The verse is metrically compressed. The Bhāṣya supplies the decisive resoluti
 | **sa-aṅgaḥ** | masculine nominative singular compound | together with factors; associated with the Aśaikṣa factors |
 | **sā eva** | feminine nominative singular | that very [conditioned liberation] |
 | **vimuktī dve** | feminine nominative dual with numeral | the two [scriptural] liberations |
-| **jñānam** | neuter nominative singular | right knowledge |
+| **jñānam** | neuter nominative singular | right Knowing |
 | **bodhiḥ** | feminine nominative singular | Bodhi, awakening |
 | **yathā-uditā** | feminine nominative singular | as previously stated |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `asaṃskṛtā · kleśa-hānam · adhimuktaḥ · tu · saṃskṛtā · sa-aṅgaḥ · sā · eva · vimuktī · dve · jñānam · bodhiḥ · yathā-uditā`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `asaṃskṛtā · kleśa-hānam · adhimuktaḥ · tu · saṃskṛtā · sa-aṅgaḥ · sā · eva · vimuktī · dve · jñānam · bodhiḥ · yathā-uditā`.
 
 The surface forms do not by themselves expose every antecedent. The Bhāṣya is required to determine which liberation **sā** denotes and how **sāṅgaḥ** governs the classification.
 
@@ -47,9 +47,9 @@ saṃskṛtā vimuktiḥ
     = aśaikṣa-adhimokṣa
 ```
 
-The prose explains **sāṅgaḥ** through association: unconditioned liberation, when joined with the conditioned factors of the Aśaikṣa, is spoken of as an Aśaikṣa factor. The adjective does not alter liberation’s own unconditioned category.
+The prose explains **sāṅgaḥ** as the unconditioned liberation joined to conditioned Aśaikṣa factors. This association does not alter liberation’s own unconditioned category.
 
-In **sā eva vimuktī dve**, **sā** refers to conditioned liberation. It is the same conditioned liberation designated by the scriptural pair **ceto-vimukti** and **liberation through discriminative comprehension**.
+In **sā eva vimuktī dve**, **sā** refers to conditioned liberation. It is the same conditioned liberation designated by the scriptural pair **ceto-vimukti** and **liberation through Prajñā**.
 
 The final nominal equation returns to 6.67:
 
@@ -62,19 +62,19 @@ samyagjñāna
 
 ```text
 UNCONDITIONED-LIBERATION[DEFINITION=affliction-abandonment, ASSOCIATED-WITH=aśaikṣa-factors]
-CONDITIONED-LIBERATION[DEFINITION=aśaikṣa-adhimokṣa, SCRIPTURAL-NAMES=ceto-vimukti | liberation through discriminative comprehension]
-RIGHT-KNOWLEDGE[IDENTITY=Bodhi, MODES=exhaustion | non-arising]
+CONDITIONED-LIBERATION[DEFINITION=aśaikṣa-adhimokṣa, SCRIPTURAL-NAMES=ceto-vimukti | liberation through Prajñā]
+RIGHT-KNOWING[IDENTITY=Bodhi, MODES=exhaustion | non-arising]
 ```
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The unconditioned [liberation] is abandonment of the afflictions, whereas the conditioned [liberation] is the liberative determination. [The former is counted] together with the factors. That very [conditioned liberation] is the two liberations. Knowledge is Bodhi, as previously stated.
+> The unconditioned [liberation] is abandonment of the afflictions, whereas the conditioned [liberation] is the liberative determination. [The former is counted] together with the factors. That very [conditioned liberation] is the two liberations. Knowing is Bodhi, as previously stated.
 
 ### Bhāṣya-informed study translation
 
-> The unconditioned [liberation] is abandonment of afflictions; the conditioned [liberation] is the liberative determination. The former is counted with the factors. That same conditioned liberation is the two liberations. Knowledge is Bodhi, as previously stated.
+> The unconditioned [liberation] is abandonment of afflictions; the conditioned [liberation] is the liberative determination. The former is counted with the factors. That same conditioned liberation is the two liberations. Knowing is Bodhi, as previously stated.
 
 ## 6. Philosophical Translation
 
@@ -110,7 +110,7 @@ Because adhimokṣa is an occurring dharma within the liberated continuum, it ar
 
 **`Sāṅgaḥ` — association without category change**
 
-An apparent difficulty arises: how can unconditioned liberation be called one of the Aśaikṣa’s “factors,” when those factors are conditioned?
+An apparent difficulty arises: how can unconditioned liberation be joined to the Aśaikṣa’s factors, when those factors are conditioned?
 
 The Bhāṣya answers:
 
@@ -131,7 +131,7 @@ systematically associated with conditioned factors
 
 This is a classification by conjunction, not a transformation of ontological status.
 
-**`Ceto-vimukti / liberation through discriminative comprehension` — two scriptural liberations**
+**`Ceto-vimukti / liberation through Prajñā` — two scriptural liberations**
 
 The same conditioned liberation receives two names:
 
@@ -139,23 +139,23 @@ The same conditioned liberation receives two names:
 ceto-vimukti
     liberation of consciousness
 
-liberation through discriminative comprehension
-    liberation through discriminative comprehension
+liberation through Prajñā
+    liberation through Prajñā
 ```
 
-The Bhāṣya says the **Base of liberation** is to be understood in the same manner.
+The Bhāṣya says the **liberation Base** (*vimukti-skandha*) is to be understood in the same manner.
 
 The present verse does not yet require these names to be two separate dravyas. They are two scriptural determinations of conditioned liberated actuality.
 
 **`Tattvajñāna / cetaso vaimalya` — alternative account of liberation**
 
-An objection appeals to a sūtra speaking of purification and completion of liberation, creating difficulty for simple identification with adhimokṣa. An alternative interpretation is therefore recorded:
+An objection cites a sūtra in which aspiration and energy complete an incomplete liberation Base and support one already complete, creating difficulty for identifying liberation simply with `adhimokṣa`. An alternative interpretation is therefore recorded:
 
 ```text
 tattvajñāna
     removes rāga, dveṣa, and moha
         →
-citta-viśuddhi
+cetaso vaimalya
     purity of consciousness
         = vimukti
 ```
@@ -170,9 +170,9 @@ or
 purity of consciousness after the afflictions are removed
 ```
 
-The alternative makes knowledge causally decisive while still distinguishing knowledge from the purity it produces.
+The alternative makes Knowing of reality causally decisive while distinguishing it from the purity it produces.
 
-**`Samyagjñāna` — right knowledge**
+**`Samyagjñāna` — right Knowing**
 
 The question then turns to **samyagjñāna**, the tenth Aśaikṣa factor. Vasubandhu identifies it with:
 
@@ -202,7 +202,7 @@ conditioned vimukti
     liberated mental actuality
 
 Bodhi / samyagjñāna
-    knowledge of exhaustion and non-arising
+    Knowing of exhaustion and non-arising
 ```
 
 Each is necessary to the analysis; no one should be used as a synonym for the other two.
@@ -233,13 +233,13 @@ The scriptural designation is:
 ```text
 ConditionedLiberation
     receivesDesignation ConsciousnessLiberation
-    receivesDesignation DiscriminativeComprehensionLiberation
+    receivesDesignation PrajñāLiberation
 ```
 
 The causal alternative is:
 
 ```text
-KnowledgeOfReality
+KnowingOfReality
     removes Desire, Hatred, Delusion
         → produces PurityOfConsciousness
 ```
@@ -247,9 +247,9 @@ KnowledgeOfReality
 The Bodhi identity is:
 
 ```text
-RightKnowledge
-    = KnowledgeOfExhaustion
-    + KnowledgeOfNonArising
+RightKnowing
+    = KnowingOfExhaustion
+    + KnowingOfNonArising
 ```
 
 Consequently:
@@ -266,7 +266,7 @@ CompletedPath coordinates all three
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya identifies conditioned liberation as the Aśaikṣa's `adhimokṣa`, and explains that association with conditioned factors does not change the unconditioned category of abandonment. It reads the two scriptural liberations as designations of the conditioned member. The final `jñānam` recalls the two knowledges defining Bodhi in 6.67. An attributed alternative understands liberation as purity of consciousness after the afflictions are removed; that debate belongs in the Bhāṣya study.
+**Translation note.** The Bhāṣya identifies conditioned liberation as the Aśaikṣa's `adhimokṣa`, and explains that association with conditioned factors does not change the unconditioned category of abandonment. It reads the two scriptural liberations as designations of the conditioned member. The final `jñānam` recalls the two Knowings defining Bodhi in 6.67. An attributed alternative understands liberation as purity of consciousness after the afflictions are removed; that debate belongs in the Bhāṣya study.
 
 This verse gives the completed Path a differentiated inner structure. Freedom is true objectively as the absence of bondage, subjectively as liberated mental actuality, and knowingly as Bodhi. “Objectively” and “subjectively” are Organon coordinates here, not Vasubandhu’s own labels.
 
@@ -299,17 +299,17 @@ Class: LiberativeDetermination
   SanskritLabel: aśaikṣa-adhimokṣa
 Class: ConsciousnessLiberation
   SanskritLabel: ceto-vimukti
-Class: DiscriminativeComprehensionLiberation
+Class: PrajñāLiberation
   SanskritLabel: prajñā-vimukti
 Class: LiberationBase
   SanskritLabel: vimukti-skandha
 Class: PurityOfConsciousness
-Class: KnowledgeOfReality
+Class: KnowingOfReality
   SanskritLabel: tattvajñāna
-Class: RightKnowledge
+Class: RightKnowing
   SanskritLabel: samyagjñāna
-Class: KnowledgeOfExhaustion
-Class: KnowledgeOfNonArising
+Class: KnowingOfExhaustion
+Class: KnowingOfNonArising
 Class: ConditionedAśaikṣaFactor
 
 ObjectProperty: constitutedBy
@@ -323,18 +323,18 @@ UnconditionedLiberation constitutedBy AfflictionAbandonment
 ConditionedLiberation constitutedBy LiberativeDetermination
 UnconditionedLiberation associatedWith ConditionedAśaikṣaFactor
 ConditionedLiberation receivesDesignation ConsciousnessLiberation
-ConditionedLiberation receivesDesignation DiscriminativeComprehensionLiberation
-PurityOfConsciousness producedBy KnowledgeOfReality
-KnowledgeOfReality removes Desire
-KnowledgeOfReality removes Hatred
-KnowledgeOfReality removes Delusion
-RightKnowledge hasConstituent KnowledgeOfExhaustion
-RightKnowledge hasConstituent KnowledgeOfNonArising
+ConditionedLiberation receivesDesignation PrajñāLiberation
+PurityOfConsciousness producedBy KnowingOfReality
+KnowingOfReality removes Desire
+KnowingOfReality removes Hatred
+KnowingOfReality removes Delusion
+RightKnowing hasConstituent KnowingOfExhaustion
+RightKnowing hasConstituent KnowingOfNonArising
 
 KārikāRule: Unconditioned liberation is affliction-abandonment; conditioned liberation is the Aśaikṣa’s liberative determination.
 BhāṣyaRule: Association with conditioned Aśaikṣa factors does not make unconditioned liberation conditioned.
-BhāṣyaRule: Conditioned liberation receives the scriptural names liberation of consciousness and liberation through discriminative comprehension.
-BhāṣyaRule: An alternative identifies liberation with purity of consciousness after knowledge of reality removes desire, hatred, and delusion.
-KārikāRule: right knowledge is Bodhi as previously defined through exhaustion and non-arising.
+BhāṣyaRule: Conditioned liberation receives the scriptural names liberation of consciousness and liberation through Prajñā.
+BhāṣyaRule: An alternative identifies liberation with purity of consciousness after Knowing of reality removes desire, hatred, and delusion.
+KārikāRule: right Knowing is Bodhi as previously defined through exhaustion and non-arising.
 ProjectRule: Completed freedom coordinates accomplished abandonment, liberated actuality, and awakened knowledge without collapsing them.
 ```

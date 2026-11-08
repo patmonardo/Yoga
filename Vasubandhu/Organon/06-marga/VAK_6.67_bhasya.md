@@ -5,7 +5,7 @@
 > anutpādakṣayajñāne bodhis tad-anulomyataḥ |
 > saptatriṃśat tu tat-pakṣyā nāmato dravyato daśa || 6.67 ||
 
-> Awakening is the two knowledges: non-arising and exhaustion. In conformity with it, its factors are thirty-seven by name, but ten by constituent dharmas.
+> Awakening is the two Knowings: non-arising and exhaustion. In conformity with it, its factors are thirty-seven by name, but ten by constituent dharmas.
 
 The same Path is now designated from its conformity with Awakening.
 
@@ -56,7 +56,7 @@ This is the complete running unit [382|20–21]–[383|08] in `Vasubandhu/Source
 
 This same Path again receives the designation *bodhipakṣya*, Bodhi-aligned. There are thirty-seven Bodhi-aligned dharmas: four establishments of recollection, four right abandonments, four bases of spiritual power, five faculties, five powers, seven factors of Awakening, and the noble eightfold Path.
 
-Bodhi consists of Knowing of non-arising and Knowing of exhaustion. The commentary names three awakenings according to the difference of person: the disciple's awakening, the solitary Buddha's awakening, and unsurpassed complete awakening. Ignorance has been abandoned without remainder; through the two Knowings the practitioner understands the accomplished task as it actually is—done and not to be done again.
+Bodhi consists of Knowing of non-arising and Knowing of exhaustion. The commentary names three awakenings according to the difference of person: the disciple's awakening, the solitary Buddha's awakening, and unsurpassed complete awakening. Because ignorance has been abandoned without remainder, through the two Knowings the practitioner understands their own aim as it actually is—accomplished and not to be done again.
 
 Because they conform to Bodhi, the Bodhi-aligned dharmas arise as thirty-seven. That is their count by name. Counted as constituent dharmas, all the Bodhi-aligned factors are ten. The commentary then asks which ten these are; the answer follows in 6.68.
 

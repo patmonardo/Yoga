@@ -34,7 +34,7 @@ The first pāda begins with the Bhāṣya continuation required by 6.74: Dharma 
 | **sā** | feminine nominative singular pronoun | that liberation |
 | **punaḥ dvidhā** | adverb and indeclinable | again / in turn, twofold |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `mārgaḥ · ca · dravyataḥ · tu · dve · śraddhā · śīlam · ca · nirmalāḥ · na · uktā · vimuktiḥ · śaikṣa-aṅgam · baddhatvāt · sā · punaḥ · dvidhā`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `mārgaḥ · ca · dravyataḥ · tu · dve · śraddhā · śīlam · ca · nirmalāḥ · na · uktā · vimuktiḥ · śaikṣa-aṅgam · baddhatvāt · sā · punaḥ · dvidhā`.
 
 The apparent gender mismatch between **vimuktiḥ** and **śaikṣāṅgam** reflects a nominal predication: liberation is not stated [as] a trainee-factor.
 
@@ -47,7 +47,7 @@ Dharma in this confidence-analysis
     = three Truths + Path
 ```
 
-The contrast **dravyatas tu dve** opposes four object-based designations to two operative realities. **Nirmalāḥ** then predicates purity of the four understood avetyaprasādas.
+The contrast **dravyatas tu dve** opposes four designations to two operative realities. **Nirmalāḥ** then predicates purity of the four understood avetyaprasādas.
 
 In the second line, **baddhatvāt** gives the causal ground for **noktā**: liberation is not counted as a Śaikṣa factor because the trainee remains bound. **Sā punar dvidhā** introduces the division supplied by the Bhāṣya:
 
@@ -109,7 +109,7 @@ Saṃgha-confidence ┘
 noble ethical confidence → śīla
 ```
 
-The four remain differentiated by object. **Dravyataḥ** counts the capacities actualizing those relations; it does not invalidate the objectual distinctions.
+The four remain differentiated by designation: the first three have distinct confidence-bases, and the fourth is noble ethical discipline. **Dravyataḥ** counts their two constituent dharmas.
 
 **`Nirmala` — uncontaminated verified confidence**
 
@@ -142,7 +142,7 @@ samyagvimukti
     right liberation
 
 samyagjñāna
-    right knowledge of that liberation
+    right Knowing of that liberation
 ```
 
 The question is why these are not attributed to the trainee.
@@ -168,14 +168,14 @@ release from one portion of bondage
 
 This does not deny the trainee’s genuine abandonments or noble realization. It governs the technical predicate of completed liberation.
 
-**`Vimukti-jñāna` — why knowledge of liberation is also absent**
+**`Vimukti-jñāna` — why Knowing of liberation is also absent**
 
 ```text
 completed vimukti absent
     → completed vimukti-jñāna cannot arise
 ```
 
-The knowledge in question is not general doctrinal knowledge about liberation. It is immediate knowledge of one’s own completed release.
+The Knowing in question is immediate recognition of one’s own completed release, rather than general doctrinal understanding about liberation.
 
 **`Aśaikṣa` — one beyond training**
 
@@ -184,10 +184,10 @@ For one beyond training:
 ```text
 all afflictive bonds removed
     → vimukti properly stated
-    → immediate knowledge of liberation properly stated
+    → immediate Knowing of liberation properly stated
 ```
 
-This completes the movement first defined at 6.67 as knowledge that the task is exhausted and will not arise again.
+This completes the movement first defined at 6.67 through the Knowings that the task is accomplished and need not be done again.
 
 **`Saṃskṛta / asaṃskṛta-vimukti` — twofold liberation**
 
@@ -228,7 +228,7 @@ The Kośa analyzes the unconditioned abandonment and conditioned liberative actu
 The verified-confidence mapping is:
 
 ```text
-countBy(Object) = 4
+countBy(Designation) = 4
 countBy(OperativeDharma) = 2
 purityStatus(AllFour) = Anāsrava
 ```
@@ -253,7 +253,7 @@ The epistemic dependency is:
 ```text
 CompletedLiberation(x)
     is necessary for
-ImmediateKnowledgeOfCompletedLiberation(x)
+ImmediateKnowingOfCompletedLiberation(x)
 ```
 
 The category distinction is:
@@ -271,7 +271,7 @@ UnconditionedLiberation
 
 ## 9. Interpretive Note
 
-**Translation note.** The opening `mārgaś ca` closes 6.74's account of Dharma-confidence. The Bhāṣya counts four confidences by object but only `śraddhā` and `śīla` by constituent dharma. It explains `baddhatvāt` through the trainee's remaining afflictive bonds and identifies the two liberations as affliction-abandonment and the Aśaikṣa's `adhimokṣa`. The verse itself names the division; the prose supplies its two members.
+**Translation note.** The opening `mārgaś ca` closes 6.74's account of Dharma-confidence. The Bhāṣya counts four confidences by designation but only `śraddhā` and `śīla` by constituent dharma. It explains `baddhatvāt` through the trainee's remaining afflictive bonds and identifies the two liberations as affliction-abandonment and the Aśaikṣa's `adhimokṣa`. The verse itself names the division; the prose supplies its two members.
 
 This verse gives a precise distinction between movement’s intermediate achievements and its completed End. A Śaikṣa has crossed real boundaries and abandoned real afflictions, but the remaining bond prevents partial success from being named the whole.
 
@@ -301,7 +301,7 @@ Class: BeyondTrainingPerson
   SanskritLabel: aśaikṣa
 Class: RightLiberation
   SanskritLabel: samyagvimukti
-Class: RightKnowledge
+Class: RightKnowing
   SanskritLabel: samyagjñāna
 Class: ResidualAfflictiveBondage
 Class: PartialAbandonment

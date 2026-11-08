@@ -41,7 +41,7 @@ kleśaprahāṇamasaṃskṛtā vimuktiḥ /
 aśaikṣādhimokṣaḥ saṃskṛtā vimuktiḥ /
 ```
 
-This is the complete running unit [387|14–15]–[388|05] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The opening `mārgaś ca`, `dravyatas tu dve śraddhā śīlaṃ ca`, and `nirmalāḥ` of the study's composite verse are witnessed immediately before this unit in the 6.74 Bhāṣya passage. The source spellings and sandhi in this unit are retained; 6.76 begins at [388|06].
+This is the complete running unit [387|14–15]–[388|05] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The opening `mārgaś ca`, `dravyatas tu dve śraddhā śīlaṃ ca`, and `nirmalāḥ` of the study's composite verse are witnessed immediately before this unit in the 6.74 Bhāṣya passage. The working witness's `darśabhiraṅgaiḥ`, `binā`, and `vimuktacyā` are retained; the eight-versus-ten count is corroborated by [Xuanzang's Chinese Kośa, fascicle 25](https://deerpark.app/cbeta/T1558/25). The 6.76 unit begins at [388|06].
 
 ## 3. Continuous Translation
 

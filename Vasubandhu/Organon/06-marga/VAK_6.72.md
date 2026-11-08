@@ -30,7 +30,7 @@ The distribution begun in 6.71 continues through the higher dhyānas, the interm
 | **tābhyām** | instrumental dual | by those two, prīti and saṃkalpa |
 | **triṣu arūpiṣu** | neuter locative plural | in the first three formless attainments |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `dvitīye · anyatra · saṃkalpāt · dvayoḥ · tad-dvaya-varjitāḥ · dhyāna-antare · ca · śīla-aṅgaiḥ · tābhyām · ca · triṣu · arūpiṣu`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `dvitīye · anyatra · saṃkalpāt · dvayoḥ · tad-dvaya-varjitāḥ · dhyāna-antare · ca · śīla-aṅgaiḥ · tābhyām · ca · triṣu · arūpiṣu`.
 
 The understood subject throughout is the Bodhi-aligned factors. The following verse treats Bhavāgra separately, so **triṣv arūpiṣu** denotes the three lower formless attainments.
 
@@ -66,7 +66,7 @@ LOWER-FORMLESS[EXCLUDED=joy, right-resolve, right-speech, right-action, right-li
 
 ### Literal Translation
 
-> In the second [dhyāna], except for resolve; in the two [higher dhyānas] they are deprived of that pair, and likewise in the intermediate dhyāna. In the three formless [attainments] they are deprived of the ethical limbs and those two.
+> In the second [dhyāna], except for resolve; in the two [higher dhyānas] they are deprived of that pair, and likewise in the intermediate concentration. In the three formless [attainments] they are deprived of the ethical limbs and those two.
 
 ### Bhāṣya-informed study translation
 
@@ -74,7 +74,7 @@ LOWER-FORMLESS[EXCLUDED=joy, right-resolve, right-speech, right-action, right-li
 
 ## 6. Philosophical Translation
 
-The same universal Path does not become actual in an identical configuration within every contemplative field. A ground admits only those functions whose supporting conditions belong to its morphology. As discursive application, joy, and form-mediated ethical operation cease to be available, the Path is correspondingly reconfigured without ceasing to be Mārga.
+The same Path does not become actual in an identical configuration within every contemplative field. The Bhāṣya explains the second dhyāna's loss of right resolve by the absence of applied thought; its further counts show different configurations of joy and ethical Path factors across grounds. The Path is reconfigured without ceasing to be Mārga.
 
 Higher abstraction is therefore not simple completeness. Each contemplative determination both enables a mode of realization and excludes operations that require another field.
 
@@ -151,7 +151,7 @@ samyagājīva
     right livelihood
 ```
 
-The verse directly excludes them from the formless attainments. The standard doctrinal rationale is their dependence upon bodily and verbal form, which the formless contemplative grounds do not support; the immediate Bhāṣya unit gives the distribution without separately arguing that rationale.
+The verse directly excludes them from the three formless attainments. The immediate Bhāṣya unit gives the distribution without separately arguing the reason for this exclusion.
 
 **`Bhūmi` — ground as condition of Path operation**
 

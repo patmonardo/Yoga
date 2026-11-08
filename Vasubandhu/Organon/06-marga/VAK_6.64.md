@@ -31,7 +31,7 @@ The first half defines the final two persons named in 6.63. The second half turn
 | **śaikṣaḥ** | masculine nominative singular | a trainee, one who still has training to perform |
 | **abhidhīyate** | third-person singular present passive of *abhi-√dhā* | is designated, is called |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `nirodha-lābhī · ubhayataḥ-vimuktaḥ · prajñayā · itaraḥ · samāpatti-indriya-phalaiḥ · pūrṇaḥ · śaikṣaḥ · abhidhīyate`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `nirodha-lābhī · ubhayataḥ-vimuktaḥ · prajñayā · itaraḥ · samāpatti-indriya-phalaiḥ · pūrṇaḥ · śaikṣaḥ · abhidhīyate`.
 
 The Bhāṣya expands the compact instrumentals into axes of classification. It does not treat them as three possessions that every complete trainee must jointly have.
 
@@ -71,7 +71,7 @@ ATTAINMENT-COMPLETENESS → REQUIRES[fruit-completeness]
 
 ### Bhāṣya-informed study translation
 
-> One who has attained cessation is liberated in both respects; the other [arhat] through discriminative comprehension. A trainee is called complete with respect to attainment, faculty, or fruit.
+> One who has gained cessation-attainment is liberated in both respects; the other arhat is liberated through discriminative comprehension. A trainee is called complete by reference to attainment, faculty, and fruit.
 
 ## 6. Philosophical Translation
 

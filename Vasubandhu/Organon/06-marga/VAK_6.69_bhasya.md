@@ -5,7 +5,7 @@
 > vīryaṃ samyakprahāṇākhyam ṛddhipādāḥ samādhayaḥ |
 > pradhānagrahaṇaṃ sarve guṇāḥ prāyogikās tu te || 6.69 ||
 
-> Energy is called the right abandonments, and the bases of spiritual power are collectedness. The names take the predominant factor, but all the qualities of application are present in them.
+> Energy is called the right abandonments, and the bases of spiritual power are collectedness. The names take the predominant factor; these groups are all qualities of application.
 
 This qualification governs the constituent-dharma identifications begun in 6.68.
 
@@ -74,15 +74,17 @@ upasthitasmṛteravikṣepāccittaṃ samādhīyate /
 samāhitacitto yathābhūtaṃ prajānātīti /
 ```
 
-This is the complete running unit [383|13]–[384|13–14] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. Its first kārikā line occurs within the prose of 6.68, before the 6.69 marker at [384|03]; the overlap preserves the actual order of the witness. The next question at [384|15] begins the distribution of factor-groups by stage in 6.70. Source spellings including `gunāḥ` and `guṇāḥḥ` are retained.
+This is the complete running unit [383|13]–[384|13–14] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. Its first kārikā line occurs within the prose of 6.68, before the 6.69 marker at [384|03]; the overlap preserves the actual order of the witness. The next question at [384|15] begins the distribution of factor-groups by stage in 6.70. Source spellings including `svabhādhā`, `samyagṛṣṭi`, `gunāḥ`, `guṇāḥḥ`, and `cchandacittayoirādhikyāt` are retained as working-witness uncertainties.
 
 ## 3. Continuous Translation
 
-Energy is what bears the name right abandonment, and the bases of spiritual power are samādhis. The prose first completes the ten-dharma mapping begun in 6.68. The establishments of recollection, the investigation-of-dharmas awakening-factor, and right view count as Prajñā; the right abandonments, the energy awakening-factor, and right effort as energy; the bases of power, the collectedness awakening-factor, and right collectedness as samādhi; the recollection awakening-factor and right recollection as recollection. The remaining joy, pliancy, equanimity, right resolve, and ethical Path-factors complete the count. The Vaibhāṣikas count eleven when bodily and verbal ethical actions are distinct.
+Energy is called the right abandonments, and the bases of spiritual power are samādhis. The establishments of recollection, right abandonments, and bases of power respectively have Prajñā, energy, and samādhi as their natures. The faculties and powers are taken according to their names as confidence, energy, recollection, samādhi, and Prajñā. The establishments of recollection, the investigation-of-dharmas awakening-factor, and right view are Prajñā; the right abandonments, the energy awakening-factor, and right effort are energy; the bases of power, the collectedness awakening-factor, and right collectedness are samādhi; the recollection awakening-factor and right recollection are recollection.
 
-What, then, does it mean to call these practice-groups the natures of Prajñā, energy, and samādhi? The predominant factor is being taken. The establishments of recollection, right abandonments, and bases of power all contain qualities belonging to application. Energy is called right abandonment because by it body, speech, and mind are correctly directed. Samādhi is called a base of power because accomplishment of all qualities rests upon it.
+What remains? The awakening-factors of joy, pliancy, and equanimity, right resolve, and the ethical Path-factors. These five dharmas complete the count of ten Bodhi-aligned constituents. For the Vaibhāṣikas there are eleven, since bodily and verbal actions do not merge and the ethical Path-factors are two dharmas. As for the statement that the establishments of recollection and the other groups have the respective natures of Prajñā, energy, and samādhi, the following must be understood:
 
-Some say that samādhi itself is spiritual power and that aspiration and other factors are its bases. On that account the Bodhi-aligned dharmas would number thirteen by constituent dharma, because aspiration and consciousness would be added; the commentary also says this conflicts with a sūtra. The cited sūtra promises to show both spiritual power and its bases, and describes power through feats such as becoming many from one. The quotation keeps power and its bases distinct.
+The predominant factor is being taken. The establishments of recollection, right abandonments, and bases of power are all qualities of application. Why is energy called right abandonment? By it body, speech, and mind are correctly directed. Why is samādhi called a base of power? Because the accomplishment of all qualities rests upon it.
+
+Some say that samādhi itself is spiritual power and that aspiration and the other factors are its bases. For them the Bodhi-aligned factors would number thirteen by constituent dharma, through the addition of aspiration and consciousness; this also conflicts with a sūtra. The cited sūtra says, “Monks, I shall show you spiritual power and the bases of spiritual power. What is spiritual power? Here a monk experiences manifold kinds of spiritual power: having been one, he becomes many,” and so on.
 
 Why are the same five factors called both faculties and powers? They differ as mild and intensified: one grade can be overcome, the other cannot. Why do the faculties occur in their stated order? A person confident in the fruit begins exertion for it. With exertion begun, recollection is established; with recollection established, consciousness becomes collected instead of distracted; with consciousness collected, one understands things as they are.
 
@@ -92,7 +94,7 @@ The unit completes the tenfold mapping, then qualifies the identifications by pr
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Pradhānagrahaṇa` means taking the predominant factor, so “the right abandonments are energy” and “the bases of power are samādhi” name their governing dharmas. `Sarve prāyogikā guṇāḥ` preserves the other applied qualities in those practices. The thirteenfold proposal is attributed only to an unnamed interlocutor; the sūtra's separation of power and bases is part of the commentary's objection. `Citta` in the faculty sequence is **consciousness**, not Cognition; `prajānāti` is rendered “understands,” and should not be confused with technical `vijñāna`.
+**Translation decisions.** `Pradhānagrahaṇa` means taking the predominant factor, so “the right abandonments are energy” and “the bases of power are samādhi” name their governing dharmas. `Sarve prāyogikā guṇāḥ` classifies the three named groups as qualities of application; the claim that every applied quality occurs in each group would go beyond this sentence. The thirteenfold proposal is attributed only to an unnamed interlocutor. The text names aspiration and consciousness as additions without spelling out the arithmetic; the immediately preceding Vaibhāṣika elevenfold count provides a possible baseline. `Citta` in the faculty sequence is **consciousness**, not Cognition; `prajānāti` is rendered “understands,” and should not be confused with technical `vijñāna`.
 
 **Organon determination.** Predominance makes a practice intelligible as a coordinated whole. The same five dharmas can function as faculties or powers at different degrees of strength, and the ordered series shows how one Path-capacity conditions the next. This is a project synthesis of the commentary's compositional, degree, and sequence claims.
 

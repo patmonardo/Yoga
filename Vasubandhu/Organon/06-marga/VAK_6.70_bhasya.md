@@ -5,7 +5,7 @@
 > ādikarmika-nirvedhabhāgīyeṣu prabhāvitāḥ |
 > bhāvane darśane caiva sapta vargā yathākramam || 6.70 ||
 
-> The seven groups are predominant, in order, among beginners, among the factors conducive to penetration, in cultivation, and in seeing.
+> The seven groups are especially developed, in order, among beginners, in the stages conducive to penetration, in cultivation, and in seeing.
 
 The anchor follows the Bhāṣya's first distribution; its alternate final allocation is preserved below.
 
@@ -62,7 +62,7 @@ tasmādubhayorāryāṣṭāṅgo mārga eṣṭavyaḥ /
 siddho 'nukramaḥ /
 ```
 
-This is the complete running unit [384|15]–[385|11] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The question at [385|12] begins the next unit on contaminated and uncontaminated Bodhi-aligned factors. The witness's compressed readings and the two scriptural citations in the alternate account are retained without ellipsis.
+This is the complete running unit [384|15]–[385|11] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The question at [385|12] begins the next unit on contaminated and uncontaminated Bodhi-aligned factors. The two scriptural citations in the alternate account are retained in the Sanskrit. The first citation has the damaged `bahuvidhaviṣapavyāsekavisāriṇīnāṃ`, and the explanation of Seeing has `prahamato`; their exact wording awaits collation.
 
 ## 3. Continuous Translation
 
@@ -70,9 +70,9 @@ The commentary asks at which stage each Bodhi-aligned group is especially develo
 
 In the Path of cultivation, the awakening factors predominate because Bodhi is near. In Seeing, the Path factors predominate because the Path's going is especially swift. The seven awakening factors are stated before the eight Path factors to keep the numerical order of the groups. The Vaibhāṣikas add that investigation of dharmas is both Bodhi and a Bodhi-factor, while right view is both Path and Path-factor.
 
-Other interpreters describe the succession of Bodhi-aligned groups without altering their order. They cite a sūtra in which the establishments of recollection restrain varied, wandering thoughts and counter desire-based imaginings. On that basis, increased energy performs the four tasks of right abandonment; purification of samādhi yields the bases of power; relying on samādhi, confidence and the other factors become faculties governing supramundane dharmas; with their opposing factors conquered, those same faculties become powers. In this account awakening factors belong to Seeing because the truth of dharmas is first observed there. The Path factors belong to both Seeing and cultivation.
+Other interpreters explain the succession of Bodhi-aligned groups without breaking their order. They cite a sūtra: “At the beginning, to restrain thoughts dispersed in many ways [the witness is damaged here], the establishments of recollection are bound to Consciousness, precisely to dispel desire-based sensual intentions.” By their strength, energy increases, and one rightly applies Consciousness to completing the fourfold task: these are the right abandonments. From purification of samādhi come the bases of spiritual power. Relying on samādhi, confidence and the other factors become faculties governing supramundane dharmas. Those same faculties, having conquered the manifestation of their opponents, become powers. The awakening factors belong to Seeing because the truth of dharmas is observed there first; Path factors belong to both Seeing and cultivation.
 
-The alternative cites scripture on the noble eightfold Path bringing the establishments of recollection and the awakening factors to fullness through cultivation. It also cites a passage connecting speech that accords with reality to the Four Noble Truths and proceeding along the way to the noble eightfold Path. On these grounds it concludes that the noble eightfold Path is present in both stages. Its developmental order is thereby established.
+For this it cites: “When the noble eightfold Path reaches fulfillment through cultivation, the four establishments of recollection reach fulfillment through cultivation, up to the seven awakening factors.” Another citation says: “Speaking and making known as it really is” designates the Four Noble Truths; “proceeding by the Path as it has come” designates the noble eightfold Path. Therefore the noble eightfold Path must be accepted in both stages. The sequence is established.
 
 ## 4. Movement of the Commentary
 
@@ -80,7 +80,7 @@ The first account allocates the seven groups to seven positions, from the beginn
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Prabhāvitāḥ` means specially developed or made predominant at a stage. `Nirvedhabhāgīyeṣu` includes four positions—Heat, Summits, Acceptance, and Highest Mundane Dharmas—between the beginner and the two noble Path stages. The study translation follows the first distribution. The `apare` alternative is an attributed voice, not a silent correction of the first allocation. The two scriptural citations support that alternate voice; their compressed wording is rendered by argumentative force rather than overconfident line-by-line reconstruction.
+**Translation decisions.** `Prabhāvitāḥ` means specially developed or made predominant at a stage. The opening coordinated locative covers the beginner and four penetration-conducive positions—Heat, Summits, Acceptance, and Highest Mundane Dharmas—before the two noble Path stages. The study translation follows the first distribution. The `apare` alternative is an attributed voice, not a silent correction of the first allocation. Its two scriptural citations are translated as complete local excerpts; the damaged first citation and compressed `yathāgatena` remain provisional in detail. `Citta` in the alternative's application sequence is **Consciousness**.
 
 **Organon determination.** The same Path groups can occur across stages while one group gives a particular stage its characteristic operation. The commentary's divergent final allocations caution against treating the first table as an exclusive chronology. The project reading of shifting predominance rests on `prabhāvitāḥ` and on the explicit contrast of the two distributions.
 

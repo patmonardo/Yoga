@@ -20,23 +20,22 @@ The seven Bodhi-aligned groups are not assigned as mutually exclusive possession
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| **ādi-karmike** | masculine locative singular | in the beginner or beginning practitioner |
-| **nirvedha-bhāgīyeṣu** | masculine locative plural | in the four wholesome roots conducive to penetration |
+| **ādikarmika-nirvedhabhāgīyeṣu** | locative plural coordinated compound | among beginners and in the stages conducive to penetration |
 | **prabhāvitāḥ** | masculine nominative plural past passive participle | especially developed, made predominant |
-| **bhāvane** | masculine locative singular | in the Path of Cultivation |
-| **darśane** | masculine locative singular | in the Path of Seeing |
+| **bhāvane** | feminine locative singular | in the Path of Cultivation |
+| **darśane** | neuter locative singular | in the Path of Seeing |
 | **ca eva** | conjunction with emphasis | and also, indeed |
 | **sapta** | numeral | seven |
 | **vargāḥ** | masculine nominative plural | groups or classes |
 | **yathā-kramam** | indeclinable | in corresponding order, according to sequence |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `ādi-karmike · nirvedha-bhāgīyeṣu · prabhāvitāḥ · bhāvane · darśane · ca · eva · sapta · vargāḥ · yathā-kramam`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `ādikarmika-nirvedhabhāgīyeṣu · prabhāvitāḥ · bhāvane · darśane · ca · eva · sapta · vargāḥ · yathā-kramam`.
 
-The plural **nirvedhabhāgīyeṣu** supplies four internal positions—Heat, Summits, Acceptance, and Highest Mundane Dharmas—so the four locative expressions yield seven stages altogether.
+The coordinated locative compound covers the beginner and the four internal penetration-conducive positions—Heat, Summits, Acceptance, and Highest Mundane Dharmas. With Cultivation and Seeing, the three locative expressions distribute seven groups across seven positions.
 
 ## 4. Grammar
 
-The subject is **sapta vargāḥ**; **prabhāvitāḥ** is its predicate. The locatives enumerate the developmental fields in which the groups become predominant.
+The subject is **sapta vargāḥ**; **prabhāvitāḥ** is its predicate. The coordinated locative compound and the two following locatives enumerate the developmental fields in which the groups become predominant.
 
 **Yathākramam** establishes a distributive correspondence:
 
@@ -52,7 +51,7 @@ beginner
     + Seeing
 ```
 
-The grammar expresses ordered predominance, not exclusive presence. Other Bodhi-aligned qualities remain operative at every stage.
+The grammar expresses ordered special development without asserting exclusive presence. It does not itself specify which other groups occur at every stage.
 
 **Future Feature Grammar sketch (not executable):**
 
@@ -72,11 +71,11 @@ PREDOMINANT-AT ≠ PRESENT-ONLY-AT
 
 ### Literal Translation
 
-> The seven groups are especially developed, in corresponding sequence, in the beginner, in the factors conducive to penetration, in Cultivation, and in Seeing.
+> The seven groups are especially developed, in corresponding sequence, among beginners and in the stages conducive to penetration, in Cultivation, and in Seeing.
 
 ### Bhāṣya-informed study translation
 
-> The seven groups are predominant, in order, among beginners, among the factors conducive to penetration, in cultivation, and in seeing.
+> The seven groups are especially developed, in order, among beginners, in the stages conducive to penetration, in cultivation, and in seeing.
 
 ## 6. Philosophical Translation
 

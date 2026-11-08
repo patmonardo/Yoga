@@ -14,7 +14,7 @@ vimucyate jāyamānam aśaikṣaṃ cittam āvṛteḥ |
 nirudhyamāno mārgas tu prajahāti tad-āvṛtim || 6.77 ||
 ```
 
-The verse distinguishes the presently operative final Path-moment from the Aśaikṣa consciousness arising immediately after it. Abandonment and liberated actuality are contiguous, causally ordered, and non-identical.
+The verse distinguishes the presently operative final Path-moment from the Consciousness beyond training arising immediately after it. Abandonment and liberated actuality are contiguous, causally ordered, and non-identical.
 
 ## 3. Lexical Analysis
 
@@ -22,7 +22,7 @@ The verse distinguishes the presently operative final Path-moment from the Aśai
 |---|---|---|
 | vimucyate | third-person singular present passive of *vi-√muc* | is released or freed |
 | jāyamānam | neuter nominative singular present middle participle of *√jan* | while arising |
-| aśaikṣam cittam | neuter nominative singular | consciousness beyond training |
+| aśaikṣam cittam | neuter nominative singular | Consciousness beyond training |
 | āvṛteḥ | feminine ablative singular | from the obstruction |
 | nirudhyamānaḥ | masculine nominative singular present passive participle of *ni-√rudh* | while ceasing; glossed by the Bhāṣya as “while present” |
 | mārgaḥ | masculine nominative singular | the final Path-moment, vajropama-samādhi |
@@ -31,6 +31,8 @@ The verse distinguishes the presently operative final Path-moment from the Aśai
 | tad-āvṛtim | feminine accusative singular | that obstruction |
 
 The repeated obstruction is not affliction taken vaguely. The Bhāṣya identifies it precisely as **kleśa-prāpti**, acquisition or possession of the afflictions, insofar as it obstructs the arising of the Aśaikṣa consciousness.
+
+The source witness reads `jāyamānasaśaikṣaṃ` under the damaged label `[388|21-438|821]`; the divided verse text above follows the kārikā’s grammatical resolution. The Bhāṣya also preserves `visucyate`, `vivandhatvāt`, and `samādho` in its transmitted prose.
 
 ## 4. Grammar
 
@@ -58,7 +60,7 @@ The Aśaikṣa consciousness, while arising, is released from the obstruction; b
 
 ### Bhāṣya-informed study translation
 
-> The consciousness beyond training, as it arises, is freed from the obstruction; but the Path, while present at its cessation, abandons that obstruction.
+> The Consciousness beyond training, as it arises, is freed from the obstruction; the Path, while ceasing—that is, while present—abandons that obstruction.
 
 ## 6. Philosophical Translation
 
@@ -167,7 +169,7 @@ For the Organon reconstruction, the Path is the copula between obstruction and l
 Class: FinalPathMoment
 Class: DiamondLikeSamadhi
   SanskritLabel: vajropama-samādhi
-Class: BeyondTrainingMind
+Class: BeyondTrainingConsciousness
   SanskritLabel: aśaikṣa-citta
 Class: AfflictionAcquisition
   SanskritLabel: kleśa-prāpti
@@ -187,11 +189,11 @@ ObjectProperty: arisesFreeFrom
 ObjectProperty: immediatelyPrecedes
 ObjectProperty: occursWhilePresent
 
-AfflictionAcquisition obstructsArising BeyondTrainingMind
+AfflictionAcquisition obstructsArising BeyondTrainingConsciousness
 DiamondLikeSamadhi abandons AfflictionAcquisition
-DiamondLikeSamadhi immediatelyPrecedes BeyondTrainingMind
+DiamondLikeSamadhi immediatelyPrecedes BeyondTrainingConsciousness
 AbandonmentOperation removes ArisingObstruction
-BeyondTrainingMind arisesFreeFrom ArisingObstruction
+BeyondTrainingConsciousness arisesFreeFrom ArisingObstruction
 DiamondLikeSamadhi occursWhilePresent AbandonmentOperation
 
 KārikāRule: The Path abandons the obstruction, whereas the arising Aśaikṣa consciousness is released from it.

@@ -5,7 +5,7 @@
 > aśaikṣaparipūrṇatvaṃ dvābhyāṃ mārgaḥ samāsataḥ |
 > viśeṣamuktyānantaryaprayogākhyaś caturvidhaḥ || 6.65 ||
 
-> One beyond training is complete in two respects. In summary, the Path is fourfold, called Further Distinction, Release, Immediacy, and Application.
+> One beyond training is complete in two respects, faculty and attainment. In summary, the Path is fourfold, called Further Distinction, Release, Immediacy, and Application.
 
 The opening finishes the account of completeness begun in 6.64; the second clause asks for the Path's summary classification.
 
@@ -49,7 +49,7 @@ vimuktiviśeṣamārga yoḥ kathaṃ mārgatvam /
 tajjātīyādadhimātrataratvāduttarottaraprāpaṇāt nirūpadhiśeṣapraveśādvā /
 ```
 
-This is the complete running unit [381|14]–[382|06] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The next sentence at [382|07] introduces the four modes of *pratipad* in 6.66. The witness's compact `lokokttara` in its retrospective list is retained as transmitted.
+This is the complete running unit [381|14]–[382|06] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The next sentence at [382|07] introduces the four modes of *pratipad* in 6.66. The witness's `vahava` and compact `lokokttara` in its retrospective list are retained as transmitted; the translation follows their contextual sense without changing the Sanskrit.
 
 ## 3. Continuous Translation
 
@@ -76,7 +76,7 @@ The first movement closes the classification of complete persons: fruit is alrea
 | Application, `prayoga` | Immediately precedes Immediacy | Preparation |
 | Immediacy, `ānantarya` | Abandons obstruction | Direct counteraction |
 | Release, `vimukti` | First arises free of obstruction | First released actuality |
-| Further Distinction, `viśeṣa` | Other Path beyond the three | Continued Path development |
+| Further Distinction, `viśeṣa` | Path other than the three | Further development is one supported application |
 
 ## 7. Review Status
 

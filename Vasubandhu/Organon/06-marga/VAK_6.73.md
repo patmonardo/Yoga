@@ -30,7 +30,7 @@ The first half completes the distribution of the thirty-seven factors by ground.
 | **dharma** | compound member | Dharma as object of verified confidence |
 | **avetya-prasādayoḥ** | masculine genitive or locative dual | of or in the two verified confidences; syntactically compressed acquisition-context |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `kāma-dhātau · bhava-agre · ca · bodhi-aṅga-mārga-aṅga-varjitāḥ · tri-satya-darśane · śīla-dharma-avetya-prasādayoḥ`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `kāma-dhātau · bhava-agre · ca · bodhi-aṅga-mārga-aṅga-varjitāḥ · tri-satya-darśane · śīla-dharma-avetya-prasādayoḥ`.
 
 The second half is elliptical. The Bhāṣya supplies “acquisition” (**pratilambha**) and explains the dual as confidence concerning Dharma and concerning noble ethical discipline.
 
@@ -73,7 +73,7 @@ FIRST-THREE-TRUTHS[SEEN=true, ACQUIRED=DHARMA-CONFIDENCE, NOBLE-ETHICAL-CONFIDEN
 
 ## 6. Philosophical Translation
 
-The highest conditioned ground and the ordinary desire realm meet at one limit: neither is itself a ground of uncontaminated Path-operation. Extremes of sensuous involvement and conditioned formless refinement therefore lack the specifically noble awakening- and Path-functions, although other Bodhi-aligned cultivation remains possible.
+The summit of existence and the desire realm meet at one limit in this classification: neither is itself a ground of uncontaminated Path-operation. Both therefore lack the specifically noble awakening- and Path-functions, while twenty-two other Bodhi-aligned functions remain in the count.
 
 Direct Seeing then transforms confidence. Prasāda is no longer anticipatory trust directed toward an unseen result; it becomes settled clarity grounded in comprehension of Truth. The Path generates its own verified orientation through realization.
 
@@ -98,7 +98,7 @@ no anāsrava-mārga assigned to the ground
     → no Mārgāṅga group
 ```
 
-The five remaining groups may be contaminated or uncontaminated in principle, as 6.71 established; here the ground itself lacks the uncontaminated Path-functions technically designated by the final two groups.
+The other five groups are twofold across the system, as 6.71 established. In these two named grounds, however, the Bhāṣya expressly says the uncontaminated Path is absent; the remaining twenty-two should not be read as a local uncontaminated Path.
 
 **`Kāmadhātu / bhūmi` — ground assignment and the practitioner's realm**
 
@@ -193,7 +193,7 @@ produces verified confidence in:
 
 ```text
 Dharma
-    the teaching and realized truth now directly confirmed
+    the Truths directly realized in this passage
 
 āryakānta-śīla
     ethical disciplines dear to the noble ones

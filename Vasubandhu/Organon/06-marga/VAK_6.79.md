@@ -14,7 +14,7 @@ nirvidyate duḥkha-hetu-kṣānti-jñānair virajyate |
 sarvair jahāti yair evaṃ catuṣkoṭika-saṃbhavaḥ || 6.79 ||
 ```
 
-The final verse distinguishes disenchantment from dispassion. Their relation cannot be inferred from truth-cognition alone; it depends jointly on the cognition’s object and whether that cognition actually abandons an affliction.
+The final verse distinguishes disenchantment from dispassion. Their relation depends on the Thing taken as Support and whether the acceptance or Knowing actually abandons an affliction.
 
 ## 3. Lexical Analysis
 
@@ -22,15 +22,15 @@ The final verse distinguishes disenchantment from dispassion. Their relation can
 |---|---|---|
 | nirvidyate | third-person singular present middle of *nir-√vid* | becomes disenchanted, turns away through comprehension |
 | duḥkha-hetu | compound | suffering and its cause, explained as duḥkha and samudaya |
-| kṣānti-jñānaiḥ | neuter instrumental plural compound | through acceptances and knowledges |
+| kṣānti-jñānaiḥ | neuter instrumental plural compound | through acceptances and Knowings |
 | virajyate | third-person singular present middle of *vi-√rañj* | becomes dispassionate, freed from attachment |
-| sarvaiḥ | instrumental plural | through any of the acceptances and knowledges of all Four Truths |
+| sarvaiḥ | instrumental plural | through any of the acceptances and Knowings of all Four Truths |
 | jahāti | third-person singular present active of *√hā* | abandons |
 | yaiḥ | relative instrumental plural | through those by which [one abandons afflictions] |
 | evam | indeclinable | thus, in this manner |
 | catuṣkoṭika-saṃbhavaḥ | masculine nominative singular compound | possibility of a four-cornered analysis |
 
-The Kārikā’s **sarvaiḥ** is restricted by **yaiḥ [kleśān] jahāti**. The Bhāṣya makes explicit that not every cognition of every Truth automatically produces virāga.
+The Kārikā’s **sarvaiḥ** ranges over the four Truths but is restricted by **yaiḥ [kleśān] jahāti**. The Bhāṣya makes explicit that not every cognition of every Truth automatically produces virāga.
 
 ## 4. Grammar
 
@@ -61,11 +61,11 @@ The verse does not use *nirveda*, *virāga*, and *prahāṇa* as synonyms. Its v
 
 ### Literal Translation
 
-One becomes disenchanted through the acceptances and knowledges concerning suffering and its cause; one becomes dispassionate through all those by which one abandons. Thus a fourfold alternative is possible.
+> One becomes disenchanted through acceptances and Knowings concerning suffering and its cause; one becomes dispassionate through all those by which one abandons. Thus a fourfold possibility arises.
 
 ### Bhāṣya-informed study translation
 
-> One becomes disenchanted through acceptances and knowledges concerning suffering and its cause; one becomes dispassionate through all [four Truths], but only through those by which one abandons. Thus a fourfold possibility arises.
+> One becomes disenchanted through acceptances and Knowings concerning suffering and its cause; one becomes dispassionate through those acceptances and Knowings concerning all four Truths by which one abandons afflictions. Thus a fourfold possibility arises.
 
 ## 6. Philosophical Translation
 
@@ -77,7 +77,7 @@ The chapter therefore ends with exact discrimination rather than an undifferenti
 
 **`Nirveda` — disenchantment**
 
-The Bhāṣya assigns nirveda to the acceptances and knowledges of suffering and origin (*duḥkha-kṣānti/jñāna*, *samudaya-kṣānti/jñāna*), for an objectual reason: duḥkha and samudaya are *nirveda-vastu*, objects or bases appropriate to disenchantment. It is not irrational disgust but the discriminatively grounded reversal produced by comprehending suffering and the causal ground of its arising.
+The Bhāṣya assigns nirveda to the acceptances and Knowings of suffering and origin (*duḥkha-kṣānti/jñāna*, *samudaya-kṣānti/jñāna*), because they take a *nirveda-vastu*, a Thing of disenchantment, as Support. It is not irrational disgust but the discriminatively grounded reversal produced by comprehending suffering and the causal ground of its arising.
 
 **`Duḥkha-hetu` — cause of suffering**
 
@@ -87,9 +87,9 @@ The Kārikā's *duḥkha-hetu* is unpacked by the Bhāṣya as duḥkha, the Tru
 
 The Bhāṣya gives virāga a wider possible object-range but a stricter efficacy-condition: cognition of any of the Four Truths together with actual abandonment of kleśa. Seeing a Truth does not by itself make one dispassionate; the cognition must perform the Path-function of abandonment in that practitioner at that moment.
 
-**`Prāmodya-vastu` — object of gladness**
+**`Prāmodya-vastu` — Thing of gladness**
 
-The acceptances and knowledges concerning cessation and Path take an object of gladness or rejoicing: nirodha as release realized as possible and actual, mārga as the effective course to it. These are not objects of disenchantment, but they can produce virāga when they abandon kleśas.
+The acceptances and Knowings concerning cessation and Path take a Thing of gladness or rejoicing as Support: nirodha as release realized as possible and actual, mārga as the effective course to it. These are not objects of disenchantment, but they can produce virāga when they abandon kleśas.
 
 **`Prahāṇa` — abandonment as efficacy**
 
@@ -105,10 +105,10 @@ Virāga in this passage is indexed to prahāṇa; nirveda is indexed to the obje
 
 **`Catuṣkoṭi` — fourfold crossing**
 
-The two variables are:
+The two variables are the kind of Thing taken as Support and whether afflictions are abandoned:
 
 ```text
-Object supports nirveda?
+Support is a Thing of disenchantment?
     yes: duḥkha / samudaya
     no: nirodha / mārga
 
@@ -119,7 +119,7 @@ Cognition abandons kleśa?
 
 Their crossing yields:
 
-| Corner | Object | Abandons kleśa? | Result |
+| Corner | Thing taken as Support | Abandons kleśa? | Result |
 |---|---|---:|---|
 | Nirveda only | duḥkha or samudaya | no | disenchantment without dispassion |
 | Virāga only | nirodha or mārga | yes | dispassion without disenchantment |
@@ -130,7 +130,7 @@ This is a logical matrix of Path-functions, not a doctrine that every propositio
 
 **`Mārga-bheda` — same cognition-type, different efficacy**
 
-Path-position matters. The Bhāṣya illustrates cognition without new abandonment: one already dispassionate who sees the Truths without another kleśa being abandoned, and knowledges included in prayoga-, vimukti- or viśeṣa-mārga whose present function is not abandonment. A cognition's propositional object does not fix its entire practical operation.
+Path-position matters. The Bhāṣya illustrates non-abandonment with a person already dispassionate who sees the Truths through *dharmajñānakṣānti*, and with Knowings included in *prayoga-*, *vimukti-* or *viśeṣa-mārga*. A cognition's propositional object does not fix its entire practical operation.
 
 **`Catur-vidha mārga` — the fourfold Mārga**
 
@@ -141,8 +141,8 @@ Reconnecting with 6.65: *prayoga* prepares abandonment, *ānantarya* performs it
 Let:
 
 ```text
-N(x) = x takes duḥkha or samudaya
-       as nirveda-object
+N(x) = x takes a Thing of disenchantment
+       as Support (duḥkha or samudaya)
 
 V(x) = x actually abandons a kleśa
        and therefore produces virāga
@@ -184,7 +184,7 @@ The catuṣkoṭi is possible because object and efficacy are irreducible coordi
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya reads the cause of suffering as origination and limits “all” by “through which one abandons afflictions.” It supplies the four possibilities—disenchantment only, dispassion only, both, or neither—as the explanation of the verse’s fourfold possibility.
+**Translation note.** The Bhāṣya reads the cause of suffering as origination and limits “all” by “through which one abandons afflictions.” It supplies four possibilities: disenchantment only, dispassion only, both, and neither. Its first case has anomalous `prajahat` at [390|09]; the paired Bhāṣya study preserves and assesses that reading against Xuanzang’s parallel.
 
 The Mārga chapter closes by identifying the precise unit of Practical Meaning:
 
@@ -202,7 +202,7 @@ where it operates
     determinate Path-position
 ```
 
-No isolated proposition about a Truth determines the whole. The same content can function differently depending on whether it is acceptance, Knowledge, Application, Immediacy, Release, or Further Distinction. Meaning is the cognition’s systematic operation.
+No isolated proposition about a Truth determines the whole. The same content can function differently depending on whether it is acceptance, Knowing, Application, Immediacy, Release, or Further Distinction. Meaning is the cognition’s systematic operation.
 
 This is the final form of the Path as Ideal Copula: cognition mediates object and transformation only when its position gives it efficacy. Seeing suffering can turn away without yet liberating; seeing cessation can liberate without producing disenchantment; sometimes cognition does both, and sometimes neither.
 
@@ -212,9 +212,9 @@ That copular formulation is the Organon reconstruction. Vasubandhu’s own concl
 
 ```text
 Class: TruthCognition
-Class: acceptance
+Class: Acceptance
   SanskritLabel: kṣānti
-Class: Knowledge
+Class: Knowing
   SanskritLabel: jñāna
 Class: Disenchantment
   SanskritLabel: nirveda
@@ -246,7 +246,7 @@ PathTruth supportsOrientation Gladness
 TruthCognition hasTruthObject Truth
 TruthCognition occursAtPathPosition PathPosition
 
-KārikāRule: Disenchantment arises through acceptances and knowledges concerning suffering and origination.
+KārikāRule: Disenchantment arises through acceptances and Knowings concerning suffering and origination.
 KārikāRule: Dispassion arises through cognitions of any Truth insofar as they actually abandon afflictions.
 BhāṣyaRule: Cessation and Path are objects of gladness and therefore do not themselves produce nirveda.
 BhāṣyaRule: Object and abandoning efficacy yield nirveda only, virāga only, both, or neither.

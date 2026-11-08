@@ -23,19 +23,20 @@ VAK 6.67 announced that the thirty-seven Bodhi-aligned functions reduce to ten u
 | **śraddhā** | feminine nominative singular | confidence or lucid trust |
 | **vīryam** | neuter nominative singular | energy, exertion |
 | **smṛtiḥ** | feminine nominative singular | recollection, mindful retention |
-| **prajñā** | feminine nominative singular | discriminative comprehension |
+| **prajñā** | feminine nominative singular | Prajñā, discriminative comprehension |
 | **samādhiḥ** | masculine nominative singular | collectedness |
-| **prīti** | feminine compound member | joy or rapture |
-| **upekṣaṇe** | feminine nominative dual | equanimous observation; dual by coordination with *prīti* |
+| **prītyupekṣaṇe** | nominative dual compound of *prīti* and *upekṣaṇa* | joy and equanimity, two constituents |
 | **praśrabdhi** | feminine compound member | calm pliancy |
 | **śīla** | neuter compound member | ethical discipline |
 | **saṃkalpāḥ** | masculine nominative plural, closing a coordinated list | resolves or orientations |
 | **hi** | explanatory particle | for, indeed |
 | **smṛtyupasthitiḥ** | feminine nominative singular used collectively | establishment of recollection; the group of four |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `śraddhā · vīryam · smṛtiḥ · prajñā · samādhiḥ · prīti-upekṣaṇe · praśrabdhi-śīla-saṃkalpāḥ · prajñā · hi · smṛti-upasthitiḥ`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `śraddhā · vīryam · smṛtiḥ · prajñā · samādhiḥ · prīti-upekṣaṇe · praśrabdhi-śīla-saṃkalpāḥ · prajñā · hi · smṛti-upasthitiḥ`.
 
 The mixed genders and numbers are coordinated as a ten-member nominal list. The second sentence explains the first reduction rather than adding an eleventh item.
+
+The witness has **prītyupekṣaṇe** as a dual compound; its second member is *upekṣaṇa*, while the constituent is subsequently named *upekṣā* in the Bhāṣya. The count is still joy plus equanimity.
 
 ## 4. Grammar
 
@@ -45,7 +46,7 @@ The first three pādas form an asyndetic enumeration whose understood predicate 
 1 śraddhā       6 prīti
 2 vīrya         7 upekṣā
 3 smṛti         8 praśrabdhi
-4 discriminative comprehension        9 śīla
+4 prajñā        9 śīla
 5 samādhi      10 saṃkalpa
 ```
 
@@ -69,11 +70,11 @@ ESTABLISHMENT-OF-RECOLLECTION[PRINCIPAL-DHARMA=discriminative comprehension]
 
 ### Literal Translation
 
-> Confidence, energy, recollection, discriminative comprehension, collectedness, joy, equanimity, pliancy, ethical discipline, and resolve are [the ten]. For the establishment of recollection is discriminative comprehension.
+> Confidence, energy, recollection, Prajñā, collectedness, joy, equanimity, pliancy, ethical discipline, and resolve are [the ten]. For the establishment of recollection is Prajñā.
 
 ### Bhāṣya-informed study translation
 
-> Confidence, energy, recollection, discriminative comprehension, collectedness, joy, and equanimity; pliancy, ethical discipline, and resolve. For the establishment of recollection is discriminative comprehension.
+> Confidence, energy, recollection, Prajñā, collectedness, joy, and equanimity; pliancy, ethical discipline, and resolve. For the establishment of recollection is Prajñā.
 
 ## 6. Philosophical Translation
 

@@ -31,7 +31,7 @@ The opening completes the preceding account of relative completeness. The remain
 | **ākhyaḥ** | masculine nominative singular | bearing the names, called |
 | **catur-vidhaḥ** | masculine nominative singular | fourfold |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `aśaikṣa-paripūrṇatvam · dvābhyām · mārgaḥ · samāsataḥ · viśeṣa-mukti-ānantarya-prayoga-ākhyaḥ · catur-vidhaḥ`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `aśaikṣa-paripūrṇatvam · dvābhyām · mārgaḥ · samāsataḥ · viśeṣa-mukti-ānantarya-prayoga-ākhyaḥ · catur-vidhaḥ`.
 
 The metrical order of the four names is **viśeṣa–mukti–ānantarya–prayoga**. Their explanatory operational order is **prayoga–ānantarya–vimukti–viśeṣa**.
 
@@ -45,7 +45,7 @@ The Bhāṣya nevertheless defines three members by their operative relations:
 
 ```text
 prayoga
-    that immediately preceding ānantarya
+    that immediately precedes ānantarya
 
 ānantarya
     that which abandons the obstruction
@@ -76,7 +76,7 @@ PATH[CLASSIFICATION=summary, MODES=4]
 
 ### Bhāṣya-informed study translation
 
-> One beyond training is complete in two respects. In summary, the Path is fourfold, called Further Distinction, Release, Immediacy, and Application.
+> One beyond training is complete in two respects, faculty and attainment. In summary, the Path is fourfold, called Further Distinction, Release, Immediacy, and Application.
 
 ## 6. Philosophical Translation
 
@@ -178,7 +178,7 @@ viśeṣa-mārga
     Path other than the preceding three
 ```
 
-“Further Distinction” is therefore preferable here to a vague “special Path.” The Bhāṣya explains its continued Path-status through:
+“Further Distinction” renders this residual Path category. The Bhāṣya then explains why both Release and Further Distinction retain Path-status through:
 
 ```text
 greater intensity within the same class
@@ -217,7 +217,7 @@ Vimukti
     firstArisesFreeFrom Obstruction
 
 Viśeṣa
-    developsBeyond InitialRelease
+    isOtherThan Prayoga, Ānantarya, and Vimukti
 ```
 
 The crucial non-identities are:
@@ -245,7 +245,7 @@ The fourfold summary is not merely a list of kinds. It articulates the relations
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya supplies **indriya** and **samāpatti** for the verse’s instrumental dual; fruit is constitutive of the Aśaikṣa status and therefore is not another variable measure. The verse lists the Path-names in metrical order, while the study translation follows their operative relation. **Viśeṣa** is defined initially as the Path other than the first three; its further grounds for being Path belong to the commentary.
+**Translation note.** The Bhāṣya supplies **indriya** and **samāpatti** for the verse’s instrumental dual; fruit is constitutive of the Aśaikṣa status and therefore is not another variable measure. The study translation preserves the verse's metrical order of Path-names; the Bhāṣya explains them in operative order. **Viśeṣa** is initially Path other than the first three, without requiring a fixed fourth temporal moment. The closing grounds for continued Path-status answer a question about both Release and Further Distinction.
 
 This verse gives exact Kośa form to the Path as an objective course of action. The End—nirvāṇa—is not merely appended as a later result. It determines why these operations together count as Mārga: they are the road by which that End is reached.
 
@@ -298,20 +298,22 @@ ObjectProperty: immediatelyPrecedes
 ObjectProperty: abandons
 ObjectProperty: firstArisesFreeFrom
 ObjectProperty: leadsTo
-ObjectProperty: developsBeyond
+ObjectProperty: otherThan
 ObjectProperty: completeWithRespectTo
 ObjectProperty: constitutivelyPresupposes
 
 PathOfApplication immediatelyPrecedes PathOfImmediacy
 PathOfImmediacy abandons Obstruction
 PathOfRelease firstArisesFreeFrom Obstruction
-PathOfFurtherDistinction developsBeyond PathOfRelease
+PathOfFurtherDistinction otherThan PathOfApplication
+PathOfFurtherDistinction otherThan PathOfImmediacy
+PathOfFurtherDistinction otherThan PathOfRelease
 Path leadsTo Nirvana
 BeyondTrainingPerson constitutivelyPresupposes FinalFruit
 
 KārikāRule: In summary Mārga is fourfold as Application, Immediacy, Release, and Further Distinction.
 BhāṣyaRule: Application is immediately followed by Immediacy; Immediacy abandons the obstruction; Release first arises free from it.
-BhāṣyaRule: Further Distinction is Path other than those three and remains Path through greater intensity, higher attainment, or entry into nirvāṇa without remainder.
+BhāṣyaRule: Further Distinction is Path other than those three; both Release and Further Distinction remain Path through greater intensity, higher attainment, or entry into nirvāṇa without remainder.
 BhāṣyaRule: Aśaikṣa completeness varies by faculty and attainment because possession of final fruit is already presupposed.
 ProjectRule: The End governs preparation and remains active in the positive development of achieved freedom.
 ```

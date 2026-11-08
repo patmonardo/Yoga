@@ -5,7 +5,7 @@
 > nirodhalābhy ubhayatovimuktaḥ prajñayetaraḥ |
 > samāpattīndriyaphalaiḥ pūrṇaḥ śaikṣo ’bhidhīyate || 6.64 ||
 
-> One who has attained cessation is liberated in both respects; the other [arhat] through discriminative comprehension. A trainee is called complete with respect to attainment, faculty, or fruit.
+> One who has gained cessation-attainment is liberated in both respects; the other arhat is liberated through discriminative comprehension. A trainee is called complete by reference to attainment, faculty, and fruit.
 
 The first half defines two arhat liberations; the second gives the respects in which a trainee may be complete.
 
@@ -52,7 +52,7 @@ This is the complete running unit [381|01]–[381|13] in `Vasubandhu/Sources/kos
 
 The commentary asks who is called liberated in both respects and who is called liberated by Prajñā. One who has gained the attainment of cessation is liberated in both respects, because the powers of Prajñā and samādhi free that person from the obstruction of afflictions and from the obstruction to meditative releases. The other is liberated through Prajñā, because that power alone frees the person from afflictive obstruction.
 
-A saying attributed to the Blessed One mentions a trainee who has abandoned afflictions and is complete in five qualities described as not subject to removal. The commentary asks what makes a trainee complete. It gives three respects: fruit, faculty, and meditative attainment. A faith-resolved non-returner who is not a body-witness is complete with respect to fruit alone. A seeing-attained practitioner not yet free of passion is complete with respect to faculty alone. It next lists a seeing-attained, body-witness non-returner under fruit and faculty; a faith-resolved body-witness under fruit and attainment; and a seeing-attained body-witness under all three. Completion through attainment alone, or through attainment and faculty without fruit, does not occur.
+A damaged saying attributed to the Blessed One mentions abandoning five afflictions, qualities not subject to removal, and the “complete trainee”; the exact relation among these phrases is uncertain in this witness. The commentary asks what makes a trainee complete. It gives three respects: fruit, faculty, and meditative attainment. A faith-resolved non-returner who is not a body-witness is complete with respect to fruit alone. A seeing-attained practitioner not yet free of passion is complete with respect to faculty alone. It next lists a seeing-attained, body-witness non-returner under fruit and faculty; a faith-resolved body-witness under fruit and attainment; and a seeing-attained body-witness under all three. Completion through attainment alone, or through attainment and faculty without fruit, does not occur.
 
 ## 4. Movement of the Commentary
 
@@ -60,7 +60,7 @@ The passage distinguishes liberation from affliction through Prajñā from the a
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Itaraḥ` refers to the other arhat, the one liberated by Prajñā without cessation-attainment; it does not imply incomplete liberation from affliction. `Samāpatti`, `indriya`, and `phala` are three respects of trainee completeness. The source's fruit-and-faculty example explicitly includes `kāyasākṣin`, although body-witness elsewhere depends on cessation-attainment. That tension is preserved rather than silently converted into a mutually exclusive five-combination chart. The scriptural quotation is summarized conservatively because of its compressed working text.
+**Translation decisions.** `Itaraḥ` refers to the other arhat, the one liberated by Prajñā without cessation-attainment; it does not imply incomplete liberation from affliction. `Samāpatti`, `indriya`, and `phala` are three respects of trainee completeness. The source's fruit-and-faculty example explicitly includes `kāyasākṣin`, although body-witness elsewhere depends on cessation-attainment. That tension is preserved rather than silently converted into a mutually exclusive five-combination chart. The scriptural quotation is rendered only to the extent its damaged syntax permits; [Xuanzang's Chinese parallel](https://www.ruyimeditation.org/abhidharma/abhidharmakosa/fascicle-025/) reads it as saying that cutting off five afflictions does not yet make a complete trainee. This does not settle the missing relation in the local Sanskrit.
 
 **Organon determination.** The verse's two clauses distinguish completed liberation by its operative powers and trainee completeness by its specified respect. Completion is therefore relational: “complete in faculty” does not mean “beyond training.” This is a project interpretation grounded in the commentary's explicit distributions and exclusions.
 

@@ -30,7 +30,7 @@ The verse introduces two independent determinations of the same thirty-sevenfold
 | **anāgamye** | neuter locative singular | in the preliminary concentration |
 | **prīti-varjitāḥ** | masculine nominative plural compound | deprived of or excluding joy |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `anāsravāṇi · bodhi-aṅga-mārga-aṅgāni · dvidhā · itare · sakalāḥ · prathame · dhyāne · anāgamye · prīti-varjitāḥ`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `anāsravāṇi · bodhi-aṅga-mārga-aṅgāni · dvidhā · itare · sakalāḥ · prathame · dhyāne · anāgamye · prīti-varjitāḥ`.
 
 The gender shift from neuter group-names to masculine **itare / sakalāḥ / varjitāḥ** reflects the understood plural **bodhipakṣā dharmāḥ**.
 
@@ -72,7 +72,7 @@ PRELIMINARY-CONCENTRATION[FACTOR-COUNT=36, EXCLUDED=joy]
 
 ## 6. Philosophical Translation
 
-An operative quality becomes a Path-factor only under its complete determination. Its intrinsic operation, systematic function, purity-status, and contemplative field must all coincide. A mundane right view may resemble noble right view in content, yet it does not receive the technical name of Noble Path-factor before the uncontaminated Path is actual.
+An operative quality becomes a Path-factor only under its complete determination. Its intrinsic operation, systematic function, purity-status, and contemplative field must all coincide. Mundane right view exists, yet it does not receive the technical name of Noble Path-factor before the uncontaminated Path is actual.
 
 The first dhyāna supplies a field capable of sustaining the complete thirty-sevenfold organization. The preliminary ground remains transitional and effortful; it can support the system only without joy.
 
@@ -133,11 +133,11 @@ they do not receive the designation
 Accordingly:
 
 ```text
-functional resemblance
-    ≠ strict Noble Path identity
+the occurrence of mundane right view
+    ≠ the strict Noble Path designation
 ```
 
-The verse’s purity claim concerns the factors under their technical Bodhyaṅga and Mārgāṅga determinations, not the impossibility of wholesome mundane counterparts.
+The verse’s purity claim concerns the factors under their technical Bodhyaṅga and Mārgāṅga determinations; it does not deny the mundane right view named in the prose.
 
 **`Dvidhā itare` — two statuses for the other five groups**
 
@@ -305,7 +305,6 @@ ObjectProperty: hasPurityStatus
 ObjectProperty: occursInGround
 ObjectProperty: supportsConfiguration
 ObjectProperty: excludesFactor
-ObjectProperty: functionallyResembles
 ObjectProperty: receivesTechnicalDesignation
 
 AwakeningFactor hasPurityStatus UncontaminatedStatus
@@ -314,7 +313,6 @@ OtherFiveGroupFactor hasPurityStatus ContaminatedStatus
 OtherFiveGroupFactor hasPurityStatus UncontaminatedStatus
 FirstDhyana supportsConfiguration CompleteThirtySevenConfiguration
 PreliminaryConcentration excludesFactor Joy
-MundaneAnalogue functionallyResembles NoblePathFactor
 
 KārikāRule: Awakening-factors and Noble Path-factors are uncontaminated; the other five groups may be contaminated or uncontaminated.
 KārikāRule: All thirty-seven occur in the first dhyāna, while the preliminary concentration excludes joy.

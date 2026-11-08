@@ -45,7 +45,7 @@ dhandhasya vā pudgalasyeyamiti dhandhābhijñā /
 punarapyeṣa mārgo bodhipakṣyākhyāṃ labhate /
 ```
 
-This is the complete running unit [382|07]–[382|20–21] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The next paragraph at [382|21] enumerates the thirty-seven Bodhi-aligned dharmas for 6.67. The running verse reads `dhanyābhijñā`, while the surrounding prose repeatedly reads and explains `dhandhābhijñā`; the study's normalized verse follows that prose.
+This is the complete running unit [382|07]–[382|20–21] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The next paragraph at [382|21] enumerates the thirty-seven Bodhi-aligned dharmas for 6.67. The running verse reads `dhanyābhijñā`, while the surrounding prose repeatedly reads and explains `dhandhābhijñā`; the [Pradhan Sanskrit edition](https://www2.hf.uio.no/polyglotta/index.php?cid=504731&level=2&page=fulltext) also has `dhandhābhijñā` in the verse. The local reading is retained above. The compressed `samatābhyāmayiatnavāhitvāt` is also retained; the English follows its contextual contrast with `yatnavāhitvāt` without silently rewriting the witness.
 
 ## 3. Continuous Translation
 
