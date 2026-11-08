@@ -5,9 +5,8 @@
 Volume II follows the Objective Science from Loka to Karma. Each expression
 has a source-bound translation control and a separately stated Organon
 determination. A conventional rendering does not automatically assert the
-project thesis. The [earlier combined Pre-Techne](technical-expressions-vol-i-ii.md)
-preserves the longer argument; [Volume I](technical-expressions-vol-i.md)
-establishes the Base–Essence–Principle and Condition–Object controls used here.
+project thesis. [Volume I](technical-expressions-vol-i.md) establishes the
+Base–Essence–Principle and Condition–Object controls used here.
 
 The Objective Wheel is `[[Dhātu:Indriya] [Loka:Karma]]`. Its second movement
 asks how a determinate world and action become intelligible together. The
@@ -47,7 +46,7 @@ being inserted into a kārikā as a literal translation.
 
 | Expression | Translation control | Organon determination |
 |---|---|---|
-| *saṃskāra* | **Formation**, **conditioning**, or **conditioned formation** according to construction. | Distinguish the formation aggregate, causal operation, and dissociated conditioned factor. |
+| *saṃskāra* | **Formation**, **conditioning**, or **conditioned formation** according to construction. | Distinguish the formation Base, causal operation, and dissociated conditioned factor. |
 | *saṃskṛta / asaṃskṛta* | **Conditioned / unconditioned**. | Neither is equivalent to *saṃskāra* or to the influx distinction. |
 | *saṃprayukta / viprayukta* | **Associated or conjoined / dissociated**. | A relation among factors; *viprayukta-saṃskāra* needs its own place, rather than being classified as a mental factor. |
 | *hetu* | **Cause** or **causal ground**, with the named kind specified. | A restricted causal claim does not establish a universal cause. |

@@ -9,6 +9,10 @@
 \usepackage{array}
 \usepackage{fvextra}
 \usepackage{etoolbox}
+\usepackage[CJK]{ucharclasses}
+
+\newfontfamily\organonCJKfont{Droid Sans Fallback}
+\setTransitionsForCJK{\begingroup\organonCJKfont}{\endgroup}
 
 \definecolor{organonNavy}{HTML}{17324D}
 \definecolor{organonBlue}{HTML}{246B8E}

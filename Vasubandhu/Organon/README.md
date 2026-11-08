@@ -12,13 +12,12 @@ Samāpatti.
 [Volume I technical expressions](../Essays/technical-expressions-vol-i.md)
 governs Dhātu–Indriya; [Volume II technical expressions](../Essays/technical-expressions-vol-ii.md)
 governs Loka–Karma. Each sets source-bound translation controls beside its
-Organon determinations. The [combined Pre-Techne](../Essays/technical-expressions-vol-i-ii.md)
-retains the extended architectural argument behind the two references.
+Organon determinations.
 
 [Volume III technical expressions](../Essays/technical-expressions-vol-iii.md)
-begins the controlled vocabulary for Anuśaya–Mārga and Jñāna–Samāpatti.
-Its chapter-level determinations are applied and revised one kārikā at a
-time.
+develops Anuśaya–Mārga. [Volume IV technical expressions](../Essays/technical-expressions-vol-iv.md)
+opens Jñāna–Samāpatti with a provisional scan index. Its entries are applied
+and revised one kārikā at a time as those chapters are reviewed.
 
 In the Organon synthesis, Sāṃkhya is a **Rational Overlord** for the
 Kośa inquiry: its ordered account of Manas, Buddhi, Ahaṃkāra, and the
@@ -535,7 +534,7 @@ with the butter repair and speech quotation marked as uncertain.
 
 The 2.34 extension preserves the contextual one-meaning naming claim
 without making the three roles interchangeable everywhere. The study
-translation includes Basis, Cognitive Condition, and manner as well
+translation includes Basis, Support, and manner as well
 as fivefold association. Tests remove each shared relation and check
 distinct tokens with one instance per represented kind, not one factor
 total. The variegation account retains the source's Principles.

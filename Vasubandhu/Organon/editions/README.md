@@ -28,4 +28,5 @@ Loka Bhāṣya and Loka Kārikā have 102 studies. Each build verifies that all
 requested source files and the shared page-break/header assets exist before
 starting Pandoc.
 
-Requirements: Pandoc, XeLaTeX, FreeSerif, Lato, and FreeMono.
+Requirements: Pandoc, XeLaTeX with the `ucharclasses` package, FreeSerif,
+Lato, FreeMono, and Droid Sans Fallback for Chinese source quotations.
