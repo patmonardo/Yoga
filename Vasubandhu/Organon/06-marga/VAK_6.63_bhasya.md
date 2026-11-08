@@ -78,7 +78,7 @@ By application come the faith-follower and Dharma-follower, since they previousl
 
 By name these are seven persons, but in actual Path-based reckoning they are six. In the Path of Seeing there are the two followers. Those same two become the faith-resolved and seeing-attained in the Path of cultivation. In the Path beyond training they become the occasion-dependent and occasion-independent liberated persons.
 
-The commentary then expands the combinations. A faith-follower can be differentiated into three by faculty, five by disposition, and fifteen by Path position: eight patience moments and seven Knowing moments. By degree of dispassion there are seventy-three possibilities, from one still completely bound through successive levels up to dispassion toward the Essence of nothingness. By existential support there are nine, across three continents and six classes of gods. Combining faculty, disposition, Path, dispassion, and support produces a very large count of wise persons; other named persons can likewise be counted through such distinctions.
+The commentary then expands the combinations for a faith-follower: three by faculty, five by disposition, and fifteen by Path position, namely eight patience moments and seven Knowing moments. There are seventy-three by degree of dispassion: one still completely bound, nine degrees of dispassion from the desire realm, and corresponding degrees up to dispassion from the Sphere of Nothingness. There are nine by Basis of birth: three continents and six classes of gods. Multiplying faculty, disposition, Path position, dispassion, and Basis yields **147,825 wise-person possibilities**. Other named persons can likewise be counted through such distinctions.
 
 ## 4. Movement of the Commentary
 
@@ -86,7 +86,7 @@ The commentary starts with seven names, derives each by the relevant differentia
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Akṣa` is explained by the commentary as `indriya`, faculty. `Nāmataḥ` counts names; `dravyataḥ` counts six without treating the extra designation as a separate Path-position. `Artha` in the account of earlier application is rendered **Meaning**, in accord with project usage. `Jñāna` in the Path-position count is **Knowing**. The large compound numeral at [380|21–22] is preserved in Sanskrit above; the conventional translation states its combinatorial force without imposing a modern numeral grouping on this compact witness.
+**Translation decisions.** `Akṣa` is explained by the commentary as `indriya`, faculty. `Nāmataḥ` counts names; `dravyataḥ` counts six without treating the extra designation as a separate Path-position. `Artha` in the account of earlier application is rendered **Meaning**, in accord with project usage. `Jñāna` in the Path-position count is **Knowing**. The large compound numeral at [380|21–22] reads as 100,000 + 47,000 + 800 + 25 = **147,825**, agreeing with the stated factors, 3 × 5 × 15 × 73 × 9. [Xuanzang's Chinese parallel](https://www.ruyimeditation.org/abhidharma/abhidharmakosa/fascicle-025/) instead gives 一億四萬七千八百二十五 (100,047,825); that discrepancy remains a witness difference, not a reason to replace this Sanskrit total.
 
 **Organon determination.** A name can select a real Path relation without implying a separate substantial person. The six positions are produced by the two lines across three Paths; cessation-attainment supplies an additional valid name. The subsequent intersections show how a person classification can be refined by more than one dimension. This relational analysis remains an interpretation of the commentary's counts.
 
@@ -103,4 +103,4 @@ The commentary starts with seven names, derives each by the relevant differentia
 
 ## 7. Review Status
 
-The complete source unit [380|04]–[380|22] is present, including the combinatorial tail. The kārikā anchor copies the study's Bhāṣya-informed translation exactly. Next: 6.64.
+The complete source unit [380|04]–[380|22] is present, including the combinatorial tail now translated with its exact Sanskrit total, 147,825. Xuanzang's different numeral is recorded without replacing this witness. The kārikā anchor copies the study's Bhāṣya-informed translation exactly. Next: 6.64.

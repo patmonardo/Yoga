@@ -46,13 +46,15 @@ through [370|12] in `Vasubandhu/Sources/kosabhasya.txt`. The line at
 its two criteria complete the five explained here. Source labels are
 removed and line breaks editorial. The running verse reads
 `pañakāraṇasaṃbhavāt`; the study follows the prose's explicit five.
+The prose's `kia` remains uncertain and is not resolved in the
+translation.
 
 ## 3. Continuous Translation
 
 An objection follows the eighty-nine paired cases: must the Buddha's
-list of four fruits be expanded? No. Though fruits are numerous, a
-fruit is established at an abandonment-Path stage in which five
-reasons occur together. Which five? Relinquishment of the previous
+list of four fruits be expanded? No. Though fruits are numerous, the
+Blessed One established a fruit at an abandonment-Path stage in which
+five reasons occur together. Which five? Relinquishment of the previous
 Path, attainment of another Path, and gathering of abandonments at
 the fruit. The next line adds acquisition of the eight Knowings and
 cultivation of the sixteen aspects beginning with impermanence.
@@ -82,6 +84,8 @@ transition of Path status.
 is explained as `prahāṇasaṃkalana` through one acquisition of the
 whole. The source's `pañakāraṇa` is retained in §2, while the five
 are explicitly enumerated in the prose and shared opening of 6.53.
+The prose's `kia` is uncertain; it does not alter the stated fivefold
+condition.
 `Jñāna` is Knowing; the eight are four Dharma-Knowings and four
 Anvaya-Knowings.
 

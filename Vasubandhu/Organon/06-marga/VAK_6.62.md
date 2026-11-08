@@ -29,9 +29,9 @@ The Bhāṣya prevents two conflations. Faculty-strengthening replaces the weak-
 | **śrāvakāḥ sapta** | masculine nominative plural with numeral | seven Śrāvakas |
 | **nava ete** | masculine nominative plural | these nine |
 | **navadhā** | indeclinable numeral-adverb | ninefold |
-| **indriyāḥ** | masculine nominative plural | persons differentiated according to faculty; the Bhāṣya explains a ninefold faculty-gradation |
+| **indriyāḥ** | masculine nominative plural | faculties; the Bhāṣya relates their ninefold differentiation to nine persons |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `sa-viśeṣam · phalam · tyaktvā · phalam · āpnoti · vardhayan · dvau · buddhau · śrāvakāḥ · sapta · nava · ete · navadhā · indriyāḥ`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `sa-viśeṣam · phalam · tyaktvā · phalam · āpnoti · vardhayan · dvau · buddhau · śrāvakāḥ · sapta · nava · ete · navadhā · indriyāḥ`.
 
 The Bhāṣya makes **viśeṣa** concrete as the weak-faculty Path qualifying the fruit and identifies what is newly acquired as the corresponding fruit-and-Path of the sharp-faculty disposition.
 
@@ -69,7 +69,7 @@ NEXT-CLASSIFICATION[SEVEN-NOBLE-PERSONS, BEGINS=6.63]
 
 ### Bhāṣya-informed study translation
 
-> One who strengthens the faculties relinquishes the fruit together with its weak-faculty Path and attains the fruit with a sharp-faculty Path. By their nine faculty-grades, these persons are two Buddhas and seven disciples.
+> One who strengthens the faculties relinquishes the fruit together with its weak-faculty Path and attains the fruit with a sharp-faculty Path. There are two Buddhas and seven disciples; these nine are distinguished by nine grades of faculty.
 
 ## 6. Philosophical Translation
 
@@ -147,7 +147,7 @@ Adding these to the seven Śrāvakas yields nine persons.
 
 **`Navadhā indriyāḥ` — nine faculty grades**
 
-The Bhāṣya grounds the enumeration in the ninefold scale beginning with mild-mild:
+The Bhāṣya grounds the enumeration in a ninefold scale beginning with mild-mild. The following grid unfolds that series; the source here gives its starting term and total, rather than listing all nine grades:
 
 ```text
 mild-mild

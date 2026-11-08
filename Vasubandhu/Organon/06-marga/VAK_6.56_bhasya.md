@@ -5,7 +5,7 @@
 > ṣaḍarhanto matās teṣāṃ pañca śraddhādhimuktijāḥ |
 > vimuktiḥ sāmayiky eṣām akopyākopyadharmaṇaḥ || 6.56 ||
 
-> Six types of Arhat are recognized; five arise from faith-resolution. Their liberation is occasion-dependent, while the immovable one's liberation is unshakeable.
+> Six types of Arhat are recognized; five come from the faith-resolved line. Their liberation is occasion-dependent, while the immovable one's liberation is unshakeable.
 
 All six possess arhat fruit. The verse groups five by their earlier
 training and distinguishes their condition-dependent liberation from
@@ -49,8 +49,8 @@ kopayitumaśakyatvādaparihāṇitaḥ /
 This is the complete running unit [372|16]–[373|08] in
 `Vasubandhu/Sources/kosabhasya.txt`; source labels are removed and line
 breaks editorial. The next kārikā begins at [373|09]. Source forms
-such as `śraddhādhhimuktijāḥ`, `akokpyadharmāṇaṃ`, and
-`sāmayikyeṣām` remain as transmitted.
+including `sthitākampoyaḥ`, `śraddhādhhimuktijāḥ`,
+`akokpyadharmāṇaṃ`, and `sāmayikyeṣām` remain as transmitted.
 
 ## 3. Continuous Translation
 
@@ -66,8 +66,8 @@ Excluding the immovable one, the other five were formerly
 faith-resolved trainees. The liberation of consciousness for these
 five is occasion-dependent and desirable. It must be guarded
 continually. They are therefore called liberated in dependence on
-occasion. The source explains the compound by ellipsis of a middle
-word, comparing another compound of that kind. Concentration's
+occasion: they depend on occasions and are liberated. The middle
+word is omitted in the compound, as in *dhṛtaghaṭa*. Concentration's
 becoming manifest depends on a suitable occasion: requisites,
 health, and a suitable place. The arhat of immovable nature has
 unshakeable liberation. It cannot be disturbed, because falling
@@ -90,6 +90,8 @@ functional meanings remain provisional until the next verses.
 of arhat fruit. `Cetovimukti` is liberation of consciousness;
 `samādhi-saṃmukhībhāva` is concentration becoming manifest.
 `Akopyā` rules out falling away for the sixth type.
+The exact force of the analogy *dhṛtaghaṭa* is left open; the source
+uses it to explain omission of a middle member in a compound.
 
 **Organon determination.** The six share one attained fruit rank but
 differ in prior training and the conditions under which liberation

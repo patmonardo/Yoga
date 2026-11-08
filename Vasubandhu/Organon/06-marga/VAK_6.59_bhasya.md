@@ -48,7 +48,10 @@ This is the complete running unit [377|13–16]–[378|04] in
 `Vasubandhu/Sources/kosabhasya.txt`; source labels are removed and
 line breaks editorial. The next question begins at [378|05].
 The closing `aparihāṇivādī` explicitly marks the non-regression
-speaker.
+speaker. The local `sūtravirodhaḥ` at [378|02–03] lacks a negation;
+[Xuanzang's T1558 parallel](https://www.ruyimeditation.org/abhidharma/abhidharmakosa/fascicle-025/)
+has `無相違過` (“there is no contradiction”). The Sanskrit remains
+unchanged, and the contextual English reading is marked below.
 
 ## 3. Continuous Translation
 
@@ -70,14 +73,16 @@ arhat may also have the middle kind, because a special quality of a
 distinctive person-type may remain unattained. An arhat of another
 type may also have the first kind, actual loss of an attained quality.
 
-A closing objection answers the alleged sūtra conflict: the
-reference to loss of present use explains how the immovable arhat
-can be described as falling from a pleasant abiding without losing
-unshakeable liberation. Every uncontaminated liberation is
-unshakeable, the non-regression speaker says; the designation of a
-special immovable arhat was explained in its own terms. That is
-the speaker's answer to the objection, not an unqualified agreement
-that arhatship can be lost.
+Thus the reference to loss of present use explains how the immovable
+arhat can be described as falling from a pleasant abiding without
+contradicting the sūtra's denial of loss from unshakeable liberation.
+The local Sanskrit has `sūtravirodhaḥ` (“sūtra contradiction”) here;
+the negated sense follows the argument and Xuanzang's parallel, not
+an emendation of that witness. The advocate of non-regression then
+says that every uncontaminated liberation is unshakeable; the
+distinct establishment of an immovable arhat has already been
+explained. This is that speaker's objection, not an unqualified
+agreement that arhatship can be lost.
 
 ## 4. Movement of the Commentary
 
@@ -94,7 +99,8 @@ quality; `aprāpta-parihāṇi` is failure to gain a further attainable
 quality; `upabhoga-parihāṇi` is non-manifestation of a possessed
 quality. `Antyā` is the third, `madhyā` the second. The last
 non-regression claim is attributed to its speaker and does not erase
-the received threefold distribution.
+the received threefold distribution. The witness's unnegated
+`sūtravirodhaḥ` remains uncertain beside the negated Chinese parallel.
 
 **Organon determination.** Possession, possible advance, and present
 exercise are different relations to a Path-quality. This is project
@@ -115,5 +121,7 @@ liberation itself is a quality liable to loss.
 ## 7. Review Status
 
 The full running unit [377|13–16]–[378|04] is present, including
-the attributed closing response. The kārikā anchor copies the
+the attributed closing response. The local `sūtravirodhaḥ` remains
+uncertain against the negated parallel; it has not been emended.
+The kārikā anchor copies the
 study's Bhāṣya-informed translation exactly. Next: 6.60.

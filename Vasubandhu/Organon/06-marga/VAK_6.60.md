@@ -60,11 +60,11 @@ FACULTY-CHANGE[TARGET=akopya-gotra, PRIOR=mṛdvindriya-gotra]
 
 ### Literal Translation
 
-> One fallen from the fruit does not die, nor does he perform what is incompatible with it. In [the transition to] the unshakeable [disposition], there are nine liberation-paths and uninterrupted paths because of deep habituation.
+> One fallen from the fruit does not die [while fallen], nor does he perform what is incompatible with it. In [the transition to] the unshakeable [disposition], there are nine liberation-paths and uninterrupted paths because of deep habituation.
 
 ### Bhāṣya-informed study translation
 
-> One fallen from the fruit neither dies nor performs what is incompatible with it. Becoming unshakeable requires nine liberation Paths and nine uninterrupted Paths, through deep habituation.
+> While fallen from the fruit, one neither dies nor performs an act opposed to it. For the unshakeable disposition, there are nine liberation Paths and nine uninterrupted Paths because the former mild-faculty disposition has been deeply habituated.
 
 ## 6. Philosophical Translation
 
@@ -84,7 +84,7 @@ Internally to the Vaibhāṣika account, the limitations are strict:
 fall from Arhat-fruit
     → no death while fallen
     → no fruit-opposed action
-    → recovery before the life-course ends
+    → the fallen state does not extend to death
 ```
 
 **`Mriyate na phalabhraṣṭaḥ` — no death while fallen**
@@ -121,10 +121,8 @@ The transition of faculties reproduces the paired structure familiar from abando
 
 ```text
 9 ānantarya-mārgas
-    each directly counteracts a grade
-
-9 vimukti-mārgas
-    each possesses the corresponding achieved transformation
+    + 9 vimukti-mārgas
+    → the paired sequence for this faculty change
 ```
 
 The Bhāṣya compares this sequence to attaining Arhatship itself. Becoming unshakeable is not an instantaneous change of label.
@@ -164,7 +162,6 @@ The bounded character of regression is:
 FallsFrom(x, ArhatFruit)
     → not DiesWhileFallen(x)
     → not Performs(x, FruitOpposedAction)
-    → mustRecover(x, Fruit)
 ```
 
 The inference rejected is:
@@ -215,7 +212,6 @@ The source-layer distinctions remain primary: the regression claims belong to th
 ```text
 Class: FallenFromFruitArhat
   SanskritLabel: phala-bhraṣṭa
-Class: NecessaryFruitRecovery
 Class: FruitOpposedAction
   SanskritLabel: phala-viruddha-kriyā
 Class: FacultyTransition
@@ -231,14 +227,12 @@ Class: NineLiberationPaths
 
 ObjectProperty: cannotDieDuring
 ObjectProperty: cannotPerform
-ObjectProperty: necessarilyRecovers
 ObjectProperty: deeplyHabituates
 ObjectProperty: transformedBy
 ObjectProperty: produces
 
 FallenFromFruitArhat cannotDieDuring FallenCondition
 FallenFromFruitArhat cannotPerform FruitOpposedAction
-FallenFromFruitArhat necessarilyRecovers ArhatFruit
 DeepHabituation deeplyHabituates WeakFacultyDisposition
 WeakFacultyDisposition transformedBy NineUninterruptedPaths
 WeakFacultyDisposition transformedBy NineLiberationPaths

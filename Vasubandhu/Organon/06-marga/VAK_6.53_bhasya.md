@@ -5,7 +5,7 @@
 > jñānāṣṭakasya lābho ’tha ṣoḍaśākārabhāvanā |
 > laukikāptaṃ tu miśratvād anāsravāptir dhṛteḥ phalam || 6.53 ||
 
-> There is also acquisition of eight knowledges and cultivation of sixteen aspects. What was attained through a mundane Path is fruit when joined with an uncontaminated attainment.
+> There is also acquisition of eight Knowings and cultivation of sixteen aspects. A mundanely attained abandonment counts as fruit because it is mixed with Seeing-path abandonments and sustained by an uncontaminated attainment.
 
 The first half completes the five criteria from 6.52. The second
 explains how a mundanely attained abandonment can belong to a fruit
@@ -58,7 +58,9 @@ This is the complete running span [370|08]–[370|22] in
 [370|12] is shared with 6.52's explanation. The phrase at
 [370|22–23] introduces 6.54 and is excluded. Source labels are
 removed and line breaks editorial. The running verse's
-`laukikāoptaṃ` and `phalalm` remain as transmitted.
+`laukikāoptaṃ` and `phalalm` remain as transmitted. The sūtra's
+`tatutvam` and the closing `parihīṇāmaraṇāt` and `maraṇaṃ` are also
+preserved; the latter's precise syntax remains uncertain.
 
 ## 3. Continuous Translation
 
@@ -84,10 +86,11 @@ The commentary cites the sūtra's descriptions: the once-returner
 fruit includes abandonment of three fetters and attenuation of
 passion, aversion, and delusion; the non-returner fruit includes
 abandonment of five lower fetters. An uncontaminated attainment of
-separation sustains the abandonment. The closing source lines link
-that sustaining power to not falling away at death and to the
-fruit's status as śrāmaṇya-fruit; their transmitted wording is
-uneven and should be collated before a tighter translation.
+separation sustains the abandonment. By its power, one does not die
+in a state of having fallen away. Thus this abandonment can also be
+called a fruit of śrāmaṇya. The last clause's transmitted `maraṇaṃ`
+does not securely yield that concluding syntax; the Chinese parallel
+supports the conclusion while leaving the Sanskrit wording open.
 
 ## 4. Movement of the Commentary
 
@@ -104,8 +107,13 @@ shared with 6.52; the second names `miśratva` and
 `anāsrava-āpti` as grounds for fruit-inclusion. The prose's
 `eka-visaṃyoga-prāpti` gives one attainment for the whole fruit.
 The sūtra quotations specify the once-returner and non-returner
-contents. The final death-related sentence is kept cautious because
-the source form is uneven.
+contents. Its `tatutvam` is rendered “attenuation” with the Chinese
+`薄`, without replacing the Sanskrit reading. Xuanzang's Chinese
+[T1558, fascicle 24](https://www.ruyimeditation.org/abhidharma/abhidharmakosa/fascicle-024/)
+supports reading `parihīṇāmaraṇāt` as non-death while fallen away:
+`退不命終故`. The local `maraṇaṃ` in the following sentence remains
+uncertain; its concluding sense is guided by the parallel's
+`亦得名為沙門果體`, not treated as secure Sanskrit syntax.
 
 **Organon determination.** A fruit can integrate abandonments with
 different Path histories without changing how each arose. The source

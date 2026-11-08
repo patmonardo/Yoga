@@ -99,11 +99,16 @@ and grammatical `mārgaḥ`. `Amala` is glossed `anāsrava`,
 uncontaminated. `Kṣaya` denotes an unconditioned abandonment, not a
 second conditioned cognition. Eighty-nine counts paired cases, each
 with a conditioned liberation Path and an unconditioned abandonment.
+The quoted sūtra's `ṣāpakā` is retained in §2; “harmful” is a
+contextual rendering of this uncertain transmitted form.
 
 **Organon determination.** The operative uninterrupted Path, its
 conditioned successor, and the unconditioned abandonment are distinct.
 Treating their articulation as one course of action and fruit is
 project synthesis; the source supplies their specific classifications.
+The liberation Path is also within the uncontaminated Path under the
+opening definition of *śrāmaṇya*; it is called fruit here in relation
+to the preceding uninterrupted Path.
 
 ## 6. Path and Fruit Reckoning
 

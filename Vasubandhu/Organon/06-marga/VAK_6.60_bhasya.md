@@ -5,7 +5,7 @@
 > mriyate na phalabhraṣṭas tadakāryaṃ karoti na |
 > vimuktyānantaryapathā navākopye ’tisevanāt || 6.60 ||
 
-> One fallen from the fruit neither dies nor performs what is incompatible with it. Becoming unshakeable requires nine liberation Paths and nine uninterrupted Paths, through deep habituation.
+> While fallen from the fruit, one neither dies nor performs an act opposed to it. For the unshakeable disposition, there are nine liberation Paths and nine uninterrupted Paths because the former mild-faculty disposition has been deeply habituated.
 
 The first claim continues the Vaibhāṣika account; the second turns to the technical process of changing faculties.
 

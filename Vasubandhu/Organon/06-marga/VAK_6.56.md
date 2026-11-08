@@ -83,7 +83,7 @@ classification by modality does not change the fruit rank.
 
 ### Bhāṣya-informed study translation
 
-> Six types of Arhat are recognized; five arise from faith-resolution. Their liberation is occasion-dependent, while the immovable one's liberation is unshakeable.
+> Six types of Arhat are recognized; five come from the faith-resolved line. Their liberation is occasion-dependent, while the immovable one's liberation is unshakeable.
 
 ## 6. Philosophical Translation
 
@@ -209,7 +209,7 @@ Path-history remains a determinant within completed status.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya names six arhat types, then groups the first five by their prior faith-resolved training. `Sāmayikī` denotes dependence on an occasion or suitable conditions for concentration's manifestation; it does not mean that these five lack arhat fruit between occasions. `Cetovimukti` is liberation of consciousness. `Akopyā` names the sixth type's impossibility of falling away. The running verse's irregular forms remain in the Bhāṣya witness. The Bhāṣya explains the five as previously faith-resolved and describes concentration becoming manifest when requisites, health, and place are suitable; occasion-dependence does not mean loss of arhat fruit between occasions. The sixth type cannot fall away.
+**Translation note.** The Bhāṣya names six arhat types, then groups the first five by their prior faith-resolved training. `Sāmayikī` denotes dependence on a suitable occasion; the prose specifies continual guarding and conditions for concentration's manifestation. It does not mean that these five lack arhat fruit between occasions. `Cetovimukti` is liberation of consciousness. `Akopyā` names the sixth type's impossibility of falling away. The running verse's irregular forms remain in the Bhāṣya witness.
 
 
 VAK 6.56 shifts from the Path's objective movement across domains to the mode in which that movement exists in the completed person. The fruit is the same in rank—Arhatship—but it bears a morphology inherited from the course by which it became actual.
@@ -223,6 +223,7 @@ That synthesis must not depreciate the first five as merely relatively free. The
 ```text
 Class: Arhat
 Class: FaithResolvedDerivedArhat
+Class: FaithResolvedTrainee
 Class: ConditionDependentLiberation
   SanskritLabel: sāmayikī-vimukti
 Class: ConditionDependentLiberatedPerson
@@ -237,6 +238,7 @@ Class: SuitableRequisites
 Class: Health
 Class: SuitablePlace
 Class: PossibilityOfRegression
+Class: ContinualGuarding
 
 ObjectProperty: arisesFrom
 ObjectProperty: possesses
@@ -246,9 +248,9 @@ ObjectProperty: excludes
 
 FaithResolvedDerivedArhat arisesFrom FaithResolvedTrainee
 FaithResolvedDerivedArhat possesses ConditionDependentLiberation
-ConditionDependentLiberation manifestationDependsOn SuitableRequisites
-ConditionDependentLiberation manifestationDependsOn Health
-ConditionDependentLiberation manifestationDependsOn SuitablePlace
+ConcentrationManifestation manifestationDependsOn SuitableRequisites
+ConcentrationManifestation manifestationDependsOn Health
+ConcentrationManifestation manifestationDependsOn SuitablePlace
 ConditionDependentLiberation requiresGuarding ContinualGuarding
 ImmovableArhat possesses UnshakeableLiberation
 UnshakeableLiberation excludes PossibilityOfRegression

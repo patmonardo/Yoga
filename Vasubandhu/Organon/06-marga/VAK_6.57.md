@@ -81,7 +81,7 @@ it is not a claim that all six histories occur in one person.
 
 ### Bhāṣya-informed study translation
 
-> Therefore this one is liberated without dependence on occasion and belongs to the line of those who have attained Seeing. Some have their disposition from the beginning; others reach it through intensification.
+> Therefore this one is liberated without dependence on occasion and belongs to the line of those who have attained Seeing. Some have their disposition from the beginning; others reach it through sharpening of the faculties.
 
 ## 6. Philosophical Translation
 
@@ -105,7 +105,7 @@ asamayavimukta
     concentration becomes present at will
 ```
 
-The Bhāṣya also records an alternative explanation concerning final liberation at death and the possibility or impossibility of regression. The governing determination remains independence from a suitable *samaya*, not an abstract timelessness.
+The Bhāṣya also records an alternative explanation in terms of temporary versus definitive liberation, keyed to the possibility or impossibility of regression. Its first explanation is independence from a suitable *samaya*, not an abstract timelessness.
 
 **`Śraddhādhimukta / dṛṣṭiprāpta` — two prior trainee lines**
 
@@ -154,13 +154,13 @@ The Bhāṣya now defines the list introduced in 6.56:
 - **parihāṇadharman** — one for whom regression is possible.
 - **cetanādharman** — one capable of the operation expressed by *cetayitum*; the passage itself does not warrant a broader gloss.
 - **anurakṣaṇādharman** — one capable of guarding the attainment.
-- **sthitākampya** — one capable of remaining stable without active guarding unless a powerful regressive condition intervenes; without exertion, neither loss nor advance occurs.
+- **sthitākampya** — one capable of remaining stable without active guarding unless a powerful regressive condition intervenes; without exertion, neither loss nor advance occurs. The local witness's `anurakṣannapi` is syntactically difficult for “without guarding”; [Xuanzang's T1558 parallel](https://www.ruyimeditation.org/abhidharma/abhidharmakosa/fascicle-025/) has `雖不自防` (“even without guarding”). The Sanskrit reading remains marked rather than silently corrected.
 - **prativedhanābhavya** — one capable of penetrating through to the unshakeable condition.
 - **akopyadharman** — one for whom regression is impossible.
 
 **`Sātatya / satkṛtya / indriya` — application and faculty**
 
-The Bhāṣya traces these outcomes to continuity and intensity of application and to faculty-quality during training:
+The Bhāṣya traces these outcomes to continuous and careful application and to faculty-quality during training:
 
 ```text
 first two
@@ -241,7 +241,7 @@ Therefore the typology is neither an immutable ontology nor a deterministic even
 
 VAK 6.57 makes *indriya* visibly morphological: faculty is not merely an instrument used by an otherwise finished subject. The organization and sharpening of faculties determine which Path-transformations are possible and how completed liberation can be actualized.
 
-In the Organon reconstruction, the Path does not merely move an individual through externally fixed classes. It transforms the individual's capacity for movement itself. A stronger *gotra* is a new morphology of possible action, produced through prior continuity, intensity, and faculty-sharpening.
+In the Organon reconstruction, the Path does not merely move an individual through externally fixed classes. It transforms the individual's capacity for movement itself. A stronger *gotra* is a new morphology of possible action, produced through prior continuous and careful application and faculty-sharpening.
 
 This synthesis remains controlled by Vasubandhu's modal caution. A capacity opens a course without necessitating its execution. The completed Path-person is therefore an actual determination of possibility: genetically formed, genuinely transformable, but never reducible to a prediction that the possible event must occur.
 

@@ -5,7 +5,7 @@
 > ato ’samayamukto ’sau dṛṣṭiprāptānvayaś ca saḥ |
 > tadgotrā āditaḥ kecit kecid uttāpanāgatāḥ || 6.57 ||
 
-> Therefore this one is liberated without dependence on occasion and belongs to the line of those who have attained Seeing. Some have their disposition from the beginning; others reach it through intensification.
+> Therefore this one is liberated without dependence on occasion and belongs to the line of those who have attained Seeing. Some have their disposition from the beginning; others reach it through sharpening of the faculties.
 
 The commentary treats the six type-names as capacities. An arhat may
 have a disposition from the start or reach it by sharpening faculties.
@@ -71,14 +71,17 @@ This is the complete running unit [373|09]–[374|08] in
 `Vasubandhu/Sources/kosabhasya.txt`; source labels are removed and
 line breaks editorial. The question at [374|09] begins 6.58.
 Source irregularities such as `akoopyadharmatāṃ` and `varihāṇadharmā`
-remain as transmitted.
+remain as transmitted. In the steady Arhat definition, the witness
+reads `anurakṣannapi`; [Xuanzang's T1558 parallel](https://www.ruyimeditation.org/abhidharma/abhidharmakosa/fascicle-025/)
+has `雖不自防` (“even without guarding”), but the local syntax remains uncertain.
 
 ## 3. Continuous Translation
 
 Therefore the immovable arhat is called liberated independently of
 occasion. Liberation does not depend on a suitable occasion, since
-concentration can become manifest at will. An alternative explanation
-compares liberation at different times for those whose liberation can
+concentration can become manifest at will. Alternatively, the names
+occasion-dependent and occasion-independent liberation distinguish
+temporary from definitive liberation for those whose liberation can
 and cannot be shaken, according to the possibility or impossibility
 of falling away. The immovable arhat belongs to the seeing-attained
 line: that arhat was formerly a seeing-attained trainee.
@@ -124,10 +127,15 @@ with necessary events in the three-realm distribution.
 suitable occasion, with concentration manifest at will.
 `Dṛṣṭiprāptānvaya` is the seeing-attained trainee line.
 `Uttāpana` is explicitly `indriyāṇām uttāpanā`, sharpening faculties.
+The alternative explanation of the two liberation names contrasts
+temporary and definitive liberation; it does not introduce death here.
 `Cetayitum` is kept as the relevant act of willing because this unit
 does not specify a broader operation. The last realm contrast is
 attributed to those who take the events as necessary; the commentary's
 capacity reading permits all six types in all three realms.
+The reading “without guarding” for the steady Arhat follows the
+parallel Chinese against the awkward local `anurakṣannapi`; the
+Sanskrit witness is retained without emendation.
 
 **Organon determination.** A type-name denotes an available capacity,
 which may be original or cultivated. Reading the sharpening of

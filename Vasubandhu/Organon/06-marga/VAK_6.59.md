@@ -161,7 +161,7 @@ The first two rows are compatible with secure liberation because neither necessa
 
 **`Anāsravā vimukti / akopyadharman` — liberation and person-type**
 
-The Bhāṣya states in the concluding exchange that uncontaminated liberation is unshakeable, while the special establishment of the *akopyadharman* must be understood according to the prior classification. This compact remark continues the dispute of 6.58 and should not be expanded into a single uncontested theory.
+The concluding non-regression speaker says that uncontaminated liberation is unshakeable, while the special establishment of the *akopyadharman* must be understood according to the prior classification. This compact remark continues the dispute of 6.58 and should not be expanded into a single uncontested theory.
 
 It nevertheless requires a distinction between:
 
@@ -222,7 +222,7 @@ The Path-result must therefore be modeled across three axes: having, further bec
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya defines the three types as `prāpta-`, `aprāpta-`, and `upabhoga-parihāṇi`. The third concerns a quality still possessed but not made immediately present (`saṃmukhīkaroti`). The Buddha, immovable arhat, and other arhat receive the three kinds in increasing scope. A closing non-regression speaker insists that uncontaminated liberation is unshakeable for all; that claim remains attributed.
+**Translation note.** The Bhāṣya defines the three types as `prāpta-`, `aprāpta-`, and `upabhoga-parihāṇi`. The third concerns a quality still possessed but not made immediately present (`saṃmukhīkaroti`). The Buddha, immovable arhat, and other arhat receive the three kinds in increasing scope. A closing non-regression speaker insists that uncontaminated liberation is unshakeable for all; that claim remains attributed. The local `sūtravirodhaḥ` lacks the negation supplied by the argument and Xuanzang's parallel, so the uncertainty is preserved in the paired Bhāṣya study.
 
 
 VAK 6.59 shows that actuality is not exhausted by present appearance. A Path-quality can be fully possessed without being manifest in the current moment. Likewise, a completed liberation can remain secure even where some further excellence is never acquired.

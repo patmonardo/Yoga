@@ -14,7 +14,7 @@ dṛṣṭyāptatāyām ekaikaḥ anāsravāḥ nṛṣu vardhanam |
 aśaikṣo nava niśritya bhūmīḥ śaikṣas tu ṣaṭ yataḥ || 6.61 ||
 ```
 
-The running verse has a damaged first word, `dṛṣṭacyāptatāyām`, which the following prose glosses as **dṛṣṭiprāptāyāṃ pratividhyamānāyām**. The Bhāṣya determines the intended condition; the source reading remains visible in the paired witness.
+The local running witness has a damaged first word, `dṛṣṭacyāptatāyām`. The study follows the edited reading `dṛṣṭyāptatāyām`, supported by the following prose gloss **dṛṣṭiprāptāyāṃ pratividhyamānāyām**; the local source form remains visible in the paired witness.
 
 ## 3. Lexical Analysis
 
@@ -31,9 +31,9 @@ The running verse has a damaged first word, `dṛṣṭacyāptatāyām`, which t
 | **śaikṣaḥ** | masculine nominative singular | trainee |
 | **ṣaṭ** | numeral | six [grounds] |
 | **yataḥ** | causal relative/adverb | because; its explanation continues into 6.62 |
+| **tu** | adversative particle | marks the contrast between one beyond training and the trainee |
 
-| `tu` | adversative particle | marks the contrast between one beyond training and the trainee |
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `dṛṣṭi-āptatāyām · eka-ekaḥ · anāsravāḥ · nṛṣu · vardhanam · aśaikṣaḥ · nava · niśritya · bhūmīḥ · śaikṣaḥ · tu · ṣaṭ · yataḥ`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `dṛṣṭi-āptatāyām · eka-ekaḥ · anāsravāḥ · nṛṣu · vardhanam · aśaikṣaḥ · nava · niśritya · bhūmīḥ · śaikṣaḥ · tu · ṣaṭ · yataḥ`.
 
 The first pāda's agreement is compressed. The Bhāṣya resolves **ekaikaḥ** by explicitly stating one **ānantarya-mārga** and one **vimukti-mārga**.
 ## 4. Grammar
@@ -72,7 +72,7 @@ REASON[FOR=trainee-ground-exclusion, CONTINUES-IN=6.62]
 
 ### Bhāṣya-informed study translation
 
-> For one becoming seeing-attained, there is one uninterrupted Path and one liberation Path. These Paths are uncontaminated; strengthening occurs among humans. One beyond training relies on nine grounds, but a trainee on six, because—
+> For one becoming seeing-attained, there is one uninterrupted Path and one liberation Path. All such Paths are uncontaminated; strengthening occurs among humans. One beyond training relies on nine grounds, but a trainee on six, because—
 
 ## 6. Philosophical Translation
 
@@ -150,6 +150,8 @@ three lower ārūpyas      3
 
 These are bases from which the one beyond training can effect faculty-transition.
 
+The working witness's `anāgamyasyānantaraṃ` is compressed: read as an ordinary sequence after *anāgamya*, it names only eight grounds. The ninefold total and the Kośa's explicit `anāgamyaṃ dhyānāntaraṃ` at 6.20 support taking the intermediate concentration as the second ground; Xuanzang's Chinese translation also lists it. This is an explained construal, not a silent correction of the Sanskrit.
+
 **`Śaikṣa / ṣaṭ bhūmīḥ` — six grounds for the trainee**
 
 The trainee's range excludes the formless grounds:
@@ -223,7 +225,7 @@ Thus capability is determined jointly by Path-status, fruit, and available groun
 
 ## 9. Interpretive Note
 
-**Translation note.** The running verse reads `dṛṣṭacyāptatāyām`; the study displays a normalized `dṛṣṭyāptatāyām` while following the prose gloss `dṛṣṭiprāptāyāṃ pratividhyamānāyām`. The phrase `parihāṇyasaṃbhavāt` is construed relative to the excluded nonhuman settings. `Yataḥ` opens the ground-explanation that continues in 6.62; it should not be supplied with a rationale drawn from 6.55.
+**Translation note.** The local running verse reads `dṛṣṭacyāptatāyām`; the study displays the edited `dṛṣṭyāptatāyām` while following the prose gloss `dṛṣṭiprāptāyāṃ pratividhyamānāyām`. The ground list retains `anāgamyasyānantaraṃ`; its expansion to include the intermediate concentration is inferred from the ninefold count and corroborated by [Xuanzang's translation](https://www.ruyimeditation.org/abhidharma/abhidharmakosa/fascicle-025/). The phrase `parihāṇyasaṃbhavāt` is construed relative to the excluded nonhuman settings. `Yataḥ` opens the ground-explanation that continues in 6.62; it should not be supplied with a rationale drawn from 6.55.
 
 VAK 6.61 makes faculty-development into a genuine Path-operation rather than a vague increase in personal strength. The current morphology is directly counteracted, the new morphology is positively possessed, and the amount of mediation is proportionate to how deeply the former configuration has been constituted.
 

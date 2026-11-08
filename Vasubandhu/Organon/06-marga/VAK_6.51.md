@@ -112,6 +112,11 @@ kṣaya / kleśa-prahāṇa
 
 The liberation-path is fruit as both **niṣyanda-phala**, an outflow-result, and **puruṣakāra-phala**, a result of the preceding activity. The corresponding abandonment is unconditioned and must not be identified with the cognition that possesses it.
 
+This is a relative Path–fruit classification. The liberation Path remains
+part of the uncontaminated Path under the opening definition of
+*śrāmaṇya*; in relation to the preceding uninterrupted Path, it is
+classified as conditioned fruit.
+
 **`Ekānnavati` — eighty-nine paired cases**
 
 The Bhāṣya supplies the enumeration:
@@ -143,7 +148,7 @@ unconditioned kṣaya
     is the cessation possessed
 ```
 
-This also clarifies 6.50: *kṣaya*, *kṣayajñāna*, and *anutpādajñāna* are respectively cessation, knowledge of its accomplishment, and—in the immovable case—knowledge of its non-recurrence.
+This also clarifies 6.50: *kṣaya*, *kṣayajñāna*, and *anutpādajñāna* are respectively cessation, Knowing of its accomplishment, and—in the immovable case—Knowing of its non-recurrence.
 
 ## 8. Logical Determination
 
@@ -197,6 +202,13 @@ VAK 6.51 makes action and fruit maximally precise. The action is not retrospecti
 In the Organon reconstruction, this is a concrete articulation of Beginning, operation, and End. The End does not hover in advance as a merely imagined goal. Through the Path-operation it becomes actual in two inseparable but non-identical senses: as the practitioner's conditioned possession of freedom and as freedom-from the obstruction itself.
 
 This is not a conversion of the unconditioned into a produced object. The Bhāṣya preserves the category boundary: causal Path-cognition is conditioned, abandonment is unconditioned, and their unity is the structured meaning of **śrāmaṇya-phala**. The Organon formulation names that relation; it does not replace the source's ontology.
+
+As an Organon question, the Path's relation of effective work and its
+twofold fruit may provide one site where theoretical determination
+becomes practical: a Law articulated in Knowing, enacted as Doing,
+and specified through *cetanā*. The passage establishes the Path and
+fruit relations; it does not name *cetanā* or identify this structure
+with Pure Concept. Those identifications require a wider comparison.
 
 ## 10. OWL++ Seed
 

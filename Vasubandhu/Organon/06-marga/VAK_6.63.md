@@ -33,7 +33,7 @@ The verse does not present seven serial stages. The Bhāṣya derives seven desi
 | **mārga-traye** | masculine locative singular compound | in the three Paths |
 | **yataḥ** | causal relative/adverb | because |
 
-| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `prayoga-akṣa-samāpatti-vimukti-ubhayataḥ · kṛtāḥ · pudgalāḥ · sapta · ṣaṭ · tu · ete · dvau · dvau · mārga-traye · yataḥ`; individual forms and compounds are analyzed in the rows above |
+Pada sequence: `prayoga-akṣa-samāpatti-vimukti-ubhayataḥ · kṛtāḥ · pudgalāḥ · sapta · ṣaṭ · tu · ete · dvau · dvau · mārga-traye · yataḥ`.
 
 The three Paths are Seeing, cultivation, and beyond-training. The Bhāṣya's local contrast **nāmataḥ / dravyataḥ** concerns designation versus non-duplicated actual classification; it does not posit substantial selves.
 
@@ -185,18 +185,17 @@ Here **dravyataḥ** is classificatory. Reading it as seven or six permanent per
 
 **`Indriya / gotra / mārga / vairāgya / āśraya` — intersecting classifications**
 
-The prose immediately demonstrates that a named type can be further differentiated by faculty, disposition, Path-position, degree of dispassion, existential basis, attainment, and liberation. Very large counts therefore arise through intersecting dimensions:
+The prose immediately demonstrates that a named type can be further differentiated by faculty, disposition, Path-position, degree of dispassion, and Basis of birth. For the faith-follower it gives the exact count **3 × 5 × 15 × 73 × 9 = 147,825**. Other names may likewise be differentiated; attainment and liberation enter the wider classification but are not extra factors in this particular multiplication.
 
 ```text
 pudgala determination
-    = prayoga
-    + indriya
-    + gotra
-    + mārga-position
-    + vairāgya
-    + āśraya
-    + samāpatti
-    + vimukti
+    = prayoga, indriya, gotra, mārga-position,
+      vairāgya, Basis of birth, samāpatti, vimukti
+
+faith-follower subtypes
+    = 3 faculties × 5 dispositions × 15 Path positions
+      × 73 degrees of dispassion × 9 birth Bases
+    = 147,825
 ```
 
 These are systematic coordinates of a continuum, not newly invented selves.

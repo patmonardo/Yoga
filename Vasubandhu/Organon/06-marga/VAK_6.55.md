@@ -76,11 +76,11 @@ the quoted scripture supplies the here/there formulation.
 
 ### Bhāṣya-informed study translation
 
-> The first three fruits are attained in the desire realm; the final fruit is attained in all three realms. The Path of Seeing does not arise above the desire realm, because of lack of *saṃvega* and the statement, ‘Here is the beginning; there is the completion.’
+> The first three fruits are attained in the desire realm; the final fruit is attained in all three realms. The Path of Seeing does not arise above the desire realm; in the form realm, this is due to lack of *saṃvega*. Scripture says, ‘Here is the beginning; there is the completion.’
 
 ## 6. Philosophical Translation
 
-The Path has a determinate birthplace without being confined to it. Noble Seeing begins only where instruction can be received, the required cognitive Conditions are available, and the urgency for liberation can arise. Once begun, however, the Path can continue upon grounds incapable of originating it and can attain its final fruit in any of the three existential domains.
+The Path has a determinate birthplace without being confined to it. The Bhāṣya explains the absence of noble Seeing in the formless realm through lack of hearing and of a lower-realm cognitive Condition, and in the form realm through the lack of urgency among ordinary beings. Once begun in the desire realm, the Path can attain its final fruit in any of the three existential domains.
 
 Beginning and End therefore need not share a location or set of enabling conditions. The higher ground can sustain and complete a movement whose initiating principle it could not itself generate.
 
@@ -125,7 +125,7 @@ This directly connects Path-entry with both semantic transmission and determinat
 
 **`Asaṃvega / samāpatti-mukha-saṅga` — Form Realm constraints**
 
-Form-domain ordinary beings lack **`Saṃvega` — urgency for Path-entry** because they are attached to the entrances or modes of *samāpatti* and painful feeling is absent. Profound meditative attainment therefore does not by itself generate noble Seeing:
+Form-domain ordinary beings lack *saṃvega* because they are attached to the entrances or modes of *samāpatti* and painful feeling is absent. Profound meditative attainment therefore does not by itself generate noble Seeing:
 
 ```text
 samāpatti
@@ -173,7 +173,7 @@ The three existential domains have different Path-capacities:
 Originates(PathOfSeeing, DesireDomain)
 
 not Originates(PathOfSeeing, FormDomain)
-    because lacks(Samvega)
+    because ordinary-beings-lack(Samvega)
 
 not Originates(PathOfSeeing, FormlessDomain)
     because lacks(HearingOfDharma)
@@ -211,7 +211,7 @@ The Path is transdomain in range but not placeless in genesis.
 **Translation note.** The first two fruits require continuing relation to Desire Realm passion; the third requires Seeing, which does not originate above that realm. The Bhāṣya gives hearing and lower-realm cognitive Conditions as the Formless Realm constraints, and lack of *saṃvega* as the Form Realm constraint. It glosses `vidhā` as `mārgārambha`, commencement of the Path. The source's `saṃgenā` is retained in the Bhāṣya witness beside the prose discussion of *saṃvega*.
 
 
-VAK 6.55 gives Beginning and End their most concrete relation. Beginning is not an abstract first point: it is the conjunction of a communicable Dharma, an available cognitive field, and the existential capacity for *saṃvega*. End is not simply what was already latent in a superior domain: that domain can complete the Path only because the decisive Seeing was generated elsewhere.
+VAK 6.55 gives Beginning and End their most concrete relation. In this Organon reconstruction, beginning joins a communicable Dharma, an available cognitive field, and the existential capacity for *saṃvega*. The Bhāṣya supplies different exclusions for the two higher realms rather than stating that each lacks all three. A higher domain can complete the Path only because the decisive Seeing began elsewhere.
 
 In the Organon reconstruction, this guards against reading the completed state as self-grounding. The End contains a history it could not have originated from its own local conditions. The Path is the mediation that preserves the force of its determinate beginning while transporting it into a different domain of completion.
 
@@ -224,6 +224,8 @@ Class: DesireDomain
   SanskritLabel: kāmadhātu
 Class: FormDomain
   SanskritLabel: rūpadhātu
+Class: FormDomainOrdinaryBeings
+  SanskritLabel: rūpāvacarāḥ pṛthagjanāḥ
 Class: FormlessDomain
   SanskritLabel: ārūpyadhātu
 Class: PathOfSeeing
@@ -234,7 +236,8 @@ Class: PathCompletion
 Class: SpiritualUrgency
   SanskritLabel: saṃvega
 Class: HearingOfDharma
-Class: RequiredCognitiveCondition
+Class: LowerRealmAsCognitiveCondition
+  SanskritLabel: adhodhātvanālambana
 Class: ArhatFruit
 
 ObjectProperty: originatesIn
@@ -244,18 +247,15 @@ ObjectProperty: lacks
 ObjectProperty: supports
 
 PathOfSeeing originatesIn DesireDomain
-PathOfSeeing requires HearingOfDharma
-PathOfSeeing requires RequiredCognitiveCondition
-PathOfSeeing requires SpiritualUrgency
 FormlessDomain lacks HearingOfDharma
-FormlessDomain lacks RequiredCognitiveCondition
-FormDomain lacks SpiritualUrgency
+FormlessDomain lacks LowerRealmAsCognitiveCondition
+FormDomainOrdinaryBeings lack SpiritualUrgency
 ArhatFruit completesIn DesireDomain
 ArhatFruit completesIn FormDomain
 ArhatFruit completesIn FormlessDomain
 
 KārikāRule: The first three fruits are attained in the desire realm; the final fruit may be attained in all three domains.
-BhāṣyaRule: Formless existence lacks hearing and the required lower-domain object; form existence lacks saṃvega.
+BhāṣyaRule: Formless existence lacks hearing and a lower realm as cognitive Condition; form-realm ordinary beings lack saṃvega.
 ĀgamaRule: Here is Path-commencement; there is completion.
 ProjectRule: A domain may support completion of a Path whose Seeing it cannot originate.
 ```

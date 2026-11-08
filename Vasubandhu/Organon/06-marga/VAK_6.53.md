@@ -20,7 +20,7 @@ The second half is syntactically compressed in the working witness. The Bhāṣy
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| **jñāna-aṣṭakasya** | neuter genitive singular compound | of the group of eight knowledges |
+| **jñāna-aṣṭakasya** | neuter genitive singular compound | of the group of eight Knowings |
 | **lābhaḥ** | masculine nominative singular | acquisition |
 | **atha** | connective particle | and; introduces the fifth criterion |
 | **ṣoḍaśa-ākāra-bhāvanā** | feminine nominative singular compound | cultivation of the sixteen Truth-aspects |
@@ -46,7 +46,7 @@ doctrinal relation.
 
 ## 4. Grammar
 
-**jñānāṣṭakasya lābhaḥ** and **ṣoḍaśākārabhāvanā** are coordinated nominative expressions completing the list of fruit-criteria: acquisition of the eight knowledges and cultivation of the sixteen aspects.
+**jñānāṣṭakasya lābhaḥ** and **ṣoḍaśākārabhāvanā** are coordinated nominative expressions completing the list of fruit-criteria: acquisition of the eight Knowings and cultivation of the sixteen aspects.
 
 In the second half, **laukikāptam** designates an abandonment originally attained by a mundane Path. **miśratvāt** gives one reason it can count within śrāmaṇya-fruit: it is mixed with abandonments produced by the uncontaminated Path of Seeing. The Bhāṣya supplies a second determination: an uncontaminated attainment of separation maintains the whole abandonment included in the fruit.
 
@@ -65,7 +65,7 @@ This does not say that its original mundane cause is retroactively changed.
 
 ```text
 PRINCIPAL-FRUIT
-  → ACQUISITION[eight-knowledges]
+  → ACQUISITION[eight-knowings]
   → CULTIVATION[sixteen-Truth-aspects]
 MUNDANELY-ATTAINED-ABANDONMENT[IN=once-or-non-returner-fruit]
   → MIXED-WITH[Seeing-Path-abandonment]
@@ -80,33 +80,33 @@ relations answer the new objection about mundane attainments.
 
 ### Literal Translation
 
-> There is also acquisition of the eight knowledges and cultivation
+> There is also acquisition of the eight Knowings and cultivation
 > of the sixteen aspects. What was attained by a mundane Path is fruit
 > because it is mixed in and sustained by an uncontaminated attainment.
 
 ### Bhāṣya-informed study translation
 
-> There is also acquisition of eight knowledges and cultivation of sixteen aspects. What was attained through a mundane Path is fruit when joined with an uncontaminated attainment.
+> There is also acquisition of eight Knowings and cultivation of sixteen aspects. A mundanely attained abandonment counts as fruit because it is mixed with Seeing-path abandonments and sustained by an uncontaminated attainment.
 
 ## 6. Philosophical Translation
 
-The principal fruit is not only an integrated possession of abandonments; it is an articulated truth-cognition. Eight knowledges are acquired together, and the sixteen forms under which the four Truths are known are cultivated. Fruit is therefore a determinate organization of knowledge, not an indeterminate terminal awareness.
+The principal fruit is not only an integrated possession of abandonments; it is an articulated truth-cognition. Eight Knowings are acquired together, and the sixteen forms under which the four Truths are known are cultivated. Fruit is therefore a determinate organization of Knowing, not an indeterminate terminal awareness.
 
 Its unity can contain results with different histories. An abandonment initially achieved through mundane comparison remains mundanely produced, yet is preserved within a whole whose integration and maintenance are uncontaminated. Unity does not erase genesis; it gives differently generated results a new common Path-status.
 
 ## 7. Technical Vocabulary
 
-**`Jñānāṣṭaka` — eight knowledges**
+**`Jñānāṣṭaka` — eight Knowings**
 
 The Bhāṣya identifies **jñānāṣṭaka** as four *dharma-jñānas* and four *anvaya-jñānas*:
 
 ```text
 four Truths
     × dharma-jñāna and anvaya-jñāna
-    = eight knowledges
+    = eight Knowings
 ```
 
-Their simultaneous acquisition at each principal fruit means that the fruit includes possession of the articulated noble system of knowledge.
+Their simultaneous acquisition at each principal fruit means that the fruit includes possession of the articulated noble system of Knowing.
 
 **`Ṣoḍaśākāra-bhāvanā` — cultivation of sixteen Truth-aspects**
 
@@ -123,7 +123,7 @@ Together with the three reasons stated in 6.52, these complete the fivefold crit
 1. previous Path relinquished
 2. previously unattained Path acquired
 3. abandonments integrated
-4. eight knowledges acquired
+4. eight Knowings acquired
 5. sixteen Truth-aspects cultivated
     → principal fruit-position
 ```
@@ -195,7 +195,7 @@ The fruit is therefore genetically differentiated and presently unified. Its com
 
 ## 9. Interpretive Note
 
-**Translation note.** The opening half completes 6.52's five criteria. The second half answers how a fruit partly reached by mundane means can count as śrāmaṇya-fruit. The commentary says the fruit includes Seeing-path abandonments and is held by an uncontaminated attainment of separation. The running source's `laukikāoptaṃ` and `phalalm` are retained in the Bhāṣya witness rather than silently regularized there.
+**Translation note.** The opening half completes 6.52's five criteria. The second half answers how a fruit partly reached by mundane means can count as śrāmaṇya-fruit. The commentary says the fruit includes Seeing-path abandonments and is held by an uncontaminated attainment of separation. The running source's `laukikāoptaṃ` and `phalalm` are retained in the Bhāṣya witness rather than silently regularized there. The closing `parihīṇāmaraṇāt` can be read with [Xuanzang's Chinese parallel](https://www.ruyimeditation.org/abhidharma/abhidharmakosa/fascicle-024/) as non-death in a fallen-away state; the following `maraṇaṃ` remains uncertain.
 
 
 VAK 6.53 supplies a powerful account of preservation without falsification of origin. The later uncontaminated Path does not rewrite its mundane prehistory. It recollects the real fruits of that history together with the abandonments of Seeing, and maintains them through one noble attainment.
@@ -238,7 +238,7 @@ MixedFruit gatheredBy OneSeparationAttainment
 MixedFruit maintainedBy UncontaminatedAttainment
 MixedFruit instanceOf PrincipalSramanyaFruit
 
-KārikāRule: Acquisition of eight knowledges and cultivation of sixteen aspects complete the fivefold fruit-criterion.
+KārikāRule: Acquisition of eight Knowings and cultivation of sixteen aspects complete the fivefold fruit-criterion.
 BhāṣyaRule: Mundanely attained abandonments may be constituents of a fruit integrated with Seeing-path abandonments.
 BhāṣyaRule: One uncontaminated attainment of separation gathers and sustains the whole fruit.
 ProjectRule: Integrated Path-unity preserves distinct genesis while establishing a new common status.

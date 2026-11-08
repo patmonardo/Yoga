@@ -5,7 +5,7 @@
 > dṛṣṭyāptatāyām ekaikaḥ anāsravāḥ nṛṣu vardhanam |
 > aśaikṣo nava niśritya bhūmīḥ śaikṣas tu ṣaṭ yataḥ || 6.61 ||
 
-> For one becoming seeing-attained, there is one uninterrupted Path and one liberation Path. These Paths are uncontaminated; strengthening occurs among humans. One beyond training relies on nine grounds, but a trainee on six, because—
+> For one becoming seeing-attained, there is one uninterrupted Path and one liberation Path. All such Paths are uncontaminated; strengthening occurs among humans. One beyond training relies on nine grounds, but a trainee on six, because—
 
 The verse ends with `yataḥ`; its reason for the trainee's six-ground limit begins with 6.62.
 
@@ -43,13 +43,13 @@ kiṃ kāraṇam /
      yataḥ // VAkK_6.61 //
 ```
 
-This is the complete running unit [378|20]–[379|12] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The first kārikā fragment reads `dṛṣṭacyāptatāyāmekaikaḥ`; the study normalizes the verse using the prose's explicit `dṛṣṭiprāptāyāṃ`. The causal `yataḥ` marks a continuation rather than a complete explanation within this unit.
+This is the complete running unit [378|20]–[379|12] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The first kārikā fragment reads `dṛṣṭacyāptatāyāmekaikaḥ`; the study uses the edited `dṛṣṭyāptatāyām` also found in the [Pradhan Sanskrit edition](https://www2.hf.uio.no/polyglotta/index.php?cid=504731&level=2&page=fulltext), with the prose's explicit `dṛṣṭiprāptāyāṃ` fixing its sense. The causal `yataḥ` marks a continuation rather than a complete explanation within this unit.
 
 ## 3. Continuous Translation
 
 When the seeing-attained condition is being entered, there is just one uninterrupted Path and one liberation Path. The preparatory Path is one in every case. All of those uninterrupted and liberation Paths are uncontaminated: noble persons do not change their faculties by means of a contaminated Path.
 
-Where are faculties strengthened? Among humans. Faculty change occurs among humans only, not elsewhere, because regression is impossible in the excluded settings. The commentary then asks which grounds a practitioner relies upon to change faculties. One beyond training relies upon nine: the access concentration, the intermediate concentration, four concentrations, and three formless attainments. A trainee relies upon six, excluding the formless grounds. Why this difference? The verse ends with “because,” and the answer begins in 6.62.
+Where are faculties strengthened? Among humans. Faculty change occurs among humans only, not elsewhere, because regression is impossible in the excluded settings. The commentary then asks which grounds a practitioner relies upon to change faculties. One beyond training relies upon nine: the access concentration, [the intermediate concentration], four concentrations, and three formless attainments. A trainee relies upon six, excluding the formless grounds. Why this difference? The verse ends with “because,” and the answer begins in 6.62.
 
 ## 4. Movement of the Commentary
 
@@ -57,7 +57,7 @@ The commentary specifies `ekaikaḥ` as one of each paired Path and adds that th
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Dṛṣṭacyāptatāyām` is kept in the source witness; the study's normalized verse follows the prose gloss of attaining `dṛṣṭiprāpta`. `Parihāṇyasaṃbhavāt` is read with the nearby `nānyatra`: regression is impossible in the excluded settings. `Anāgamyasyānantaraṃ` provides the first two of the nine supports, followed by four concentrations and three formless attainments. The text does not give the complete causal account for the trainee's exclusion until 6.62.
+**Translation decisions.** `Dṛṣṭacyāptatāyām` is kept in the source witness; the study's edited verse follows the prose gloss of attaining `dṛṣṭiprāpta`. `Parihāṇyasaṃbhavāt` is read with the nearby `nānyatra`: regression is impossible in the excluded settings. The compressed `anāgamyasyānantaraṃ` is construed as access and intermediate concentration because the stated total is nine; 6.20 explicitly names both, and [Xuanzang's Chinese translation](https://www.ruyimeditation.org/abhidharma/abhidharmakosa/fascicle-025/) independently enumerates them. The brackets in the continuous translation mark the supplied second ground. The text does not give the complete causal account for the trainee's exclusion until 6.62.
 
 **Organon determination.** Faculty change depends on an appropriate uncontaminated Path, practitioner status, and available ground. This is a synthesis of the passage's constraints. The comparison with nine pairs for unshakeability comes from 6.60 and should not collapse the one-pair operation here into the same event.
 

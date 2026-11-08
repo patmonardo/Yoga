@@ -140,31 +140,52 @@ rim
 
 This is an attributed explanation. Its value lies in functional articulation: the factors operate as one wheel rather than as a heap.
 
-**`Triparivarta / dvādaśākāra` — three turnings and twelve aspects**
+**`Triparivarta / dvādaśākāra` — three turnings and two twelvefold accounts**
 
-The traditional formula gives each Truth three determinations:
+The first account gives each Truth three turnings:
 
 ```text
 Truth stated
-    this is suffering, origin, cessation, Path
+    this is the noble Truth of suffering
 
 task prescribed
-    to be fully known, abandoned,
-    realized, cultivated
+    this suffering is to be fully known
 
 task completed
-    fully known, abandoned,
-    realized, cultivated
+    this suffering has been fully known
 ```
 
-Across the four Truths:
+At each turning, four terms are said to arise: eye, Knowing,
+illumination, and understanding. Thus the first twelvefold count is
+local to each Truth:
 
 ```text
-four Truths × three determinations
-    = twelve aspects
+three turnings × four arising terms
+    = twelve aspects for each Truth
 ```
 
-The Vaibhāṣikas associate the three turnings with Seeing, cultivation, and beyond-training. Vasubandhu objects that this cannot make the Path of Seeing **alone** three-turning and twelve-aspect. He therefore regards the Dharma exposition itself as the more fitting bearer of that formula.
+The Vaibhāṣikas associate these three turnings with Seeing,
+cultivation, and beyond-training. The commentary objects that this
+cannot make the Path of Seeing **alone** three-turning and twelve-aspect.
+It then assigns the complete formula to the Dharma exposition and
+gives a second twelvefold reckoning. Three rounds pass through the
+four Truths, stating each Truth, prescribing its task, and declaring
+that task accomplished:
+
+```text
+four Truths × three rounds
+    = twelve positions in the exposition
+```
+
+The same twelvefold designation is explained through two different
+counts; they should not be collapsed into one arithmetic statement.
+
+Across the four Truths, the tasks are:
+
+```text
+fully know suffering / abandon origin /
+directly realize cessation / cultivate Path
+```
 
 **`Artha-jñāpana / para-saṃtāna-gamana` — Meaning entering another continuum**
 
@@ -222,7 +243,8 @@ meaning transmitted
     → wheel set in motion
 ```
 
-The three-turning structure also joins object and practical demand:
+In the exposition account, the three-turning structure also joins
+Truth and practical demand:
 
 ```text
 Truth
@@ -234,7 +256,7 @@ The wheel's unity is therefore dynamic and semantic-practical: differentiated de
 
 ## 9. Interpretive Note
 
-**Translation note.** The kārikā names brāhmaṇya, Brahma-wheel, and the Path of Seeing as Dharma-wheel. Ghoṣaka's wheel-part analysis, the Vaibhāṣika mapping of three turnings, the objection to restricting all three to Seeing, and the Dharma exposition or whole-Path accounts are Bhāṣya voices. `Artha-jñāpana` is making Meaning known; its success is the Dharma's going into another continuum, with Seeing arising there.
+**Translation note.** The kārikā names brāhmaṇya, Brahma-wheel, and the Path of Seeing as Dharma-wheel. Ghoṣaka's wheel-part analysis, the Vaibhāṣika mapping of three turnings, the objection to restricting all three to Seeing, and the Dharma exposition or whole-Path accounts are Bhāṣya voices. The first twelvefold count is three turnings times four arising terms for each Truth; the later exposition count is three rounds through four Truths. `Artha-jñāpana` is making Meaning known; its success is the Dharma's going into another continuum, with Seeing arising there.
 
 
 VAK 6.54 is a textual anchor for the LogoGenesis of the Path. The Path first exists as realized liberating order, but its “wheel” determination appears when that order is made communicable and becomes effective beyond its initial continuum. Meaning is not a representation inserted between realization and action; it is the mediation through which realization generates Path in another.
@@ -268,8 +290,9 @@ Class: MeaningCommunication
   SanskritLabel: artha-jñāpana
 Class: ThreeTurnings
   SanskritLabel: tri-parivarta
-Class: TwelveAspects
+Class: PerTruthTwelveAspects
   SanskritLabel: dvādaśa-ākāra
+Class: ExpositionTwelvePositions
 
 ObjectProperty: removes
 ObjectProperty: setInMotionBy
@@ -277,6 +300,7 @@ ObjectProperty: hasWheelPart
 ObjectProperty: makesMeaningKnownTo
 ObjectProperty: entersContinuum
 ObjectProperty: producesSeeingIn
+ObjectProperty: hasTwelvefoldReckoning
 
 Brahmanya removes Affliction
 BrahmaWheel setInMotionBy Buddha
@@ -285,7 +309,8 @@ DharmaExposition makesMeaningKnownTo OtherContinuum
 DharmaWheel entersContinuum OtherContinuum
 DharmaWheel producesSeeingIn OtherContinuum
 DharmaExposition structuredBy ThreeTurnings
-ThreeTurnings articulate TwelveAspects
+ThreeTurnings hasTwelvefoldReckoning PerTruthTwelveAspects
+DharmaExposition hasTwelvefoldReckoning ExpositionTwelvePositions
 
 KārikāRule: The Path of Seeing is called the Dharma-wheel through swift wheel-like movement.
 GhoṣakaRule: The noble eightfold Path corresponds functionally to spokes, hub, and rim.

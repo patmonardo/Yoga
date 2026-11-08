@@ -5,7 +5,7 @@
 > kāme trayāptir antyasya triṣu nordhvaṃ hi dṛkpathaḥ |
 > asaṃvegād iha vidhā tatra niṣṭheti cāgamāt || 6.55 ||
 
-> The first three fruits are attained in the desire realm; the final fruit is attained in all three realms. The Path of Seeing does not arise above the desire realm, because of lack of *saṃvega* and the statement, ‘Here is the beginning; there is the completion.’
+> The first three fruits are attained in the desire realm; the final fruit is attained in all three realms. The Path of Seeing does not arise above the desire realm; in the form realm, this is due to lack of *saṃvega*. Scripture says, ‘Here is the beginning; there is the completion.’
 
 The first three fruits require attainment in the desire realm; the
 last can be attained in any of the three realms. The commentary then

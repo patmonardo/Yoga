@@ -99,7 +99,7 @@ prativedhanābhavya
     → may lose an acquired stronger gotra
 ```
 
-The *parihāṇadharman* has no lower disposition beneath its own from which to regress, while the *akopyadharman* is excluded by immovability.
+The *parihāṇadharman* has no lower disposition into which it could regress, while the *akopyadharman* is excluded by immovability.
 
 **`Na pūrvakāt` — the first disposition and fruit remain firm**
 
@@ -121,10 +121,10 @@ The same principle applies to fruit. One does not regress from one's first noble
 
 **`Darśanaheya / avastuka / vitathālambana` — Seeing and false apprehension**
 
-The Bhāṣya describes afflictions abandoned by Seeing as **avastuka** in a technical sense. This does not mean that they have no cognitive Condition. They take real Bases as cognitive Conditions but apprehend them falsely (**vitathālambana**) by superimposing agent, experiencer, controller, or self.
+The Bhāṣya describes afflictions abandoned by Seeing as **avastuka** in a technical sense. This does not mean that they have no cognitive Support. They take the real Truths, including the aggregates, as Support but apprehend them falsely (**vitathālambana**) by superimposing agent, experiencer, controller, or self.
 
 ```text
-real Bases
+real Truths as Support
     + false self-superimposition
     → darśana-heya error
 
@@ -280,7 +280,7 @@ Class: FacultyTransition
   SanskritLabel: indriya-saṃcāra
 Class: PreparatoryApplication
   SanskritLabel: prayoga
-Class: FalseConditionApprehension
+Class: FalseSupportApprehension
   SanskritLabel: vitatha-ālambana
 Class: VaibhasikaPosition
 Class: SautrantikaPosition

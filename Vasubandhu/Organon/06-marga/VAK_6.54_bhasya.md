@@ -110,20 +110,22 @@ Kauṇḍinya, the wheel was said to have been turned.
 But how is this wheel three-turning and twelve-aspect? For the Truth
 of suffering: “this is suffering,” “it is to be fully known,” and
 “it has been fully known” are three turnings. At each turning, eye,
-Knowing, insight, and understanding arise; this pattern applies to
-each Truth. The source also compares the three-by-four structure to
-another teaching scheme. The Vaibhāṣikas map the three turnings to
-the Paths of Seeing, cultivation, and beyond-training, respectively.
+Knowing, illumination, and understanding arise: four arising terms
+across three turns give twelve aspects for each Truth. The formula is
+stated once although it applies to every Truth, as in the teaching of
+skill in two matters and seven stations. The Vaibhāṣikas map the three
+turnings to the Paths of Seeing, cultivation, and beyond-training,
+respectively.
 An objection follows: if so, the Path of Seeing alone cannot be
 three-turning and twelve-aspect. The Dharma exposition itself is a
 more fitting bearer of those descriptions.
 
-The commentary then spells out the exposition's structure. Each of
-the four Truths—suffering, origin, cessation, and Path—is presented,
+The commentary then gives a different count for the exposition. Each
+of the four Truths—suffering, origin, cessation, and Path—is presented,
 assigned a task (fully know, abandon, directly realize, cultivate),
 and presented as accomplished (fully known, abandoned, directly
 realized, cultivated). These are three turnings of the Truths and
-twelve aspects across the four. The exposition is turned when,
+twelve positions across the four. The exposition is turned when,
 through making Meaning known, it goes into another continuum.
 Alternatively, the whole noble Path may be called the Dharma-wheel
 because it moves through the continuums of those to be trained; its
@@ -147,7 +149,16 @@ The Buddha's Brahmā-name is explained by unsurpassed brāhmaṇya;
 functionally articulated eightfold Path, the Dharma exposition, and
 the whole noble Path. Ghoṣaka and the Vaibhāṣikas are explicitly
 attributed. `Artha-jñāpana` is making Meaning known, and
-`para-saṃtāna-gamana` its entry into another continuum.
+`para-saṃtāna-gamana` its entry into another continuum. The first
+twelvefold account counts four arising terms at each of three turns
+for each Truth; the later exposition account counts three rounds
+across four Truths. `Dvayasaptasthānakauśalādeśanāvat` is rendered
+provisionally as an analogy with a teaching of skill in two matters
+and seven stations.
+
+Xuanzang's Chinese [T1558, fascicle 24](https://www.ruyimeditation.org/abhidharma/abhidharmakosa/fascicle-024/)
+also distinguishes `眼智明覺` at each turn from `三周循歷四聖諦`
+in the later exposition account.
 
 **Organon determination.** The source presents teaching, reception,
 and arising of Seeing as a genuine Path transmission. Interpreting

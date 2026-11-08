@@ -5,7 +5,7 @@
 > saviśeṣaṃ phalaṃ tyaktvā phalam āpnoti vardhayan |
 > dvau buddhau śrāvakāḥ sapta navaite navadhendriyāḥ || 6.62 ||
 
-> One who strengthens the faculties relinquishes the fruit together with its weak-faculty Path and attains the fruit with a sharp-faculty Path. By their nine faculty-grades, these persons are two Buddhas and seven disciples.
+> One who strengthens the faculties relinquishes the fruit together with its weak-faculty Path and attains the fruit with a sharp-faculty Path. There are two Buddhas and seven disciples; these nine are distinguished by nine grades of faculty.
 
 The first half supplies the reason opened by `yataḥ` in 6.61; the second classifies persons by faculty grade.
 
@@ -40,7 +40,7 @@ This is the complete running unit [379|13]–[380|03] in `Vasubandhu/Sources/kos
 
 The practitioner who changes faculties relinquishes the fruit along with the weak-faculty Path qualified by that fruit, and acquires the fruit and Path belonging to a sharp-faculty disposition. That is the reason for the preceding restriction: the non-returner fruit is not included in a formless ground.
 
-These six Arhat types can be reckoned as nine persons when differentiated by faculties. How? There are two Buddhas and seven Śrāvakas, nine persons whose faculties are ninefold. The seven Śrāvakas are the five types beginning with the one liable to fall away, plus the unshakeable type in two forms: one who reached it by sharpening and one who was of that disposition from the beginning. This is a distinction within the unshakeable type. The two Buddhas are the Pratyekabuddha and the Buddha. Thus differences among the nine faculty grades, beginning with mild-mild, give nine person types.
+The earlier six Arhat types enter a nine-person reckoning based on differences of faculty. How? There are two Buddhas and seven Śrāvakas, nine persons whose faculties are ninefold. The seven Śrāvakas are the five types beginning with the one liable to fall away, plus the unshakeable type in two forms: one who reached it by sharpening and one who was of that disposition from the beginning. This is a distinction within the unshakeable type. The two Buddhas are the Pratyekabuddha and the Buddha. Thus differences among the nine faculty grades, beginning with mild-mild, give nine person types.
 
 ## 4. Movement of the Commentary
 
