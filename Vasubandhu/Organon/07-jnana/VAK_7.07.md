@@ -166,22 +166,24 @@ The arrows in the first account represent dependence and subsequent
 articulation. They do not turn exhaustion-knowledge itself into a merely
 retrospective opinion.
 
-The local source subsequently recapitulates the ten names at
-394|16–394|18: dharma, anvaya, conventional, suffering, origination,
-cessation, Path, other-mind, exhaustion, and non-arising knowledge.
-Their relations remain overlapping classifications, as the previous
-studies have shown.
+The source closes this unit by recapitulating the ten names and how each
+class is partly included in the others at [394|16]–[394|25]. Conventional
+knowledge is part of one other class; dharma- and anvaya-knowledge are each
+part of seven; suffering-, origination-, and cessation-knowledge are each
+part of four; Path-knowledge is part of five; knowledge of another's
+Consciousness is part of four; and exhaustion- and non-arising-knowledge
+are each part of six. These are partial overlaps, not ten additional
+knowledges. The paired Bhāṣya study translates every named relation.
 
 ## 9. Interpretive Note
 
-**The source extends beyond the local extract.** The research Bhāṣya
-file stops its quotation at the Kashmiri attribution. The underlying
-source continues with `anāsraveṇāpy evaṃ jānātīty apare`: others say
-that one knows thus through uncontaminated knowledge also. This official
-study includes that qualification rather than treating the Kashmiri
-explanation as an unopposed conclusion.
+**Complete-unit repair.** An earlier extract stopped before the source's
+second attributed answer, the `darśana` explanation, and the ten-class
+recapitulation. The paired Bhāṣya study now prints and translates the
+complete [394|05]–[394|25] unit. The question `kasmāt punar etāni…`
+after the recapitulation opens 7.08 under the overlapping [394|16–26] label.
 
-**Bhāṣya control.** Pradhan 394|08–394|15 supplies the four completed
+**Bhāṣya control.** Pradhan [394|05]–[394|25] supplies the four completed
 truth-tasks and the prospective non-repetition clause. It then offers two
 attributed accounts of how the first-person formulation is known:
 the Kashmiri account invokes subsequently acquired cognition upon
@@ -189,18 +191,18 @@ emergence; other teachers allow uncontaminated cognition itself as well.
 The study translation renders the kārikā's definition, leaving this
 dispute in the Bhāṣya analysis.
 
-**The word `darśana`.** The following prose discusses its occurrence
-in the cited formula. The e-text includes the difficult
-`bhāṣyākṣepāt` and then `jpratyakṣavṛttitvādvā`; the latter appears
-to offer direct operation as an alternative ground. Exact restoration
-and translation of the former clause remain open. The official study
-therefore records the issue without constructing a settled explanation
-from damaged wording or reversing VAK 7.01's explicit classification.
+**The word `darśana`.** The closing prose discusses its occurrence in
+the cited formula. The local text has difficult `bhāṣyākṣepāt` and
+`jpratyakṣavṛttitvādvā`. [Xuanzang's Chinese Kośa](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+corroborates two offered grounds: an expression prompted by the exposition
+and direct operation with respect to truth. The paired study translates
+both provisionally while preserving the damaged Sanskrit. Neither the
+śāstra's name-list nor its cited formula reverses 7.01's explicit
+classification of the two terminal knowledges as lacking view-nature.
 
-**Other textual details.** The raw source has `na pounaḥ` and
-`jñāpiota`, normalized in the local research quotation as `na punaḥ`
-and `jñāpita`. The translation follows the readable contextual sense;
-the underlying witnesses remain intact.
+**Other textual details.** The raw source has `na pounaḥ`, `jñāpiota`,
+`samudayañṇyāna`, and `paracittajñana`. The continuous Sanskrit retains
+these forms; the translation follows the readable contextual sense.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.** This verse
 gives our reconstruction a direct articulation of their companionship.
@@ -222,9 +224,11 @@ other teachers allow that knowing within uncontaminated cognition too.
 These provide distinct resources for our reconstruction. Choosing
 between them requires an argument beyond merely repeating either view.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The truth-task
-distinction and both accounts of explicit knowing are retained. The
-damaged explanation of `darśana` remains a localized textual question.
+**Review status.** The complete [394|05]–[394|25] natural unit and both
+adjacent boundaries have been checked against the local source. The
+truth-task distinction, both attributed answers, the two provisional
+`darśana` grounds, and the ten-class overlap are retained. Exact Sanskrit
+restoration of the damaged clauses remains open.
 
 ## 10. OWL++ Seed
 

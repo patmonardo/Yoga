@@ -115,7 +115,7 @@ counteraction remain relevant.
 | `svalakṣaṇa` | own characteristic | One Bhāṣya example explaining conventional knowledge's wider apprehension. |
 | `sāmānyalakṣaṇa` | common characteristic | Paired with own characteristic in `svasāmānyalakṣaṇādi`; the prose explains breadth, not a closed partition of aspect-types. |
 | `svaiḥ svaiḥ satyākāraiḥ` | through their own respective truth-aspects | Distributes four proper aspects to each truth-knowledge, rather than all sixteen to each. |
-| `catuṣṭaya` | group of four | Suffering-, origination-, cessation-, and Path-knowledge here, distinct from 7.05's four overlapping classes of other-mind knowledge. |
+| `catuṣṭaya` | group of four | Suffering-, origination-, cessation-, and Path-knowledge here, distinct from 7.05's four overlapping classes of knowledge of another's Consciousness. |
 
 ## 8. Logical Determination
 
@@ -174,8 +174,9 @@ at the end of the first line can obscure its connection to conventional
 knowledge. The prose explicitly joins the sixteen-aspected and
 otherwise-aspected predicates under `saṃvṛtijñāna`.
 
-**Scope of the translation.** Pradhan 395|17–396|02 distributes the ranges
-and says the sixteen aspects will be taught later. The informed translation
+**Scope of the translation.** The complete [395|17]–[396|01–02] unit
+distributes the ranges and says the sixteen aspects will be taught later.
+The informed translation
 names the four truth-knowledges and their respective four aspects, while
 leaving the later enumeration in its own source location.
 
@@ -185,10 +186,10 @@ truth-aspects. Neither object alone nor aspect alone can therefore
 serve as an adequate test of uncontaminated knowledge. Their systematic
 position remains part of the determination.
 
-**The source's sequence.** The research kārikā file supplies a standard
-list of sixteen aspects. The Bhāṣya itself postpones that teaching.
-The official study retains the range and fourfold distribution here,
-leaving the detailed terms to their proper place in the exposition.
+**The source's sequence.** The Bhāṣya postpones the names of the sixteen
+aspects. This study retains the range and fourfold distribution here,
+leaving the detailed terms to their later locus. The preceding anvaya
+exclusion ends [395|16]; 7.11 starts at [396|03].
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.** Our Yoga
 system now gains a sharper account of the relation between knowing
@@ -211,10 +212,11 @@ replace the precise operation appropriate to that task. This is our
 Vidyā–Technē development of the distribution, kept distinct from
 the verse's own classificatory statement.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The scope of
-`anyathā` and the four-aspect distribution are explicit in the prose.
-The minor `ṣoḍḍaśa` reading is recorded; the detailed aspect-list
-remains reserved for the later passage.
+**Review status.** The complete [395|17]–[396|01–02] natural unit and
+both adjacent boundaries have been checked against the local source.
+The scope of `anyathā` and the four-aspect distribution are explicit in
+the prose. The damaged `ṣoḍḍaśa` reading remains visible; the detailed
+aspect-list remains reserved for the later passage.
 
 ## 10. OWL++ Seed
 

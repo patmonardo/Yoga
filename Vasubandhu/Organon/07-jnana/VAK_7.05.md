@@ -1,4 +1,4 @@
-# VAK_7.05 — First Arising and the Limits of Other-Mind Knowledge
+# VAK_7.05 — First Arising and the Limits of Knowing Another's Consciousness
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,7 +14,9 @@ duḥkhahetvanvayajñāne caturbhyaḥ paracittavit |
 bhūmyakṣapudgalotkrāntaṃ naṣṭājātaṃ na vetti tat || 7.5 ||
 ```
 
-The Sanskrit follows the local kārikā witness. The opening compound
+The Sanskrit follows the local kārikā witness; the local Bhāṣya quotation
+has `na veti tat` where the study displays `na vetti tat` as a working
+reading. The opening compound
 completes the last clause of VAK 7.04. A new statement begins with
 `caturbhyaḥ paracittavit`. Keeping this boundary intact corrects a
 substantive misreading in both local research studies.
@@ -25,7 +27,7 @@ substantive misreading in both local research studies.
 |---|---|---|
 | `duḥkha-hetu-anvaya-jñāne` | nominative dual neuter compound designation; `hetu + anvaya` gives `hetvanvaya` | suffering- and origination-anvaya-knowledges; `hetu` names origination, not another truth |
 | `caturbhyaḥ` | ablative plural numeral | from four knowledge-categories, as a classification rather than a causal source |
-| `para-citta-vit` | nominative singular compound ending in `-vid`; Bhāṣya glosses `vit` with `vetti` and supplies `jñānam` | knowledge of another mind, not a new practitioner-type |
+| `para-citta-vit` | nominative singular compound ending in `-vid`; Bhāṣya glosses `vit` with `vetti` and supplies `jñānam` | knowledge of another's Consciousness, not a new practitioner-type |
 | `bhūmi` (in `bhūmyakṣa-`) | compound member; sandhi of `bhūmi + akṣa` | meditative level |
 | `akṣa` | compound member | faculty, explained through `indriya` |
 | `pudgala` | compound member | person, here practitioner standing |
@@ -33,7 +35,7 @@ substantive misreading in both local research studies.
 | `naṣṭa-ajātam` | accusative singular neuter coordinated expression | ceased or not yet arisen |
 | `na` | negative particle | not |
 | `vetti` | third-person singular present active of `√vid` | knows |
-| `tat` | nominative singular neuter pronoun | that [knowledge of another mind] |
+| `tat` | nominative singular neuter pronoun | that [knowledge of another's Consciousness] |
 
 ## 4. Grammar
 
@@ -48,7 +50,7 @@ te punaḥ prathamodite
 origination-anvaya-knowledges.” The nominative dual predicate completes
 the preceding dual subject, exhaustion- and non-arising-knowledge.
 It is not a locative expression and does not enumerate the four categories
-of other-mind knowledge in the following clause.
+of knowledge of another's Consciousness in the following clause.
 
 The dual names the available truth-classifications at first arising. It
 does not assign exhaustion exclusively to suffering and non-arising
@@ -61,18 +63,18 @@ statement. The Bhāṣya expands:
 paracittajñānaṃ caturbhyo jñānebhyo draṣṭavyam
 ```
 
-“Knowledge of another mind is to be understood from four knowledges.”
+“Knowledge of another's Consciousness is to be understood from four knowledges.”
 The ablative expresses classification here; “is causally produced by four
 knowledges” would add a genesis the sentence does not assert.
 
 **The range restriction.** `Tat` is the subject of `na vetti`. The
-accusatives identify excluded objects: what exceeds the corresponding
+accusatives identify excluded targets: what exceeds the corresponding
 level, faculty, or practitioner standing, and what has ceased or has not
-yet arisen. The Bhāṣya identifies the positive object-field as presently
-occurring other-mind and mental factors.
+yet arisen. The Bhāṣya identifies present Consciousness and mental factors
+in another continuum as the relevant Conditions.
 
 **Close construe.** [Those two, when first arisen, are] suffering- and
-origination-anvaya-knowledges. Other-mind knowledge—[is classified] from
+origination-anvaya-knowledges. Knowledge of another's Consciousness—[is classified] from
 four. It does not know what exceeds [it] in level, faculty, or person,
 or what has ceased or has not yet arisen.
 
@@ -81,25 +83,25 @@ or what has ceased or has not yet arisen.
 ### Literal Translation
 
 > [Those two, when first arisen, are] suffering- and origination-anvaya-
-> knowledges. Knowledge of another mind is [classified] from four.
+> knowledges. Knowledge of another's Consciousness is [classified] from four.
 > It does not know what exceeds it in level, faculty, or person, nor
 > what has ceased or has not yet arisen.
 
 ### Bhāṣya-informed study translation
 
 > At their first arising, exhaustion- and non-arising-knowledge are
-> suffering- and origination-anvaya-knowledge, taking the Base at the summit
-> of existence as object. Knowledge of another mind belongs to four knowledge
-> classes—dharma, anvaya, Path, and conventional—and cannot know a mind
-> beyond its level, faculty, or practitioner standing, nor one already
-> ceased or not yet arisen.
+> suffering- and origination-anvaya-knowledge, taking the Bases at the summit
+> of existence as Support. Knowledge of another's Consciousness belongs to
+> four knowledge classes—dharma, anvaya, Path, and conventional—and cannot
+> know Consciousness beyond its level, faculty, or practitioner standing,
+> nor Consciousness already ceased or not yet arisen.
 
 ## 6. Philosophical Translation
 
-> The first actualization of terminal knowledge has a specified object and
-> aspect, within its broader truth-classified range. Other-mind knowledge
+> The first actualization of terminal knowledge has a specified Support and
+> aspect, within its broader truth-classified range. Knowledge of another's Consciousness
 > then receives a different determination: it belongs within four existing
-> knowledge-categories and operates within a graded, present object-field.
+> knowledge-categories and operates within graded, present Conditions.
 > Its capacity is intelligible through both its classificatory relations
 > and the limits on what it can know.
 
@@ -113,15 +115,15 @@ predicate from becoming a false derivation of another cognitive capacity.
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | `duḥkha-hetv-anvayajñāne` | suffering- and origination-anvaya-knowledges | Predicate completing 7.04; the Bhāṣya links their first arising to aspects of the summit-of-existence Base. |
-| `bhavāgrika-skandha` | Base at the summit of existence | Object of the first-arising terminal knowledges. |
-| `vajropama` | vajra-like Path | Shares their object only when taking suffering or origination, not cessation or Path; Path-continuity does not require object-identity. |
-| `paracittavit` / `paracittajñāna` | knowledge of another mind | Verse expression and Bhāṣya expansion; overlaps portions of dharma-, anvaya-, Path-, and conventional knowledge, not four simultaneous ingredients. |
-| `niyama` | restriction / governing rule | Introduces limits belonging to the determination of other-mind knowledge. |
-| `bhūmi` | meditative level | Lower-level knowledge does not know higher-level cognition. |
-| `akṣa` / `indriya` | faculty / faculty-grade | Verse term and Bhāṣya expansion; exact wording of practitioner examples remains damaged. |
-| `pudgala` | person / practitioner standing | Lower practitioner does not know the higher; the rank list's precise wording remains uncertain. |
-| `naṣṭa` / `ajāta` | ceased / not yet arisen | Past and future are excluded from this other-mind knowledge, not from every knowledge-kind. |
-| `vartamāna-paracitta-caitta-viṣayatva` | having present other-mind and mental factors as objects | Grounds the temporal restriction without asserting that all associated factors are known in one act. |
+| `bhavāgrika-skandha` | Bases at the summit of existence | Support of the first-arising terminal knowledges in the 7.04 Bhāṣya. |
+| `vajropama` | diamond-like concentration | Shares their Support only when taking suffering or origination, not cessation or Path; this belongs to the 7.04 Bhāṣya unit. |
+| `paracittavit` / `paracittajñāna` | knowledge of another's Consciousness | Verse expression and Bhāṣya expansion; overlaps portions of dharma-, anvaya-, Path-, and conventional knowledge, not four simultaneous ingredients. |
+| `niyama` | restriction / governing rule | Introduces limits belonging to knowledge of another's Consciousness. |
+| `bhūmi` | meditative level | Lower-level knowledge does not know Consciousness belonging to a higher dhyāna level. |
+| `akṣa` / `indriya` | faculty / faculty grade | The Faith-Resolved or occasion-dependent liberated practitioner's knowledge does not know Consciousness of the Seeing-attained or occasion-independent liberated practitioner; local Sanskrit remains damaged. |
+| `pudgala` | person / practitioner standing | Among non-returner, disciple arhat, solitary Buddha, and Buddha, a lower standing does not know a higher one's Consciousness; local Sanskrit remains damaged. |
+| `naṣṭa` / `ajāta` | ceased / not yet arisen | Past and future are excluded from this knowledge, not from every knowledge-kind. |
+| `vartamāna-paracitta-caitta-viṣayatva` | having present Consciousness and mental factors in another continuum as Conditions | Grounds the temporal restriction without asserting that all associated factors are known in one act. |
 
 ## 8. Logical Determination
 
@@ -130,11 +132,11 @@ The first-arising statement is separately qualified:
 ```text
 FirstArising(ExhaustionKnowledge or NonArisingKnowledge)
     → SufferingAnvayaKnowledge or OriginationAnvayaKnowledge
-    → Object: BhavagraBase
+    → Support: BhavagraBase
     → Aspects: Suffering or Origination
 ```
 
-For other-mind knowledge, the Bhāṣya's recapitulation states that it is
+For knowledge of another's Consciousness, the Bhāṣya's recapitulation states that it is
 one knowledge and a portion of four:
 
 ```text
@@ -154,10 +156,10 @@ The exclusions concern separate dimensions:
 
 | Dimension | Excluded target |
 |---|---|
-| Meditative level | Cognition of a higher level than the knowing capacity |
-| Faculty-grade | Cognition exceeding the knower's faculty-grade |
-| Practitioner standing | Cognition of a higher practitioner relative to the lower |
-| Time | Past or future mind and mental factors |
+| Meditative level | Consciousness belonging to a higher dhyāna level |
+| Faculty grade | Consciousness of the Seeing-attained or occasion-independent liberated practitioner relative to the lower pair |
+| Practitioner standing | Consciousness of a higher practitioner in the non-returner → disciple arhat → solitary Buddha → Buddha series |
+| Time | Past or future Consciousness and mental factors |
 
 ```text
 HigherInLevel(target, knower)
@@ -179,17 +181,19 @@ Bhāṣya study retains that identification despite recognizing the
 continuation from VAK 7.04. The source separates the two statements.
 Its later explicit list at 394|23 reads
 `dharmānvayamārga saṃvṛtijñānānām`, confirming the four categories.
-The official study corrects the analysis while preserving both originals.
+This study corrects the analysis while preserving the local damaged witness.
 
 **Textual caution.** The immediate listing is transmitted as
 `dharmānvayajñānamārgaḥ saṃvṛtijñānebhyaḥ`. The practitioner clauses
 include damaged forms such as `dṛṣṭiprāptāsamayavimuktārga` and
 `anāgāmyahañcchāvaka`. The fourfold classification has the independent
-internal control just noted; the precise practitioner wording remains
-open for textual review.
+internal control just noted. [Xuanzang's Chinese Kośa, fascicle 26](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+corroborates the faculty pairs and practitioner series in the translation;
+it does not establish the damaged local Sanskrit letters.
 
-**Bhāṣya control.** The first-arising explanation and restrictions follow
-Pradhan 393|01–393|13. The immediate fourfold list is damaged; its explicit
+**Bhāṣya control.** The first-arising explanation completes 7.04 at
+[393|04]. The 7.05 unit runs [393|05]–[393|12–13], with `kiṃ ca bhūyaḥ`
+beginning 7.06 at [393|13]. The immediate fourfold list is damaged; its explicit
 recapitulation at 394|23 confirms dharma, anvaya, Path, and conventional
 knowledge. This controls the informed translation without silently
 restoring the damaged line.
@@ -213,10 +217,10 @@ The kārikā and Bhāṣya provide the particular doctrinal claims; a comparativ
 identification with Yoga's own account of other-mind knowledge requires
 its own textual study.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The sentence
-boundary and fourfold classification are corrected through the Sanskrit
-prose and its explicit recapitulation. Exact restoration of the damaged
-practitioner clauses remains open.
+**Review status.** Complete natural unit reviewed against the local
+Sanskrit, with both adjacent boundaries checked. The fourfold classification,
+faculty pair, practitioner series, and temporal ground are translated.
+Exact restoration of the damaged fourfold and practitioner Sanskrit remains open.
 
 ## 10. OWL++ Seed
 
@@ -253,7 +257,7 @@ RangeRule: ParacittaKnowledge excludes higher-level targets.
 RangeRule: ParacittaKnowledge excludes higher-faculty targets.
 RangeRule: ParacittaKnowledge excludes higher-practitioner targets.
 RangeRule: ParacittaKnowledge excludes past and future targets.
-BhāṣyaRule: Its possible object-field is present other-mind and mental factors.
+BhāṣyaRule: Its Conditions are present Consciousness and mental factors in another continuum.
 
 ProjectConstraint: Fourfold classification does not assert causal production.
 ProjectConstraint: Classification overlaps do not imply four simultaneous memberships.

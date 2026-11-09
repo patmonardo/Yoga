@@ -16,25 +16,26 @@ Kārikā study: [`VAK_7.09.md`](./VAK_7.09.md).
 
 ## 2. Continuous Sanskrit
 
-> sakalasya sakalapratipakṣatvāt kāmadhātupratipakṣo dharmajñānam ity uktam /
-> api tu /
-> dharmajñānaṃ nirodhe yan mārge vā bhāvanāpathe /
-> tridhātupratipakṣas tat /
+> sakalasya sakalapratipakṣatvāt kāmadhātupratīpakṣo dharmajñānamityuktam /
+> api tu
+> dharmajñānanirodhe yanmārge vā bhāvanāpathe /
+> tridhātupratipakṣastat
 > nirodhamārgajñāne bhāvanāmārgasaṃgṛhīte tridhātupratipakṣaḥ /
-> kāmadhātos tu nānvayam /
-> anvayajñānam tu sarvathā nāsti kāmadhātupratipakṣaḥ /
+> kāmadhātostu nānvayam /
+> anvayajñānam tu sarvathā nāsti kāmadhātuporatipakṣaḥ /
 
-**Witness.** Pradhan 395|10–16. Joined opening `dharmajñānanirodhe` in raw
-quotation; study separates `dharmajñānaṃ nirodhe`. Forms `pratīpakṣo`,
-`kāmadhātuporatipakṣaḥ` unrestored. `Sakala` sentence compressed; working
-sense: complete dharma-knowledge as complete desire-domain counteraction —
-not each event abandoning every desire-domain affliction at once. Voice:
-Vasubandhu. No opponent.
+**Witness.** The complete unit runs [395|10]–[395|16]. The prior seven-ground
+explanation ends at [395|08–09]; `eṣāṃ daśānāṃ jñānānāṃ` at [395|17]
+opens 7.10. The block retains local `pratīpakṣo`, joined
+`dharmajñānanirodhe`, and `kāmadhātuporatipakṣaḥ`; the paired kārikā
+displays `dharmajñānaṃ nirodhe` as a working separation controlled by the
+prose `nirodhamārgajñāne`. The `sakala` sentence remains compressed, so
+its English is marked by supplied words. Voice: Vasubandhu; no opponent.
 
 ## 3. Continuous Translation
 
-> Because of being the complete counteragent of the complete [desire domain],
-> dharma-knowledge was said to be the counteragent to the desire domain.
+> Because [it] is the complete counteragent to the whole [desire domain],
+> dharma-knowledge was said to be a counteragent to the desire domain.
 >
 > However:
 >
@@ -97,7 +98,7 @@ as places, not mere information about them.
 
 ## 6. Why Pratipakṣa Had to Be Its Own Ground
 
-7.08 listed counteraction separately from aspect and object-support. 7.09
+7.08 listed counteraction separately from aspect and Support. 7.09
 shows why: the same knowledge-kind can have a stable object-field and a
 conditionally wider efficacy. One criterion would have hidden the `api tu`.
 
@@ -130,7 +131,9 @@ Appearance (“pure knowledge fixes everything upstairs and downstairs”).
 
 ## 9. Review Status
 
-Reviewed against the paired Organon kārikā study and the Pradhan 395|10–16
-span recorded here. The anchor now reproduces the Bhāṣya-informed study
-translation exactly. The compressed `sakala` sentence, damaged spellings,
-and exact source-line collation remain open.
+The complete [395|10]–[395|16] unit has been checked against the local
+Sanskrit. The seven-ground explanation ends at [395|08–09]; the next
+knowledge-aspect unit begins at [395|17]. The continuous source retains
+the joined kārikā and damaged spellings. The compressed `sakala` sentence
+remains an interpretive uncertainty. The anchor matches the paired
+Bhāṣya-informed study translation exactly.

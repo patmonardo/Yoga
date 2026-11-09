@@ -175,7 +175,7 @@ dharma-knowledge to desire-domain counteraction. The classification
 is refined through its conditions rather than replaced with a new
 unqualified division.
 
-**Bhāṣya control.** Pradhan 395|10–395|16 supplies the contrast used in
+**Bhāṣya control.** The complete [395|10]–[395|16] unit supplies the contrast used in
 the informed translation. Its compressed opening
 `sakalasya sakalapratipakṣatvāt` recalls complete desire-domain
 counteraction; it does not claim that one isolated knowledge-event
@@ -217,10 +217,11 @@ direction be demonstrated independently in the other. The source's
 specific counteraction law supplies a disciplined model for this
 Vidyā–Technē articulation.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The qualified
-three-domain reach and categorical anvaya exclusion are explicit.
-The compressed retrospective sentence and minor textual forms remain
-marked for review.
+**Review status.** The complete [395|10]–[395|16] unit and adjacent
+boundaries [395|08–09] and [395|17] have been checked against the local
+source. The qualified three-domain reach and categorical anvaya exclusion
+are explicit. The compressed retrospective sentence and damaged spellings
+remain open for collation.
 
 ## 10. OWL++ Seed
 

@@ -1,43 +1,57 @@
-# VAK_7.15 Bhāṣya — Meditative Level and Support of Actualization
+# VAK_7.15 Bhāṣya — Meditative Level and Basis of Actualization
 
 ## 1. Kārikā Anchor
 
 > dhyāneṣv anyamanojñānaṃ kāmarūpāśrayaṃ ca tat |
 > kāmāśrayaṃ tu dharmākhyam anyat traidhātukāśrayam || 7.15 ||
 
-> Other-mind knowledge belongs to the four dhyānas alone and is made
-> present with desire- or form-domain support. Dharma-knowledge is made
-> present only with desire-domain support; the remaining knowledge field
-> has possible support across the three domains.
+> Knowledge of another's Consciousness belongs to the four dhyānas alone
+> and is made present with a desire- or form-domain Basis. Dharma-knowledge
+> is made present only with a desire-domain Basis; the other eight knowledge
+> designations have possible Bases across the three domains.
 
-This finishes 7.14's level-account and adds `āśraya`. The Bhāṣya closes:
-`kṛto bhūmyāśrayanirdeśaḥ` — level and support are distinct and now stated.
+This finishes 7.14's level account and adds `āśraya`. The Bhāṣya closes:
+`kṛto bhūmyaśrayanirdeśaḥ` — level and Basis are distinct and now stated.
 
 Kārikā study: [`VAK_7.15.md`](./VAK_7.15.md).
 
 ## 2. Continuous Sanskrit
 
-> paracittajñānaṃ caturṣv eva dhyāneṣu nānyatra /
-> kāmarūpadhātvoś ca tat paracittajñānaṃ saṃmukhīkriyate /
-> dharmajñānaṃ tu kāmadhātvāśrayam eva / na rūpārūpyadhātvoḥ saṃmukhīkriyate /
-> kim punar anyat / paracittajñānaṃ dharmajñānanirmuktam /
+> dhyāneṣvanyamanojñānaṃ
+> paracittajñānaṃ caturṣveva dhyāneṣu nānyatra /
+> kāmarūpāśrayaṃ ca tat /
+> kāmarūpadhātvośca tat paracittajñānaṃ saṃmukhīkriyate /
+> kāmāśrayaṃ tu dharmāruyam
+> dharmajñānaṃ tu kāmadhātvāśrayameva /
+> na rūpārupyadhātvoḥ saṃmukhīkriyate /
+> anyattraidhātukāśrayam // VAkK_7.15 //
+> kiṃ punaranyat /
+> paracittajñānaṃ dharmajñānanirmuktam /
+> kṛto bhūmyaśrayanirdeśaḥ /
 
-**Witness.** Pradhan 402|19–403|07. Quotation `dharmāruyam` for
-`dharmākhyam`; remainder gloss damaged. Working sense of `anyat`: excluding
-paracitta and dharma-knowledge. Voice: Vasubandhu. No opponent.
+**Witness.** The complete natural unit is [402|19]–[403|07]. The 7.14
+explanation ends [402|18]; the new mindfulness-application question
+`smṛtyupasthānasaṃgraho vaktavyaḥ` begins 7.16 at [403|08]. The block
+retains the local `dharmāruyam` and the compressed `anyat` gloss.
 
 ## 3. Continuous Translation
 
-> Knowledge of another mind [occurs] in the four dhyānas only, nowhere else.
+> “Knowledge of another's Consciousness [occurs] in the dhyānas”:
+> Knowledge of another's Consciousness is in the four dhyānas only,
+> nowhere else.
 >
-> And that knowledge of another mind is made present in the desire and form
-> domains.
+> “And it has a desire- or form-domain Basis”: that Knowledge of another's
+> Consciousness is made present in the desire and form domains.
 >
-> Dharma-knowledge, however, has only the desire domain as support. It is
-> not made present in the form or formless domains.
+> “Dharma-knowledge, however, has a desire-domain Basis”: it has only a
+> desire-domain Basis [the local verse reads `dharmāruyam`]. It is not
+> made present in the form or formless domains.
 >
-> What then is “the rest”? That which is free of other-mind knowledge and
-> dharma-knowledge.
+> “The rest has a Basis across the three domains.” What is “the rest”?
+> [The other eight knowledge designations,] excluding Knowledge of
+> another's Consciousness and Dharma-knowledge [local compressed gloss
+> `paracittajñānaṃ dharmajñānanirmuktam`]. The determination of levels
+> and Bases is complete.
 
 ## 4. Movement of the Commentary
 

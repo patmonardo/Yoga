@@ -77,8 +77,8 @@ established as] ten.
 > The ten knowledges are distinguished, it is said, on seven grounds:
 > conventional knowledge by its nature; dharma- and anvaya-knowledge by
 > what they counteract; suffering- and origination-knowledge by differing
-> aspects of one object-support; cessation- and Path-knowledge by both
-> aspect and object-support; other-mind knowledge by its preparatory aim;
+> aspects of one Support; cessation- and Path-knowledge by both
+> aspect and Support; Knowledge of another's Consciousness by its preparatory aim;
 > exhaustion-knowledge by accomplished work; and non-arising-knowledge by
 > accumulated causes.
 
@@ -94,7 +94,7 @@ established as] ten.
 These are seven explanatory grounds supporting ten names, not seven
 successive divisions whose Cartesian product generates ten exclusive
 species. The chapter's earlier overlaps remain intact. In particular,
-identity of object-support does not entail identity of knowledge, and a
+identity of Support does not entail identity of knowledge, and a
 name derived from preparation need not enumerate every possible object.
 
 ## 7. Technical Vocabulary
@@ -103,10 +103,10 @@ name derived from preparation need not enumerate every possible object.
 |---|---|---|
 | `svabhāva` | intrinsic nature | Ground of conventional knowledge; `aparamārthajñānatva` does not restrict its possible object-range established in 7.03. |
 | `pratipakṣa` | counteraction / counteragent | Ground distinguishing dharma- and anvaya-knowledge by relation to desire and higher domains; 7.09 further qualifies its scope. |
-| `ākāra` | aspect | Suffering- and origination-knowledge differ in aspect despite sharing object-support. |
-| `ākāra-gocara` / `ākāra-ālambana` | aspect together with object-range / object-support | Verse and Bhāṣya forms of the paired ground for cessation- and Path-knowledge, which differ in both. |
-| `prayoga` | preparatory application | Other-mind knowledge is named from the undertaking's aim, although it can also know mental factors. |
-| `kṛtakṛtyatva` | having accomplished what had to be done | Ground of exhaustion-knowledge arising in a continuum whose task is done. |
+| `ākāra` | aspect | Suffering- and origination-knowledge differ in aspect despite sharing Support. |
+| `ākāra-gocara` / `ākāra-ālambana` | aspect together with range / aspect together with Support | Verse and Bhāṣya forms of the paired ground for cessation- and Path-knowledge; the prose specifies the relevant range as Support. |
+| `prayoga` | preparatory application | Knowledge of another's Consciousness is named from the undertaking's aim, although it also knows mental factors. |
+| `kṛtakṛtyatva` | having accomplished what had to be done | Ground of exhaustion-knowledge first arising in a continuum whose task is done. |
 | `hetūpacaya` | accumulation of causes | Ground of non-arising-knowledge, specified as having all uncontaminated dharmas as causes; the causal relations are not enumerated here. |
 
 ## 8. Logical Determination
@@ -115,10 +115,10 @@ name derived from preparation need not enumerate every possible object.
 |---|---|---|
 | Nature | Conventional | Not ultimate knowledge |
 | Counteraction | Dharma, anvaya | Desire-domain / higher-domain counteraction |
-| Aspect | Suffering, origination | Object-support is not different |
-| Aspect and object-support | Cessation, Path | Both differ |
-| Preparation | Other-mind | The undertaking aims at knowing another mind |
-| Accomplished-task status | Exhaustion | Arises in a continuum whose task is done |
+| Aspect | Suffering, origination | Support is not different |
+| Aspect and Support | Cessation, Path | Both aspect and Support differ |
+| Preparation | Knowledge of another's Consciousness | The undertaking aims at knowing another's Consciousness |
+| Accomplished-task status | Exhaustion | First arises in a continuum whose task is done |
 | Causal accumulation | Non-arising | Has all uncontaminated dharmas as causes |
 
 The distribution accounts for the ten names:
@@ -131,11 +131,11 @@ This arithmetic counts designations under their stated explanatory
 grounds. It does not count ten disjoint sets of knowledge-events.
 
 ```text
-SameObjectSupport(SufferingKnowledge, OriginationKnowledge)
+SameSupport(SufferingKnowledge, OriginationKnowledge)
 AND DifferentAspects(SufferingKnowledge, OriginationKnowledge)
     → DistinctTruthKnowledgeDesignations
 
-DifferentObjectSupports(CessationKnowledge, PathKnowledge)
+DifferentSupports(CessationKnowledge, PathKnowledge)
 AND DifferentAspects(CessationKnowledge, PathKnowledge)
     → DistinctTruthKnowledgeDesignations
 ```
@@ -143,11 +143,11 @@ AND DifferentAspects(CessationKnowledge, PathKnowledge)
 Naming through preparation has another logical form:
 
 ```text
-PreparationAimsAt(KnowingAnotherMind)
+PreparationAimsAt(KnowingAnotherConsciousness)
 AND KnowledgeAccomplishedFromThatPreparation
     → Designation: OtherMindKnowledge
 
-This designation does not exclude mental factors from its object-range.
+This designation does not exclude mental factors from its cognitive range.
 ```
 
 The grounds for the terminal names differ. Accomplished-task status is
@@ -161,22 +161,23 @@ deferred the exact mapping. The immediate Bhāṣya supplies all seven
 allocations, so the official study presents them here. No extrapolation
 from the names is needed.
 
-**Bhāṣya control.** Pradhan 395|03–395|09 supplies the allocation and
-the reasons summarized in the informed translation. Its `prathamataḥ`
-stands between the explanations of exhaustion- and non-arising-knowledge;
-the exact attachment remains open, so the translation does not silently
-settle its punctuation.
+**Bhāṣya control.** The question under [394|16–26], verse [395|01–02],
+and prose through [395|08–09] form the complete unit. The source provides
+the sevenfold allocation and its reasons. Though `prathamataḥ` stands at
+the next printed line, [Xuanzang's Kośa](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+attaches “first” to exhaustion-knowledge's arising in the completed-task
+continuum. The paired translation makes that attachment visible.
 
-**The force of a preparatory aim.** VAK 7.05 classified other-mind
+**The force of a preparatory aim.** VAK 7.05 classified knowledge of another's Consciousness
 knowledge within four knowledge-categories without asserting that those
 categories causally produce it. The present passage separately explains
-its accomplishment from an undertaking aimed at another mind. These
+its accomplishment from an undertaking aimed at another's Consciousness. These
 are different relations: classificatory inclusion and preparation.
 
-**Textual caution.** The raw introductory question contains `vīṇi` and
-the prose includes `kāmathāturdhvadhātu`. Their exact restoration is not
-required to recover the explicit sevenfold allocation. The placement of
-`prathamataḥ` is retained as a local issue. The reading of causal
+**Textual caution.** The raw introductory question contains `vīṇi`; its
+number remains uncertain. The prose includes `kāmathāturdhvadhātu`.
+Their exact restoration is not required to recover the explicit sevenfold
+allocation. The reading of causal
 accumulation follows the transmitted `sarvānāsravahetukatvāt` without
 inventing a fuller causal explanation.
 
@@ -197,13 +198,14 @@ For our reconstruction, the seven grounds supply differentiated questions
 to ask of a capacity. We must preserve which ground explains which
 designation, and avoid imposing identical entries under every heading.
 Meaning becomes determinate through the relevant relations: nature,
-counteraction, aspect, object-support, undertaking, accomplishment,
+counteraction, aspect, Support, undertaking, accomplishment,
 and causal basis.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The seven-to-ten
-allocation is explicit. The precise attachment of `prathamataḥ` and the
-detailed scope of the causal statement remain open to review; the
-counteraction qualification proceeds in the next kārikā.
+**Review status.** The complete unit from the question under [394|16–26]
+through [395|08–09] and both adjacent boundaries have been checked against
+the local source. The seven-to-ten allocation and `prathamataḥ` attachment
+are controlled. The exact reading of damaged `vīṇi`, verse compounds,
+and domain spelling remains open; 7.09 qualifies counteraction next.
 
 ## 10. OWL++ Seed
 
@@ -225,19 +227,19 @@ ObjectProperty: supportedBy
 GroundMap: ConventionalKnowledge -> Nature
 GroundMap: DharmaKnowledge, AnvayaKnowledge -> Counteraction
 GroundMap: SufferingKnowledge, OriginationKnowledge -> Aspect
-GroundMap: CessationKnowledge, PathKnowledge -> AspectAndObjectSupport
+GroundMap: CessationKnowledge, PathKnowledge -> AspectAndSupport
 GroundMap: OtherMindKnowledge -> Preparation
 GroundMap: ExhaustionKnowledge -> AccomplishedTaskStatus
 GroundMap: NonArisingKnowledge -> CausalAccumulation
 
-BhāṣyaReason: Suffering and origination share object-support but differ in aspect.
-BhāṣyaReason: Cessation and Path differ in both aspect and object-support.
+BhāṣyaReason: Suffering and origination share Support but differ in aspect.
+BhāṣyaReason: Cessation and Path differ in both aspect and Support.
 BhāṣyaReason: Other-mind preparation aims at mind although mental factors are also known.
 BhāṣyaReason: Exhaustion knowledge arises in an accomplished continuum.
 BhāṣyaReason: Non-arising knowledge has all uncontaminated dharmas as causes.
 
 ProjectConstraint: Ten names are not ten disjoint knowledge-event classes.
-ProjectConstraint: Distinguish aspect alone from aspect with object-support.
+ProjectConstraint: Distinguish aspect alone from aspect with Support.
 ProjectConstraint: Naming by preparatory aim does not entail exclusive object-range.
 ProjectConstraint: Do not make the summary counteraction map an unqualified exclusivity rule.
 ProjectConstraint: Preserve the source qualification needed for causal assertions.

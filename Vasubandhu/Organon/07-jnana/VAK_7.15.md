@@ -1,4 +1,4 @@
-# VAK_7.15 — Meditative Level and Support of Actualization
+# VAK_7.15 — Meditative Level and Basis of Actualization
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -15,7 +15,7 @@ kāmāśrayaṃ tu dharmākhyam anyat traidhātukāśrayam || 7.15 ||
 ```
 
 The Sanskrit follows the local kārikā witness. The opening completes
-the level-distribution from VAK 7.14; the rest specifies support.
+the level distribution from VAK 7.14; the rest specifies Basis.
 The Bhāṣya closes by declaring the determination of `bhūmi` and
 `āśraya` complete, confirming that these are distinct relations.
 
@@ -24,19 +24,19 @@ The Bhāṣya closes by declaring the determination of `bhūmi` and
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dhyāneṣu` | locative plural masculine | in the four dhyānas only, as the Bhāṣya specifies |
-| `anyamanojñānam` | nominative singular neuter compound (`anya-mano-jñāna`) | knowledge of another mind |
-| `kāmarūpāśrayam` | nominative singular neuter possessive compound (`kāma-rūpa-āśraya`) | having desire- or form-domain support for its actualization |
+| `anyamanojñānam` | nominative singular neuter compound (`anya-mano-jñāna`) | Knowledge of another's Consciousness; the prose uses `paracittajñāna` |
+| `kāmarūpāśrayam` | nominative singular neuter possessive compound (`kāma-rūpa-āśraya`) | having a desire- or form-domain Basis for actualization |
 | `ca` | conjunction | and |
-| `tat` | nominative singular neuter pronoun | that [other-mind knowledge] |
-| `kāmāśrayam` | nominative singular neuter possessive compound (`kāma-āśraya`) | having desire-domain support for its actualization |
+| `tat` | nominative singular neuter pronoun | that [Knowledge of another's Consciousness] |
+| `kāmāśrayam` | nominative singular neuter possessive compound (`kāma-āśraya`) | having a desire-domain Basis for actualization |
 | `tu` | contrastive particle | whereas, however |
 | `dharmākhyam` | nominative singular neuter adjective (`dharma-ākhyam`) | that called dharma-[knowledge] |
-| `anyat` | nominative singular neuter pronoun, collective here | the remaining knowledge field, excluding the two named kinds |
-| `traidhātukāśrayam` | nominative singular neuter possessive compound (`traidhātuka-āśraya`) | having possible support across the three domains |
+| `anyat` | nominative singular neuter pronoun, collective here | the other eight knowledge designations, excluding the two named kinds |
+| `traidhātukāśrayam` | nominative singular neuter possessive compound (`traidhātuka-āśraya`) | having possible Bases across the three domains |
 
 `Manas` appears as `mano-` in the compound; `rūpa + āśraya` yields
-`rūpāśraya`. The domains in the support compounds concern the
-knower's support, not the domain of the mind known.
+`rūpāśraya`. The domains in the Basis compounds concern the
+knower's Basis, distinct from the Support of the Consciousness known.
 
 ## 4. Grammar
 
@@ -48,8 +48,8 @@ anyamanojñānam — dhyāneṣu
 
 The Bhāṣya specifies `caturṣv eva dhyāneṣu nānyatra`: in the four
 dhyānas only, nowhere else. The preliminary and intermediate
-concentrations included in dharma-knowledge's six levels are not
-therefore included for other-mind knowledge.
+concentrations included in Dharma-knowledge's six levels are not
+therefore included for Knowledge of another's Consciousness.
 
 **A second predicate of the same knowledge.** `Tat` resumes
 `anyamanojñānam`; `ca` adds `kāmarūpāśrayam`. The prose explains
@@ -60,44 +60,46 @@ kāmarūpadhātvoḥ
     tat paracittajñānaṃ saṃmukhīkriyate
 ```
 
-The knowledge itself is the subject of actualization. Nothing in
-this construction changes the subject to the other mind apprehended.
+The Knowledge itself is the subject of actualization. The observed
+Consciousness is not the grammatical subject of this clause.
 
-**Dharma-knowledge's support.** `Dharmākhyam` has `jñānam`
+**Dharma-knowledge's Basis.** `Dharmākhyam` has `jñānam`
 understood and receives `kāmāśrayam` as predicate. The commentary
 adds `eva` and explicitly excludes actualization in the form and
-formless domains. This support condition coexists with the six
+formless domains. This Basis condition coexists with the six
 meditative levels established in VAK 7.14.
 
-**The remaining field.** `Anyat` excludes other-mind knowledge
-and dharma-knowledge. The raw explanatory phrase is damaged, but
-the verse's contrast and the local Bhāṣya study support this
-reading. As the knowledge-categories overlap, the remainder must
+**The remaining field.** `Anyat` excludes Knowledge of another's
+Consciousness and Dharma-knowledge: eight designations remain.
+The raw explanatory phrase is compressed; the verse's contrast and
+[Xuanzang's Chinese parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+support this working reading without restoring local Sanskrit letters.
+As knowledge categories overlap, the remainder must
 be interpreted with the already stated restrictions intact.
 
-**Close construe.** Other-mind knowledge [is] in the dhyānas, and
-that [knowledge has] desire-and-form support. Dharma-[knowledge],
-however, [has] desire support; the rest [has] three-domain support.
+**Close construe.** Knowledge of another's Consciousness [is] in the
+dhyānas, and that [Knowledge has] a desire-or-form Basis.
+Dharma-[knowledge], however, [has] a desire-domain Basis; the other
+eight [have possible] Bases across the three domains.
 
-The Bhāṣya's language of being made present explains `āśraya`, not
-object-range. It concerns actualization, without denying every possible
+The Bhāṣya's language of being made present explains `āśraya` as Basis.
+It concerns actualization, without denying every possible
 relation of possession to knowledge that is not currently made present.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Knowledge of another mind is in the dhyānas and has the desire
-> and form domains as its support. Dharma-knowledge, however,
-> has the desire domain as its support; the rest has support
-> in the three domains.
+> Knowledge of another's Consciousness is in the dhyānas and has a
+> desire- or form-domain Basis. Dharma-knowledge, however, has a
+> desire-domain Basis; the rest have Bases across the three domains.
 
 ### Bhāṣya-informed study translation
 
-> Other-mind knowledge belongs to the four dhyānas alone and is made
-> present with desire- or form-domain support. Dharma-knowledge is made
-> present only with desire-domain support; the remaining knowledge field
-> has possible support across the three domains.
+> Knowledge of another's Consciousness belongs to the four dhyānas alone
+> and is made present with a desire- or form-domain Basis. Dharma-knowledge
+> is made present only with a desire-domain Basis; the other eight knowledge
+> designations have possible Bases across the three domains.
 
 ## 6. Philosophical Translation
 

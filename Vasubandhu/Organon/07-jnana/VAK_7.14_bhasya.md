@@ -21,42 +21,56 @@ Kārikā study: [`VAK_7.14.md`](./VAK_7.14.md).
 
 ## 2. Continuous Sanskrit
 
-> saṃvṛtijñānaṃ ślokādau … ādyam /
-> tat trividham / kuśalākuśalāvyākṛtam /
-> anyāni nava jñānāni kuśalāny eva /
-> ādyaṃ sarvāsu bhūmiṣu / kāmadhātor yāvad bhavāgre /
-> dharmākhyaṃ ṣaṭsu / dharmajñānaṃ caturṣu dhyāneṣv anāgamye dhyānāntare ca /
-> navasu tv anvayākhyaṃ / anvayajñānaṃ tāsveva ca ṣaṭsu bhūmiṣv ārūpyatraye ca /
-> tathaiva ṣaṭ /
-> duḥkha-samudaya-nirodha-mārga-kṣayānutpādajñānāny apy etāsveva navasu bhūmiṣv abhedena /
-> bhedena punar dharmajñānasaṃgṛhītāni ṣaṭsu anvayajñānasaṃgṛhītāni navasu /
+> ataḥ parameṣāṃ jñānānāṃ kuśalādibhedaṃ nirvekṣyāmaḥ /
+> tridhādyaṃ kuśalānyanyāni
+> saṃvṛtijñānaṃ ślokādau bhavatvādādyam /
+> tattrividham /
+> kuśalākuśalāvyākṛtam /
+> anyāni nava jñānāni kuśalānyeva /
+> ādyaṃ sarvāsu bhūmiṣu /
+> kāmadhātī yāvadbhavāgre /
+> dharmākhyaṃ ṣaṭsu
+> dharmajñānaṃ caturṣu dhyāneṣvanāgamye dhyānāntare ca /
+> navasu tvanvayākhyaṃ
+> anvayajñānaṃ tāsveva ca ṣaṭsu bhūmiṣvārupyatraye ca /
+> tathaiva ṣaṭ // VAkK_7.14 //
+> duḥkhasamudayanirodhamārgakṣayānutpādajñānānyapyetāsveva navasu bhūmiṣvabhedena /
+> bhedena punrdharmajñānasaṃgṛhītāni ṣaṭsu anvayajñāna saṃgṛhītāni navasu /
 
-**Witness.** Pradhan 402|06–18. Forms `bhavatvāt`, `kāmadhātī`, `punr`
-unrestored. Voice: Vasubandhu. No opponent.
+**Witness.** The complete natural unit is [402|06]–[402|18]. The 7.13
+aspect inquiry ends [402|04–05]; `dhyāneṣv anyamanojñānaṃ` at [402|19]
+starts 7.15. This block follows every local source line without
+regularizing `bhavatvād`, `kāmadhātī`, `ārupyatraye`, or `punr`.
 
 ## 3. Continuous Translation
 
-> Conventional knowledge is “the first” because it stands first in the verse.
-> It is threefold: wholesome, unwholesome, and indeterminate. The other nine
-> knowledges are wholesome only.
+> Next we shall examine the difference among these knowledges as wholesome
+> and so forth.
 >
-> The first is in all levels: from the desire domain up to the summit of
-> existence.
+> “The first is threefold; the others are wholesome.” Conventional
+> knowledge is “the first” because it stands at the start of the verse
+> [local `bhavatvād`]. It is threefold: wholesome, unwholesome, and
+> indeterminate. The other nine knowledges are wholesome only.
 >
-> That called dharma is in six: dharma-knowledge in the four dhyānas,
+> “The first is in all levels”: from the desire domain [local
+> `kāmadhātī`] up to the summit of existence.
+>
+> “That called Dharma is in six”: Dharma-knowledge in the four dhyānas,
 > preliminary concentration, and intermediate dhyāna.
 >
-> That called anvaya is in nine: anvaya-knowledge in those same six and in
-> the first three formless levels.
+> “That called anvaya, however, is in nine”: anvaya-knowledge in those
+> same six levels and the first three formless levels.
 >
-> Likewise the six: suffering-, origination-, cessation-, Path-, exhaustion-,
-> and non-arising-knowledge, without differentiation, in those same nine
-> levels. With differentiation: those included in dharma-knowledge in six;
-> those included in anvaya-knowledge in nine.
+> “Likewise the six”: suffering-, origination-, cessation-, Path-,
+> exhaustion-, and non-arising-knowledge are in those same nine levels
+> when considered without differentiation. With differentiation, those
+> included in Dharma-knowledge are in six; those included in
+> anvaya-knowledge are in nine [local `punr`].
 
 ## 4. Movement of the Commentary
 
 ```text
+transition from aspect to kuśala etc. at [402|06]
 ethical cut: conventional threefold; nine exclusively wholesome
 level cut: conventional all (kāma through bhavāgra)
     dharma: six
@@ -70,8 +84,9 @@ level cut: conventional all (kāma through bhavāgra)
 Wholesome ≠ uncontaminated. The nine include paracitta; 7.11 already had
 its contaminated form. Do not translate `kuśala` as “pure” here.
 
-`Bhūmi` = level of occurrence/affiliation. Not object-domain (7.03), not
-counteractive range (7.09), not embodied support (7.15).
+`Bhūmi` = level of occurrence or affiliation, distinct from the
+Condition-range of 7.03, the counteractive reach of 7.09, and the
+embodied Basis discussed in 7.15.
 
 ```text
 SixLevels  = four dhyānas + anāgamya + dhyānāntara
@@ -79,7 +94,8 @@ NineLevels = SixLevels + first three formless
 ```
 
 Bhavāgra is in conventional knowledge's range. It is not a tenth level for
-anvaya-knowledge. First-arising *objects* at Bhavāgra (7.05) ≠ this level-range.
+anvaya-knowledge. The summit Bases taken as Support at first arising in
+7.05 are a different relation from this level-range.
 
 Kind-range ≠ one act in every listed level. Threefold ethics × all levels
 does not license every pair.
@@ -121,7 +137,10 @@ still calls it aparamārtha by nature (7.08). That tension is the entertainment.
 
 ## 9. Review Status
 
-Reviewed against the paired Organon kārikā study and the Pradhan 402|06–18
-span recorded here. The anchor now reproduces the Bhāṣya-informed study
-translation exactly. Other-mind knowledge's level follows in 7.15;
-damaged spellings and exact source-line collation remain open.
+The complete [402|06]–[402|18] natural unit and both adjacent boundaries
+were checked against the local source. All 15 lines are present and
+translated continuously, including the restored classification lead-in
+and the embedded kārikā fragments. The anchor matches the paired
+Bhāṣya-informed study translation exactly. Damaged `bhavatvād`,
+`kāmadhātī`, `ārupyatraye`, and `punr` remain visible; Knowledge of
+another's Consciousness receives its level in 7.15.

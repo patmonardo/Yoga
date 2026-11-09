@@ -3,22 +3,23 @@
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
-तद् धर्मान्वयधीपक्ष्यम् अन्योऽन्यं दर्शनक्षणौ ।
+न धर्मान्वयधीपक्ष्यम् अन्योऽन्यं दर्शनक्षणौ ।
 श्रावको वेत्ति खङ्गस्त्रीन् सर्वान् बुद्धोऽप्रयोगतः ॥ ७.६ ॥
 ```
 
 ## 2. Sanskrit (IAST)
 
 ```text
-tad dharmānvayadhīpakṣyam anyo 'nyaṃ darśanakṣaṇau |
+na dharmānvayadhīpakṣyam anyo 'nyaṃ darśanakṣaṇau |
 śrāvako vetti khaṅgas trīn sarvān buddho 'prayogataḥ || 7.6 ||
 ```
 
-**Textual status.** The underlying kārikā and Bhāṣya e-texts transmit `ta`
-at the opening. The local kārikā study provisionally supplies `tad`; this
-working reading is retained here without claiming that the exact textual
-restoration is settled. The prose unambiguously establishes the reciprocal
-dharma/anvaya restriction. Devanāgarī `खङ्ग` here follows the IAST `khaṅga`;
+**Textual status.** The local kārikā and Bhāṣya e-texts transmit `ta`
+at the opening. [The Sanskrit–Chinese collation](https://bcbs.eduhk.hk/abhi/view/7-57-1)
+reads `na`, and Xuanzang's verse confirms the negation. This study displays
+`na` as the working reading while retaining the local `ta` in the Bhāṣya
+source block. The prose establishes the reciprocal dharma/anvaya restriction.
+Devanāgarī `खङ्ग` here follows the IAST `khaṅga`;
 the local study instead prints `खड्ग`. This script-level difference is
 recorded rather than silently treated as agreement between witnesses.
 
@@ -26,10 +27,10 @@ recorded rather than silently treated as agreement between witnesses.
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `tat` (`tad` before `dh`) | nominative singular neuter pronoun; provisional restoration of transmitted `ta` | that other-mind knowledge, continuing the subject of 7.05 |
+| `na` | negative particle; working reading against local `ta` | negates the reciprocal knowing between the two knowledge-sides |
 | `dharma-anvaya-dhī-pakṣyam` | neuter singular compound expression | belonging to the dharma- or anvaya-knowledge side; the prose supplies each side's restriction |
 | `anyaḥ` | nominative singular masculine reciprocal pronoun | one side as knowing, in relation to the other |
-| `anyam` | accusative singular masculine reciprocal pronoun | the other side as target; negative force carries from 7.05 |
+| `anyam` | accusative singular masculine reciprocal pronoun | the other side as target; governed by the working `na` |
 | `darśana-kṣaṇau` | accusative dual masculine | two moments of Seeing, objects of `vetti` |
 | `śrāvakaḥ` | nominative singular masculine | disciple |
 | `vetti` | third-person singular present active of `√vid` | knows |
@@ -41,9 +42,8 @@ recorded rather than silently treated as agreement between witnesses.
 
 ## 4. Grammar
 
-**The reciprocal restriction.** Read the opening in continuity with
-`na vetti tat` in VAK 7.05. The negative force is carried forward; this
-verse does not independently repeat `na`. The Bhāṣya supplies the two
+**The reciprocal restriction.** The working `na` makes the verse's negative
+explicit; the local `ta` remains recorded. The Bhāṣya supplies the two
 complete statements:
 
 ```text
@@ -54,8 +54,9 @@ anvayajñānapakṣyaṃ [paracittajñānam]
     dharmajñānapakṣyaṃ [cittam] na jānāti
 ```
 
-The knowing is other-mind knowledge; the target is cognition belonging to
-the other side. The target need not itself be an act of other-mind knowledge.
+The knower exercises knowledge of another's Consciousness; the target is
+Consciousness belonging to the other side. The target need not itself be an
+act of knowledge of another's Consciousness.
 
 **The two moments belong with the disciple.** A new construction begins
 at `darśanakṣaṇau`, crossing the pāda boundary:
@@ -80,8 +81,8 @@ buddhaḥ — sarvān [darśanakṣaṇān vetti] aprayogataḥ
 the Bhāṣya identifies the disciple's two and reports two accounts of the
 Pratyekabuddha's three.
 
-**Close construe.** That [other-mind knowledge], belonging to the dharma-
-and anvaya-cognition sides, [does not know] the other side reciprocally.
+**Close construe.** Knowledge of another's Consciousness on the dharma-
+and anvaya-knowledge sides does not know the other side reciprocally.
 Two moments of Seeing the disciple knows; three the solitary realizer;
 all the Buddha, without preparatory application.
 
@@ -89,22 +90,22 @@ all the Buddha, without preparatory application.
 
 ### Literal Translation
 
-> That [other-mind knowledge], belonging to the dharma- and anvaya-cognition
-> sides, [does not know] the other side reciprocally. A disciple knows two
+> Knowledge of another's Consciousness on the dharma- and anvaya-knowledge
+> sides does not know the other side reciprocally. A disciple knows two
 > moments of Seeing; the rhinoceros-like solitary realizer knows three;
 > a Buddha knows all, without preparatory application.
 
 ### Bhāṣya-informed study translation
 
-> Dharma-side other-mind knowledge cannot know anvaya-side mind, nor can the
-> reverse. In another's Path of Seeing, a prepared disciple knows its first
-> two moments; a solitary realizer knows three; a Buddha knows every
+> Dharma-side knowledge of another's Consciousness cannot know anvaya-side
+> Consciousness, nor can the reverse. In another's Path of Seeing, a prepared
+> disciple knows its first two moments; a solitary realizer knows three; a Buddha knows every
 > Seeing-moment without preparatory application.
 
 ## 6. Philosophical Translation
 
-> The kind of cognition used to know another determines which cognitive
-> side can become its object. Knowing the Path of Seeing also differs
+> The kind of Knowledge used to know another determines which Consciousness
+> can become its Support. Knowing the Path of Seeing also differs
 > from undergoing that Path. For a prepared knower, the extent of access
 > depends on whether further preparation is required while the observed
 > sequence continues. The disciple apprehends two moments; the solitary
@@ -112,7 +113,7 @@ all the Buddha, without preparatory application.
 > a preparatory interval.
 
 The passage distinguishes cognitive affiliation, occurrence within a Path,
-and a Path's availability as object. It then relates range to preparation.
+and a Path's availability as Support. It then relates range to preparation.
 These relations make the differing capacities determinate; the counts
 alone would not explain their operation.
 
@@ -120,9 +121,9 @@ alone would not explain their operation.
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| `dharmajñānapakṣya` / `anvayajñānapakṣya` | belonging to the dharma- / anvaya-knowledge side | Bhāṣya predicates of knowing and target; each sided other-mind knowledge excludes the opposite side's cognition. |
-| `darśanamārga` | Path of Seeing | Other-mind knowledge does not occur within it, though it may take that Path as object. |
-| `darśanakṣaṇa` | moment of Seeing | The disciple's two are the first suffering-dharma acceptance and knowledge, counted as objects known. |
+| `dharmajñānapakṣya` / `anvayajñānapakṣya` | belonging to the dharma- / anvaya-knowledge side | Bhāṣya predicates of knowing and target; each sided knowledge of another's Consciousness excludes the opposite side's Consciousness. |
+| `darśanamārga` | Path of Seeing | Knowledge of another's Consciousness does not occur within it, though it may take that Path as Support. |
+| `darśanakṣaṇa` | moment of Seeing | The disciple's two are suffering-dharma acceptance and the corresponding knowledge, counted as targets known. |
 | `prayoga` | preparatory application | A second preparation can miss intervening present moments while the observed Path continues. |
 | `mṛduprayogatva` | lightness of preparatory application | Bhāṣya ground for the solitary realizer's three moments; principal enumeration is first, second, eighth, while “others” say first, second, fifteenth. |
 | `aprayogataḥ` | without preparatory application | Buddha's knowing lacks the intervening preparation at issue, not every condition or prior cultivation. |
@@ -132,10 +133,10 @@ alone would not explain their operation.
 
 ```text
 DharmaSideParacittaKnowledge
-    does not know AnvayaSideCognition
+    does not know AnvayaSideConsciousness
 
 AnvayaSideParacittaKnowledge
-    does not know DharmaSideCognition
+    does not know DharmaSideConsciousness
 ```
 
 The rule attaches to the particular side of the knowing. A practitioner
@@ -144,7 +145,7 @@ not establish a permanent inability of that person to exercise either form.
 
 ```text
 OccursWithin(ParacittaKnowledge, DarsanaMarga) = false
-CanHaveAsObject(ParacittaKnowledge, DarsanaMarga) = true
+CanHaveAsSupport(ParacittaKnowledge, DarsanaMarga) = true
 ```
 
 The comparative account concerns the prepared observation described in
@@ -165,40 +166,42 @@ AND the observed Path continues during preparation
     → some present moments pass without being known
 ```
 
-This preserves VAK 7.05's present-object restriction. “All moments” does
-not mean a single act simultaneously apprehends past, present, and future
-mind. The local claim concerns access throughout the articulated sequence.
+This preserves VAK 7.05's restriction to present Conditions. “All moments”
+does not mean a single act simultaneously apprehends past, present, and
+future Consciousness. The local claim concerns access throughout the sequence.
 
-The sixteenth cognition in the timing explanation marks arrival beyond
+The sixteenth Consciousness in the timing explanation marks arrival beyond
 strict Seeing; it is not a reason to count sixteen Seeing-moments.
 
 ## 9. Interpretive Note
 
 **Correction of the earlier study.** The exploratory account treats
 `darśanakṣaṇau` as a reciprocal limitation between two moments. The
-Bhāṣya instead identifies them as the disciple's first two objects of
+Bhāṣya instead identifies them as the disciple's first two targets of
 knowledge. Its further distinction between occurring in Seeing and
-knowing Seeing as object controls the whole paragraph.
+taking Seeing as Support controls the whole paragraph.
 
-**Scope of “all.”** The local Bhāṣya study's final summary says “all
-sixteen,” but its quoted Sanskrit says all moments of Seeing. The
+**Scope of “all.”** The source says all moments of Seeing. The
 fifteen/sixteen distinction established in VAK 6.28 prevents importing
-that numerical expansion into the official translation. Both research
-witnesses remain untouched.
+the sixteenth Consciousness into the translation of that phrase.
 
-**Bhāṣya control.** Pradhan 393|15–394|04 supplies the disciple's first
-two moments and the two differently attributed accounts of the solitary
+**Bhāṣya control.** Pradhan [393|13]–[394|03–04] supplies the reciprocal
+restriction, domain-ground clause, the disciple's first two moments, and
+the two differently attributed accounts of the solitary
 realizer's three. The informed translation retains the verse's counts;
 the exact enumerations and attribution remain here and in the paired
 Bhāṣya study. “All” is restricted to moments of Seeing.
 
-**Textual caution.** Besides initial `ta`, the raw prose includes
+**Textual caution.** Local `ta` is retained in the Bhāṣya source block;
+[the Sanskrit–Chinese collation](https://bcbs.eduhk.hk/abhi/view/7-57-1)
+and both Chinese verses support working `na`. The raw prose includes
 `kāmadhāturdhvadhātupratikṣālambanatvāttayoḥ`, `darjñanamārga`, and
-`prayogamāra mate`. The paired restriction, the Path/object distinction,
+`prayogamāra mate`. The paired restriction, the Path/Support distinction,
 and the enumerations are explicit in the surrounding prose. The damaged
-domain-ground clause is not printed as a silently restored quotation.
+domain-ground clause is printed as damaged Sanskrit, without restoration.
 Its working sense concerns the two sides' respective domain-related
-counteragents as objects; its exact Sanskrit restoration remains open.
+counteragents as Supports, corroborated by [Xuanzang's prose](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026);
+its exact Sanskrit restoration remains open.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.** Our Yoga system
 can now articulate preparation as part of a knowledge-capacity's practical
@@ -219,10 +222,11 @@ case within this comparison. Broader identification with Absolute Knowing
 belongs to further Organon argument; the local determination is already
 precise in its range and preparatory mode.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The principal
-and alternative Pratyekabuddha enumerations remain attributed separately.
-The opening reading and damaged prose forms remain available for textual
-review; the corrected clause boundary is controlled by the commentary.
+**Review status.** Complete [393|13]–[394|03–04] natural unit reviewed
+against the local Sanskrit, with [393|12–13] and [394|05] checked as
+adjacent boundaries. The principal and alternative Pratyekabuddha
+enumerations remain separately attributed. Working `na` is corroborated;
+the local `ta` and damaged prose forms remain available for collation.
 
 ## 10. OWL++ Seed
 
@@ -239,17 +243,17 @@ Class: RangeAccount
 Class: SourceSpan
 
 ObjectProperty: hasCognitiveSide
-ObjectProperty: hasPossibleObject
+ObjectProperty: hasPossibleSupport
 ObjectProperty: occursWithinPath
 ObjectProperty: requiresPreparation
 ObjectProperty: specifiesKnownMoments
 ObjectProperty: attributedTo
 ObjectProperty: supportedBy
 
-BhāṣyaRule: Dharma-side paracitta knowledge excludes anvaya-side cognition.
-BhāṣyaRule: Anvaya-side paracitta knowledge excludes dharma-side cognition.
+BhāṣyaRule: Dharma-side paracitta knowledge excludes anvaya-side Consciousness.
+BhāṣyaRule: Anvaya-side paracitta knowledge excludes dharma-side Consciousness.
 BhāṣyaRule: Paracitta knowledge does not occur within DarsanaMarga.
-BhāṣyaRule: DarsanaMarga can be an object of ParacittaKnowledge.
+BhāṣyaRule: DarsanaMarga can be a Support of ParacittaKnowledge.
 
 RangeAccount: DiscipleObservation
     specifiesKnownMoments: 1, 2
@@ -263,7 +267,7 @@ RangeAccount: BuddhaObservation
     specifiesKnownMoments: AllDarsanaMoments
     requiresPreparatoryApplication: false
 
-ProjectConstraint: Preserve occurrence-in-Path separately from Path-as-object.
+ProjectConstraint: Preserve occurrence-in-Path separately from Path-as-Support.
 ProjectConstraint: Do not merge alternative moment enumerations.
 ProjectConstraint: All is scoped to Seeing, whose strict extent is fifteen moments.
 ProjectConstraint: Continuous range does not imply simultaneous three-time cognition.

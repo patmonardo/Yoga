@@ -16,8 +16,8 @@ anutpādakṣayajñāne te punaḥ prathamodite || 7.4 ||
 
 The Sanskrit follows the local kārikā witness. The closing construction is
 unfinished at this verse boundary: “those two, however, when first arisen …”
-receives its predicate at the opening of VAK 7.05. The Bhāṣya explicitly
-establishes this temporal reading.
+receives its predicate in VAK 7.05's first pāda. The complete Bhāṣya unit
+continues through the explanation and diamond-like question at [393|04].
 
 ## 3. Lexical Analysis
 
@@ -48,7 +48,7 @@ te eva dharmajñānānvayajñāne
 ```
 
 The change from dual to plural expresses reclassification according to
-truth-object. It does not abolish the dharma/anvaya distinction.
+the Truth taken as Support. It does not abolish the dharma/anvaya distinction.
 
 **The two terminal knowledges.** The compressed `ete caturvidhe /
 anutpādakṣayajñāne` relates the two terminal designations to the fourfold
@@ -68,9 +68,9 @@ The Bhāṣya confirms:
 prathamotpanne tu kṣayajñānānutpādajñāne …
 ```
 
-The predicate lies in VAK 7.05. Preserving the continuation is necessary
-to construe VAK 7.04 accurately; it does not require treating the next
-verse as already studied.
+The predicate lies in VAK 7.05's first pāda. Preserving the continuation
+is necessary to construe VAK 7.04 accurately; the next verse's separate
+other-mind topic begins at [393|05].
 
 **Close construe.** Those very two—through truth-distinction—[are] four
 [knowledges]. These two, non-arising- and exhaustion-knowledge—[are]
@@ -86,8 +86,7 @@ fourfold. Those two, however, first arisen …
 
 ### Bhāṣya-informed study translation
 
-
-> The same dharma- and anvaya-knowledges divide by truth-object into four:
+> The same dharma- and anvaya-knowledges divide by the Truth taken as Support into four:
 > knowledge of suffering, origination, cessation, and the Path. These
 > fourfold knowledges are exhaustion- and non-arising-knowledge. When these
 > two first arise, however …
@@ -95,14 +94,14 @@ fourfold. Those two, however, first arisen …
 ## 6. Philosophical Translation
 
 > The same uncontaminated knowing admits further determination through
-> the truth it takes as object. Its domain-relative distinction persists
+> the Truth it takes as Support. Its domain-relative distinction persists
 > within the four truth-knowledges. Exhaustion and non-arising likewise
 > belong to this articulated field, under the further determination that
 > their nature is not view. Their general fourfold range must then be
 > distinguished from the specific character of their first arising.
 
 The passage joins three determinations without collapsing them:
-domain-relative knowledge, truth-object, and the terminal mode that lacks
+domain-relative knowledge, Truth-Support, and the terminal mode that lacks
 view-nature. The final clause introduces a fourth question, the occasion
 of first arising. A general classification and its initial actualization
 need not have the same scope.
@@ -111,8 +110,8 @@ need not have the same scope.
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| `satyabheda` | distinction according to the truths | Classifies the same dharma- and anvaya-knowledges by their truth-objects. |
-| `tadālambanatva` | having those as object-supports | Bhāṣya ground for the four truth-knowledge names. |
+| `satyabheda` | distinction according to the truths | Classifies the same dharma- and anvaya-knowledges by the Truth taken as Support. |
+| `tadālambanatva` | taking those as Supports | Bhāṣya ground for the four truth-knowledge names. |
 | `catvāri` / `caturvidha` | four / fourfold | Four truth-category names cross two knowledge forms; the eight intersections are not additional names in the tenfold count. |
 | `adṛṣṭisvabhāva` | having a nature that is not view | Bhāṣya predicate for the terminal knowledges, recalling 7.01 without denying cognition. |
 | `kṣayajñāna` / `anutpādajñāna` | exhaustion-knowledge / non-arising-knowledge | Two terminal designations within the fourfold uncontaminated field; individual definitions remain to be established. |
@@ -122,7 +121,7 @@ need not have the same scope.
 
 The truth-classification crosses the domain-relative classification:
 
-| Truth-object | Dharma-knowledge | Anvaya-knowledge |
+| Truth taken as Support | Dharma-knowledge | Anvaya-knowledge |
 |---|---|---|
 | Suffering | Suffering-dharma-knowledge | Suffering-anvaya-knowledge |
 | Origination | Origination-dharma-knowledge | Origination-anvaya-knowledge |
@@ -137,7 +136,7 @@ counted as mutually exclusive entries in one flat list.
 UncontaminatedKnowledge
     classified by domain-relation:
         DharmaKnowledge / AnvayaKnowledge
-    classified by truth-object:
+    classified by Truth-Support:
         Suffering / Origination / Cessation / Path
 ```
 
@@ -166,8 +165,9 @@ first occurrence.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya specifies that these names apply when the knowledges have a
-non-view nature; the final clause remains syntactically open.
+**Translation note.** The Bhāṣya specifies that these names apply when the
+knowledges have a non-view nature. The kārikā's final clause remains open
+until 7.05's first pāda; the prose then completes its explanation.
 
 **Bhāṣya correction.** The exploratory kārikā study took `prathamodite`
 as “first stated” and referred it backward to the first two knowledges.
@@ -177,7 +177,7 @@ the correction while leaving the research witness intact.
 
 **Continuity with VAK 7.01.** The absence of view-nature does not remove
 these knowledges from the truth-articulated field. The predicates
-“knowledge,” “view,” “dharma/anvaya,” and “truth-object” answer distinct
+“knowledge,” “view,” “dharma/anvaya,” and “Truth-Support” answer distinct
 questions about cognition. Their systematic relation determines the
 meaning of each designation here.
 
@@ -199,10 +199,12 @@ This is our constructive development of the source distinction. The
 verse itself establishes the truth-classification, the Bhāṣya supplies
 the non-view qualification, and the continuation specifies first arising.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The temporal
-meaning of `prathamodite` is settled by the local prose; the compressed
-middle clause is expanded through that prose rather than treated as
-self-explanatory. The next verse remains the required continuation.
+**Review status.** The complete 7.04 natural Bhāṣya unit [392|13]–
+[393|04] has been checked against the local witness. The 7.05 first pāda
+completes `prathamodite`, and the next unit starts at [393|05] with
+`caturbhyaḥ paracittavit /`. The damaged `ekālamvano` and `ālamvano`
+remain recorded in the paired Bhāṣya study; no Sanskrit restoration is
+claimed. The other-mind argument awaits 7.05's own review.
 
 ## 10. OWL++ Seed
 
@@ -239,7 +241,7 @@ ObjectProperty: hasArisingQualification
 ObjectProperty: supportedBy
 
 KārikāRule: Dharma and anvaya knowledge are classified as four by truth-distinction.
-BhāṣyaRule: The four names follow suffering, origination, cessation, and Path as objects.
+BhāṣyaRule: The four names follow suffering, origination, cessation, and Path as Supports.
 BhāṣyaRule: Exhaustion and non-arising knowledge belong to this fourfold field with non-view nature.
 BhāṣyaRule: Prathamodite means first arisen.
 

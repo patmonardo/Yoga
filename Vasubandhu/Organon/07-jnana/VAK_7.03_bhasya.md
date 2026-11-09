@@ -1,15 +1,15 @@
-# VAK_7.03 Bhāṣya — The Object-Ranges of the Three Knowledges
+# VAK_7.03 Bhāṣya — The Ranges of the Three Knowledges
 
 ## 1. Kārikā Anchor
 
 > sāṃvṛtaṃ sarvaviṣayaṃ kāmaduḥkhādigocaram |
 > dharmākhyam anvayajñānaṃ tūrdhvaduḥkhādigocaram || 7.3 ||
 
-> Conventional knowledge can take any dharma, conditioned or unconditioned,
-> as its object where possible. Dharma-knowledge ranges over desire-domain
-> suffering, its origination, cessation, and counteragent; anvaya-knowledge
-> ranges over the same truth-series with respect to suffering in the form
-> and formless domains.
+> Conventional knowledge ranges over all Conditions: any conditioned or
+> unconditioned dharma can be its Support where possible. Dharma-knowledge
+> ranges over desire-domain suffering, its origination, cessation, and
+> counteragent; anvaya-knowledge ranges over the corresponding series with
+> respect to suffering in the form and formless domains.
 
 `Kāmaduḥkhādigocaram` construes with `dharmākhyam`, not with `sāṃvṛtam`.
 The Bhāṣya expands `sarva` through conditioned and unconditioned dharmas,
@@ -21,6 +21,8 @@ Kārikā study: [`VAK_7.03.md`](./VAK_7.03.md).
 
 ## 2. Continuous Sanskrit
 
+> saṃvṛtijñānaṃ dharmajñānaṃ ca /
+> tatra
 > sāṃvṛtaṃ sarvaviṣayam /
 > saṃvṛtijñānasya sarvadharmāḥ saṃskṛtāsaṃskṛtā ālambanaṃ saṃbhavataḥ /
 > kāmaduḥkhādigocaraṃ dharmākhyam /
@@ -28,34 +30,43 @@ Kārikā study: [`VAK_7.03.md`](./VAK_7.03.md).
 > anvayajñānaṃ tūrdhvaduḥkhādigocaram /
 > anvayajñānasya rūpārūpyāvacaraṃ duḥkhaṃ tat-samudaya-nirodha-pratipakṣāś cālambanam /
 
-**Witness.** Citation: Pradhan 392|06–392|12. Local e-text has
-compressed or damaged forms (`saṣkṛtāsaṃskṛtā`, `dharmakhyam`, `dukhaṃ`,
-`rūpārupyāvacaraṃ`). The running text above is a reading normalization,
-not a collated edition. Voice is Vasubandhu throughout; no opponent.
+**Witness.** Citation: Pradhan [392|05]–[392|12]. The [392|05] lead-in
+names `saṃvṛtijñānaṃ dharmajñānaṃ ca` after 7.02's statement that there
+are three kinds, and then says `tatra`. Only two names appear in this
+lead-in; the third, `anvayajñāna`, is named in the verse and prose below.
+The local e-text has compressed or damaged forms (`saṣkṛtāsaṃskṛtā`,
+`kāmaduḥkhadigocaram`, `dharmakhyam`, `dukhaṃ`, `rūpārupyāvacaraṃ`).
+The running text normalizes these for reading, not as a collated edition.
+The two-name lead-in is retained without supplementation. Voice is
+Vasubandhu throughout; no opponent.
 
 ## 3. Continuous Translation
 
-> Conventional [knowledge] has all objects.
+> Conventional knowledge and dharma-knowledge. Among these:
+>
+> Conventional [knowledge] ranges over all Conditions.
 >
 > For conventional knowledge, all dharmas — conditioned and unconditioned —
-> are object-supports, according to possibility.
+> are possible Supports, according to possibility.
 >
 > Having desire-domain suffering and so forth as its range, it is called
 > dharma-[knowledge].
 >
 > For dharma-knowledge, suffering belonging to the desire domain, and its
-> origination, cessation, and counteragent, are the object-supports.
+> origination, cessation, and counteragent, are Supports.
 >
 > Anvaya-knowledge, however, has higher-domain suffering and so forth as
 > its range.
 >
 > For anvaya-knowledge, suffering belonging to the form and formless
 > domains, and its origination, cessation, and counteragent, are the
-> object-supports.
+> Supports.
 
 ## 4. Movement of the Commentary
 
-7.02 named the nested three. 7.03 assigns ranges:
+7.02 named the nested three. The [392|05] lead-in names only conventional
+and dharma-knowledge before `tatra`; the third receives its own clause.
+7.03 assigns ranges:
 
 ```text
 conventional knowledge
@@ -78,13 +89,15 @@ blocks reading it as Buddha-omniscience smuggled into the definition of
 worldly knowledge.
 
 This is why 7.02's `prāyeṇa` (pots, cloth, persons) was not a restriction of
-objects. Those were typical holdings. Even unconditioned dharmas can be
-object-supports of conventional knowledge. Shared objects do not cancel the
-7.02 contamination-cut: an unconditioned object does not make the knowing
-uncontaminated.
+its range. Those were typical holdings. Even unconditioned dharmas can be
+Supports of conventional knowledge. Shared Supports do not cancel the
+7.02 contamination cut: an unconditioned Support does not make the
+knowledge uncontaminated.
 
-`Viṣaya` / `gocara` / `ālambana` do the same local job — what the knowledge
-takes up. They are not three ontological storeys in this unit.
+`Sarvaviṣayam` states the Condition breadth of conventional knowledge;
+`gocara` states the two specified ranges; the prose uses `ālambana` for
+what each knowledge can take as Support. They concern related content but
+retain distinct textual roles.
 
 ## 6. One Truth-Structure, Two Domain-Sides
 
@@ -110,7 +123,8 @@ final translation, and it is not an inference-rule from desire-domain truths
 to higher-domain truths. The verse assigns ranges; it does not teach a method
 of transfer.
 
-Knowing the counteragent is not yet exercising it. Object-range ≠ Path-work.
+Knowing the counteragent is not yet exercising it. A cognitive range does
+not itself establish Path work.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
@@ -133,7 +147,7 @@ No change to the literal kārikā line is required.
 
 This section is reconstruction.
 
-Practical Reason now has *where* the holding takes its object. Conventional
+Practical Reason now has *where* the holding takes its Support. Conventional
 knowledge: maximum possible extension of holding-to-be-true. Uncontaminated
 knowledge: the same Four-Truth form of holding, cut by realm-side. That is
 not Hegel. The Idea does not generate kāma / rūpa / ārūpya. The Kośa Path
@@ -146,12 +160,13 @@ same order fits the assigned range; 7.04+ must still show how the remaining
 knowledges grow from this cut.
 
 View/Belief is not re-opened here. These are ranges of `jñāna` already sorted
-in 7.01–7.02. Breadth of object is not Belief; Path-range is not Opinion.
+in 7.01–7.02. Breadth of cognitive range does not establish Belief;
+Path-range does not establish Opinion.
 
 Yoga Vidyā needs the domain-specified truth-field; Yoga Technē needs the
-counteragent as object before it is work. Neither equation (Vidyā =
+counteragent as Support before it is work. Neither equation (Vidyā =
 uncontaminated, Technē = conventional) survives 7.03: conventional knowledge
-can take unconditioned objects, and uncontaminated knowledge includes the
+can take unconditioned dharmas as Supports, and uncontaminated knowledge includes the
 Path as something known.
 
 No Concept-level closure. Reciprocity of form and realm-side is Essence
@@ -161,7 +176,9 @@ refuses to attribute to conventional knowledge.
 
 ## 9. Review Status
 
-Reviewed against the paired Organon kārikā study and the Pradhan 392|06–12
-span recorded here. The anchor reproduces the Bhāṣya-informed study
-translation exactly. E-text repairs remain marked in §2. English for
-`anvaya` and exact source-line collation remain provisional.
+The complete 7.03 unit [392|05]–[392|12] was checked against the local
+witness, including the previously omitted two-name lead-in. The next
+`te eva satyabhedena catvāri` at [392|13] opens 7.04. The anchor
+reproduces the paired Bhāṣya-informed study translation exactly.
+Normalized readings and the two-name lead-in remain marked in §2;
+English for `anvaya` and the exact force of that lead-in remain open.

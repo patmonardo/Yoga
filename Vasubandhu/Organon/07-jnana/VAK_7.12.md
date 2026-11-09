@@ -118,7 +118,8 @@ whether sixteen is exhaustive requires a further argument.
 | `śūnya` / `anātman` | empty / non-self | Two aspects excluded from the terminal knowledges' sixteenfold source field, without denying their doctrinal role. |
 | `saṃvṛtibhajana` | participation in conventional expression | Bhāṣya explanation of how ultimate knowledges support ordinary declarations of completion. |
 | `tadbalānuvyavahāra` | subsequent expression on their strength | Declaration supported by the terminal knowledges, distinct from the knowledge itself; transmitted `tadvala-` remains uncertain. |
-| `anāsravaḥ svalakṣaṇākāraḥ` | uncontaminated own-characteristic aspect | Object of the dispute over an aspect beyond sixteen, distinct from 7.11's contaminated own-characteristic knowing. |
+| `anāsravaḥ svalakṣaṇākāraḥ` | uncontaminated own-characteristic aspect | Subject of the dispute over an aspect beyond sixteen, distinct from 7.11's contaminated own-characteristic knowing. |
+| `sthāna` / `vastu` | ground / Thing | The cited treatise's paired formula is disputed: does it add aspects of knowing, or merely affirm that the preceding eightfold cognition has a ground and a Thing? The local force of `sthāna` remains open. |
 | `śāstrataḥ` | from the treatise | Appeal to a particular analytical treatise passage whose interpretation is examined. |
 | `bahirdeśaka` | teacher from outside Kashmir | Proponents of the affirmative position; no more specific school identification is supplied here. |
 | `anyatrāvacana` | absence of the expression elsewhere | Argument against the weaker construal: the existential formula is absent where that reading would predict it. |
@@ -146,10 +147,10 @@ The two positions on completeness are separately attributed:
 | Kashmiris | No uncontaminated aspect outside the sixteen | Explicitly stated doctrinal boundary |
 | Teachers outside Kashmir | An additional uncontaminated aspect exists | Interpretation of the cited śāstra |
 
-The treatise passage describes a domain-unconnected cognition knowing
-desire-domain dharmas under familiar truth-aspects and includes
-`asty etat sthānam, asty etad vastu`, approximately “there is this
-case/ground; there is this entity.” Two construals are tested:
+The treatise passage describes a Consciousness unconnected with a domain
+cognizing desire-domain dharmas under eight truth-aspects and then gives
+`asty etat sthānam, asty etad vastu`, provisionally “there is this
+ground; there is this Thing.” Two construals are tested:
 
 ```text
 Aspect reading:
@@ -161,13 +162,13 @@ Proposed weaker reading:
 ```
 
 The reply rejects the weaker reading by comparison with a passage
-about seeing-abandonable cognition and its distorted aspects. That
-parallel does not insert the same existential formula. The stated
+about Consciousness to be abandoned by Seeing and its distorted aspects.
+That parallel does not insert the same existential formula. The stated
 expectation under the weaker reading is therefore not met.
 
-This supports the textual argument for extension without supplying
-a complete new taxonomy or an unqualified final theory of all
-uncontaminated cognition.
+The rebuttal favors the outside teachers' aspect reading of the
+formula. It supplies no complete new taxonomy or exact count of all
+uncontaminated aspects.
 
 ## 9. Interpretive Note
 
@@ -184,11 +185,12 @@ quotation; the reply tests it against parallel usage and rejects it.
 The discussion therefore provides more than a report of disagreement,
 while stopping short of enumerating a newly expanded aspect-system.
 
-**Bhāṣya control.** Pradhan 399|01–399|20 supplies the dual referent,
-the two attributed positions, and the textual test of the affirmative
-claim. The informed translation gives the verse's contrast; the
-conventional declaration supported by the terminal knowledges and the
-argument over the treatise quotation remain in the Bhāṣya analysis.
+**Bhāṣya control.** The complete [399|01]–[399|20] unit supplies the dual
+referent, the conventional declaration, the two attributed positions,
+and the treatise quotation with its objection, parallel, and reply. The
+Bhāṣya-informed study translation gives the verse's contrast; the
+extended argument remains in the paired Bhāṣya study. The preceding
+7.11 unit ends [398|23], and the question at [399|21] opens 7.13.
 
 **Conventional articulation and its ground.** The declaration about
 exhausted birth is made on the strength of the terminal knowledge.
@@ -198,11 +200,13 @@ verbal self-description. VAK 7.07 remains the place where the
 different accounts of such explicit knowing were distinguished.
 
 **Textual caution.** The raw e-text includes `śīṇā`, `tadvala-`,
-`śranye`, `vahirdeśakāḥ`, and `yogavihitatī vijānoyāt`. The argument
+`śranye`, `vahirdeśakāḥ`, and `yogavihitatī vijānoyādi`. The argument
 is recoverable from the question, quoted formulas, objection, and
-parallel comparison, but the damaged strings are not silently
-presented as critically established Sanskrit. The working English
-for `sthāna` and `vastu` remains modest and contextual.
+parallel comparison; the damaged strings remain visible. [Xuanzang's
+Chinese parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+corroborates the two treatise quotations and the absent-formula reply,
+without restoring the local Sanskrit. The English for `sthāna` is
+provisional; `vastu` remains **Thing**.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.** Our Yoga
 system must distinguish the accomplishment of work, the knowing that
@@ -226,10 +230,12 @@ of the system used to articulate them. Preserving both makes the
 Vidyā–Technē project capable of exact determination and reasoned
 revision.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The remaining
-pair and its fourteen aspects are explicit. The competing completeness
-claims remain attributed, and no definitive seventeen-aspect system
-is inferred. Minor corruptions in the prose remain open for review.
+**Review status.** The complete [399|01]–[399|20] natural unit and both
+adjacent boundaries have been checked against the local source. The
+remaining pair, fourteen aspects, attributed completeness claims, and
+the complete treatise argument are translated in the paired study.
+Damaged Sanskrit and the exact force of `sthāna` remain open; no
+seventeen-aspect inventory is inferred.
 
 ## 10. OWL++ Seed
 

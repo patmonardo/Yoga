@@ -28,12 +28,12 @@ of that argument.
 | `dravyataḥ` | adverbial formation in `-tas` | in substantial distinction, not merely by name |
 | `ṣoḍaśa` | numeral, nominative plural here | sixteen |
 | `ākārāḥ` | nominative plural masculine | aspects |
-| `prajñā` | nominative singular feminine | discriminative knowing |
+| `prajñā` | nominative singular feminine | discriminative comprehension |
 | `ākāraḥ` | nominative singular masculine | aspect; the verse identifies it with prajñā, which the prose then questions |
 | `tayā` | instrumental singular feminine pronoun | with that prajñā; goes forward with `ākārayanti` |
-| `saha` | postposition governing instrumental | together with; joins prajñā to the other object-bearing dharmas |
+| `saha` | postposition governing instrumental | together with; joins Prajñā to the other dharmas with a Support |
 | `ākārayanti` | third-person plural active verbal form in `-ayati` | apprehend under an aspect, not produce an image |
-| `sālambāḥ` | nominative plural masculine adjective, substantivally used; `sa-ālamba` | those possessing object-supports, the active cognitive side |
+| `sālambāḥ` | nominative plural masculine adjective, substantivally used; `sa-ālamba` | those having a Support, the active cognitive side |
 | `sarvam` | nominative singular neuter adjective | all, everything |
 | `ākāryate` | third-person singular passive corresponding to `ākārayati` | is apprehended under an aspect; marks the object side |
 | `tu` | contrastive particle | whereas, however |
@@ -58,10 +58,10 @@ to prajñā and modifies the next clause:
     tayā saha ākārayanti
 ```
 
-Other object-bearing dharmas apprehend together with it. The phrase
+Other dharmas with a Support apprehend together with it. The phrase
 must not be stranded in the translation as “the aspect is prajñā,
 together with it.” The prose explicitly includes prajñā and all
-other object-bearing dharmas in the active side.
+other dharmas with a Support on the active side.
 
 **The passive object-side statement.** `Sarvaṃ sat` is the subject
 of `ākāryate`. The general statement concerns what can stand on
@@ -69,8 +69,8 @@ the apprehended side; it does not assign every existent to every
 individual act of knowing.
 
 **Close construe.** In substantial distinction, the aspects [are]
-sixteen. Prajñā [is] the aspect. Together with it, those possessing
-object-supports apprehend under an aspect. Whatever exists, however,
+sixteen. Prajñā [is] the aspect. Together with it, those having
+a Support apprehend under an aspect. Whatever exists, however,
 is apprehended under an aspect.
 
 ## 5. Translation
@@ -78,14 +78,14 @@ is apprehended under an aspect.
 ### Literal Translation
 
 > The aspects are sixteen in substantial distinction. Prajñā is the
-> aspect. Together with it, the object-bearing [dharmas] apprehend
+> aspect. Together with it, dharmas with a Support apprehend
 > under an aspect; whatever exists, however, is apprehended under
 > an aspect.
 
 ### Bhāṣya-informed study translation
 
 > In substantial distinction, the aspects are sixteen. Prajñā is called
-> the aspect; with it, all dharmas that take an object apprehend under an
+> the aspect; with it, all dharmas with a Support apprehend under an
 > aspect. Whatever exists, however, can itself be apprehended under an
 > aspect.
 
@@ -93,15 +93,15 @@ is apprehended under an aspect.
 
 > The sixteen aspects receive distinct determinations through their
 > grounds and functions. The question then turns from their number
-> to their nature: an aspect must account for how cognition takes
-> its object, including how prajñā itself is aspect-bearing. Knowing
-> and being known are different roles, and cognition can occupy
-> either without those roles becoming identical.
+> to their nature: an aspect must account for how Consciousness and
+> mental factors take a Support, including how Prajñā itself has an
+> aspect. Knowing and being known are different roles; a cognitive
+> dharma can occupy either without those roles becoming identical.
 
-The proposed object-taking definition makes the manner of apprehension
+The proposed Support-taking definition makes the manner of apprehension
 explicit. It does not require a second prajñā to accompany the first
 as an additional internal knower. Nor does the possibility of knowing
-prajñā establish that a cognition necessarily apprehends itself in
+prajñā establish that a knowing dharma necessarily apprehends itself in
 the same moment.
 
 ## 7. Technical Vocabulary
@@ -109,9 +109,9 @@ the same moment.
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | `dravyataḥ` / `nāmataḥ` | substantially / nominally | The alternative counts seven substantially and sixteen by name; the kārikā presents sixteen substantial aspect-distinctions, not permanent substances or simultaneous factors. |
-| `prajñā` / `ākāra` | discriminative knowing / aspect | The verse identifies prajñā with aspect; the prose tests that identity and proposes a broader account of aspect-bearing cognition. |
-| `ālambanagrahaṇaprakāra` | manner of taking an object-support | Proposed prose definition after the objection; applies to citta and caittas, not solely prajñā. |
-| `sālamba` / `sālambana` | possessing an object-support | Kārikā and prose forms for dharmas on the active cognitive side; being knowable alone does not imply this activity. |
+| `prajñā` / `ākāra` | discriminative comprehension / aspect | The verse identifies Prajñā with aspect; the prose tests that identity and proposes a broader account of aspect-bearing cognitive dharmas. |
+| `ālambanagrahaṇaprakāra` | manner of taking a Support | Proposed prose definition after the objection; applies to Consciousness and mental factors, not solely Prajñā. |
+| `sālamba` / `sālambana` | having a Support | Kārikā and prose forms for dharmas on the active cognitive side; being knowable alone does not imply this activity. |
 | `ākārayati` / `ākāryate` | apprehends / is apprehended under an aspect | Active and passive roles in the verse, without an image-production claim or same-moment self-apprehension. |
 
 **The sixteen aspects.** The Bhāṣya provides several explanatory
@@ -185,33 +185,33 @@ Objection:
     → the identification cannot explain Prajna's own aspect-bearing status
 
 Proposed reformulation:
-    Aspect = manner of object-taking of citta and caittas
+    Aspect = manner of taking a Support by Consciousness and mental factors
 ```
 
 The ensuing distinction of roles is:
 
 ```text
-ObjectBearingDharma → apprehends under an aspect
+SupportBearingDharma → apprehends under an aspect
 ExistentDharma → can be apprehended under an aspect
 ```
 
 The second rule does not imply the first. An existent need not be
-a cognizing dharma in order to become an object. Conversely, a
-cognizing dharma can itself stand as object of another cognition.
+a knowing dharma in order to be apprehended. Conversely, a knowing
+dharma can itself stand as Support for another act of knowing.
 
 ```text
 Prajna:
     aspect in the stated identification
     active in apprehension
-    available as object
+    available to be apprehended
 
-ObjectSupport qua object:
+Support in the apprehended role:
     apprehended
 ```
 
 The latter qualification matters: the same dharma may be cognitive
-in one relation and an object in another. Neither universal
-objectifiability nor this role distinction implies simultaneous
+in one relation and a Support in another. Neither universal
+apprehendability nor this role distinction implies simultaneous
 omniscience or same-moment self-apprehension.
 
 ## 9. Interpretive Note
@@ -231,21 +231,30 @@ rewritten as though every sentence belonged to one uncontested
 theory. The local text does not explicitly name a school for every
 step of this exchange.
 
-**Bhāṣya control.** Pradhan 399|21–401|17 gives the count and several
-explanatory series; 401|18–402|05 raises the objection to identifying
-aspect simply with prajñā and proposes `ālambanagrahaṇaprakāra`.
-The informed translation follows the kārikā's sequence and leaves the
-prose's critical reformulation in the analysis. The paired Bhāṣya study
-quotes the definitional exchange, not the full multi-page aspect discussion.
+**Bhāṣya control.** The complete [399|21]–[402|05] unit gives the
+seven-versus-sixteen count, two initial explanatory series, a preferred
+series with four desires and their alternative craving enumeration,
+and a final counteractive series. At [401|18] it turns to what an
+aspect is, tests the Prajñā identification, and proposes
+`ālambanagrahaṇaprakāra`. The paired Bhāṣya study now quotes and
+translates all 99 source lines. The 7.12 argument ends [399|20]; the
+new knowledge-classification lead-in `ataḥ param eṣāṃ jñānānāṃ` at
+[402|06] begins 7.14.
+The 7.14 review restored this formerly omitted lead-in in its
+continuous Sanskrit and translation.
 
 **Source cautions.** The e-text contains numerous corrupt forms,
-including `ṣīḍātmakatvāt`, `akndhoparamatvāt`, `ākāraynti`, and the
-grammatically irregular concluding `ākāryante`. The study follows
-the contextual exposition without silently printing restored prose
-as a critical text. In particular, dependence on `pratyaya` means
-dependence on conditions here; the research summary's “representations/
-conditions” should not introduce a representational theory into that
-ground of impermanence.
+including `ṣīḍātmakatvāt`, `akndhoparamatvāt`, `pāśy`, `śranyathā`,
+`ākāraynti`, and the grammatically irregular concluding `ākāryante`.
+The four desire categories and two-five/two-four count are secure;
+individual forms in the quoted craving list remain uncertain. The
+study follows the contextual exposition without silently printing
+restored prose as a critical text. [Xuanzang's Chinese parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+supports the series structure and final active/passive division, but
+does not restore the local Sanskrit letters. Dependence on `pratyaya`
+means dependence on conditions here; the research summary's
+“representations/conditions” should not introduce a representational
+theory into that ground of impermanence.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.** Our Yoga
 system now receives both an articulated field of truth-aspects and
@@ -257,10 +266,10 @@ determinations perform their work.
 
 The counteractive series makes the companionship concrete: an aspect
 has a particular corrective function because it addresses a
-particular error. The manner-of-object-taking formulation then
+particular error. The manner-of-taking-a-Support formulation then
 asks how that determination belongs to the whole cognitive
-occurrence, including citta and caittas. Discriminative knowing
-operates with associated factors rather than requiring a second
+occurrence, including Consciousness and mental factors. Discriminative
+comprehension operates with associated factors rather than requiring a second
 internal discriminative knower to explain its own aspect.
 
 For our reconstruction, systematic meaning therefore includes
@@ -270,10 +279,12 @@ a Yoga discipline in which knowing and cultivation become mutually
 determinate. The source's competing formulations remain preserved
 as the material through which that reconstruction must be argued.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The sixteen
-names and selected explanatory series are now included. The numerical
-alternative, critical reformulation, and residual textual difficulties
-remain explicit rather than being harmonized away.
+**Review status.** The complete [399|21]–[402|05] natural unit and both
+adjacent boundaries have been checked against the local source. The
+99 Sanskrit lines and their continuous translation now include all
+explanatory series, the craving argument, and the final aspect inquiry.
+Damaged readings and exact list members remain open. The suggested
+second reading of 7.11–7.13 is flagged for after this Chapter 7 pass.
 
 ## 10. OWL++ Seed
 
@@ -281,10 +292,10 @@ remain explicit rather than being harmonized away.
 Class: Aspect
 Class: Truth
 Class: AspectExplanation
-Class: ObjectBearingDharma
+Class: SupportBearingDharma
 Class: Prajna
-    SubClassOf: ObjectBearingDharma
-Class: ObjectTakingRelation
+    SubClassOf: SupportBearingDharma
+Class: SupportTakingRelation
 Class: DoctrinalAccount
 Class: SourceSpan
 
@@ -292,7 +303,7 @@ ObjectProperty: aspectOfTruth
 ObjectProperty: hasExplanatoryGround
 ObjectProperty: counteractsView
 ObjectProperty: hasKnowingFactor
-ObjectProperty: hasObjectSupport
+ObjectProperty: hasSupport
 ObjectProperty: hasMannerOfApprehension
 ObjectProperty: supportedBy
 
@@ -304,14 +315,14 @@ TruthAspects: Path -> Marga, Nyaya, Pratipad, Nairyanika
 Account: SevenSubstantiallySixteenNominally
 Account: SixteenSubstantially
 InitialDefinition: Aspect as Prajna
-ProposedReformulation: Aspect as manner of object-taking of citta and caittas
+ProposedReformulation: Aspect as manner of taking a Support by Consciousness and mental factors
 
-Rule: Object-bearing dharmas apprehend under an aspect.
-RangeStatement: Whatever exists can stand as an object of apprehension.
+Rule: Dharmas with a Support apprehend under an aspect.
+RangeStatement: Whatever exists can be apprehended under an aspect.
 
 ProjectConstraint: Keep explanatory series and their source grounds distinct.
-ProjectConstraint: Object-role does not imply cognitive activity.
-ProjectConstraint: Cognition can be an object without implying same-moment self-apprehension.
+ProjectConstraint: The apprehended role does not imply cognitive activity.
+ProjectConstraint: A knowing dharma can be apprehended without implying same-moment self-apprehension.
 ProjectConstraint: Preserve the objection to the initial aspect identification.
 ProjectConstraint: Sixteen substantial distinctions do not imply sixteen permanent substances.
 ```

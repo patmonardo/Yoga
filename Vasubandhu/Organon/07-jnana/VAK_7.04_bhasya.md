@@ -5,7 +5,7 @@
 > te eva satyabhedena catvāri ete caturvidhe |
 > anutpādakṣayajñāne te punaḥ prathamodite || 7.4 ||
 
-> The same dharma- and anvaya-knowledges divide by truth-object into four:
+> The same dharma- and anvaya-knowledges divide by the Truth taken as Support into four:
 > knowledge of suffering, origination, cessation, and the Path. These
 > fourfold knowledges are exhaustion- and non-arising-knowledge. When these
 > two first arise, however …
@@ -25,14 +25,22 @@ Kārikā study: [`VAK_7.04.md`](./VAK_7.04.md).
 > ete caturvidhe anutpādakṣayajñāne /
 > ete eva dharmajñānānvayajñāne caturvidhe adṛṣṭisvabhāve kṣayajñānam anutpādajñānaṃ cocyate /
 > te punaḥ prathamodite /
+> duḥkhahetvanvayajñāne /
+> prathamotpanne tu kṣayajñānānutpādajñāne duḥkhasamudayānvayajñāne duḥkhasamudayākārair bhavāgrikaskandhālambanatvāt /
+> kiṃ khalu vajropamo 'pi tābhyām ekālambano 'sti /
+> yadi duḥkhasamudayālambano bhavati /
+> atha nirodhamārgālambano naikālambanaḥ /
 
-The sentence continues at 7.05 (Pradhan 393|01–03). That continuation is
-quoted only to fix the syntax of this unit, not as a completed 7.05 study:
-
-> prathamotpanne tu kṣayajñānānutpādajñāne duḥkhasamudayānvayajñāne …
-
-**Witness.** Citation: Pradhan 392|13–20, with the 393|01–03
-opening as boundary-control. Voice: Vasubandhu. No opponent.
+**Witness.** Citation: Pradhan [392|13]–[393|04]. The 7.05 first pāda
+`duḥkhahetvanvayajñāne` completes 7.04's unfinished verse clause; its
+Bhāṣya explanation and the diamond-like question close this natural unit.
+The local prose has `tābhyāmekālamvano` at [393|03] and
+`duḥkhasamudayālamvano` at [393|04]. The continuous Sanskrit above
+regularizes these as forms of `ālambana` for reading, while preserving the
+witness forms here. The source says `vajropamaḥ` without a noun here;
+“[concentration]” is supplied from the explicit `vajropamaḥ samādhiḥ`
+in 6.44's Bhāṣya. At [393|05], `caturbhyaḥ paracittavit /` begins the
+next unit. Voice: Vasubandhu. No opponent.
 
 ## 3. Continuous Translation
 
@@ -41,7 +49,7 @@ opening as boundary-control. Voice: Vasubandhu. No opponent.
 > Those same dharma-knowledge and anvaya-knowledge, through distinction
 > according to the truths, become four knowledges again: knowledge of
 > suffering, origination, cessation, and the Path — because they have those
-> as object-supports.
+> as Supports.
 >
 > These two, fourfold, [are] non-arising-knowledge and exhaustion-knowledge.
 >
@@ -49,14 +57,25 @@ opening as boundary-control. Voice: Vasubandhu. No opponent.
 > not view, are called exhaustion-knowledge and non-arising-knowledge.
 >
 > Those two, however, when first arisen …
+>
+> … are anvaya-knowledges concerning suffering and its cause.
+>
+> When exhaustion-knowledge and non-arising-knowledge first arise, they are
+> anvaya-knowledges concerning suffering and origination, because they take
+> the Bases at the summit of existence as Support under the aspects of
+> suffering and origination.
+>
+> Does the diamond-like [concentration] also have the same Support as those
+> two? If it takes suffering or origination as Support, it does. If it takes
+> cessation or the Path as Support, it does not have the same Support.
 
 ## 4. Movement of the Commentary
 
-Two operations, then an open temporal clause:
+Two classification operations, then the completion of the temporal clause:
 
 ```text
 the same two (dharma / anvaya)
-    → reclassified by truth-object
+    → reclassified by the Truth taken as Support
     → four names: suffering, origination, cessation, Path
          ground: tadālambanatva
 
@@ -64,16 +83,19 @@ those same, fourfold, with non-view nature
     → called kṣayajñāna and anutpādajñāna
 
 those two, when first arisen
-    → predicate in 7.05
+    → suffering- and origination-anvaya-knowledge
+    → summit-of-existence Bases as Support under those two aspects
+    → diamond-like concentration shares that Support only when it takes
+      suffering or origination, not cessation or Path
 ```
 
-The dharma/anvaya cut is not cancelled. Truth-object is a second ground
+The dharma/anvaya cut is not cancelled. Truth-Support is a second ground
 across the same field. The ten announced in 7.02 are still being derived,
 not listed.
 
 ## 5. Truth-Cut and the Eight Intersections
 
-| Truth-object | Dharma-knowledge | Anvaya-knowledge |
+| Truth taken as Support | Dharma-knowledge | Anvaya-knowledge |
 |---|---|---|
 | Suffering | duḥkha-dharma | duḥkha-anvaya |
 | Origination | samudaya-dharma | samudaya-anvaya |
@@ -85,7 +107,7 @@ extra members of the ten. Counting them as a flat list is the failure mode
 the Organon exists to refuse.
 
 `Satyabheda` names the ground. `Tadālambanatva` is why the four names attach:
-the truths are what is taken as object-support.
+the truths are what is taken as Support.
 
 ## 6. Terminal Names and First Arising
 
@@ -97,12 +119,13 @@ branch beside dharma/anvaya. They are that field under non-view nature.
 This unit does not yet distinguish kṣaya from anutpāda individually. Shared
 non-view status is not two definitions.
 
-`Prathamodite` = when first arisen (`prathamotpanne`). Not “first stated,”
-not “the first two names on the list.” General fourfold range and range at
-first arising must stay apart. 7.05 will say the first arising is
-suffering-anvaya and origination-anvaya toward the bhavāgra Bases.
-That object and those aspects are 7.05's work. They are noted here only so
-the hanging clause is not falsely closed.
+`Prathamodite` means when first arisen (`prathamotpanne`). The 7.05 opening
+supplies suffering- and origination-anvaya-knowledge and the summit-of-
+existence Bases as Support under those two aspects. The following question
+tests whether the diamond-like concentration shares that Support. The
+answer is conditional: yes when its Support is suffering or origination;
+no when its Support is cessation or Path. General fourfold range and
+first-arising range remain distinct.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
@@ -110,7 +133,7 @@ Confirmed:
 
 - `te eva` = dharma- and anvaya-knowledge;
 - `catvāri` = four truth-knowledges;
-- verse boundary is open into 7.05;
+- verse boundary is open into 7.05's first pāda;
 - `prathamodite` is temporal.
 
 Attributed to the commentary:
@@ -118,11 +141,13 @@ Attributed to the commentary:
 - the four names and `tadālambanatva`;
 - `adṛṣṭisvabhāva`;
 - `prathamotpanne` as gloss;
-- any preview of 7.05's objects and aspects.
+- the summit-of-existence Support and two aspects at first arising;
+- the conditional reply about the diamond-like concentration.
 
-The revised Organon kārikā retains the correction from an earlier “first
-stated” reading. Its informed translation now gives the Bhāṣya's four names
-and non-view qualification while leaving the final clause open.
+The Organon kārikā retains the correction from an earlier “first stated”
+reading. Its informed translation leaves the final clause open at the
+verse boundary; the complete Bhāṣya translation above carries it through
+the question and reply before the new 7.05 topic.
 
 ## 8. Interpretation
 
@@ -140,7 +165,7 @@ Successive grounds, preserved not erased:
 ```text
 uncontaminated holding
     already cut by realm-side (7.02–7.03)
-    now cut by truth-object (7.04)
+    now cut by the Truth taken as Support (7.04)
     then named terminal when view-function has ceased
 ```
 
@@ -150,12 +175,15 @@ Kant’s *Wissen* is nearer the terminal cell than *Glauben*, and still not
 identical with Kośa-`jñāna` over the whole table.
 
 First arising versus general range is the Idea refusing to confuse a
-capacity with its first actualization. 7.05 will have to carry that without
-turning it into a Concept-triad.
+capacity with its first actualization. The 7.05 opening carries that
+distinction without turning it into a Concept-triad.
 
 ## 9. Review Status
 
-Reviewed against the paired Organon kārikā study and the Pradhan 392|13–20
-span recorded here, with 393|01–03 used only to control the verse boundary.
-The anchor reproduces the Bhāṣya-informed study translation exactly. Source
-line collation remains provisional.
+The complete natural Bhāṣya unit [392|13]–[393|04] was checked against
+`kosabhasya.txt`. Its 7.05 first pāda, first-arising explanation, and
+diamond-like concentration question and reply are translated above.
+The next `caturbhyaḥ paracittavit /` begins the other-mind unit at
+[393|05]. The anchor reproduces the paired Bhāṣya-informed study
+translation exactly. The damaged `ekālamvano` / `ālamvano` spellings
+remain witness uncertainties, not claimed restorations.

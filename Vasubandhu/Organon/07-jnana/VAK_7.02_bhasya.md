@@ -2,7 +2,7 @@
 
 ## 1. Kārikā Anchor
 
-> sāsravānāsravaṃ jñānam ādyaṃ saṃvṛtijñānakam |
+> sāsravānāsravaṃ jñānam ādyaṃ saṃvṛtijñāpakam |
 > anāsravaṃ dvidhā dharmajñānam anvayam eva ca || 7.2 ||
 
 > Knowledge, in summary, is contaminated or uncontaminated. The former is
@@ -28,20 +28,24 @@ Kārikā study: [`VAK_7.02.md`](./VAK_7.02.md).
 > anāsravaṃ dvidhā dharmajñānam anvayam eva ca /
 > anāsravaṃ jñānaṃ dvidhā bhidyate /
 > dharmajñānam anvayajñānaṃ ca /
+> evagete dve jñāne trīṇi bhavanti /
 
-**Witness.** Citation: Pradhan [391|15]–[392|04], starting at
-`kiyatā sarvajñānasaṃgrahaḥ /`. The running e-text
-has a malformed page marker near this span; it is not treated as content.
-Kārikā quotation and verse e-text transmit `saṃvṛtijñāpakam`; the prose
-identification is `saṃvṛtijñānam`. The Organon kārikā displays
-`saṃvṛtijñānakam` as a working reading. The technical category is not in
-doubt; the exact verse syllable remains open. Word-division and obvious
-sandhi are supplied for reading.
+**Witness.** Citation: Pradhan [391|15]–[392|04–05], starting at
+`kiyatā sarvajñānasaṃgrahaḥ /`. The running
+e-text has a malformed page marker near this span; it is not content.
+The kārikā quotation transmits `saṃvṛtijñāpakam`; [Gokhale's independent
+kārikā edition](https://theosnet.net/dzyan/sanskrit/abhidharmakosa_1946.pdf)
+has `saṃvṛtisaṃjñakam` (VII.2). The prose identifies the category as
+`saṃvṛtijñānam`, without deciding the verse reading. The local
+`anāsrvaṃ` at [392|04] is regularized to `anāsravaṃ` above; `evagete` at
+[392|04–05] is retained without a silent restoration. Other word-division
+and sandhi are supplied for reading.
 
 The unit begins with the question after 7.01's concluding
 `jñānaṃ tveṣā cānyā ca /` in the same printed [391|15] label, and ends
-when the two uncontaminated names have been stated. 7.03 opens the
-object-ranges.
+with the consequence that the two summary classes yield three named
+knowledges. The next prose, `saṃvṛtijñānaṃ dharmajñānaṃ ca / tatra`,
+begins 7.03 at [392|05]; its reading needs that verse's own review.
 
 ## 3. Continuous Translation
 
@@ -59,6 +63,8 @@ object-ranges.
 >
 > Uncontaminated knowledge is divided in two: dharma-knowledge and
 > anvaya-knowledge.
+>
+> Thus these two [summary classes of] knowledge become three [named kinds].
 
 ## 4. Movement of the Commentary
 
@@ -70,12 +76,14 @@ how is all knowledge included?
          principal ground: apprehension of conventions (prāyeṇa)
          other teachers: covered by ignorance
     → uncontaminated divides: dharma-knowledge / anvaya-knowledge
+    → the two summary classes thus yield three named kinds
 ```
 
 The ten are announced, not derived. This verse is the first nested cut of
 that announced whole. Voices: Vasubandhu on the principal name-explanation;
 `ity apare` for the covering-by-ignorance etymology. No school label is
-supplied for those others.
+supplied for those others. The final `evagete` is damaged; the translation
+follows the clear two-to-three count without claiming an exact restoration.
 
 ## 5. Conventional Knowledge and the Two Names of Saṃvṛti
 
@@ -146,8 +154,9 @@ Attributed to the commentary, not read back into the verse words:
 - `ity apare` and covering by ignorance;
 - the gloss `dvidhā bhidyate`.
 
-The `jñāpakam` / `jñānakam` syllable is a witness problem, not a doctrinal
-one.
+The local `jñāpakam` differs from Gokhale's `saṃjñakam`; the withdrawn
+`jñānakam` was a conjecture, not another witnessed reading. The following
+two-to-three count is supplied by the Bhāṣya, not by the verse itself.
 
 ## 8. Interpretation
 
@@ -178,9 +187,11 @@ is not in play. Concept-level closure is not claimed for a summary cut.
 
 ## 9. Review Status
 
-The opening boundary was checked against the local witness: the 7.01
-conclusion ends with `jñānaṃ tveṣā cānyā ca /`, and this unit begins at
-`kiyatā sarvajñānasaṃgrahaḥ /` within [391|15]. The later 7.02 span has
-not been re-reviewed in this 7.01 pass. The kārikā anchor reproduces the
-Bhāṣya-informed study translation exactly. Witness items left open:
-`saṃvṛtijñāpakam`, exact source-line collation, and the English for `anvaya`.
+The complete 7.02 unit [391|15]–[392|04–05] was checked against the local
+witness, from `kiyatā sarvajñānasaṃgrahaḥ /` through `evagete dve jñāne
+trīṇi bhavanti /`. The preceding `jñānaṃ tveṣā cānyā ca /` closes 7.01
+within [391|15]. The following `saṃvṛtijñānaṃ dharmajñānaṃ ca / tatra`
+starts 7.03 at [392|05] and remains for that verse's full review. The
+kārikā anchor reproduces the paired Bhāṣya-informed translation exactly.
+The `saṃvṛtijñāpakam` / `saṃvṛtisaṃjñakam` variation, damaged
+`evagete`, and English for `anvaya` remain open.

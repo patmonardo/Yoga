@@ -1,4 +1,4 @@
-# VAK_7.11 — Other-Mind Knowledge: Aspect, Singularity, and Discernment
+# VAK_7.11 — Knowledge of Another's Consciousness: Aspect, Singularity, and Discernment
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -18,18 +18,18 @@ The Sanskrit follows the local kārikā witness. The raw Bhāṣya quotation
 has `paramatojñānam` and `śeyasvalakṣaṇākāram`; the explanatory prose
 supports the study's readings. Its extended discussion runs through
 Pradhan 396–398 and includes competing interpretations of scriptural
-mind-state descriptions.
+descriptions of Consciousness.
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tathā` | adverb | likewise four-aspected: the pure form follows 7.10's four aspects proper to Path, not its unqualified sixteenfold range |
-| `paramanojñānam` | nominative singular neuter compound, `para + mano + jñānam` | knowledge of another mind; `manas` appears as `mano-` in the compound |
+| `paramanojñānam` | nominative singular neuter compound, `para + mano + jñānam` | Knowledge of another's Consciousness; `manas` appears as `mano-` in the compound, and the prose uses `paracittajñāna` |
 | `nirmalam` | nominative singular neuter adjective | stainless, pure |
 | `samalam` | nominative singular neuter adjective | with stain, contaminated |
 | `punaḥ` | connective adverb | however, in turn |
-| `jñeyasvalakṣaṇākāram` | nominative singular neuter possessive compound, `jñeya + sva-lakṣaṇa + ākāra` | the contaminated form takes the own characteristic of the knowable mind or mental factor as its aspect |
+| `jñeyasvalakṣaṇākāram` | nominative singular neuter possessive compound, `jñeya + sva-lakṣaṇa + ākāra` | the contaminated form takes the own characteristic of the knowable Consciousness or mental factor as its aspect |
 | `ekaikadravyagocaram` | nominative singular neuter possessive compound; `eka + eka` is distributive | one individual entity at a time as range; the Bhāṣya applies it to both forms |
 
 ## 4. Grammar
@@ -47,16 +47,16 @@ of VAK 7.10, not the earlier sixteenfold range taken without qualification.
 
 **The contaminated form.** Supply `paramanojñānam` with `samalam`.
 Its distinctive predicate is `jñeyasvalakṣaṇākāram`. The Bhāṣya expands
-this through the own characteristic of the knowable citta or caitta.
+this through the own characteristic of the knowable Consciousness or mental factor.
 
 **Scope of the final predicate.** The verse's compression could make
 `ekaikadravyagocaram` appear restricted to the contaminated form. The
 prose introduces it with a damaged `labhayam api tu`, contextually read
 as `ubhayam api tu`, “both, however.” Its examples and concluding
-specification support applying singular object-range to both forms.
+specification support applying singular range to both forms.
 The working restoration is declared here rather than silently substituted.
 
-**Close construe.** Likewise [four-aspected is] pure other-mind knowledge.
+**Close construe.** Likewise [four-aspected is] pure Knowledge of another's Consciousness.
 The contaminated [form], however, [has] the knowable's own characteristic
 as its aspect. [Both have] one individual entity at a time as their range.
 
@@ -64,41 +64,42 @@ as its aspect. [Both have] one individual entity at a time as their range.
 
 ### Literal Translation
 
-> Pure knowledge of another mind is likewise [four-aspected]. The
+> Pure Knowledge of another's Consciousness is likewise [four-aspected]. The
 > contaminated form, however, has the knowable's own characteristic
 > as its aspect. [Both] range over one individual entity at a time.
 
 ### Bhāṣya-informed study translation
 
-> Uncontaminated other-mind knowledge, as Path-knowledge, has the four
-> aspects proper to Path. Contaminated other-mind knowledge takes the own
-> characteristic of the mind or mental factor it knows as its aspect.
+> Uncontaminated Knowledge of another's Consciousness, as Path-knowledge,
+> has the four aspects proper to Path. Contaminated Knowledge of another's
+> Consciousness takes the own characteristic of the Consciousness or mental
+> factor it knows as its aspect.
 > Both range over one individual mental entity at a time.
 
 ## 6. Philosophical Translation
 
-> Other-mind knowledge is differentiated through its mode of knowing,
-> while its individual acts retain a singular object. Pure knowing
+> Knowledge of another's Consciousness is differentiated through its mode of knowing,
+> while its individual acts retain a singular target. Pure knowing
 > operates through Path-aspects; contaminated knowing apprehends the
 > own characteristic of the mental entity. Determining the condition
-> of another cognition does not entail simultaneously knowing every
-> associated factor or reproducing the object that cognition knows.
+> of another Consciousness does not entail simultaneously knowing every
+> associated factor or reproducing the Support that Consciousness takes.
 
-The distinction between the knowing's aspect and the target cognition's
-aspect is essential. The former determines how other-mind knowledge
-operates; the latter is not automatically inherited when that cognition
-becomes its object.
+The distinction between the knowing's aspect and the target Consciousness's
+aspect is essential. The former determines how this Knowledge operates;
+the latter is not automatically inherited when that Consciousness
+becomes its Support.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | `nirmala` / `samala` | pure / contaminated | Bhāṣya `anāsrava` / `sāsrava`; contaminated does not by itself mean morally unwholesome. |
-| `svasatyākāra` | aspect proper to its own truth | For pure other-mind knowledge the truth is Path; four possible aspects are not necessarily simultaneous. |
-| `jñeyasvalakṣaṇa` | the knowable's own characteristic | Aspect of contaminated knowing with respect to a citta or caitta, not unrestricted access to a continuum. |
+| `svasatyākāra` | aspect proper to its own truth | For pure Knowledge of another's Consciousness the truth is Path; four possible aspects are not necessarily simultaneous. |
+| `jñeyasvalakṣaṇa` | the knowable's own characteristic | Aspect of contaminated knowing with respect to Consciousness or a mental factor, not unrestricted access to a continuum. |
 | `ekaikadravyagocara` | ranging over one individual entity at a time | Applies to both forms; `dravya` is the individually apprehended dharma, not an underlying permanent substance. |
-| `yugapadgrahaṇa` | simultaneous apprehension | Denied in explaining scriptural knowledge of a mind's condition; the cloth-and-stain example does not supply a temporal algorithm. |
-| `prāpti` | acquisition / possession | Neither possession of passion nor merely taking passion as object establishes that the known mind is associated with passion. |
+| `yugapadgrahaṇa` | simultaneous apprehension | Denied in explaining scriptural knowledge of a Consciousness's condition; the cloth-and-stain example does not supply a temporal algorithm. |
+| `prāpti` | acquisition / possession | Neither possession of passion nor merely taking passion as Support establishes that the known Consciousness is associated with passion. |
 | `līna` / `uddhata` | sluggish / agitated | Distinct conditions require different cultivation responses; a generic “afflicted” reading loses the practical distinction. |
 | `sūtravirodha` / `śāstravirodha` | conflict with sūtra / treatise | In this concrete disagreement, a reading conflicting with the treatise is preferred to one conflicting with the sūtra. |
 
@@ -106,8 +107,8 @@ becomes its object.
 
 | Form | Aspect determination | Individual object-range |
 |---|---|---|
-| Pure other-mind knowledge | Four Path-aspects | One entity at a time |
-| Contaminated other-mind knowledge | Own characteristic of the knowable mind or mental factor | One entity at a time |
+| Pure Knowledge of another's Consciousness | Four Path-aspects | One entity at a time |
+| Contaminated Knowledge of another's Consciousness | Own characteristic of the knowable Consciousness or mental factor | One entity at a time |
 
 ```text
 PureParacittaKnowledge → PathKnowledge
@@ -123,22 +124,22 @@ BothForms
 The object relation is not transitively inherited:
 
 ```text
-OtherMindKnowledge knows Cognition C
-AND Cognition C has Object O
+ParacittaKnowledge knows Consciousness C
+AND Consciousness C has Support S
     does not entail
-OtherMindKnowledge knows O
+ParacittaKnowledge knows S
 ```
 
-The Bhāṣya's example distinguishes “this mind is passionate” from
-“this mind is passionate toward that particular form.” The latter
-would additionally take that form as object.
+The Bhāṣya's example distinguishes “this Consciousness is passionate”
+from “this Consciousness is passionate toward that particular form.”
+The latter would additionally take that form as Support.
 
 Three relations must therefore be preserved:
 
 ```text
 the aspect of the knowing operation
 the mental entity known
-that mental entity's own aspect and object
+that mental entity's own aspect and Support
 ```
 
 The first two do not establish direct access to the third.
@@ -146,30 +147,30 @@ The first two do not establish direct access to the third.
 ## 9. Interpretive Note
 
 **The extended Bhāṣya argument.** A sūtra describes knowing a passionate
-mind as passionate. The initial objection asks how this is possible
+Consciousness as passionate. The initial objection asks how this is possible
 if only one entity is apprehended at a time. The reply denies simultaneous
 apprehension and uses the cloth-and-stain comparison. The discussion
 then asks what the scriptural descriptions actually mean.
 
-**Scope of the informed translation.** Pradhan 396|04–396|11 controls
-the verse's three predicates. The ensuing discussion tests how a
-condition can be known without simultaneously apprehending all its
-factors or inheriting the observed mind's own object. Those arguments
-belong here and in the paired Bhāṣya study, rather than being appended
-to the kārikā translation.
+**Scope of the continuous translation.** The complete [396|03]–[398|23]
+unit, translated in the paired Bhāṣya study, begins with the verse's
+three predicates. Its ensuing discussion tests how a condition can be
+known without simultaneously apprehending all its factors or inheriting
+the observed Consciousness's Support. These prose arguments remain
+distinct from the kārikā translation.
 
 **Competing readings of mental conditions.** The prose records different
-accounts of contracted and distracted mind, including a position
+accounts of contracted and distracted Consciousness, including a position
 attributed to western teachers. A wider Vaibhāṣika interpretation
 organizes many pairs through afflicted and wholesome states. Against
 this, the argument invokes sūtra descriptions of inward contraction
-with torpor and sleep and outward distraction among sense-objects.
+with torpor and sleep and outward distraction among the five sensual qualities.
 It questions whether the proposed broad classification preserves the
 distinct meanings of the terms.
 
 **Practical consequence of the distinctions.** The quoted sūtra
 instructions distinguish occasions unsuitable for cultivating calming
-factors when the mind is sluggish from occasions unsuitable for
+factors when Consciousness is sluggish from occasions unsuitable for
 stimulating factors when it is agitated. The rejoinders appeal to
 predominance and to cultivation as directed attention. The discussion
 still insists that the sūtra's intended distinction must be preserved.
@@ -177,18 +178,18 @@ Its preference for conflict with a treatise over conflict with sūtra
 is thus tied to an operationally consequential reading, not a license
 to discard textual controls generally.
 
-**Association, possession, and object.** The closing discussion tests
+**Association, possession, and Support.** The closing discussion tests
 whether “with passion” should mean possessing passion or having passion
-as object. It rejects those substitutions and returns to actual
-association in the relevant sūtra context. Other-mind knowledge does
-not thereby apprehend a possession-relation or the external object of
-the observed mind. The account's scope remains the present mental
-entity and its condition.
+as Support. It rejects those substitutions and returns to actual
+association in the relevant sūtra context. Knowledge of another's
+Consciousness does not thereby apprehend a possession-relation or the
+Support of the observed Consciousness. The account's scope remains the
+present mental entity and its condition.
 
-**Concluding range statement.** At 398|20–398|23 the Bhāṣya gathers
-the restrictions: the objects are present mind and mental factors of
+**Concluding range statement.** At [398|20–23] the Bhāṣya gathers
+the restrictions: the Conditions are present Consciousness and mental factors of
 another continuum, belonging to the desire or form domains or
-uncontaminated. Other-mind knowledge is obtained in Cultivation and
+uncontaminated. Knowledge of another's Consciousness is obtained in Cultivation and
 excluded from Seeing and the uninterrupted Path. It is dissociated
 from the emptiness and signless samādhis and is not included in
 exhaustion- or non-arising-knowledge. These are restrictions of the
@@ -196,12 +197,12 @@ particular knowledge being discussed, not general exclusions from
 every kind of knowing.
 
 **Textual caution.** The raw prose contains `labhayam`, `gṛhlāti`,
-`na tadā cittānāṃ`, `dugapadgrahaṇam`, and damaged forms throughout
-the debate. The “both” construe and mind/mental-factor contrast are
-working readings supported by context; they are not silently repaired
-quotations. The source's own final return to the restricted object
-relation is clearer than several intervening transmitted sentences.
-Exact restoration of those sentences remains open.
+`na tadā cittānāṃ`, `dugapadgrahaṇam`, `vimuktaṃ kliṣṭaṃ`, and the
+contradictory `na rāgasaṃprayogāt`. The continuous block retains these.
+The translation brackets the expected unliberated term and displays the
+association conflict; [Xuanzang's Chinese parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+corroborates the intended contrast without supplying local Sanskrit letters.
+Exact restoration remains open.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.** This passage
 gives our Yoga system a particularly concrete reciprocity. Yoga Vidyā
@@ -211,7 +212,7 @@ because cultivation responds differently to sluggishness and agitation.
 Practical differentiation tests whether an interpretation has retained
 the meaning needed for the work.
 
-The singular object-rule adds a second discipline. An articulated
+The one-entity rule adds a second discipline. An articulated
 account of a mental condition must preserve how its determinations
 are known, rather than treating a useful description as proof that
 every constituent was apprehended in one act. Knowing another's
@@ -224,10 +225,11 @@ Technē determines the appropriate undertaking through that articulation.
 The sūtra–śāstra dispute supplies the source's specific test of the
 relation, while this Yoga-system formulation remains our interpretation.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The four
-Path-aspects and both forms' singular object-range correct the less
-precise earlier account. The competing interpretations remain
-attributed, and corrupt prose readings remain marked for review.
+**Review status.** The complete [396|03]–[398|23] natural unit and both
+adjacent boundaries have been checked against the local source. The four
+Path-aspects, both forms' singular range, the attributed disputes, and the
+closing restrictions are translated. Damaged Sanskrit remains visible;
+exact restoration of the conflicting lines remains open.
 
 ## 10. OWL++ Seed
 
@@ -246,7 +248,7 @@ Class: SourceSpan
 ObjectProperty: hasAspectRange
 ObjectProperty: apprehendsMentalEntity
 ObjectProperty: determinesCondition
-ObjectProperty: targetCognitionHasObject
+ObjectProperty: targetConsciousnessHasSupport
 ObjectProperty: attributedTo
 ObjectProperty: supportedBy
 
@@ -254,10 +256,10 @@ RangeRule: PureParacittaKnowledge hasAspectRange FourPathAspects.
 AspectRule: ContaminatedParacittaKnowledge apprehends the knowable's own characteristic.
 ObjectRule: Each act of either form apprehends one individual mental entity.
 
-ProjectConstraint: Knowing a cognition does not automatically include its object.
-ProjectConstraint: Distinguish the knowing's aspect from the target cognition's aspect.
+ProjectConstraint: Knowing another's Consciousness does not automatically include its Support.
+ProjectConstraint: Distinguish the knowing's aspect from the target Consciousness's aspect.
 ProjectConstraint: Condition-description does not imply simultaneous apprehension of all associated factors.
-ProjectConstraint: Preserve association, possession, and having-as-object as different relations.
+ProjectConstraint: Preserve association, possession, and having-as-Support as different relations.
 ProjectConstraint: Preserve rival interpretations of mental-state pairs with their attribution.
 ProjectConstraint: Test practical distinctions against the relevant source instructions.
 ```

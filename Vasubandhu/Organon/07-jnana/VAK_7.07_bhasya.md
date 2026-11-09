@@ -21,27 +21,47 @@ Kārikā study: [`VAK_7.07.md`](./VAK_7.07.md).
 
 > atha kṣayajñānānutpādajñānayoḥ ko viśeṣaḥ /
 > kṣayajñānaṃ hi satyeṣu parijñātādiniścayaḥ /
-> na parijñeyam ity ādir anutpādamatir matā /
+> na parijñeyamityādiranutpādamatirmatā /
 > kṣayajñānaṃ katamat /
-> duḥkhaṃ me parijñātam iti jānāti /
-> samudayaḥ prahīṇo nirodhaḥ sākṣātkṛto mārgo bhāvita iti jānāti /
-> tad-upādāya yat jñānaṃ darśanaṃ vidyā buddhir bodhiḥ prajñā āloko 'bhisamaya idam ucyate kṣayajñānam /
+> duḥkhaṃ me parijñātamiti jānāti /
+> samudayaḥ prahīṇo nirodhaḥ sākṣātakṛto mārgo bhāvita iti jānāti /
+> tadupādāya yat jñānaṃ darśanaṃ vidyā buddhirbodhiḥ prajñā āloko 'bhisamayamidamucyate kṣayajñānam /
 > anutpādajñānaṃ katamat /
-> duḥkhaṃ me parijñātaṃ na punaḥ parijñeyam iti jānāti yāvan mārgo bhāvito na punar bhāvayitavya iti /
-> tad-upādāyeti vistareṇoktaṃ śāstre /
-> katham anāsraveṇa jñānenaivaṃ jānāti /
+> duḥkhaṃ me parijñātaṃ na pounaḥ parijñeyamiti jānāti yāvat mārgo bhāvito na punarbhāvayitavya iti /
+> tadupādāye"ti vistareṇoktaṃ śāstre /
+> kathamanāsraveṇa jñānenaivaṃ jānāti /
 > tatpṛṣṭhalabdhena vyutthita evaṃ jānāti /
-> atas tad-viśeṣeṇa tayor viśeṣaḥ /
-> śāstre jñāpita iti kāśmīrāḥ /
-> anāsraveṇāpy evaṃ jānātīty apare /
+> atastadviśeṣeṇa tayorviśeṣaḥ /
+> śāstre jñāpiota iti kāśmīrāḥ /
+> anāsraveṇāpyevaṃ jānātītyapare darśanavacanaṃ tu bhāṣyākṣepāt /
+> jpratyakṣavṛttitvādvā /
+> ata evoktaṃ "yāvat jñānaṃ darśanamapi tadi"ti /
+> ityetāni daśa jñānāni bhavanti yaduta dharmajñānamanvayajñānaṃ saṃvṛtijñānaṃ duḥkhajñānaṃ samudayañṇyānaṃ nirodhajñānaṃ mārgajñānaṃ paracittajñānaṃ kṣayajñānamanutpādajñānaṃ ca /
+> tatra saṃvṛtijñānamekaṃ jñānamekasya ca bhāgaḥ /
+> dharmajñānamekaṃ jñānaṃ saptānāṃ ca bhāgaḥ /
+> duḥkhasamudayanirodhamārga kṣayānutpādaparacittajñānānām /
+> evamanvayajñānam /
+> duḥkhajñānamekaṃ jñānaṃ caturṇā ca bhāgaḥ /
+> dharmānvayakṣayānutpādajñānānām /
+> evaṃ samudayanirodhajñāne caturṇāṃ bhāgaḥ /
+> mārgajñānamekaṃ jñānaṃ pañcānāṃ ca bhāgaḥ /
+> caturṇāmanantaroktānāṃ paracittasya ca /
+> paracittajñanamekaṃ jñānaṃ caturṇāṃ ca bhāgaḥ /
+> dharmānvayamārga saṃvṛtijñānānām /
+> kṣayajñānamekaṃ jñānaṃ ṣaṇṇāṃ ca bhāgaḥ /
+> dharmānvayaduḥkhasamudayanirodhamārgajñānānām /
+> evamanutpādajñānam /
 
-**Witness.** Pradhan 394|05–14 reaches `iti kāśmīrāḥ`; the running source
-continues with the other
-teachers: uncontaminated knowledge itself may know in this form (394|12–15).
-Both voices are kept. E-text irregularities (`na pounaḥ`, `sākṣātakṛto`,
-`jñāpiota`) normalized only for reading. The damaged `darśana` discussion
-that follows (`bhāṣyākṣepāt`, `jpratyakṣavṛttitvādvā`) is not restored here.
-Ten-name recapitulation at 394|16–18 is noted, not re-derived.
+**Witness.** The complete unit runs [394|05]–[394|25]. Its preceding
+[394|03–04] Buddha statement closes 7.06. The question `kasmāt punar etāni…`
+at [394|16–26] opens 7.08 after the ten-class recapitulation; that printed
+label overlaps the preceding labels and does not move the question into
+7.07. The block retains damaged `na pounaḥ`, `sākṣātakṛto`, `jñāpiota`,
+`bhāṣyākṣepāt`, `jpratyakṣavṛttitvādvā`, `samudayañṇyāna`, and
+`paracittajñana`. [Xuanzang's Chinese Kośa, fascicle 26](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+corroborates the two explanations of `darśana` and the ten-class overlap
+counts; it does not restore the local Sanskrit letters. Voice: Vasubandhu;
+`kāśmīrāḥ` and `apare` mark the two attributed answers.
 
 ## 3. Continuous Translation
 
@@ -54,20 +74,48 @@ Ten-name recapitulation at 394|16–18 is noted, not re-derived.
 >
 > What is exhaustion-knowledge? One knows: “Suffering has been fully known
 > by me.” One knows: “Origination has been abandoned; cessation has been
-> realized; the Path has been cultivated.” Taking that as basis, that which
-> is knowledge, seeing, science, understanding, awakening, prajñā,
-> illumination, penetration — this is called exhaustion-knowledge.
+> realized; the Path has been cultivated.” In dependence on that, what is
+> knowledge, seeing, science, understanding, awakening, discriminative
+> comprehension, illumination, penetration — this is called
+> exhaustion-knowledge.
 >
 > What is non-arising-knowledge? One knows: “Suffering has been fully known
 > by me and is not again to be fully known” — up to “the Path has been
-> cultivated and is not again to be cultivated.” “Taking that as basis” is
+> cultivated and is not again to be cultivated.” “In dependence on that” is
 > stated at length in the treatise.
 >
 > How does one know thus by uncontaminated knowledge? Having emerged, one
-> knows thus by the cognition subsequently acquired from it. Therefore the
-> difference of those two is by the difference of that. The Kashmiris say:
+> knows thus by the cognition subsequently acquired from it. Thus the
+> difference between the two follows from the difference in that subsequent
+> cognition. The Kashmiris say:
 > it is made known in the treatise. Others say: one knows thus by
-> uncontaminated knowledge as well.
+> uncontaminated knowledge as well. As for the word “seeing,” [it occurs]
+> through an addition prompted by the exposition, or because [this knowing]
+> operates directly. For this very reason it was said: “As far as [there is]
+> knowledge, there is also seeing.”
+>
+> Thus there are these ten knowledges: dharma-knowledge, anvaya-knowledge,
+> conventional knowledge, suffering-knowledge, origination-knowledge,
+> cessation-knowledge, Path-knowledge, knowledge of another's Consciousness,
+> exhaustion-knowledge, and non-arising-knowledge.
+>
+> Among them, conventional knowledge is one knowledge and part of one
+> [other knowledge]. Dharma-knowledge is one knowledge and part of seven:
+> suffering-, origination-, cessation-, Path-, exhaustion-, non-arising-,
+> and knowledge of another's Consciousness. The same holds for
+> anvaya-knowledge.
+>
+> Suffering-knowledge is one knowledge and part of four: dharma-, anvaya-,
+> exhaustion-, and non-arising-knowledge. The same holds for origination-
+> and cessation-knowledge, each being part of four.
+>
+> Path-knowledge is one knowledge and part of five: the four just named
+> [dharma-, anvaya-, exhaustion-, and non-arising-knowledge], and knowledge
+> of another's Consciousness. Knowledge of another's Consciousness is one
+> knowledge and part of four: dharma-, anvaya-, Path-, and conventional
+> knowledge. Exhaustion-knowledge is one knowledge and part of six:
+> dharma-, anvaya-, suffering-, origination-, cessation-, and Path-knowledge.
+> The same holds for non-arising-knowledge.
 
 ## 4. Movement of the Commentary
 
@@ -79,6 +127,8 @@ question: difference of the two terminal knowledges
     → how can anāsrava-jñāna know in this form?
          Kāśmīra: tatpṛṣṭhalabdha after emergence
          apare: uncontaminated knowledge also
+    → why the cited formula says darśana: exposition or direct operation
+    → ten knowledge names and each one's partial overlap with the others
 ```
 
 Same four truths, two modal determinations. Possession-conditions of each
@@ -103,8 +153,11 @@ Non-repetition is scoped to these liberative tasks. It does not forbid every
 later wholesome act or all further exercise of knowledge.
 
 The śāstra-list (`jñāna`, `darśana`, `vidyā`, … `abhisamaya`) gathers names
-around this knowing. It does not cancel 7.01: the two terminal knowledges
-are not view. `Darśana` in the list is a textual problem, not a reversal.
+around this knowing. The subsequent explanation of `darśana` offers an
+expository reason and a direct-operation reason; the damaged wording
+keeps their precise Sanskrit construal open. This list and its cited
+formula do not cancel 7.01's classification that the two terminal
+knowledges lack view-nature.
 
 ## 6. How the Form Is Known
 
@@ -128,7 +181,31 @@ refinement. That leaks a school answer into the unit's conclusion.
 Both accounts remain attributed. The first-person wording is a formulation
 used to define content; its cognitive status is exactly what is disputed.
 
-## 7. The Bhāṣya's Decisions for the Kārikā
+## 7. Ten-Class Recapitulation
+
+The closing recapitulation counts each knowledge as a class in its own right
+and as part of other classes. Its `bhāgaḥ` is partial overlap, not a second
+set of knowledge-events or automatic co-occurrence in one act.
+
+| Knowledge | Part of how many other classes | Named other classes |
+|---|---:|---|
+| Conventional | 1 | Knowledge of another's Consciousness |
+| Dharma | 7 | Suffering, origination, cessation, Path, exhaustion, non-arising, knowledge of another's Consciousness |
+| Anvaya | 7 | The same seven |
+| Suffering | 4 | Dharma, anvaya, exhaustion, non-arising |
+| Origination | 4 | The same four |
+| Cessation | 4 | The same four |
+| Path | 5 | Dharma, anvaya, exhaustion, non-arising, knowledge of another's Consciousness |
+| Knowledge of another's Consciousness | 4 | Dharma, anvaya, Path, conventional |
+| Exhaustion | 6 | Dharma, anvaya, suffering, origination, cessation, Path |
+| Non-arising | 6 | The same six |
+
+The conventional overlap is identified from the later fourfold
+`paracittajñāna` list in this same recapitulation; the immediate
+conventional sentence gives the count but does not name that one class.
+The next question, why exactly ten are established, begins 7.08.
+
+## 8. The Bhāṣya's Decisions for the Kārikā
 
 Confirmed:
 
@@ -142,11 +219,12 @@ Attributed to the commentary, not read into the verse words:
 - the four explicit predicates and `me`;
 - `punaḥ` in the non-repetition series;
 - the śāstra name-list;
-- the how-question and both answers.
+- the how-question and both answers;
+- the `darśana` explanation and ten-class overlap recapitulation.
 
 No rewrite of the Organon literal line is required.
 
-## 8. Interpretation
+## 9. Interpretation
 
 This section is reconstruction.
 
@@ -170,9 +248,12 @@ Buddha Mind as Singular would be exhaustive closure of both ascertainments
 without leftover task. This verse only defines the two modes. 1.01's
 *sarvathā* remains the measure, not a result proven here.
 
-## 9. Review Status
+## 10. Review Status
 
-Reviewed against the paired Organon kārikā study and the Pradhan 394|05–15
-span recorded here, including the other-teachers clause. The anchor now
-reproduces the Bhāṣya-informed study translation exactly. The damaged
-`darśana` explanation and exact source-line collation remain open.
+The complete [394|05]–[394|25] unit has been compared with the local
+Sanskrit. The preceding 7.06 unit ends at [394|03–04]; the question
+`kasmāt punar etāni…` after the recapitulation begins 7.08 under the
+overlapping printed label [394|16–26]. The formerly omitted `darśana`
+explanation and ten-class recapitulation are translated. The local
+Sanskrit damage in those clauses remains visible and unresolved. The
+anchor matches the paired Bhāṣya-informed study translation exactly.

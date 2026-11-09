@@ -1,4 +1,4 @@
-# VAK_7.05 Bhāṣya — First Arising and the Limits of Other-Mind Knowledge
+# VAK_7.05 Bhāṣya — Limits of Knowledge of Another's Consciousness
 
 ## 1. Kārikā Anchor
 
@@ -6,97 +6,95 @@
 > bhūmyakṣapudgalotkrāntaṃ naṣṭājātaṃ na vetti tat || 7.5 ||
 
 > At their first arising, exhaustion- and non-arising-knowledge are
-> suffering- and origination-anvaya-knowledge, taking the Base at the summit
-> of existence as object. Knowledge of another mind belongs to four knowledge
-> classes—dharma, anvaya, Path, and conventional—and cannot know a mind
-> beyond its level, faculty, or practitioner standing, nor one already
-> ceased or not yet arisen.
+> suffering- and origination-anvaya-knowledge, taking the Bases at the summit
+> of existence as Support. Knowledge of another's Consciousness belongs to
+> four knowledge classes—dharma, anvaya, Path, and conventional—and cannot
+> know Consciousness beyond its level, faculty, or practitioner standing,
+> nor Consciousness already ceased or not yet arisen.
 
-Two statements. The opening dual completes 7.04. `Caturbhyaḥ paracittavit`
-begins a new determination; the dual does not attach to the fourfold
-paracitta list.
+Two statements occur in the kārikā. Its opening dual and the prose through
+[393|04] complete 7.04's natural Bhāṣya unit. `Caturbhyaḥ paracittavit`
+begins the new unit at [393|05]; the opening dual does not attach
+to its fourfold classification.
 
 Kārikā study: [`VAK_7.05.md`](./VAK_7.05.md).
 
 ## 2. Continuous Sanskrit
 
-> prathamotpanne tu kṣayajñānānutpādajñāne duḥkhasamudayānvayajñāne
-> duḥkha-samudayākārair bhavāgrika-skandhālambanatvāt /
-> kiṃ khalu vajropamo 'pi tābhyām ekālambano 'sti /
-> yadi duḥkha-samudayālambano bhavati /
-> atha nirodha-mārgālambano naikālambanaḥ /
 > caturbhyaḥ paracittavit /
 > vettīti vit jñānam /
 > paracittajñānaṃ caturbhyo jñānebhyo draṣṭavyam /
-> dharmānvaya-mārga-saṃvṛtijñānānām /
-> tasya punar ayaṃ niyamaḥ /
-> bhūmyakṣapudgalotkrāntaṃ naṣṭājātaṃ na vetti tat /
-> bhūmyatikrāntaṃ na jānāti /
-> adhara-dhyānabhūmikenottara-dhyānabhūmikam … na jānāti /
-> … pudgalotkrāntaṃ na jānāti /
-> … naṣṭājātaṃ na jānāti /
-> atītānāgataṃ vartamāna-paracitta-caitta-viṣayatvāt /
+> dharmānvayajñānamārgaḥ saṃvṛtijñānebhyaḥ /
+> tasya punarayaṃ niyamaḥ /
+> bhūmyakṣapudgalotkrāntam naṣṭājātaṃ na veti tat /
+> bhūmyatikrāntaṃ na jānātīti /
+> adharadhyānabhūmikenottaradhyānabhūmikamindriyātikrāntaṃ na jānāti /
+> śraddhādhimuktasamayamuktamārgeṇa dṛṣṭiprāptāsamayavimuktārga pudgalotkrāntaṃ na jānāti /
+> anāgāmyahañcchāvaka pratyekabuddhabuddhamārggaṇāmadhareṇottaraṃ naṣṭājātaṃ na jānāti /
+> atītānāgataṃ vartamānapara cittacaittaviṣayatvāt /
 
-**Witness.** Pradhan 393|01–13. Immediate fourfold list is damaged
-(`dharmānvayajñānamārgaḥ saṃvṛtijñānebhyaḥ`). Recapitulation at 394|23
-controls the four as dharma, anvaya, Path, and conventional knowledge.
-Practitioner-rank sentences are corrupt (`dṛṣṭiprāptāsamayavimuktārga`,
-`anāgāmyahañcchāvaka`). Hierarchy-rule is used; exact wording is not
-restored. Voice: Vasubandhu. The vajropama question belongs to the 7.04
-continuation, not to a paracitta debate.
+**Witness.** The complete knowledge-of-another's-Consciousness unit runs [393|05]–[393|12–13].
+The preceding [393|01–04] belongs to 7.04; `kiṃ ca bhūyaḥ` at [393|13]
+opens 7.06. The block above retains local `na veti tat`, the damaged
+fourfold list `dharmānvayajñānamārgaḥ saṃvṛtijñānebhyaḥ`, and the
+compressed faculty and practitioner clauses without invented Sanskrit.
+The later recapitulation at [394|23] and [Xuanzang's Chinese Kośa,
+fascicle 26](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+corroborate the four classes. The Chinese also confirms the paired
+faculty types and the ascending practitioner sequence used in the
+translation below. It does not restore the local Sanskrit letters.
+Voice: Vasubandhu; no opponent is introduced.
 
 ## 3. Continuous Translation
 
-> When exhaustion-knowledge and non-arising-knowledge first arise, they are
-> suffering- and origination-anvaya-knowledges, because they take the
-> Bases of the summit of existence as object-support under the aspects
-> of suffering and origination.
+> Knowledge of another's Consciousness is from four.
 >
-> Does the vajra-like Path also have the same object-support as those two?
-> If it takes suffering or origination as object-support, yes. If it takes
-> cessation or the Path as object-support, it does not have the same object.
->
-> Knowledge of another mind is from four.
->
-> `Vit` means “it knows,” hence a knowledge. Knowledge of another mind is
+> `Vit` means “it knows,” hence a knowledge. Knowledge of another's Consciousness is
 > to be seen from four knowledges: [portions] of dharma-, anvaya-, Path-,
 > and conventional knowledge.
 >
-> For it, however, this is the restriction: it does not know what exceeds
-> it in level, faculty, or person, nor what has ceased or has not yet arisen.
+> For it, however, this is the restriction: “It does not know what exceeds
+> it in level, faculty, or person, nor what has ceased or has not yet arisen.”
 >
-> It does not know what has gone beyond its level: one based on a lower
-> dhyāna-level does not know one belonging to a higher dhyāna-level. It does
-> not know what exceeds it in faculty. It does not know what exceeds it in
-> person: the lower does not know the higher. It does not know what has
-> ceased or has not arisen: past and future, because its objects are
-> presently occurring other-mind and mental factors.
+> It does not know what exceeds its level: knowledge based on a lower dhyāna
+> level does not know [Consciousness] belonging to a higher dhyāna level.
+> Nor does it know what exceeds its faculty: knowledge associated with a
+> Faith-Resolved practitioner or one liberated in dependence on occasion
+> does not know the Consciousness of one attained through Seeing or liberated
+> independently of occasion.
+>
+> Nor does it know what exceeds the person's standing: among the
+> non-returner, disciple arhat, solitary Buddha, and Buddha, a lower
+> [standing] does not know a higher one's [Consciousness]. It does not
+> know what has ceased or has not yet arisen: the past or future, because
+> its Conditions are present Consciousness and mental factors in another
+> continuum.
 
 ## 4. Movement of the Commentary
 
 ```text
-close 7.04: first arising = duḥkha- / samudaya-anvaya
-    object: bhavāgra Bases; aspects: suffering, origination
-    side question: vajropama same object? — only if it takes those two truths
-new unit: paracittajñāna
+7.04 closes at [393|04] with first arising and the diamond-like question
+new unit at [393|05]: paracittajñāna
     classified from four (not produced by four)
     then niyama: level, faculty, person, time
 ```
 
-Two operations. Do not derive other-mind knowledge from the first-arising
+Two operations. Do not derive this knowledge from the first-arising
 predicate.
 
-## 5. First Arising
+## 5. Boundary from First Arising
 
-General fourfold range of the terminal knowledges (7.04) is not identical
-with first actualization. First arising takes Bhavāgra under suffering and
+The preceding Bhāṣya unit is translated in 7.04. Its general fourfold
+range of the terminal knowledges is not identical with first actualization.
+First arising takes Bhavāgra under suffering and
 origination aspects, as anvaya-knowledge. The dual does not assign kṣaya
 exclusively to suffering and anutpāda exclusively to origination.
 
-Vajropama may share that object or not, according to which truth it takes.
-Path-continuity does not require object-identity at every step.
+The diamond-like concentration may share that Support or not, according
+to which truth it takes. Path continuity does not require identical
+Supports at every step.
 
-## 6. Other-Mind Knowledge and Its Niyama
+## 6. Knowledge of Another's Consciousness and Its Niyama
 
 `Draṣṭavyam` is classification, not genesis. Overlap with four categories
 does not mean every act belongs to all four at once. Conventional and
@@ -104,17 +102,17 @@ uncontaminated memberships keep the 7.02 cut.
 
 | Dimension | Exclusion |
 |---|---|
-| Level (`bhūmi`) | higher dhyāna-cognition than the knower's |
-| Faculty (`akṣa` / `indriya`) | higher faculty-grade |
-| Person (`pudgala`) | higher practitioner standing |
+| Level (`bhūmi`) | Consciousness belonging to a higher dhyāna level |
+| Faculty (`akṣa` / `indriya`) | Consciousness of the Seeing-attained or occasion-independent liberated practitioner relative to the lower pair |
+| Person (`pudgala`) | Consciousness of a higher practitioner in the non-returner → disciple arhat → solitary Buddha → Buddha sequence |
 | Time | past or future (`naṣṭa` / `ajāta`) |
 
 Passing a limit is necessary, not sufficient. The verse does not say every
-present, non-superior mind is known. 7.06 continues the restrictions.
+present, non-superior Consciousness is known. 7.06 continues the restrictions.
 
-Temporal exclusion has a different ground: present citta and caittas as
-object-field. That is not a denial of every knowledge of past and future
-in the chapter.
+Temporal exclusion has a different ground: present Consciousness and mental
+factors in another continuum are the Conditions. This does not deny every
+knowledge of past and future in the chapter.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
@@ -124,9 +122,10 @@ in the chapter.
   damaged local list and against restricting it to suffering/
   origination.
 - Ablative ≠ causal production.
-- `Akṣa` = faculty-grade via `indriya`.
-
-Practitioner wording stays unrestored.
+- `Akṣa` = faculty grade via `indriya`.
+- The Bhāṣya specifies faculty and practitioner comparisons; the damaged
+  Sanskrit is retained in the continuous block, and the English is
+  corroborated by the Chinese parallel. Practitioner wording stays unrestored.
 
 ## 8. Interpretation
 
@@ -153,7 +152,10 @@ Reason does: a capacity is what it can hold, under stated limits.
 
 ## 9. Review Status
 
-Reviewed against the paired Organon kārikā study and the Pradhan 393|01–13
-span recorded here; 394|23 controls the fourfold list. The anchor now
-reproduces the Bhāṣya-informed study translation exactly. Damaged
-practitioner clauses and exact source-line collation remain open.
+The complete 7.05 Bhāṣya unit [393|05]–[393|12–13] has been compared
+with the local Sanskrit source. The preceding first-arising and diamond-like
+discussion ends at [393|04], and `kiṃ ca bhūyaḥ` at [393|13] begins 7.06.
+The fourfold list and practitioner clauses remain damaged as Sanskrit;
+their interpretation is controlled by the later recapitulation and the
+Chinese parallel. The anchor reproduces the paired Bhāṣya-informed study
+translation exactly.

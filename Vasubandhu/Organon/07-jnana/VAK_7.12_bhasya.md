@@ -18,18 +18,39 @@ Kārikā study: [`VAK_7.12.md`](./VAK_7.12.md).
 ## 2. Continuous Sanskrit
 
 > śeṣe caturdaśākāre śūnyānātmavivarjite /
-> kṣayānutpādajñāne śeṣe te caturdaśākāre śūnyānātmākārau varjayitvā /
-> pāramārthikayor api saṃvṛtibhajanāt … tadbalānuvyavahārataḥ /
-> kim anāsravaḥ svalakṣaṇākāro 'sty atha na /
-> kāśmīrāṇāṃ tāvat nāmalaḥ ṣoḍaśabhyo 'nya ākāraḥ /
-> nāsty anāsravākāraḥ ṣoḍaśākāranirmuktaḥ /
-> anye 'sti śāstrataḥ /
-> … bahirdeśakāḥ / kathaṃ gamyate / śāstrataḥ /
+> kṣayānutpādajñāne śeṣe te caturdaśākāre śūnyānātmakārau varjayitvā /
+> pāramārthikayorapi saṃvṛtibhajanāt śīṇā me jātirnāparamasmādbhavaṃ prajānāmīti tadvalānuvyavahārataḥ /
+> kimanāsravaḥ svalakṣaṇākāro 'styatha na /
+> kāśmīrāṇāṃ tāvat
+> nāmalaḥ ṣoḍaśabhyo 'nya ākāraḥ
+> nāstyanāsravākāraḥ ṣoḍaśākāranirmuktaḥ /
+> anye 'sti śāstrataḥ // VAkK_7.12 //
+> śranye punarastītyāhurvahirdeśakāḥ /
+> kathaṃ gamyate /
+> śāstrataḥ iti /
+> śāstre hyevamāha /
+> "syādapratisaṃyuktena cittena kāmapratisaṃyuktāndharmānvijānīyāt /
+> anityato duḥkhataḥ śūnyato 'nātmataḥ hetutaḥ samudayataḥ prabhavataḥ pratyayataḥ /
+> astyetasthānamastyetadvastviti /
+> yogavihitatī vijānoyādi"ti /
+> nāsyāyamartho yadastyetatsthānamastyetadvastvityevaṃ vijānīyāditi api tvastyetat sthānamastyetadvastu yadanityādito vijānīyāditi cet /
+> na/
+> anyatrāvacanāt /
+> eṣa cecchāstrārtho 'bhaviṣyat /
+> yadidaṃ paṭhacyate "syāddarśanaprahātavyena cittena kāmapratisaṃyuktāndharmānvijānīyāditi /
+> āha /
+> vijānīyāt /
+> ātmata ātmīyata ucchedataḥ śāśvatataḥ ahetuto 'kriyāto 'pavādato 'grataḥ śreṣṭhato viśiṣṭataḥ paramataḥ śuddhito muktito nairyāṇikataḥ kāṅkṣāto vimatito vicikitsātaḥ /
+> rajyeta dviṣyānmanyeta muhyedayogavihitato vijānīyādi"ti /
+> atrāpyevaṃ pāṭho 'bhaviṣyat /
+> astyetat sthānamastyetadvastviti /
+> na tvevaṃ paṭhacyate /
+> tasmānnāsyāyamarthaḥ /
 
-**Witness.** Pradhan 399|01–20. Dual subject explicit in prose. Damaged
-forms (`śīṇā`, `tadvala-`, `śranye`, `vahirdeśakāḥ`) unrestored. Voices:
-Vasubandhu; Kashmiris (closure); bahirdeśaka (further aspect from śāstra);
-objection offering a weaker reading; reply `anyatrāvacanāt`.
+**Witness.** The complete natural unit is [399|01]–[399|20]. The preceding
+7.11 explanation ends [398|23]; the question `kiṃ punar ime ṣoḍaśākārā`
+at [399|21] opens 7.13. This block follows the local source line for line,
+including damaged readings; working construals are marked below.
 
 ## 3. Continuous Translation
 
@@ -38,16 +59,39 @@ objection offering a weaker reading; reply `anyatrāvacanāt`.
 > The remaining two — exhaustion-knowledge and non-arising-knowledge — are
 > fourteen-aspected, leaving out the emptiness and non-self aspects.
 >
-> Although the two are ultimate, from their participation in conventional
-> expression — “my birth is exhausted; I know there is no further existence
-> from this” — by subsequent usage on their strength.
+> Although the two are ultimate, they partake in conventional expression:
+> on their strength one subsequently says, “My birth is exhausted; I know
+> there is no further existence after this.” [The local text reads `śīṇā`
+> and `tadvalānuvyavahārataḥ`.]
 >
 > Is there an uncontaminated own-characteristic aspect, or not? For the
 > Kashmiris, first: no uncontaminated aspect other than the sixteen. There
 > is no uncontaminated aspect free of the sixteen aspects.
 >
 > Others [say] there is, from the treatise. The teachers outside Kashmir
-> say there is. How is that known? From the treatise.
+> say there is. How is that known? From the treatise. For the treatise says:
+> “Could one cognize desire-domain dharmas with a Consciousness unconnected
+> with a domain? One could cognize them as impermanent, as suffering, as
+> empty, as non-self, as cause, as origination, as arising, and as condition;
+> ‘there is this ground, there is this Thing’; one could cognize them in
+> accordance with proper practice.” [The local closing words
+> `yogavihitatī vijānoyādi` are damaged.]
+>
+> “Suppose it is said: This does not mean that one cognizes, ‘there is this
+> ground, there is this Thing,’ [as further aspects]. Rather, it means
+> that there is a ground and a Thing for cognizing [the dharmas] as
+> impermanent and so forth.” No, because this is not said elsewhere.
+>
+> If that were the treatise's meaning, then in the passage that reads,
+> “Could one cognize desire-domain dharmas with a Consciousness to be
+> abandoned by Seeing?”—and answers, “One could cognize them as self,
+> as belonging to self, as annihilated, as eternal, as without cause,
+> as without action, as negated, as foremost, as superior, as distinguished,
+> as supreme, as pure, as liberated, as leading out, with uncertainty,
+> with misgiving, with doubt; one might become attached, hostile,
+> conceited, or deluded, and cognize them contrary to proper practice”—
+> here too the reading “there is this ground, there is this Thing” would
+> occur. But it is not read so. Therefore that is not its meaning.
 
 ## 4. Movement of the Commentary
 
@@ -78,16 +122,20 @@ open. The declaration is *on their strength*, not their inner transcript.
 | Kashmiris | no uncontaminated aspect outside sixteen | stated boundary |
 | Outside Kashmir | such an aspect exists | a specific śāstra passage |
 
-The passage is not a sūtra and not a seventeenth list. Formulas like
-`asty etat sthānam, asty etad vastu` are read by the outsiders as a mode
-of knowing. A weaker reading (“there is merely a case of knowing under
-the listed aspects”) is refused because the same formula is absent in a
-parallel seeing-abandonable passage (`anyatrāvacanāt`).
+The passage is a treatise quotation, not a seventeenth list. The outside
+teachers read `asty etat sthānam, asty etad vastu` as further aspects of
+knowing. A weaker reading (“there is merely a case of knowing under the
+eight listed aspects”) is refused because the same formula is absent in
+a parallel passage about Consciousness to be abandoned by Seeing
+(`anyatrāvacanāt`). `Vastu` is rendered **Thing**; the precise force of
+`sthāna` remains open.
 
-That supports a *textual argument for possible extension*. It does not
-issue a new taxonomy. 7.11's contaminated svalakṣaṇa-aspect is not this
-question; this asks whether an *uncontaminated* own-characteristic aspect
-exists at all outside the sixteen.
+The reply favors the extension reading of the quoted formula, without
+issuing a new taxonomy. 7.11's contaminated own-characteristic aspect is
+distinct from this question about an *uncontaminated* aspect beyond the
+sixteen. [Xuanzang's Chinese parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+corroborates the two quotations and the absent-formula reply without
+settling the damaged local Sanskrit.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
@@ -103,9 +151,11 @@ This section is reconstruction.
 The sixteen are the Principle's aspects (7.10). The terminal pair operate
 minus two. That is Technē restriction, not Vidyā denying emptiness.
 
-The closure fight is whether Philosophical Cognition's aspect-field is a
-finished list. Kashmiris close it. Outsiders keep a gap the treatise may
-name. We do not pick. Appearance would print 14 and 16 and stop.
+The dispute asks whether Philosophical Cognition's aspect-field is a
+finished list. Kashmiris close it; the outside teachers cite the treatise
+for an additional aspect, and the reply supports their construal. The
+Organon determination retains that argument without inventing a full
+additional inventory.
 
 `Pāramārthikayor api saṃvṛtibhajanāt` is the text's own paramārtha-in-
 convention: ultimate knowing still funds a worldly sentence. Our overlay
@@ -115,7 +165,10 @@ nirodha-truth stays arthic. Sublation parked.
 
 ## 9. Review Status
 
-Reviewed against the paired Organon kārikā study and the Pradhan 399|01–20
-span recorded here. The anchor now reproduces the Bhāṣya-informed study
-translation exactly. No seventeen-aspect system is inferred; damaged
-readings and exact source-line collation remain open.
+The complete [399|01]–[399|20] natural unit and adjacent [398|23] and
+[399|21] boundaries were checked against the local source. All 29 source
+lines are present, with the complete treatise quotation, objection, and
+parallel argument translated. The anchor reproduces the paired study
+translation exactly. Damaged readings, particularly `śīṇā`, `tadvala-`,
+`śranye`, and `yogavihitatī vijānoyādi`, remain unrestored; the force of
+`sthāna` remains open.

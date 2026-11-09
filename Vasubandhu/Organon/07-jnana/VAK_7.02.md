@@ -3,25 +3,24 @@
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
-सास्रवानास्रवं ज्ञानम् आद्यं संवृतिज्ञानकम् ।
+सास्रवानास्रवं ज्ञानम् आद्यं संवृतिज्ञापकम् ।
 अनास्रवं द्विधा धर्मज्ञानम् अन्वयमेव च ॥ ७.२ ॥
 ```
 
 ## 2. Sanskrit (IAST)
 
 ```text
-sāsravānāsravaṃ jñānam ādyaṃ saṃvṛtijñānakam |
+sāsravānāsravaṃ jñānam ādyaṃ saṃvṛtijñāpakam |
 anāsravaṃ dvidhā dharmajñānam anvayam eva ca || 7.2 ||
 ```
 
-**Textual status.** These Sanskrit blocks follow the normalized local
-kārikā study. Both the underlying verse e-text and the Bhāṣya quotation
-transmit `saṃvṛtijñāpakam`, while the local study reads
-`saṃvṛtijñānakam`. The commentary's prose explicitly identifies the category
-as `saṃvṛtijñāna`: `yat sāsravaṃ tat saṃvṛtijñānam`. This supports the
-technical identification but does not by itself establish the exact verse
-reading. The displayed normalization remains provisional; the transmitted
-form is recorded here rather than silently replaced.
+**Textual status.** The Sanskrit blocks display the local verse and Bhāṣya
+quotation's `saṃvṛtijñāpakam`. The earlier study conjecture
+`saṃvṛtijñānakam` is withdrawn. [Gokhale's kārikā edition](https://theosnet.net/dzyan/sanskrit/abhidharmakosa_1946.pdf)
+prints `saṃvṛtisaṃjñakam` at VII.2, an independent reading. The Bhāṣya
+prose identifies the category as `saṃvṛtijñāna`:
+`yat sāsravaṃ tat saṃvṛtijñānam`. This grounds “conventional knowledge”
+in the translation without settling the verse's exact reading.
 
 After distinguishing knowledge from view, the chapter turns to the
 comprehensive classification of knowledge. The Bhāṣya announces ten
@@ -34,7 +33,7 @@ knowledges, then begins with their summary division.
 | `sāsrava-anāsravam` (`sāsravānāsravam`) | nominative singular neuter coordinative compound: `sa-āsrava` + `an-āsrava` | with contaminants and without them; distributes knowledge into two statuses |
 | `jñānam` | nominative singular neuter | knowledge, the field being divided |
 | `ādyam` | nominative singular neuter adjective, used substantivally | the first [knowledge], the contaminated member |
-| `saṃvṛti-jñānakam` | nominative singular neuter compound; provisional reading where the witness has `saṃvṛtijñāpakam` | conventional knowledge; the prose confirms the category `saṃvṛtijñāna`, not the exact verse reading |
+| `saṃvṛtijñāpakam` | nominative singular neuter compound in the local witness; independent kārikā edition has `saṃvṛtisaṃjñakam` | the Bhāṣya's prose confirms the category `saṃvṛtijñāna`; exact verse reading remains open |
 | `anāsravam` | nominative singular neuter adjective | uncontaminated [knowledge] |
 | `dvidhā` | indeclinable adverb | in two ways, twofold |
 | `dharma-jñānam` | nominative singular neuter compound | dharma-knowledge |
@@ -185,10 +184,12 @@ equate Vidyā with uncontaminated knowledge or Technē with conventional
 knowledge. Both activities require the entire classification. Detailed
 assignments of practical efficacy await the source's further determinations.
 
-**Review status.** Provisional, Bhāṣya-informed study. The exact
-`saṃvṛtijñāpakam` / `saṃvṛtijñānakam` verse reading and the final English
-rendering of `anvaya` remain open. The technical category and the nested
-classification are explicit in the prose.
+**Review status.** The 7.02 Bhāṣya unit [391|15]–[392|04–05] has been
+checked through `evagete dve jñāne trīṇi bhavanti /`. The local
+`saṃvṛtijñāpakam` remains displayed; the independent `saṃvṛtisaṃjñakam`
+and the prose `saṃvṛtijñānam` clarify the category without resolving the
+verse reading. The damaged `evagete` and the final English for `anvaya`
+remain open. The next opening at [392|05] belongs to 7.03.
 
 ## 10. OWL++ Seed
 

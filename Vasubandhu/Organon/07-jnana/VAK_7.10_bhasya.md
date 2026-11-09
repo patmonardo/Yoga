@@ -17,18 +17,22 @@ Kārikā study: [`VAK_7.10.md`](./VAK_7.10.md).
 
 ## 2. Continuous Sanskrit
 
-> eṣāṃ daśānāṃ jñānānām /
-> dharmajñānānvayajñānaṃ ṣoḍaśākāram /
-> tān purastād upadekṣyāmaḥ /
-> anyathā tathā ca sāṃvṛtam /
-> saṃvṛtijñānaṃ ṣoḍaśākāram anyathākāraṃ ca /
-> sarvadharmāṇāṃ svasāmānyalakṣaṇādigrahaṇāt /
-> svaiḥ svaiḥ satyākāraiś catuṣṭayam /
-> duḥkha-samudaya-nirodha-mārgajñānāni svaiḥ svaiḥ satyākāraiḥ pravartanta
-> ity ekaikaṃ caturākāraṃ bhavanti /
+> eṣāṃ daśānāṃ jñānānāṃ /
+> dharmajñānānvayajñānaṃ ṣoḍḍaśākāram /
+> tān purastādupadekṣyāmaḥ /
+> anyathā /
+> tathā ca sāṃvṛtaṃ /
+> saṃvṛtijñānaṃ ṣoḍaśākāramanyathākāraṃ ca sarvadharmāṇāṃ svasāmānyalakṣaṇādigrahaṇāt /
+> svaiḥ svaiḥ satyākāraiścatuṣṭayam /
+> duḥkhasamudayanirodhamārga jñānāni svaiḥ svaiḥ satyākāraiḥ pravartanta ityekaikaṃ caturākāraṃ bhavanti /
 
-**Witness.** Pradhan 395|17–396|02. Quotation `ṣoḍḍaśākāram`; prose also
-`ṣoḍaśākāram`. Voice: Vasubandhu. No opponent. Aspect-list not imported.
+**Witness.** The complete unit runs [395|17]–[396|01–02]. The prior
+anvaya exclusion ends [395|16]; `tathā paramatojñānaṃ nirmalaṃ` at
+[396|03] begins 7.11. The block retains the kārikā quotation's
+`ṣoḍḍaśākāram`, distinct from prose `ṣoḍaśākāram`, and its split
+`anyathā / tathā ca sāṃvṛtaṃ` across the printed lines. Voice:
+Vasubandhu; no opponent. The sixteen aspect names are promised for a
+later locus, not imported here.
 
 ## 3. Continuous Translation
 
@@ -126,7 +130,8 @@ where Vasubandhu waits.
 
 ## 9. Review Status
 
-Reviewed against the paired Organon kārikā study and the Pradhan
-395|17–396|02 span recorded here. The anchor now reproduces the
-Bhāṣya-informed study translation exactly. The sixteen names remain
-reserved for their later passage; exact source-line collation is open.
+The complete [395|17]–[396|01–02] unit has been checked against the
+local Sanskrit, with [395|16] and [396|03] verified as adjacent boundaries.
+The continuous block retains its damaged numeral and line split; the
+sixteen names remain reserved for their later passage. The anchor matches
+the paired Bhāṣya-informed study translation exactly.

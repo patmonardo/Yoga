@@ -30,7 +30,7 @@ anvaya-classification.
 | `anyāni` | nominative plural neuter pronoun | the other nine knowledge-designations, wholesome only according to the Bhāṣya |
 | `ādyam` (second occurrence) | nominative singular neuter adjective, substantivally used | conventional knowledge again, now with its level-range |
 | `sarvāsu` | locative plural feminine adjective | in all levels, from desire domain through the summit of existence |
-| `bhūmiṣu` | locative plural feminine noun | levels of occurrence or affiliation, not objects or embodied supports |
+| `bhūmiṣu` | locative plural feminine noun | levels of occurrence or affiliation, distinct from the Basis and Support relations |
 | `dharmākhyam` | nominative singular neuter compound adjective, `dharma + ākhyam` | dharma-knowledge |
 | `ṣaṭsu` | locative plural numeral | in six levels: four dhyānas, preliminary concentration, intermediate dhyāna |
 | `navasu` | locative plural numeral | in those six plus the first three formless levels |
@@ -65,7 +65,7 @@ anvayākhyam [jñānam] tu — navasu [bhūmiṣu]
 The verse states the levels to which these knowledges belong. It
 does not specify a distinct event of acquisition every time the
 locative occurs. Level-membership is also different from the
-embodied support discussed in VAK 7.15.
+embodied Basis discussed in VAK 7.15.
 
 **“Likewise the six.”** The six are suffering-, origination-,
 cessation-, Path-, exhaustion-, and non-arising-knowledge. The
@@ -128,11 +128,11 @@ exclusively wholesome.
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | `kuśala` / `akuśala` / `avyākṛta` | wholesome / unwholesome / indeterminate | Three ethical statuses possible for conventional knowledge; indeterminate is a category, not uncertainty about classification. |
-| `bhūmi` | level | Occurrence or affiliation of knowledge, distinct from object-domain, counteractive range, and embodied support. |
+| `bhūmi` | level | Occurrence or affiliation of knowledge, distinct from the range of Conditions, counteractive reach, and embodied Basis. |
 | `anāgamya` | preliminary concentration | One of six levels counted with the four dhyānas and intermediate dhyāna. |
 | `dhyānāntara` | intermediate dhyāna | Sixth item in that count, not a fifth principal dhyāna. |
 | `ārūpyatraya` | first three formless levels | Extends anvaya-knowledge's six-level range to nine; the highest formless level is not added. |
-| `bhavāgra` | summit of existence | Upper endpoint of conventional knowledge's level-range, distinct from its role as object in 7.05. |
+| `bhavāgra` | summit of existence | Upper endpoint of conventional knowledge's level-range, distinct from the summit Bases taken as Support at first arising in 7.05. |
 | `saṃgṛhīta` | included / subsumed | Dharma or anvaya inclusion qualifies the six truth and terminal knowledges' level-ranges. |
 | `abhedena` / `bhedena` | without / with differentiation | Collective nine-level range versus the six- or nine-level range after dharma/anvaya inclusion is specified. |
 
@@ -199,11 +199,14 @@ dharma/anvaya inclusion. The official study therefore retains both
 `abhedena` and `bhedena`, rather than reporting two apparently
 incompatible ranges for an undifferentiated name.
 
-**Bhāṣya control.** Pradhan 402|06–402|18 identifies `ādyam` by verse
+**Bhāṣya control.** The complete [402|06]–[402|18] unit begins by
+announcing the ethical classification, identifies `ādyam` by verse
 placement, names the six and nine levels, and distinguishes collective
-from inclusion-qualified ranges. The informed translation follows
-those controls. Other-mind knowledge's level is supplied in 7.15;
-its wholesome status is already included among the nine here.
+from inclusion-qualified ranges. The continuous translation follows
+every natural step. The 7.13 inquiry ends [402|04–05];
+`dhyāneṣv anyamanojñānaṃ` at [402|19] begins 7.15. Knowledge of another's
+Consciousness receives its level in 7.15; its wholesome status is
+already included among the nine here.
 
 **Precision concerning “first” and “pure.”** The local research
 discussion sometimes describes conventional knowledge as first in
@@ -213,7 +216,7 @@ earlier verse placement; the nine are explicitly wholesome.
 Neither phrasing should override the chapter's actual list order
 or its contaminated other-mind knowledge.
 
-**Textual caution.** The raw prose includes `bhavatvāt`,
+**Textual caution.** The raw prose includes `bhavatvād`,
 `kāmadhātī`, `ārupyatraye`, and `punr`. These are not silently
 printed as a critically restored Sanskrit passage. The named
 levels and the differentiated inclusion are nevertheless explicit
@@ -242,10 +245,11 @@ to the particular operation. Their companionship therefore requires
 ethical character, level, and classificatory inclusion to remain
 connected without being collapsed into one predicate.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The ethical
-division and six/nine allocation are explicit. Minor source forms
-remain recorded; the remaining other-mind level and support
-distinctions proceed in the next verse.
+**Review status.** The complete [402|06]–[402|18] natural unit and both
+adjacent boundaries have been checked against the local source. The
+ethical division, all-level range, six/nine allocation, and qualified
+inclusion are translated. Damaged source forms remain visible. Knowledge
+of another's Consciousness and the Basis relation proceed in 7.15.
 
 ## 10. OWL++ Seed
 
@@ -278,7 +282,7 @@ QualifiedRange: FourTruthAndTwoTerminalKnowledges
 ProjectConstraint: Wholesome does not mean uncontaminated in every case.
 ProjectConstraint: Do not infer all quality-level combinations from two marginal ranges.
 ProjectConstraint: Collective range does not override the inclusion-qualified range.
-ProjectConstraint: Distinguish level, embodied support, object-domain, and counteractive range.
+ProjectConstraint: Distinguish level, embodied Basis, Condition-range, and counteractive reach.
 ProjectConstraint: A kind-level distribution does not assign every level to one event.
 ```
 
