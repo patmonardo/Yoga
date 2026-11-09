@@ -1,4 +1,4 @@
-# VAK_6.47 — Meditative Ground and Counteractive Range
+# VAK_6.47 — Continued Non-Possession and the Range of Anāgamya
 
 ## 1. Sanskrit (Devanāgarī)
 

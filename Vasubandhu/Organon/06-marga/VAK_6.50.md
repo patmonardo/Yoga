@@ -1,4 +1,4 @@
-# VAK_6.50 — Completion, Irreversibility, and Aśaikṣa Cognition
+# VAK_6.50 — Knowing After Exhaustion and Right View
 
 ## 1. Sanskrit (Devanāgarī)
 

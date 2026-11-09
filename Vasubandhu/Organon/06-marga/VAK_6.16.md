@@ -1,4 +1,4 @@
-# VAK_6.16 — The Combined Support and Four Aspects of Seeing
+# VAK_6.16 — Combined Support and Four Aspects
 
 ## 1. Sanskrit (Devanāgarī)
 

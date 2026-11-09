@@ -1,4 +1,4 @@
-# VAK_6.14
+# VAK_6.14 — Śamatha and Two-Characteristic Examination
 
 ## 1. Sanskrit (Devanāgarī)
 

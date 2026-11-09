@@ -1,4 +1,4 @@
-# VAK_6.28 — Uninterrupted Path, Liberation Path, and the End of Seeing
+# VAK_6.28 — Uninterrupted and Liberation Paths; Fifteen Moments
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK 6.67 — Bodhi and Its Thirty-Seven Path-Functions
+# VAK_6.67 — Two Knowings, Thirty-Seven Names, Ten Dharmas
 
 ## 1. Sanskrit (Devanāgarī)
 

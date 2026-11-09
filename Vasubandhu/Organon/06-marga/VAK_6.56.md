@@ -1,4 +1,4 @@
-# VAK_6.56 — Six Arhats and the Modality of Completed Liberation
+# VAK_6.56 — Six Arhats and Two Modes of Liberation
 
 ## 1. Sanskrit (Devanāgarī)
 

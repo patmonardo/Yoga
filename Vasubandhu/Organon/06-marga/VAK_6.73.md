@@ -1,4 +1,4 @@
-# VAK 6.73 — Limits of Ground and Verified Confidence
+# VAK_6.73 — Limits of Ground and Verified Confidence
 
 ## 1. Sanskrit (Devanāgarī)
 

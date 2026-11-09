@@ -1,4 +1,4 @@
-# VAK_6.07
+# VAK_6.07 — Counterforces, Non-Greed, Noble Lineages
 
 ## 1. Sanskrit (Devanāgarī)
 

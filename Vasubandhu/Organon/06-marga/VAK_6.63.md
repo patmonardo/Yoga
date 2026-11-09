@@ -1,4 +1,4 @@
-# VAK 6.63 — Seven Names, Six Path-Continuities
+# VAK_6.63 — Seven Designations and Six Path Positions
 
 ## 1. Sanskrit (Devanāgarī)
 

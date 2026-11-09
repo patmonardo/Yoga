@@ -1,4 +1,4 @@
-# VAK 6.78 — Three Principles of One Unconditioned Liberation
+# VAK_6.78 — Three Principle Names of Unconditioned Liberation
 
 ## 1. Sanskrit (Devanāgarī)
 

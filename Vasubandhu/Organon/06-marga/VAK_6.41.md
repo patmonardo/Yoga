@@ -1,4 +1,4 @@
-# VAK_6.41 — Maturation of Faculty and the Closure of Regression
+# VAK_6.41 — Another Birth, Faculty Maturity, and No Regression
 
 ## 1. Sanskrit (Devanāgarī)
 

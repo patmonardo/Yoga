@@ -1,4 +1,4 @@
-# VAK_6.11
+# VAK_6.11 — Attention Past the Support; Aśubha Classified
 
 ## 1. Sanskrit (Devanāgarī)
 

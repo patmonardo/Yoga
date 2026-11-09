@@ -1,4 +1,4 @@
-# VAK 6.26 — The Ordered Moments of Uncontaminated Realization
+# VAK_6.26 — Dharma and Anvaya in the Four Truths
 
 ## 1. Sanskrit (Devanāgarī)
 

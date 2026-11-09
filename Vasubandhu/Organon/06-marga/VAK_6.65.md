@@ -1,4 +1,4 @@
-# VAK 6.65 — The Fourfold Operation of Mārga
+# VAK_6.65 — Two Measures of Completion and Four Path Functions
 
 ## 1. Sanskrit (Devanāgarī)
 

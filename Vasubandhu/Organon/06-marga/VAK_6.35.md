@@ -1,4 +1,4 @@
-# VAK_6.35 — The Sixth Grade as the Second-Fruit Threshold
+# VAK_6.35 — Candidate for the Second Fruit and Once-Return
 
 ## 1. Sanskrit (Devanāgarī)
 

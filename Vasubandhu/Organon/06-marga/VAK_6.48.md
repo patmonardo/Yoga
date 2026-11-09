@@ -1,4 +1,4 @@
-# VAK_6.48 — Meditative Grounds and Truth-Formed Paths
+# VAK_6.48 — Final Liberation Path and Eight Noble Meditative Grounds
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_6.44 — The Diamond-Like Path at the Final Obstruction
+# VAK_6.44 — The Diamond-Like Final Uninterrupted Path
 
 ## 1. Sanskrit (Devanāgarī)
 

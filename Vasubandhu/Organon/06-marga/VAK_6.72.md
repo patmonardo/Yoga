@@ -1,4 +1,4 @@
-# VAK 6.72 — Ground-Conditioned Path Configurations
+# VAK_6.72 — The Path Factors Across Contemplative Grounds
 
 ## 1. Sanskrit (Devanāgarī)
 

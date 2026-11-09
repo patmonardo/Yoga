@@ -1,4 +1,4 @@
-# VAK_6.51 — Śrāmaṇya and the Twofold Fruit
+# VAK_6.51 — Stainless Path and Its Twofold Fruit
 
 ## 1. Sanskrit (Devanāgarī)
 

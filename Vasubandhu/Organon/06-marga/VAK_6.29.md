@@ -1,4 +1,4 @@
-# VAK_6.29 — Faculty, Following Meaning, and the First Fruit
+# VAK_6.29 — Two Followers Proceeding toward the First Fruit
 
 ## 1. Sanskrit (Devanāgarī)
 

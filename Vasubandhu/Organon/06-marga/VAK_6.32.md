@@ -1,4 +1,4 @@
-# VAK_6.32 — Fruit as Position and Renewed Application as Transition
+# VAK_6.32 — Fruit and the Further Path
 
 ## 1. Sanskrit (Devanāgarī)
 

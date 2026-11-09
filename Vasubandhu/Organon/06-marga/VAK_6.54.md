@@ -1,4 +1,4 @@
-# VAK_6.54 — Dharma-Wheel as the Transmission of Path-Meaning
+# VAK_6.54 — Brāhmaṇya, Brahma-Wheel, and Dharma-Wheel
 
 ## 1. Sanskrit (Devanāgarī)
 

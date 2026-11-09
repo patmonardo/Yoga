@@ -1,4 +1,4 @@
-# VAK_6.36 — The Final Interval and Crossing Beyond the Desire Realm
+# VAK_6.36 — One Interval and the Non-Returner Threshold
 
 ## 1. Sanskrit (Devanāgarī)
 

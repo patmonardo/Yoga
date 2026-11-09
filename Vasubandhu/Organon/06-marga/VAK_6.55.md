@@ -1,4 +1,4 @@
-# VAK_6.55 — Determinate Path-Beginning and Transdomain Completion
+# VAK_6.55 — Where Seeing Begins and Arhatship Completes
 
 ## 1. Sanskrit (Devanāgarī)
 

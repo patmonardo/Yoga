@@ -1,4 +1,4 @@
-# VAK 6.24 — Liberation-Conducive Roots and the Threefold Maturation
+# VAK_6.24 — One Sitting and the Prior Liberation Root
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_6.06
+# VAK_6.06 — Two Withdrawals; Discontent and Great Desire
 
 ## 1. Sanskrit (Devanāgarī)
 

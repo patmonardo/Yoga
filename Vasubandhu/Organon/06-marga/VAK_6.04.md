@@ -1,4 +1,4 @@
-# VAK_6.04
+# VAK_6.04 — Conventional and Ultimate: What Cognition Survives
 
 ## 1. Sanskrit (Devanāgarī)
 

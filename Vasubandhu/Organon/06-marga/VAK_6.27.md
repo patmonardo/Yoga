@@ -1,4 +1,4 @@
-# VAK_6.27 — Seeing, Support, and Work in Direct Realization
+# VAK_6.27 — Sixteen Moments and Three Senses of Realization
 
 ## 1. Sanskrit (Devanāgarī)
 

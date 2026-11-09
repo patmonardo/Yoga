@@ -1,4 +1,4 @@
-# VAK 6.68 — Ten Dharmas beneath Thirty-Seven Functions
+# VAK_6.68 — Ten Dharmas and Their Thirty-Seven Names
 
 ## 1. Sanskrit (Devanāgarī)
 

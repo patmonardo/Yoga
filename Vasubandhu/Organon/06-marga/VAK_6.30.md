@@ -1,4 +1,4 @@
-# VAK_6.30 — Prior Abandonment and the Direction toward Fruit
+# VAK_6.30 — Prior Abandonment and the Fruit Approached
 
 ## 1. Sanskrit (Devanāgarī)
 

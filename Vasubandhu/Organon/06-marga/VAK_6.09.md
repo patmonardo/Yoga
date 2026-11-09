@@ -1,4 +1,4 @@
-# VAK_6.09
+# VAK_6.09 — Entry by Aśubha or Breath; Skeleton; Suppression
 
 ## 1. Sanskrit (Devanāgarī)
 

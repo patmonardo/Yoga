@@ -1,4 +1,4 @@
-# VAK_6.37 — Five Modes of Non-Return and the Upward Stream
+# VAK_6.37 — Five Non-Returners and the Akaniṣṭha Course
 
 ## 1. Sanskrit (Devanāgarī)
 

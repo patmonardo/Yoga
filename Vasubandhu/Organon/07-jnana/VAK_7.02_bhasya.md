@@ -9,18 +9,15 @@
 > conventional knowledge; the latter divides into dharma-knowledge and
 > anvaya-knowledge.
 
-The Bhāṣya first finishes 7.01's worldly clause, then asks by how many
-knowledges all knowledge is included, answers “ten,” and only then gives
-this summary (`samāsena tu`). Object-ranges of the uncontaminated pair wait
-for 7.03. `Anvaya` is left unforced in English.
+The Bhāṣya asks by how many knowledges all knowledge is included, answers
+“ten,” and only then gives this summary (`samāsena tu`). The preceding
+worldly clause closes 7.01 within the same [391|15] label. Object-ranges
+of the uncontaminated pair wait for 7.03. `Anvaya` is left unforced in English.
 
 Kārikā study: [`VAK_7.02.md`](./VAK_7.02.md).
 
 ## 2. Continuous Sanskrit
 
-> pañca dṛṣṭayo laukikī ca samyagdṛṣṭiḥ /
-> eṣā ṣaḍvidhā laukikī prajñā dṛṣṭiḥ anyā na dṛṣṭiḥ /
-> jñānaṃ tv eṣā cānyā ca /
 > kiyatā sarvajñānasaṃgrahaḥ /
 > daśabhir jñānaiḥ /
 > samāsena tu sāsravānāsravaṃ jñānam /
@@ -32,7 +29,8 @@ Kārikā study: [`VAK_7.02.md`](./VAK_7.02.md).
 > anāsravaṃ jñānaṃ dvidhā bhidyate /
 > dharmajñānam anvayajñānaṃ ca /
 
-**Witness.** Citation: Pradhan 391|14–392|04. The running e-text
+**Witness.** Citation: Pradhan [391|15]–[392|04], starting at
+`kiyatā sarvajñānasaṃgrahaḥ /`. The running e-text
 has a malformed page marker near this span; it is not treated as content.
 Kārikā quotation and verse e-text transmit `saṃvṛtijñāpakam`; the prose
 identification is `saṃvṛtijñānam`. The Organon kārikā displays
@@ -40,15 +38,13 @@ identification is `saṃvṛtijñānam`. The Organon kārikā displays
 doubt; the exact verse syllable remains open. Word-division and obvious
 sandhi are supplied for reading.
 
-The unit begins with the leftover of 7.01 and ends when the two
-uncontaminated names have been stated. 7.03 opens the object-ranges.
+The unit begins with the question after 7.01's concluding
+`jñānaṃ tveṣā cānyā ca /` in the same printed [391|15] label, and ends
+when the two uncontaminated names have been stated. 7.03 opens the
+object-ranges.
 
 ## 3. Continuous Translation
 
-> The five views and worldly right view: this sixfold worldly prajñā is
-> view; the other [worldly prajñā] is not view. But both this and the other
-> are knowledge.
->
 > By how many is all knowledge included? By ten knowledges.
 >
 > In summary, however: knowledge is contaminated and uncontaminated.
@@ -67,8 +63,7 @@ uncontaminated names have been stated. 7.03 opens the object-ranges.
 ## 4. Movement of the Commentary
 
 ```text
-close 7.01 (six worldly views; rest worldly prajñā is knowledge)
-    → how is all knowledge included?
+how is all knowledge included?
     → answer: ten
     → summary division: contaminated / uncontaminated
     → contaminated = conventional knowledge
@@ -147,7 +142,6 @@ The revised Organon kārikā translation incorporates these decisions:
 Attributed to the commentary, not read back into the verse words:
 
 - the question `kiyatā sarvajñānasaṃgrahaḥ` and the answer “ten”;
-- the leftover 7.01 sentences that open this unit;
 - `prāyeṇa` and the list of conventions;
 - `ity apare` and covering by ignorance;
 - the gloss `dvidhā bhidyate`.
@@ -184,7 +178,9 @@ is not in play. Concept-level closure is not claimed for a summary cut.
 
 ## 9. Review Status
 
-Reviewed against the paired Organon kārikā study and the Pradhan
-391|14–392|04 span as recorded here. The kārikā anchor reproduces the
+The opening boundary was checked against the local witness: the 7.01
+conclusion ends with `jñānaṃ tveṣā cānyā ca /`, and this unit begins at
+`kiyatā sarvajñānasaṃgrahaḥ /` within [391|15]. The later 7.02 span has
+not been re-reviewed in this 7.01 pass. The kārikā anchor reproduces the
 Bhāṣya-informed study translation exactly. Witness items left open:
 `saṃvṛtijñāpakam`, exact source-line collation, and the English for `anvaya`.

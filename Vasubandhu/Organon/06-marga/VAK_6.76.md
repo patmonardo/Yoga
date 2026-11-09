@@ -1,4 +1,4 @@
-# VAK 6.76 — Liberation, Its Factors, and Bodhi as Knowing
+# VAK_6.76 — Unconditioned Liberation, Conditioned Liberation, and Knowing
 
 ## 1. Sanskrit (Devanāgarī)
 

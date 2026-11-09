@@ -1,4 +1,4 @@
-# VAK_6.15 — discriminative comprehension and the Four Establishments of Recollection
+# VAK_6.15 — Prajñā and the Four Counterforces
 
 ## 1. Sanskrit (Devanāgarī)
 

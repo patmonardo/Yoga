@@ -174,6 +174,11 @@ now distinguishes knowledge and view within the cognitive forms employed
 by that Path. Practical position helps determine the classification, while
 the worldly cases preserve its wider scope.
 
+**Organon sequence.** The earlier Objective Wheel remains the groundwork
+for these determinations; Jñāna further determines the Path's cognitive
+forms and their predicates. This is a project reading of the sequence, not
+a separate claim made by the 7.01 Sanskrit or Bhāṣya.
+
 **Organon interpretation.** Meaning emerges here through relations among
 cognitive form, examining function, and the abandonment appropriate to a
 Path-position. A project representation should retain the classified form,
@@ -183,8 +188,10 @@ restricted interpretive orientation to the noble cases; the full verse also
 requires the worldly branch. This reconstruction remains distinct from the
 kārikā and the Bhāṣya's own explanations.
 
-**Review status.** Provisional study informed by the local Bhāṣya and checked
-against the available e-text; textual irregularities remain explicitly open.
+**Review status.** The 7.01 natural Bhāṣya unit [391|02]–[391|15] has been
+checked through `jñānaṃ tveṣā cānyā ca /`; the question
+`kiyatā sarvajñānasaṃgrahaḥ /` begins 7.02 in the same label. The Sanskrit
+irregularities named above remain open; no critical restoration is claimed.
 
 ## 10. OWL++ Seed
 

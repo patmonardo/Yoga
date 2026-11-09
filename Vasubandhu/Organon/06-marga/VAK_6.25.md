@@ -1,4 +1,4 @@
-# VAK 6.25 — From Liberative Orientation to Uncontaminated Acceptance
+# VAK_6.25 — Uncontaminated Dharma-Knowing-Acceptance
 
 ## 1. Sanskrit (Devanāgarī)
 

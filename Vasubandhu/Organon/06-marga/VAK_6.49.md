@@ -1,4 +1,4 @@
-# VAK_6.49 — Mundane Path as Comparative Determination
+# VAK_6.49 — Mundane Paths and Comparative Aspects
 
 ## 1. Sanskrit (Devanāgarī)
 

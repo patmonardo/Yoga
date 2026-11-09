@@ -1,4 +1,4 @@
-# VAK_6.57 — Transformable Disposition and Modal Path-Capacity
+# VAK_6.57 — Original and Sharpened Arhat Dispositions
 
 ## 1. Sanskrit (Devanāgarī)
 

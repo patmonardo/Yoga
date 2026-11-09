@@ -1,4 +1,4 @@
-# VAK_6.46 — Accomplished Separation and Its Acquisition-Forms
+# VAK_6.46 — Two Attainments of Separation and a Failed Reason
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK 6.70 — Developmental Predominance of the Seven Groups
+# VAK_6.70 — Seven Groups Across the Course of Practice
 
 ## 1. Sanskrit (Devanāgarī)
 

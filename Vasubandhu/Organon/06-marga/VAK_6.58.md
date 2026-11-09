@@ -1,4 +1,4 @@
-# VAK_6.58 — Bounded Regression and the Irreversibility of Seeing
+# VAK_6.58 — Regression, First Attainment, and Seeing
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK 6.69 — Predominance within the Whole Practice
+# VAK_6.69 — Predominance Without Excluding the Whole
 
 ## 1. Sanskrit (Devanāgarī)
 

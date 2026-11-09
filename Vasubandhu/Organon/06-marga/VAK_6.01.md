@@ -1,4 +1,4 @@
-# VAK_6.01
+# VAK_6.01 — Abandonment Already Taught; Status of the Two Paths
 
 ## 1. Sanskrit (Devanāgarī)
 

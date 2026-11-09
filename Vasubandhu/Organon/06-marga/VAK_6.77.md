@@ -1,4 +1,4 @@
-# VAK 6.77 — The Path Abandons; the Aśaikṣa Consciousness Arises Free
+# VAK_6.77 — The Path Abandons the Obstruction as Consciousness Arises Free
 
 ## 1. Sanskrit (Devanāgarī)
 

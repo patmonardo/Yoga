@@ -1,4 +1,4 @@
-# VAK_6.33 — The Ninefold Refinement of Fault and Path
+# VAK_6.33 — Nine Grades of Fault and Opposing Path
 
 ## 1. Sanskrit (Devanāgarī)
 

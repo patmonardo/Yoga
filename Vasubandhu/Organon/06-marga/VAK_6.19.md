@@ -1,4 +1,4 @@
-# VAK_6.19 — Strong Acceptance and the Highest Mundane Dharmas
+# VAK_6.19 — Strong Acceptance and the Mundane Threshold
 
 ## 1. Sanskrit (Devanāgarī)
 

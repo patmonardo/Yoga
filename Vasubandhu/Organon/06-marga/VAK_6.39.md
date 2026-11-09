@@ -1,4 +1,4 @@
-# VAK_6.39 — Threefold Non-Returners and Their Determining Conditions
+# VAK_6.39 — Nine Form-Going Types and Three Conditions
 
 ## 1. Sanskrit (Devanāgarī)
 

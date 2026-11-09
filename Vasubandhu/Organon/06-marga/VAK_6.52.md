@@ -1,4 +1,4 @@
-# VAK_6.52 — Principal Fruit as Integrated Path-Position
+# VAK_6.52 — Four Fruits and Five Criteria
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK 6.61 — The Measure and Ground of Faculty-Transformation
+# VAK_6.61 — Faculty Change: Path Counts, Human Basis, and Grounds
 
 ## 1. Sanskrit (Devanāgarī)
 

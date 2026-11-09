@@ -1,4 +1,4 @@
-# VAK 6.20 — The Four Roots Conducive to Penetration
+# VAK_6.20 — The Four Roots Conducive to Penetration
 
 ## 1. Sanskrit (Devanāgarī)
 

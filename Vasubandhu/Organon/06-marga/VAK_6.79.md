@@ -1,4 +1,4 @@
-# VAK 6.79 — Object, Efficacy, and the Fourfold Path-Conclusion
+# VAK_6.79 — Disenchantment, Dispassion, and Four Cases
 
 ## 1. Sanskrit (Devanāgarī)
 

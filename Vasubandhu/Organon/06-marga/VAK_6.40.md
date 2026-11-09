@@ -1,4 +1,4 @@
-# VAK_6.40 — Seven Good Courses as Canonical Compression
+# VAK_6.40 — Seven Good-Person Courses
 
 ## 1. Sanskrit (Devanāgarī)
 

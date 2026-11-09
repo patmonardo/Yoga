@@ -1,4 +1,4 @@
-# VAK_6.42 — Mixed Dhyāna and the Proper Granularity of Practice
+# VAK_6.42 — Intermingled Dhyāna and the Grain of Completion
 
 ## 1. Sanskrit (Devanāgarī)
 

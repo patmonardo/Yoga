@@ -1,4 +1,4 @@
-# VAK_6.43 — The Bodily Witness and Temporally Articulated Realization
+# VAK_6.43 — Five Pure Abodes and the Bodily Witness
 
 ## 1. Sanskrit (Devanāgarī)
 

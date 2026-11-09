@@ -1,4 +1,4 @@
-# VAK 6.74 — Four Verified Confidences, Two Operative Realities
+# VAK_6.74 — Four Verified Confidences and Their Two Constituents
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK 6.75 — Completed Liberation and Its Two Forms
+# VAK_6.75 — The Trainee's Bondage and Twofold Liberation
 
 ## 1. Sanskrit (Devanāgarī)
 

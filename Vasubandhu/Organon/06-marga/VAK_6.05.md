@@ -1,4 +1,4 @@
-# VAK_6.05
+# VAK_6.05 — How Seeing Is Prepared: Hearing, Reflection, Cultivation
 
 ## 1. Sanskrit (Devanāgarī)
 

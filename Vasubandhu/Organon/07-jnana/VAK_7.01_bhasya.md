@@ -35,8 +35,11 @@ Kārikā study: [`VAK_7.01.md`](./VAK_7.01.md).
 > laukikī prajñā sarvaiva jñānam /
 > dṛśaś ca ṣaṭ /
 > pañca dṛṣṭayo laukikī ca samyagdṛṣṭiḥ /
+> eṣā ṣaḍvidhā laukikī prajñādṛṣṭiḥ anyā na dṛṣṭiḥ /
+> jñānaṃ tv eṣā cānyā ca /
 
-**Witness.** Citation: Pradhan 391|02–391|15. Local e-text
+**Witness.** Citation: Pradhan [391|02]–[391|15], ending with
+`jñānaṃ tveṣā cānyā ca /`. Local e-text
 transmits compressed or irregular forms including `nāmalā`, `agrahīṇatvāt`,
 `santiraṇātmakattvāt`, `kṣayānamanutpādajñānaṃ`, and in one kārikā witness
 `dak` for `dṛk`. The running text above normalizes sandhi and obvious
@@ -46,8 +49,9 @@ collated critical text. The argument is taken from the transmitted syntax;
 exact restoration of the irregular strings remains open.
 
 The unit runs from the pairing of acceptances/knowledges with right
-view/right knowledge through the enumeration of the six worldly views. The
-next question of the chapter begins a new unit.
+view/right knowledge through the final classification of all worldly
+`prajñā` as knowledge. The next question, `kiyatā sarvajñānasaṃgrahaḥ /`,
+starts 7.02 inside the same printed [391|15] label.
 
 ## 3. Continuous Translation
 
@@ -82,6 +86,9 @@ next question of the chapter begins a new unit.
 > “And six are views.”
 >
 > The five views and worldly right view.
+>
+> This sixfold worldly prajñā is view; the other [worldly prajñā] is not
+> view. But both this and the other are knowledge.
 
 ## 4. Movement of the Commentary
 
@@ -104,6 +111,7 @@ framing pair
     → remaining uncontaminated prajñā is both
     → all worldly prajñā is knowledge
     → exactly six worldly kinds are also view
+    → the other worldly prajñā is not view; both groups are knowledge
 ```
 
 No school opponent is staged. Voice throughout is Vasubandhu's own question
@@ -163,8 +171,10 @@ anyā
 
 `Dṛśaś ca ṣaṭ` does not restrict worldly knowledge to six items. It counts
 the worldly forms that also satisfy view: the five views and worldly right
-view (`laukikī samyagdṛṣṭi`). The remainder of worldly prajñā stays inside
-knowledge and outside view.
+view (`laukikī samyagdṛṣṭi`). The closing prose explicitly says that this
+sixfold worldly `prajñā` is view, that the other worldly `prajñā` is not
+view, and that both are knowledge. The demonstratives `eṣā` and `anyā`
+refer to these two worldly groups, not to two further noble forms.
 
 This keeps the chapter's later taxonomy from collapsing `jñāna` into noble
 ascertainment only. Conventional knowledge already belongs to the field that
@@ -235,7 +245,11 @@ longer view. Moral closure cannot be read off a single cognitive label.
 
 ## 9. Review Status
 
-Reviewed against the paired Organon kārikā study and the Pradhan 391|02–15
-span as recorded in this study. The kārikā anchor now reproduces the settled
-Bhāṣya-informed study translation exactly. Witness irregularities remain
-marked in Section 2; their restoration is still provisional.
+The complete 7.01 natural unit, [391|02]–[391|15] through `jñānaṃ tveṣā
+cānyā ca /`, has been compared with the local witness. The omitted
+sixfold/other distinction and concluding knowledge statement are restored
+above. Chapter 6 ends separately at [390|12–13], followed by colophon and
+merit line [390|14–16]; the question `kiyatā sarvajñānasaṃgrahaḥ /`
+begins 7.02 within [391|15]. The kārikā anchor reproduces the paired
+Bhāṣya-informed translation exactly. The irregular witness strings listed
+in Section 2 remain unresolved; no Sanskrit restoration is claimed.

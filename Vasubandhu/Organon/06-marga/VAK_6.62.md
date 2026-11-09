@@ -1,4 +1,4 @@
-# VAK 6.62 — Redetermination of Fruit and Faculty-Grounded Personhood
+# VAK_6.62 — Faculty Change and the Nine Person Types
 
 ## 1. Sanskrit (Devanāgarī)
 

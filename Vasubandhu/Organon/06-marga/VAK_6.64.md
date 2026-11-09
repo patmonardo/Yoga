@@ -1,4 +1,4 @@
-# VAK 6.64 — Two Liberations and the Complete Trainee
+# VAK_6.64 — Two Liberations and Completeness Within Training
 
 ## 1. Sanskrit (Devanāgarī)
 

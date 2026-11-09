@@ -1,4 +1,4 @@
-# VAK 6.21 — Basis, Acquisition, and Loss of the Preparatory Roots
+# VAK_6.21 — Basis, Acquisition, and Loss of the Preparatory Roots
 
 ## 1. Sanskrit (Devanāgarī)
 

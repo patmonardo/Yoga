@@ -1,4 +1,4 @@
-# VAK 6.66 — Four Courses of Path-Progress
+# VAK_6.66 — Ease of Course and Speed of Realization
 
 ## 1. Sanskrit (Devanāgarī)
 

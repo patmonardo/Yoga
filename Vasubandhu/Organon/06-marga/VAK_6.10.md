@@ -1,4 +1,4 @@
-# VAK_6.10
+# VAK_6.10 — Expansion, Contraction, and Mastery
 
 ## 1. Sanskrit (Devanāgarī)
 

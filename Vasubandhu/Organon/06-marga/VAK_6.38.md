@@ -1,4 +1,4 @@
-# VAK_6.38 — Routes of Ascent, Formless Destination, and Completion Here
+# VAK_6.38 — Upward Routes and Present-Life Completion
 
 ## 1. Sanskrit (Devanāgarī)
 

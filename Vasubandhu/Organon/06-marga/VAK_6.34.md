@@ -1,4 +1,4 @@
-# VAK_6.34 — First-Fruit Positions and Their Existential Bounds
+# VAK_6.34 — Stream-Entry, Seven at Most, Family-to-Family
 
 ## 1. Sanskrit (Devanāgarī)
 

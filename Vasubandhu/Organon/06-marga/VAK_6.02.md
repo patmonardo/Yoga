@@ -1,4 +1,4 @@
-# VAK_6.02
+# VAK_6.02 — Four Truths; Order of Realization
 
 ## 1. Sanskrit (Devanāgarī)
 

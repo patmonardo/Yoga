@@ -1,4 +1,4 @@
-# VAK_6.53 — Mixed Genesis and Uncontaminated Unity of Fruit
+# VAK_6.53 — Eight Knowings and Mixed Fruit
 
 ## 1. Sanskrit (Devanāgarī)
 

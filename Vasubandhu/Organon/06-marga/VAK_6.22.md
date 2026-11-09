@@ -1,4 +1,4 @@
-# VAK 6.22 — Regression, Reacquisition, and Non-Possession
+# VAK_6.22 — Regression, Reacquisition, and Non-Possession
 
 ## 1. Sanskrit (Devanāgarī)
 

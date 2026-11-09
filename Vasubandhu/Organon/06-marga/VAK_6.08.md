@@ -1,4 +1,4 @@
-# VAK_6.08
+# VAK_6.08 — Livelihood and Work; Present and Final Pacification
 
 ## 1. Sanskrit (Devanāgarī)
 

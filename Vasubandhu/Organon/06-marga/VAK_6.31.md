@@ -1,4 +1,4 @@
-# VAK_6.31 — From Fruit-Candidate to Fruit-Established
+# VAK_6.31 — The Sixteenth Moment and Fruit-Establishment
 
 ## 1. Sanskrit (Devanāgarī)
 

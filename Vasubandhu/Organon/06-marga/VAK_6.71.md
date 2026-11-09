@@ -1,4 +1,4 @@
-# VAK 6.71 — Purity and Ground of the Bodhi-Aligned Factors
+# VAK_6.71 — Purity Status and the First Two Grounds
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_6.03
+# VAK_6.03 — Dharma Talk: Three Modes of Suffering and the Reality of Pleasure
 
 ## 1. Sanskrit (Devanāgarī)
 

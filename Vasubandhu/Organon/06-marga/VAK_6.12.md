@@ -1,4 +1,4 @@
-# VAK_6.12
+# VAK_6.12 — Breath-Recollection Is Prajñā; Six Operations
 
 ## 1. Sanskrit (Devanāgarī)
 

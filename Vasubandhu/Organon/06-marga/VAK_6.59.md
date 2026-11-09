@@ -1,4 +1,4 @@
-# VAK_6.59 — Three Modes of Regression: Possession, Advance, and Actualization
+# VAK_6.59 — Three Senses of Falling Away
 
 ## 1. Sanskrit (Devanāgarī)
 

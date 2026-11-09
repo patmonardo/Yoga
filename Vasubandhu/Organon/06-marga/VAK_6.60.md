@@ -1,4 +1,4 @@
-# VAK 6.60 — Structural Memory and the Transformation of Faculty
+# VAK_6.60 — Fruit Regression and Change to Unshakeable Disposition
 
 ## 1. Sanskrit (Devanāgarī)
 

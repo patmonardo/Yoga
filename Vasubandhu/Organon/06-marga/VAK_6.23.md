@@ -1,4 +1,4 @@
-# VAK 6.23 — Successive Irreversibilities and the Direction of Lineage
+# VAK_6.23 — Closed Futures and Lineage Limits
 
 ## 1. Sanskrit (Devanāgarī)
 
