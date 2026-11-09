@@ -1,4 +1,4 @@
-# VAK_7.18 Bhāṣya — The Ten Dharma Classes and the Knowing's Own Complex
+# VAK_7.18 Bhāṣya — The Ten Dharma Classes and Knowledge's Own Complex
 
 ## 1. Kārikā Anchor
 
@@ -18,32 +18,83 @@ Kārikā study: [`VAK_7.18.md`](./VAK_7.18.md).
 
 ## 2. Continuous Sanskrit
 
-> saṃskṛtā dharmā aṣṭadhā kriyante /
-> kāma-rūpārūpyāvacarānāsravāṇāṃ saṃprayukta-viprayukta-bhedāt /
-> asaṃskṛtā dvidhā kriyante / kuśalāvyākṛta-bhedāt /
-> syād ekena jñānena sarvadharmān jānīyāt / na syāt /
-> saṃvṛtijñānaṃ svasmāt kalāpād anyān sarvadharmān anātmato jānīyāt /
-> svabhāvas tatsahabhuvaś ca dharmās tasya svakalāpaḥ /
-> teṣām agrahaṇaṃ viṣaya-viṣayi-bhedād ekālambanatvāt saṃnikṛṣṭatvāc ca /
+> katame daśa /
+> traidhātu kāmalā dharmā akṛtāśca dvidhā dvidhā /
+> saṃkṛtā dharmā aṣṭadhā kriyante /
+> kāmarūpārupyāvacarānāsravāṇāṃ saṃprayuktaviprayuktabhedāt /
+> asaṃskṛtā dvidhā kriyante /
+> kuśalāvyākṛtabhedāt /
+> ime daśa dharmāḥ kathaṃ yojyāḥ kasya jñānasya katyālambanamiti /
+> tatra saṃvṛtijñānasya sarve daśa dharmā ālambanam /
+> dharmajñānasya pañca /
+> kāmāvacarānāsravā ścatvāraḥ kuśalaṃ cāsaṃskṛtam /
+> anvayajñānasya sapta /
+> rūpārupyāvacarānāsravāḥ ṣaṭ kuśalaṃ cāsaṃskṛtam /
+> duḥkhasamudayajñānayoḥ kāmarūpārupyāvacarāḥ ṣaṭ /
+> nirodhajñānasyaikaḥ /
+> kuśalamevāsaṃskṛtam /
+> mārgajñānasya dvāvanāsravau /
+> paracittajñānasya trayaḥ /
+> kāmarūpāvacarānāsravāḥ saṃprayuktāḥ /
+> kṣayānutpādajñānayoḥ nava dharmā ālambanamavyākṛtamasaṃskṛtaṃ muktvā /
+> syādekena jñānena sarvadharmān jānīyāt /
+> na syāt /
+> api tu
+> sāṃvṛtaṃ svakalāpānyadekaṃ vidyādanātmataḥ // VAkK_7.18 //
+> saṃvṛtijñānaṃ svasmātkalāpādanyān sarvadharmānanātvato jānīyāt sarvadharmā anātmāna iti /
+> jsvabhāvastatsahabhuvaśca dharmāstasya svakalāpaḥ /
+> teṣāmagrahaṇaṃ viṣayaviṣayibhedādekālambanatvāditi /
+> saṃnikṛṣṭatvācca /
+> tacca kāmāvacaraṃ śrutacintāmayaṃ rūpāvacaraṃ śrutamayam bhāvanāmayam /
+> tasya vyavacchinnabhūmyālambanatvāt /
+> anyathā hi yugapatsarvato vairāgyaṃ syāt /
+> gatametat /
 
-**Witness.** Pradhan 404|12–405|04. `Saṃkṛtā`, `anātvato` unrestored.
-Hearing/reflection/cultivation and `vyavacchinna-bhūmi` follow in the same
-span. Voice: question (one knowledge of all dharmas?) and Vasubandhu.
+**Witness.** Complete natural unit [404|11]–[405|06], 31 local source
+lines. [404|10] ends 7.17; the new possession question `idaṃ tu
+vaktavyam /` begins 7.19 at [405|07]. Local `saṃkṛtā`,
+`anātvato`, `jsvabhāva`, and compressed final qualification remain visible.
+Voice: question and Vasubandhu.
 
 ## 3. Continuous Translation
 
-> Conditioned dharmas are made eightfold: those of the desire, form, and
-> formless domains, and the uncontaminated, by the associated / non-associated
-> division. The unconditioned are made twofold: by the wholesome /
-> indeterminate division.
+> Which ten? “Dharmas belonging to the three domains and the
+> uncontaminated, and the unmade, are each twofold.” Conditioned dharmas
+> are made eightfold: those belonging to the desire, form, and formless
+> domains, and the uncontaminated, each divided into associated and
+> non-associated. The unconditioned are made twofold, by the distinction
+> between wholesome and indeterminate.
 >
-> Might one know all dharmas by a single knowledge? It would not be so.
-> Conventional knowledge could know all dharmas other than its own complex
-> as non-self: “all dharmas are non-self.”
+> How are these ten dharmas to be assigned? For which knowledge are how
+> many of them Supports? All ten are Supports for conventional knowledge.
+> Five are Supports for dharma-knowledge: the four desire-domain and
+> uncontaminated [conditioned] classes, and the wholesome unconditioned.
+> Seven are Supports for anvaya-knowledge: the six form-domain,
+> formless-domain, and uncontaminated [conditioned] classes, and the
+> wholesome unconditioned. Six, belonging to the desire, form, and
+> formless domains, are Supports for suffering- and origination-knowledge.
+> One is the Support for cessation-knowledge: only the wholesome
+> unconditioned. Two uncontaminated classes are Supports for Path-knowledge.
+> Three associated classes, belonging to the desire domain, form domain,
+> and uncontaminated field, are Supports for Knowledge of another's
+> Consciousness. Nine dharma classes are Supports for exhaustion- and
+> non-arising-knowledge, excluding the indeterminate unconditioned.
 >
-> Its own complex is its own being and the dharmas co-arising with it. Their
-> not being grasped: from the distinction of object and object-taker, from
-> having one object-support, and from proximity.
+> Could one know all dharmas with one knowledge? No. Rather: “One
+> conventional knowledge could know what is other than its own complex
+> as non-self.” Conventional knowledge could know all dharmas other than
+> its own complex as non-self: “All dharmas are non-self” [local
+> `anātvato`]. Its own nature [local `jsvabhāva`] and the dharmas
+> co-arising with it are its own complex. They are not apprehended
+> because of the difference between Condition and its apprehender,
+> because of having one Support, and because of their proximity.
+>
+> This [conventional knowledge] belongs to the desire domain when formed
+> through hearing or reflection; it belongs to the form domain when
+> formed through hearing or cultivation. For its Support is delimited
+> by level [the referent of `tasya` remains compressed]. Otherwise,
+> dispassion from all [levels] would occur simultaneously. That matter
+> is finished.
 
 ## 4. Movement of the Commentary
 
@@ -79,23 +130,25 @@ Non-associated is not only the cittaviprayukta list.
 | Suffering, origination | D1–D6 | 6 |
 | Cessation | D9 | 1 |
 | Path | D7 D8 | 2 |
-| Other-mind | D1 D3 D7 | 3 |
+| Knowledge of another's Consciousness | D1 D3 D7 | 3 |
 | Exhaustion, non-arising | D1–D9 | 9 |
 
-Different table from 7.17. Cessation had 0 knowledge-objects and has 1
-dharma-class. Paracitta had 10 knowledge-objects and has 3 associated
-classes. No contradiction.
+This table counts dharma classes as Supports. In 7.17, cessation-knowledge
+had no knowledge-kind as Support; here it has one dharma class. Knowledge
+of another's Consciousness had ten knowledge-kinds as possible Supports;
+here it has three associated dharma classes.
 
 ## 6. Own Complex
 
 ```text
-svakalāpa = this cognition + co-arising dharmas
-this act's objects exclude that complex
+svakalāpa = this knowledge + co-arising dharmas
+this act's Supports exclude that complex
 ```
 
-Not a permanent subject. Not “never knowable” — another act can take them.
-Not same-moment self-knowing. Comprehensive wording ≠ simultaneous
-dispassion from every level; the prose refuses that consequence.
+The exclusion concerns this act. It does not say its complex could
+never become a Support for another act. The final level qualification
+also bars an inference from the comprehensive wording to simultaneous
+dispassion from every level.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
@@ -108,15 +161,18 @@ dispassion from every level; the prose refuses that consequence.
 
 This section is reconstruction.
 
-Technē map of the field. Vidyā four-fold is not these ten classes. Dharma:kāma
-as visible enclosure is not D1. The own-complex limit is the text's immanent
-check on reflection: paramārtha does kāmadhātu *as* this conventional act's
-non-self determination, and still cannot take its living complex as object
-in the same moment. Meta-nirodha does not delete that limit. Appearance
-would print “all dharmas known.”
+The Organon can use the ten classes as a typed map of possible Supports.
+Its account of a particular knowing must also register the knowing's
+own complex, level, and mode of formation. The source's conventional
+non-self determination has a broad possible field and an explicit
+same-act exclusion. The relation of that determination to liberation
+is a further Organon question; the Bhāṣya itself rejects simultaneous
+dispassion from all levels as a consequence here.
 
 ## 9. Review Status
 
-QA reviewed against the paired Organon kārikā and Bhāṣya studies
-(Pradhan 404|12–405|04). The reason-clause and level qualification
-remain open; Sanskrit collation is pending. Provisional.
+All 31 local source lines [404|11]–[405|06] are reproduced and
+translated. [404|10] ends 7.17; `idaṃ tu vaktavyam /` at [405|07]
+opens 7.19. The ten-class assignments and closing level qualification
+are restored. Local `saṃkṛtā`, `anātvato`, `jsvabhāva`, and the
+exact referent of `tasya` remain open for collation.

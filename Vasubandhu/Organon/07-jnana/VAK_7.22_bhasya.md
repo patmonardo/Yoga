@@ -15,40 +15,56 @@ Kārikā study: [`VAK_7.22.md`](./VAK_7.22.md).
 
 ## 2. Continuous Sanskrit
 
+> ṣoḍaśe ṣaṭ sarāgasya
 > bhāvyanta iti vartate /
 > avītarāgasya ṣoḍaśe mārgānvayajñānakṣaṇe dve jñāne pratyutpanne /
-> mārgajñānam mārgānvayajñāne /
-> … ṣaṭ bhāvyante / dharmānvaya-duḥkha-samudaya-nirodha-mārgajñānāni /
+> mārgajñānamārgānvayajñāne /
+> purāgatāni ṣaṭ bhāvyante /
+> dharmānvayaduḥkhasamudayanirodhamārgajñānāni /
+> vītarāgasya sapta tu /
 > vītarāgasya paracittajñānaṃ saptamaṃ bhāvyate /
-> ṣoḍaśāt kṣaṇād ūrdhvaṃ bhāvanāmārge yāvan na vītarāgo bhavati tāvat … sapta jñānāni bhāvyante /
-> … saṃvṛtijñānāni /
-> laukikaś cet … saṃvṛtijñānaṃ pratyutpannam /
-> lokottaraś cet caturṇāṃ dharmajñānānām anyatamat /
+> sarāgabhāvanā mārge tadūrdhvaṃ saptabhāvanā // VAkK_7.22 //
+> ṣoḍaśāt kṣaṇādurdhvaṃ bhāvanāmārge yāvanna vītarāgo bhavati tāvat sarveṣu prayogāntaryavimuktiviśeṣamārgeṣu sapta jñānāni bhāvyante /
+> dharmānvayaduḥkhasamudayanirodhamārgasaṃvṛtijñānāni /
+> laukikaścet bhāvanāmārgaḥ saṃvṛtijñānaṃ pratyutpannam /
+> lokottaraścet caturṇāṃ dharmajñānānāmanyatamat /
 
-**Witness.** Pradhan 407|18–408|07. `Purāgatāni` doubtful in a future-
-cultivation context; not used as a technical foundation. Voice: Vasubandhu.
+**Witness.** Complete natural unit [407|18]–[408|07], 13 local source
+lines. [407|16–17] closes 7.21; the 7.23 verse begins at
+[408|08–09]. Local `purāgatāni` remains visible against the future
+cultivation context; [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+explicitly states future cultivation of six without restoring the Sanskrit.
+Voice: Vasubandhu.
 
 ## 3. Continuous Translation
 
-> “Are cultivated” continues.
+> “Six [knowledges] are cultivated at the sixteenth [moment] for one
+> still attached”: “are cultivated” is carried forward [local
+> `bhāvyanta`].
 >
 > For one not detached, at the sixteenth moment — Path-anvaya-knowledge —
-> two knowledges are present: Path-knowledge and Path-anvaya-knowledge.
-> Six are cultivated: dharma, anvaya, suffering, origination, cessation, Path.
+> two knowledge designations are present: Path-knowledge and
+> Path-anvaya-knowledge. Six are cultivated [local `purāgatāni`;
+> Xuanzang's parallel specifies future cultivation]: dharma,
+> anvaya, suffering, origination, cessation, and Path knowledge.
 >
-> For one detached, other-mind knowledge is cultivated as the seventh.
+> “But seven for one detached”: Knowledge of another's Consciousness
+> is cultivated as the seventh.
 >
-> After the sixteenth moment, in the Path of Cultivation, for as long as one
-> has not become detached, seven are cultivated in the preparatory,
-> uninterrupted, liberation, and superior paths: those six and conventional
-> knowledge. If the Path of Cultivation is worldly, conventional knowledge
-> is present; if supramundane, one of the four dharma-knowledges.
+> “Thereafter, in the Path of Cultivation of one still attached,
+> seven are cultivated”: after the sixteenth moment, for as long as
+> one has not become detached, seven knowledges are cultivated in all
+> the preparatory, uninterrupted, liberation, and superior paths:
+> dharma-, anvaya-, suffering-, origination-, cessation-, Path-, and
+> conventional knowledge. If the Path of Cultivation is worldly,
+> conventional knowledge is present; if supramundane, one of the
+> four dharma-knowledges is present.
 
 ## 4. Movement of the Commentary
 
 ```text
 moment 16 undetached: cultivate B (6); present = Path / Path-anvaya
-moment 16 detached:   cultivate B + paracitta (7)
+moment 16 detached:   cultivate B + Knowledge of another's Consciousness (7)
 after 16, still undetached, four path-functions: B + conventional (7)
     worldly present = conventional
     supramundane present = one truth-specific dharma-knowledge
@@ -60,9 +76,9 @@ after 16, still undetached, four path-functions: B + conventional (7)
 B = dharma, anvaya, suffering, origination, cessation, Path
 ```
 
-Seventh at moment 16 if detached: paracitta (cultivated, not “another mind
-now known”). Seventh later while still undetached: conventional knowledge —
-not automatically the 7.21 completion-item.
+Seventh at moment 16 if detached: Knowledge of another's Consciousness.
+Seventh later while still undetached: conventional knowledge, without
+identifying it automatically with 7.21's completion item.
 
 Present two at moment 16 = two classifications of one event, not two events.
 
@@ -87,13 +103,17 @@ the present cell, not the sevenfold set in this row.
 
 This section is reconstruction.
 
-Technē: history of the continuum changes what the same moment can cultivate.
-Paramārtha attributes appearing as modalities — here as different seventh
-cells — is Appearance of determinations, not the Absolute as Appearans.
-Revelation is not a cultivation-count. Dialectic stays Ideal.
+The Organon can represent Path position and prior detachment as separate
+conditions on the cultivated set. Equal counts must retain their members:
+the detached case adds Knowledge of another's Consciousness, whereas
+the later undetached case adds conventional Knowledge. Present
+Knowledge is another relation, specified by whether that later Path
+is worldly or supramundane.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.22.md`
-(Pradhan 407|18–408|07).
-`Purāgatāni` open. `kosabhasya.txt` collation pending. Provisional.
+All 13 local source lines [407|18]–[408|07] are reproduced and
+translated. [407|16–17] ends 7.21; the 7.23 verse begins at
+[408|08–09]. Local `bhāvyanta` and `purāgatāni` remain visible;
+the Chinese parallel supports the future-cultivation sense of the
+six but does not restore the Sanskrit qualifier.

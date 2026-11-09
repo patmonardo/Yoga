@@ -20,6 +20,13 @@ objects of each knowledge? The Bhāṣya explicitly identifies all
 the numerical groups. The final clause opens a different tenfold
 classification, developed in VAK 7.18.
 
+**Textual status.** The Bhāṣya's local verse quotation at [404|01]
+has `mārgānvayadiyoḥ`, without the `dh` in the separate local kārikā
+witness `vakobhau.txt` and this study. The prose identifies the
+Path- and anvaya-knowledge pair. The Bhāṣya also reads
+`paracitajñāne` at [404|05]; neither local form is silently
+normalized in its source block.
+
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -27,8 +34,8 @@ classification, developed in VAK 7.18.
 | `nava` | nominative plural numeral | nine possible knowledge-object categories for each of two knowledges |
 | `mārgānvayadhiyoḥ` | genitive dual compound (`mārga-anvaya-dhī`) | of Path-knowledge and anvaya-knowledge, distributively |
 | `duḥkhahetudhiyoḥ` | genitive dual compound (`duḥkha-hetu-dhī`) | of suffering- and origination-knowledge, distributively |
-| `dvayam` | nominative singular neuter collective numeral | the pair of conventional and other-mind knowledge as objects |
-| `caturṇām` | genitive plural numeral | of conventional, other-mind, exhaustion, and non-arising knowledge |
+| `dvayam` | nominative singular neuter collective numeral | the pair of conventional knowledge and Knowledge of another's Consciousness as objects |
+| `caturṇām` | genitive plural numeral | of conventional knowledge, Knowledge of another's Consciousness, exhaustion-knowledge, and non-arising-knowledge |
 | `daśa` | nominative plural numeral | all ten knowledge-categories as possible objects |
 | `na` | negation | no knowledge-category as object |
 | `ekasya` | genitive singular numeral | of the one, cessation-knowledge |
@@ -54,7 +61,8 @@ the same pair of object-categories to suffering- and origination-
 knowledge. It does not count the knowing pair itself as the objects.
 
 **Four knowing categories and ten objects.** `Caturṇām` refers to
-conventional, other-mind, exhaustion, and non-arising knowledge.
+conventional knowledge, Knowledge of another's Consciousness,
+exhaustion-knowledge, and non-arising-knowledge.
 The Bhāṣya identifies them explicitly. `Daśa` gives each category's
 possible knowledge-object range, with `jñānāni ālambanam` supplied.
 
@@ -91,14 +99,15 @@ verse's exposition (Pradhan 403|16–404|10 for the present table).
 > Path- and anvaya-knowledge each take nine kinds of knowledge as
 > objects, excluding conventional and dharma-knowledge respectively.
 > Suffering- and origination-knowledge each take two: conventional
-> and other-mind knowledge. Conventional, other-mind, exhaustion,
+> and Knowledge of another's Consciousness. Conventional knowledge,
+> Knowledge of another's Consciousness, exhaustion-knowledge,
 > and non-arising knowledge each take all ten; cessation-knowledge
 > takes no knowledge as object. Ten classes of dharmas are next to
 > be assigned.
 
 ## 6. Philosophical Translation
 
-> Knowing can itself become an object, but the relation is
+> Knowledge can itself become a Support, but the relation is
 > differentiated. Some knowledge-kinds admit nine categories,
 > some two, some all ten, and cessation-knowledge admits none
 > of these cognitive objects. The distinctions concern what
@@ -115,10 +124,10 @@ cognition or simultaneous apprehension of the whole field.
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| `ālambana` | object-support | The Bhāṣya's relation between a knowing category and possible knowledge-objects; it does not imply same-moment self-cognition. |
+| `ālambana` | Support | The Bhāṣya's relation between a knowledge category and possible knowledge-Supports; it does not imply same-moment self-cognition. |
 | `mārga-dhī` / `anvaya-dhī` | Path- / anvaya-knowledge | Each has nine knowledge-object categories, but Path excludes conventional knowledge and anvaya excludes dharma-knowledge. |
-| `dvaya` | the pair | Conventional and other-mind knowledge are the two object-categories for suffering- and origination-knowledge; particular objects retain their specific status. |
-| `caturṇām` | of the four | Conventional, other-mind, exhaustion, and non-arising knowledge; each has ten possible object-categories, subject to its own conditions. |
+| `dvaya` | the pair | Conventional knowledge and Knowledge of another's Consciousness are the two Support categories for suffering- and origination-knowledge; particular instances retain their specific status. |
+| `caturṇām` | of the four | Conventional knowledge, Knowledge of another's Consciousness, exhaustion-knowledge, and non-arising-knowledge; each has ten possible Support categories, subject to its own conditions. |
 | `ekasya` | of the one | Cessation-knowledge takes no knowledge-category as object; it knows cessation. |
 | `yojya` | to be assigned | The closing instruction introduces ten dharma classes for the next distribution, without adding knowledge-designations. |
 
@@ -126,15 +135,15 @@ cognition or simultaneous apprehension of the whole field.
 
 The complete category-level table, including VAK 7.16's entry, is:
 
-| Knowing category | Knowledge-objects | Count |
+| Knowledge category | Knowledge-Support categories | Count |
 |---|---|---:|
 | Dharma | All categories except anvaya | 9 |
 | Anvaya | All categories except dharma | 9 |
 | Path | All categories except conventional | 9 |
-| Suffering | Conventional and other-mind | 2 |
-| Origination | Conventional and other-mind | 2 |
+| Suffering | Conventional and Knowledge of another's Consciousness | 2 |
+| Origination | Conventional and Knowledge of another's Consciousness | 2 |
 | Conventional | All ten categories | 10 |
-| Other-mind | All ten categories | 10 |
+| Knowledge of another's Consciousness | All ten categories | 10 |
 | Exhaustion | All ten categories | 10 |
 | Non-arising | All ten categories | 10 |
 | Cessation | No knowledge-category | 0 |
@@ -162,7 +171,8 @@ EveryInstanceAccessible
 AllTenSimultaneouslyApprehended
 ```
 
-Thus other-mind knowledge can have all ten as object-categories
+Thus Knowledge of another's Consciousness can have all ten as Support
+categories
 without violating VAK 7.06's separation of dharma-side and
 anvaya-side acts. The broad category includes appropriately
 different acts and preparations. It does not make a single
@@ -174,7 +184,7 @@ relations among knowledges, not an unrestricted recursion rule.
 
 ## 9. Interpretive Note
 
-**The Bhāṣya resolves the numerical ellipses.** The research
+**The Bhāṣya resolves the numerical ellipses.** The earlier research
 kārikā file left the four and the one open. The immediate prose
 names them, identifies the two-object pair, and distinguishes
 the exclusions for the two nine-object entries. The official
@@ -192,8 +202,8 @@ repeating the ten cognitions under a new label. Keeping this
 transition clear is necessary for the next verse's distribution.
 
 **Textual caution.** The raw prose has `paracitajñāne` in the
-two-object clause; the surrounding use of `paracitta` and the
-local Bhāṣya analysis identify other-mind knowledge securely.
+two-Support clause; the surrounding use of `paracitta` and the
+local Bhāṣya analysis identify Knowledge of another's Consciousness securely.
 The study retains that readable designation while leaving the
 source files untouched.
 
@@ -218,10 +228,11 @@ Kośa's table provides the concrete source distinctions, while
 their development into this Yoga-system account remains our
 Organon interpretation.
 
-**Review status.** Provisional, Bhāṣya-controlled study. All
-knowledge-object counts are now specified. Their category-level
-scope and earlier restrictions remain explicit; the ten dharma
-classes are reserved for VAK 7.18.
+**Review status.** Source-first QA reviewed all ten local source lines
+[404|01]–[404|10]. [403|18] ends 7.16; [404|11] opens 7.18.
+All knowledge-Support counts are specified. The local `mārgānvayadiyoḥ`
+and `paracitajñāne` remain open for collation; the ten dharma classes
+belong to VAK 7.18.
 
 ## 10. OWL++ Seed
 
@@ -251,7 +262,7 @@ Transition: TenDharmaObjectClasses to be assigned in VAK_7.18.
 
 ProjectConstraint: Possible-object relations are directed, not automatically symmetric.
 ProjectConstraint: Category inclusion does not license every individual instance.
-ProjectConstraint: Preserve prior restrictions on other-mind knowledge.
+ProjectConstraint: Preserve prior restrictions on Knowledge of another's Consciousness.
 ProjectConstraint: Zero knowledge-objects does not mean objectless cognition.
 ProjectConstraint: Category self-inclusion does not imply same-moment self-cognition.
 ProjectConstraint: Object-count is not a ranking of liberative efficacy.

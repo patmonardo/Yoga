@@ -17,47 +17,120 @@ Kārikā study: [`VAK_7.21.md`](./VAK_7.21.md).
 
 ## 2. Continuous Sanskrit
 
-> ata eva tad ābhisamayāntikaṃ saṃvṛtijñānam ākhyāyate /
-> ekaika-satyābhisamayānte bhāvanāt /
-> kasmān na mārgānvayajñāne bhāvanāṃ gacchati /
-> … anabhisamitatvāt akṛtsnābhisamayāc ca /
-> kiṃ punas tad ābhisamayāntikaṃ saṃvṛtijñānaṃ kadācit saṃmukhīkriyate /
-> na kadācit / ekāntena hi tad anutpattidharmakam /
-> … tasmān naivaṃ bhāvanā sidhyati /
+> ato 'bhisamayāntyākhyaṃ
+> ata eva tadābhisamayāntikaṃ saṃvṛtijñānamākhyāvate /
+> ekaikasatyābhisamayānte bhāvanāt /
+> kasmānna mārgānvayajñāne bhāvanāṃ gacchati /
+> mārgasatyasya pūrva laukikena mārgeṇānabhisamitatvāt akṛtsnābhisamayācca /
+> kṛtsnaṃ hi duḥkhaṃ śakyate parijñātuṃ samudayaḥ prahātuṃ nirodhaḥ sākṣātkartu na tu mārgaḥ śakyate kṛtsno bhāvayitum ityabhisamayāntābhāvānna tasminnābhisamayāntikaṃ bhāvyate /
+> samudayo 'pi na tadā sarvaḥ prahīṇo bhavatīti na syādābhisamayāntikam /
+> na /
+> tatsatyadarśanaheyaḥ sarvaḥ prahīṇno bhavati /
+> mārgastaddarśanaheyapratipakṣo na sarvaḥ śakyate bhāvayituṃ vahugotratvāt ityasti mahānviśeṣaḥ /
+> darśanamārgaparivāratvādityapare /
+> tadidaṃ sādhyatvādajñāpakam /
+> kiṃ punastadābhisamayāntikaṃ samvṛtijñānaṃ kadācitsaṃmukhīkriyate /
+> na kadācit ekāntena hi
+> tadānutpattidharmakam /
+> kathaṃ punastadbhāvitaṃ bhavati /
+> alabdhalābhāt kathamidānīṃ tatpratilabdhaṃ yadi naiva saṃmukhīkartu śakyate /
+> prāptitaḥ /
+> yasmāllabdhaṃ tasmāllabdhamityapūrvaiṣā nirdeśajātiḥ /
+> tasmānnaivaṃ bhāvanā sidhyati /
 > evaṃ tu sidhyati yad āhuḥ pūrvācāryāḥ /
-> lokottaramārgasāmarthyāt … vyutthitaḥ satyālambanaṃ viśiṣṭataraṃ laukikaṃ jñānaṃ saṃmukhīkaroti /
-> eṣa eva ca tasya lābho yat tat-saṃmukhībhāva-samarthāśraya-lābhaḥ /
-> evaṃ tu necchanti vaibhāṣikāḥ /
+> kathaṃ ca pūrvācāryā āhuḥ /
+> lokottaramārga-sāmarthyāt saṃvṛtijñānaṃ bhāvyate yad vyutthitaḥ satyālambanam viśiṣṭataraṃ laukikaṃ jñānaṃ saṃmukhīkaroti /
+> eṣa eva ca tasya lābho yat-tat-saṃmukhībhāva-samarthāśrayalābhaḥ /
+> gotre hi labdhe labdhaṃ gautrikaṃ bhavati /
+> eva tu necchanti vaibhāṣikāḥ /
+> katibhūmikaṃ punastatsaṃvṛtijñānaṃ bhāvyate /
+> darśanamārgasya
+> svadhobhūmi
+> yadbhūmiko darśanamārgo bhavati tadbhūmikam cāvarabhūmikaṃ ca saṃvṛtijñānaṃ bhāvyate /
+> ānāgamyabhūmikaścedbhavati dvibhūmikaṃ bāvyate /
+> anāgamyabhūmikaṃ kāmāvacaraṃ ca /
+> evaṃ yāvaccaturthadhyānabhūmike darśanamārge saptabhūmikaṃ saṃvṛtijñānaṃ bhāṣyate /
+> tatra punaḥ kati smṛtyupasthānāni /
+> nirodhe 'ntyaṃ
+> nirodhe 'bhisamite yat saṃvṛtijñānaṃ tadantyaṃ smṛtyupasthānaṃ dharmasmṛtyupasthānam /
+> ekasya parisaṃkhyānātsiddhaṃ bhavati śeṣaṃ catvāri smṛtyupasthānānīti /
+> taccaitadābhisamayāntikaṃ saṃvṛtijñānaṃ
+> svasatyākāraṃ
+> yatsatyābhisamayāllabhyate tatsatyākārameva /
+> tadākāravacanādālambanasya tadeva satyamityuktaṃ bhavati /
+> darśanamārgalabhyatvācca tat /
+> yatnikam // VAkK_7.21 //
+> prāyogikamityarthaḥ /
+> saparivāragrahaṇātkāmarūpāvacārāṇi catuṣpañcaskandhasvabhāvāni /
 
-**Witness.** Pradhan 406|07–407|17. `Gautrikaṃ` unrestored. Voices:
-Vasubandhu; objector on origination; `apare` (entourage); initial
-never-arise answer; pūrvācāryāḥ; Vaibhāṣikas refuse. Not silently labeled
-Sautrāntika.
+**Witness.** Complete natural unit [406|07]–[407|16–17], 45 local
+source lines. [406|06] ends 7.20; `ṣoḍaśe ṣaṭ sarāgasya` at
+[407|18] starts 7.22. The local damage and voice changes are analyzed
+below; the source block is not normalized.
 
 ## 3. Continuous Translation
 
-> Therefore that conventional knowledge is called belonging to the end of
-> direct realization — because it is cultivated at the end of the direct
-> realization of each truth.
+> “Therefore it is called [knowledge] of the end of direct realization”:
+> that conventional Knowledge is so named because it is cultivated at
+> the end of the direct realization of each [relevant] Truth.
 >
 > Why does it not enter cultivation at Path-anvaya-knowledge? Because the
 > Path-truth has not previously been directly realized by a worldly path,
-> and because realization is not complete. Suffering can be fully known,
-> origination abandoned, cessation realized; the Path cannot all be cultivated.
+> and because its direct realization is not complete. All suffering can
+> be fully known, origination abandoned, and cessation directly realized;
+> the entire Path cannot be cultivated. Since there is no end of direct
+> realization in that sense, the end-of-realization conventional Knowledge
+> is not cultivated there.
 >
-> Is that completion-conventional knowledge ever made present? Never. It is
-> of a nature not to arise.
+> [Objection:] Origination too has not all been abandoned then, so this
+> would not be an end-of-realization Knowledge. [Reply:] No. Everything
+> to be abandoned by Seeing that Truth has been abandoned. The Path
+> counteracting what is to be abandoned by Seeing it cannot all be
+> cultivated, because it has many kinds. There is therefore a major
+> difference. Others say it is because [this Knowledge] is an entourage
+> of the Path of Seeing. That does not explain the point, since it is
+> itself what must be established.
 >
-> How then is it cultivated? “From acquiring what was not acquired.” If it
-> cannot be made present, how is it acquired? “From acquisition.” Because
-> it is acquired, therefore it is acquired — a novel kind of explanation.
-> Cultivation is not established that way.
+> Is that end-of-realization conventional Knowledge ever made present?
+> Never; necessarily, “it has non-arising as its nature.”
 >
-> It is established as the former teachers say: by the power of the
-> supramundane Path, conventional knowledge is cultivated such that, having
-> emerged, one makes present a superior worldly knowledge having the truths
-> as object. That very acquisition is acquisition of a support capable of
-> its manifestation. The Vaibhāṣikas do not accept this.
+> How, then, is it cultivated? Through acquiring what had not been acquired.
+> How is it now acquired if it cannot ever be made present? Through
+> acquisition (*prāpti*). “Because it is acquired, it is acquired” is a
+> novel kind of explanation. Cultivation is not established that way.
+>
+> It is established instead as the former teachers say. What do they say?
+> Through the power of the supramundane Path, conventional Knowledge is
+> cultivated such that, after emerging [from that Path], one makes present
+> a superior worldly Knowledge with a Truth as its Support. That is its
+> acquisition: acquiring a Basis capable of making it present. When the
+> *gotra* is acquired, what belongs to that *gotra* is acquired [local
+> `gautrikaṃ`; its exact force remains open]. The Vaibhāṣikas do not
+> accept this explanation.
+>
+> At how many levels is that conventional Knowledge cultivated?
+> “[At] its own and lower levels”: the level of the Path of Seeing
+> and levels below it. If the Path of Seeing is based at the *anāgamya*
+> level, two levels are cultivated: that level and the desire domain.
+> So on up to Seeing based at the fourth dhyāna, where
+> conventional Knowledge is spoken of at seven levels [local
+> `bhāṣyate`].
+>
+> Under how many applications of mindfulness does it fall? “At
+> cessation, the last”: conventional Knowledge cultivated on direct
+> realization of cessation falls under the last application,
+> mindfulness of dharmas. Since one case is specified, the remainder
+> is established as falling under the four applications.
+>
+> And this end-of-realization conventional Knowledge “has the aspects
+> of its own Truth”: it has precisely the aspects of the Truth through
+> whose direct realization it is acquired. Naming its aspects also says
+> that the same Truth is its Support.
+>
+> Because it is acquired through the Path of Seeing, it is “produced
+> through effort,” meaning produced through preparatory application.
+> With its entourage included, its nature comprises four Bases in the
+> desire domain and five in the form domain.
 
 ## 4. Movement of the Commentary
 
@@ -67,9 +140,10 @@ name from 7.20 completion-points
     → ever made present?
          verse-line: never (anutpattidharmaka)
          acquisition-alone: circular
-         former teachers: capable support after emergence — endorsed as explanation
+         former teachers: capable Basis after emergence — endorsed as explanation
          Vaibhāṣikas refuse
-    → level, mindfulness, aspects, yatnika = prāyogika, entourage
+    → own-and-lower levels; mindfulness; truth aspects and Support
+    → yatnika = prāyogika; four/five Bases with entourage
 ```
 
 ## 5. Two Uses of “End”
@@ -78,7 +152,8 @@ name from 7.20 completion-points
 mindfulness-application (dharmas). Not the last Path-moment.
 
 Path excluded: worldly path has not already realized Path-truth; Path
-cannot be cultivated entire (`bahugotratva`). Origination-objection:
+cannot be cultivated entire (`vahugotratvāt` in the local source).
+Origination-objection:
 Seeing-abandonables of that truth *are* abandoned. Cultivation-abandonables
 remain. `Apare` (entourage of Seeing) rejected as proving what it assumes.
 
@@ -88,15 +163,15 @@ remain. `Apare` (entourage of Seeing) rejected as proving what it assumes.
 |---|---|
 | Verse / initial | acquired, never made present |
 | Acquisition-alone | circular |
-| Former teachers | Path changes the support; after emergence, superior worldly truth-knowledge can be made present |
+| Former teachers | Path brings acquisition of a capable Basis; after emergence, superior worldly Truth-Knowledge can be made present |
 | Vaibhāṣikas | refuse that |
 
 Do not merge. Do not pick in §1–7.
 
 Levels: Seeing-level and below (e.g. anāgamya-Seeing → two; fourth-dhyāna
-Seeing → seven). Aspects and object = the truth just completed. Cessation:
+Seeing → seven). Aspects and Support = the Truth just completed. Cessation:
 dharma-mindfulness only; the other two completions: four applications as
-range. Four/five Bases = entourage, not knowledge itself.
+range. Four/five Bases include the entourage, not Knowledge alone.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
@@ -109,22 +184,19 @@ range. Four/five Bases = entourage, not knowledge itself.
 
 This section is reconstruction.
 
-What must be shown: the Absolute appears as Attribute in certain modalities.
-Paramārtha attributes are to be recognized as Appearance of the Absolute.
-The Absolute itself as Appearans is Revelation of the Philosopher's God.
-None of that is this verse.
-
-This verse is Technē fighting over whether a cultivated conventional
-determination is a never-arising item or a changed support that can later
-*appear*. The former teachers' capable-support is the nearest hook:
-Appearance of a truth-attribute after emergence — still worldly, still not
-Revelation. Vaibhāṣika never-arise is Appearance refused as event. Do not
-call either the Absolute as Appearans.
-
-Taking as non-self remains method. Dialectic remains Ideal.
+The Organon can represent cultivation as a relation between a Path event
+and a changed Basis of later Knowledge. The former teachers give that
+account explanatory force: after emerging from the supramundane Path,
+superior worldly Knowledge with a Truth as Support can become present.
+The verse's never-arising predicate and the Vaibhāṣikas' refusal remain
+distinct source positions. A project account of what cultivation makes
+possible must state which of these explanations it develops.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.21.md`
-(Pradhan 406|07–407|17).
-`Gautrikaṃ` unrestored. `kosabhasya.txt` collation pending. Provisional.
+All 45 local source lines [406|07]–[407|16–17] are reproduced and
+translated. [406|06] ends 7.20; [407|18] opens 7.22. The objection,
+reply, attributed alternative, cultivation dispute, levels,
+mindfulness, truth-aspects and Support, effort gloss, and entourage
+are retained. Local `gautrikaṃ`, `bhāṣyate`, and other damaged forms
+remain visible for collation.

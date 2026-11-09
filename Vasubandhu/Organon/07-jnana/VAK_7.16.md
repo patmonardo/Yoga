@@ -14,11 +14,10 @@ smṛtyupasthānam ekaṃ dhīr nirodhe paracittadhīḥ |
 trīṇi catvāri śeṣāṇi dharmadhīgocaro nava || 7.16 ||
 ```
 
-**Textual status.** The local Devanāgarī witness prints `धर्मधीर्गोचरो`,
-with an additional `r` after `dhī`. The local IAST and the underlying
-Bhāṣya quotation have the compound `dharmadhīgocaraḥ`. The Sanskrit
-blocks retain that witness difference explicitly; the construe follows
-the compound and the prose's unambiguous `dharmajñānasya`.
+**Textual status.** The inherited Devanāgarī study prints `धर्मधीर्गोचरो`,
+with an additional `r` after `dhī`; the local IAST source and Bhāṣya
+quotation read `dharmadhīgocaro`. Both forms remain visible. The construe
+follows the source and the prose's unambiguous `dharmajñānasya`.
 
 The verse completes the mindfulness-classification and begins a new
 table of knowledges that can be objects of other knowledges. That
@@ -32,11 +31,11 @@ table continues in VAK 7.17.
 | `ekam` | nominative singular neuter numeral | one, for cessation-knowledge |
 | `dhīḥ` | nominative singular feminine | knowledge, concerning cessation |
 | `nirodhe` | locative singular masculine | concerning cessation |
-| `paracittadhīḥ` | nominative singular feminine compound (`para-citta-dhī`) | other-mind knowledge, construed with `trīṇi` |
-| `trīṇi` | nominative plural neuter numeral | three mindfulness applications: feeling, mind, dharmas |
+| `paracittadhīḥ` | nominative singular feminine compound (`para-citta-dhī`) | Knowledge of another's Consciousness, construed with `trīṇi` |
+| `trīṇi` | nominative plural neuter numeral | three mindfulness applications: feeling, Consciousness, dharmas |
 | `catvāri` | nominative plural neuter numeral | all four mindfulness applications |
-| `śeṣāṇi` | nominative plural neuter adjective | the knowledges other than cessation- and other-mind knowledge |
-| `dharmadhīgocaro` | nominative singular masculine compound (`dharma-dhī-gocaraḥ`) | the object-range of dharma-knowledge; the Devanāgarī witness has `dharmadhīr gocaro` |
+| `śeṣāṇi` | nominative plural neuter adjective | the knowledges other than cessation-knowledge and Knowledge of another's Consciousness |
+| `dharmadhīgocaro` | nominative singular masculine compound (`dharma-dhī-gocaraḥ`) | the range of dharma-knowledge; the inherited Devanāgarī study has `dharmadhīr gocaro` |
 | `nava` | nominative plural numeral | nine knowledge-categories, excluding anvaya-knowledge |
 
 `Smṛti + upasthāna` gives `smṛtyupasthāna`. The Bhāṣya explicitly
@@ -51,15 +50,16 @@ classification `smṛtyupasthānam ekam`. The different genders belong
 to the subject and category-predicate. The prose identifies the one
 as `dharmasmṛtyupasthānam`.
 
-**Other-mind knowledge across the line boundary.** Join
+**Knowledge of another's Consciousness across the line boundary.** Join
 `paracittadhīḥ` to `trīṇi` in the next line, supplying the plural
-`smṛtyupasthānāni`. The Bhāṣya gives feeling, mind, and dharmas as
+`smṛtyupasthānāni`. The Bhāṣya gives feeling, Consciousness, and dharmas as
 the three. The number counts classifications, not three simultaneously
 apprehended entities.
 
 **The remaining knowledges.** `Śeṣāṇi` qualifies understood `jñānāni`.
 Their predicate is `catvāri [smṛtyupasthānāni]`. The commentary
-excludes cessation- and other-mind knowledge explicitly. The rule
+excludes cessation-knowledge and Knowledge of another's Consciousness
+explicitly. The rule
 states the remaining categories' range; it does not override a
 specific cessation-knowledge classification in an overlapping case.
 
@@ -78,39 +78,41 @@ The numeral counts knowledge-categories; the singular `gocaraḥ`
 names their collective object-field.
 
 **Close construe.** Knowledge concerning cessation [is classified
-under] one mindfulness-application; other-mind knowledge [under]
-three; the remaining knowledges [under] four. Nine [knowledges are]
+under] one mindfulness application; Knowledge of another's Consciousness
+[under] three; the remaining knowledges [under] four. Nine [knowledges are]
 the object-range of dharma-knowledge.
 
 The first part concerns `smṛtyupasthānasaṃgraha`, inclusion under
 mindfulness applications; the final clause concerns `ālambana`,
 knowledge as object. Neither gives another meditative-level or
-domain-support rule.
+domain-Basis rule.
 
 ## 5. Translation
 
 ### Literal Translation
 
 > Knowledge concerning cessation is one application of mindfulness;
-> knowledge of another mind is three; the remaining knowledges are
+> Knowledge of another's Consciousness is three; the remaining knowledges are
 > four. Nine knowledges are the object-range of dharma-knowledge.
 
 ### Bhāṣya-informed study translation
 
 > Cessation-knowledge falls under mindfulness of dharmas alone;
-> other-mind knowledge under mindfulness of feeling, mind, and
-> dharmas; and the remaining knowledges under all four applications.
+> Knowledge of another's Consciousness under mindfulness of feeling,
+> Consciousness, and dharmas; and the remaining knowledges under all four
+> applications.
 > Dharma-knowledge can take nine kinds of knowledge as objects,
 > excluding anvaya-knowledge.
 
 ## 6. Philosophical Translation
 
-> Knowing receives further determination through the mindfulness
+> Knowledge receives further determination through the mindfulness
 > classification appropriate to its objects. Cessation has the
-> dharma classification; other-mind knowledge admits the three
-> mental classifications; the remaining knowledge field admits
-> all four. The inquiry then turns to knowing itself as a possible
-> object, beginning with dharma-knowledge's nine-category range.
+> dharma classification; Knowledge of another's Consciousness admits the
+> applications of feeling, Consciousness, and dharmas; the remaining
+> knowledge field admits all four. The inquiry then turns to knowing
+> itself as a possible object, beginning with dharma-knowledge's
+> nine-category range.
 
 The dharma of `dharmasmṛtyupasthāna` and the technical designation
 `dharmajñāna` occupy different roles. Mindfulness of dharmas is
@@ -122,21 +124,21 @@ classifications interchangeable.
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| `smṛtyupasthāna` | application of mindfulness | Fourfold classification by body, feeling, mind, and dharmas; the Bhāṣya describes inclusion under these applications. |
+| `smṛtyupasthāna` | application of mindfulness | Fourfold classification by body, feeling, Consciousness, and dharmas; the Bhāṣya describes inclusion under these applications. |
 | `dharmasmṛtyupasthāna` | mindfulness of dharmas | The sole classification of cessation-knowledge; its field includes cessation and is not restricted to conditioned mental events. |
-| `vedanā`, `citta`, `dharma` | feeling, mind, dharmas | The three mindfulness applications for other-mind knowledge; this range does not imply three simultaneous objects. |
-| `śeṣāṇi` | the remaining knowledges | Excludes cessation- and other-mind knowledge; specific restrictions still govern overlapping instances. |
-| `dhī`, `prajñā`, `jñāna` | knowledge, discriminative knowing, knowledge | The Bhāṣya calls these equivalent expressions here; this local synonymy does not cancel the distinctions in 7.01. |
+| `vedanā`, `citta`, `dharma` | feeling, Consciousness, dharmas | The three mindfulness applications for Knowledge of another's Consciousness; this range does not imply three simultaneous objects. |
+| `śeṣāṇi` | the remaining knowledges | Excludes cessation-knowledge and Knowledge of another's Consciousness; specific restrictions still govern overlapping instances. |
+| `dhī`, `prajñā`, `jñāna` | knowledge, discriminative comprehension, Knowledge | The Bhāṣya calls these equivalent expressions here; this local synonymy does not cancel the distinctions in 7.01. |
 | `dharma-dhī` | dharma-knowledge | A technical knowledge kind, whose knowledge-object range excludes anvaya-knowledge. |
-| `gocara` / `ālambana` | object-range / object-support | The verse and prose name the object relation; nine counts possible knowledge kinds, not simultaneous cognitions. |
+| `gocara` / `ālambana` | range / Support | The verse and prose name the range and Support relation; nine counts possible knowledge kinds, not simultaneous cognitions. |
 
 ## 8. Logical Determination
 
 | Knowledge category | Mindfulness classification | Count |
 |---|---|---:|
 | Cessation | Dharmas | 1 |
-| Other-mind | Feeling, mind, dharmas | 3 |
-| Remaining categories, broadly considered | Body, feeling, mind, dharmas | 4 |
+| Knowledge of another's Consciousness | Feeling, Consciousness, dharmas | 3 |
+| Remaining categories, broadly considered | Body, feeling, Consciousness, dharmas | 4 |
 
 The overlapping taxonomy requires specific restrictions to persist:
 
@@ -146,7 +148,7 @@ DharmaKnowledge(x) AND CessationKnowledge(x)
 ```
 
 The broader fourfold range of dharma-knowledge does not make that
-cessation-knowledge instance body-, feeling-, or mind-mindfulness.
+cessation-knowledge instance body-, feeling-, or Consciousness-mindfulness.
 
 The final pāda begins a different table:
 
@@ -156,7 +158,8 @@ KnowledgeObjectCategories(DharmaKnowledge)
 ```
 
 Those nine names are conventional, dharma, suffering, origination,
-cessation, Path, other-mind, exhaustion, and non-arising knowledge.
+cessation, Path, Knowledge of another's Consciousness, exhaustion, and
+non-arising knowledge.
 This category-level range is subject to the distinctions already
 established: it does not admit every individual instance under
 every overlapping name without qualification.
@@ -174,15 +177,16 @@ both knowing category and object-category through different instances.
 ## 9. Interpretive Note
 
 **Two classificatory transitions.** The Bhāṣya declares level and
-support complete, announces mindfulness-inclusion, and then asks
+Basis complete, announces mindfulness-inclusion, and then asks
 how many knowledges serve as objects of each knowledge. The verse
 therefore joins two successive inquiries without merging them.
 
-**Mental factors remain individually knowable.** The research
+**Mental factors remain individually knowable.** An earlier research
 kārikā study's wording about another mental event “together with”
 its associated factors can suggest simultaneous apprehension.
 The threefold classification concerns the range across possible
-objects. The one-entity rule of VAK 7.11 continues to apply.
+objects. The one-entity rule of VAK 7.11 continues to apply to
+Knowledge of another's Consciousness.
 
 **Anvaya is excluded explicitly.** The prose gives the exclusion
 directly but does not develop a new causal explanation for it in
@@ -214,10 +218,11 @@ supplies specific classifications and the first knowledge-object
 entry. Their further development as a Yoga system remains our
 explicit Organon interpretation.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The one/
-three/four distribution and nine-category object-range are explicit.
-The Sanskrit script discrepancy is marked, and the wider object
-matrix remains for the next verse.
+**Review status.** Source-first QA reviewed against the complete
+[403|08]–[403|18] unit; [403|07] closes 7.15 and [404|01] begins 7.17.
+The one/three/four distribution and nine-category Support range are explicit.
+The inherited Devanāgarī/IAST discrepancy is marked; the wider object
+matrix belongs to 7.17.
 
 ## 10. OWL++ Seed
 
@@ -234,8 +239,8 @@ ObjectProperty: excludesKnowledgeObjectCategory
 ObjectProperty: supportedBy
 
 MindfulnessRange: CessationKnowledge -> DharmaMindfulness
-MindfulnessRange: OtherMindKnowledge -> FeelingMindfulness,
-                                      MindMindfulness, DharmaMindfulness
+MindfulnessRange: KnowledgeOfAnothersConsciousness -> FeelingMindfulness,
+                                      ConsciousnessMindfulness, DharmaMindfulness
 MindfulnessRange: RemainingKnowledgeCategories -> AllFourMindfulnessApplications
 
 ObjectRange: DharmaKnowledge -> NineKnowledgeCategories

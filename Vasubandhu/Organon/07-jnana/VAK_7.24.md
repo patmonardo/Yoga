@@ -52,12 +52,12 @@ undertaking; liberation is a path function within it.
 **Six and seven are conditional.** The commentary supplies
 `sarāgasya` and `vītarāgasya`: six for the trainee not detached
 from desire, seven for the detached trainee. It specifies
-`paracittajñānaṃ prakṣipya`, adding knowledge of another mind,
+`paracittajñānaṃ prakṣipya`, adding Knowledge of another's Consciousness,
 for the latter count.
 
 **The force of `vā`.** The prose explicitly says that this
 particle makes a difference of opinion known. Some teachers
-also include conventional knowledge for both practitioners
+also include conventional Knowledge for both practitioners
 in the liberation path. Translating “six or seven” alone
 does not convey this additional doctrinal alternative.
 
@@ -128,20 +128,20 @@ explanation of `vā`. The alternative is attributed to `kecit`,
 “some”; no school identity is supplied here.
 
 **`Prakṣipya` — adding / including.** An absolutive specifying
-the addition of knowledge of another mind to the six-category
+the addition of Knowledge of another's Consciousness to the six-category
 set for the detached trainee's liberation path.
 
 **`Darśanamārgasādṛśya` — resemblance to the Path of Seeing.**
-The stated reason for excluding conventional knowledge from
+The stated reason for excluding conventional Knowledge from
 the Faculty-strengthening uninterrupted path. Resemblance
 does not identify this path as a second Path of Seeing or
 cancel VAK 7.20–7.21's special conventional cultivation.
 
 **`Apratipakṣatva` — not being a counteragent.** The reason
-given when the prose asks why knowledge of another mind
+given when the prose asks why Knowledge of another's Consciousness
 is excluded from all uninterrupted paths. This negative
 predicate must be kept distinct from the resemblance
-argument governing conventional knowledge here.
+argument governing conventional Knowledge here.
 
 **`Bhavāgravijaya` — conquest of Bhavāgra.** Expanded as
 detachment from the summit of existence. The repeated
@@ -154,7 +154,7 @@ Use the established six-category set:
 ```text
 B = {DharmaKnowledge, AnvayaKnowledge, SufferingKnowledge,
      OriginationKnowledge, CessationKnowledge, PathKnowledge}
-P = OtherMindKnowledge
+P = KnowledgeOfAnothersConsciousness
 C = ConventionalKnowledge
 ```
 
@@ -162,7 +162,7 @@ C = ConventionalKnowledge
 |---|---|---|---|
 | Liberation | B: six | B + P: seven | Principal account |
 | Liberation | B + C: seven | B + P + C: eight | Some teachers |
-| Preparation | Conventional knowledge also included | Conventional knowledge also included | Unqualified prose statement |
+| Preparation | Conventional Knowledge also included | Conventional Knowledge also included | Unqualified prose statement |
 | Uninterrupted | B: six | B: six | Explicit rule for both |
 
 The seven/eight totals for the alternative are arithmetic
@@ -176,7 +176,7 @@ The uninterrupted exclusions require separate grounds:
 | Excluded knowledge | Stated ground | Scope |
 |---|---|---|
 | Conventional | Resemblance to Seeing | Faculty-strengthening uninterrupted path |
-| Knowledge of another mind | Not being a counteragent | All uninterrupted paths in the stated rule |
+| Knowledge of another's Consciousness | Not being a counteragent | All uninterrupted paths in the stated rule |
 
 For Bhavāgra detachment:
 
@@ -200,22 +200,22 @@ possession alone establish cultivation at a given moment.
 **Translation note.** The alternative `or` marks a reported difference over including conventional
 knowledge; the principal count varies with detachment.
 
-**The omitted sentence changes the explanation.** The research
-excerpt moves directly from the sixfold uninterrupted count
-to the exclusion of knowledge of another mind. The running
-source first states `na saṃvṛtijñānasya / darśanamārga
-sādṛśyāt /`. Restoring this sentence prevents an account
-in which a single counteraction criterion is made to explain
-both exclusions without textual support.
+**The restored exclusion sequence.** After the sixfold uninterrupted
+count, the source first excludes conventional Knowledge through
+`na saṃvṛtijñānasya / darśanamārga sādṛśyāt /`. It then excludes
+Knowledge of another's Consciousness from all uninterrupted paths,
+asks why, and answers `apratipakṣatvāt`. The two grounds apply to
+different members.
 
 **The alternative belongs in the translation.** The six/seven
 distinction already follows from detachment. The prose assigns
 `vā` the further task of registering disagreement about
-conventional knowledge. Its alternative seven/eight counts
+conventional Knowledge. Its alternative seven/eight counts
 must remain distinct from the principal six/seven account.
 
 **Source-form caution.** The running transcription prints
-`pratipiddhatvāt` and `pratipidhyate` in the exclusion exchange.
+`vitarāgasya`, `vāśabdhaḥ`, `pratipiddhatvāt`, and
+`pratipidhyate`. The latter two occur in the exclusion exchange.
 The preceding `na paracittajñānasya`, the reference to all
 uninterrupted paths, and the answer `apratipakṣatvāt` secure
 the exclusion and its reason. The study translates that
@@ -233,7 +233,7 @@ the reasons governing their inclusion. Yoga Technē, its
 kriyā–karma companion, articulates the undertaking through
 its function and the practitioner's attained condition.
 Their relation explains why the detached trainee can cultivate
-knowledge of another mind in one phase while it remains
+Knowledge of another's Consciousness in one phase while it remains
 excluded in another.
 
 The reconstruction must also retain the source of each rule.
@@ -247,10 +247,13 @@ This is project reconstruction. The source supplies the
 conditions, counts, exclusions, and disagreement; it does
 not name Yoga Vidyā or Yoga Technē as its own categories.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The complete source span, including the omitted conventional-
-knowledge exclusion, has been checked. The identity of the
-alternative teachers remains unspecified.
+**Review status.** Complete [408|20]–[409|07] Bhāṣya unit reviewed
+against `kosabhasya.txt`: all 15 local source lines are present and
+translated. [408|18–19] ends 7.23; [409|08] starts 7.25. The verse
+fragments, six/seven principal count, `kecit` alternative, and exclusion
+question and answer are covered. The source forms `vitarāgasya`,
+`vāśabdhaḥ`, `pratipiddhatvāt`, and `pratipidhyate` remain for
+collation; `kecit` are unnamed.
 
 ## 10. OWL++ Seed
 
@@ -275,7 +278,7 @@ Set: BaseSix
 
 PrincipalAccount:
     FacultyStrengtheningLiberationUndetached: BaseSix
-    FacultyStrengtheningLiberationDetached: BaseSix plus OtherMindKnowledge
+    FacultyStrengtheningLiberationDetached: BaseSix plus KnowledgeOfAnothersConsciousness
 
 SomeTeachersAccount:
     additionToBothLiberationCases: ConventionalKnowledge
@@ -291,7 +294,7 @@ FacultyStrengtheningUninterrupted:
 BhavagraDetachmentUninterrupted:
     cultivatedSet: BaseSix
 
-SourceRule: OtherMindKnowledge is excluded from all uninterrupted paths.
+SourceRule: KnowledgeOfAnothersConsciousness is excluded from all uninterrupted paths.
 ProjectConstraint: Preserve separate reasons for separate exclusions.
 ProjectConstraint: Keep alternative accounts separately attributed.
 ProjectConstraint: Do not infer cultivation from possession alone.

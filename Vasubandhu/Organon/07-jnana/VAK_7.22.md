@@ -58,7 +58,7 @@ The prose expands the compressed compound through
 `yāvan na vītarāgo bhavati tāvat`: for as long as the
 practitioner has not become detached. The restriction
 belongs to the practitioner's status, not to an assertion
-that the noble path itself is an afflicted cognition.
+that the noble path itself is an afflicted knowledge act.
 
 **Close construe.** At the sixteenth [moment], six [knowledges
 are cultivated] for one still undetached, but seven for one
@@ -87,13 +87,13 @@ practitioner remains undetached, there is cultivation of seven.
 > where the practitioner stands and what detachment has
 > already been attained. The same moment can cultivate
 > a different range for different practitioners. Later,
-> different present cognitions can cultivate the same
+> different present knowledge acts can cultivate the same
 > range. The count becomes meaningful only through the
 > composition of the set and the conditions of cultivation.
 
 The two occurrences of “seven” are not interchangeable.
 At moment sixteen for the detached practitioner, the addition
-is knowledge of another mind. In the subsequent undetached
+is Knowledge of another's Consciousness. In the subsequent undetached
 case, the addition is conventional knowledge. Neither count
 is a count of seven simultaneous acts of knowing.
 
@@ -112,12 +112,12 @@ arhatship or freedom from attachment to every higher domain.
 **`Pratyutpanna` — presently occurring.** The prose explicitly
 distinguishes present knowledge from the larger cultivated
 range. Its “two knowledges” at moment sixteen are overlapping
-knowledge determinations of the Path-anvaya cognition.
+knowledge determinations of one Path-anvaya act.
 
-**`Paracittajñāna` — knowledge of another mind.** The seventh
+**`Paracittajñāna` — Knowledge of another's Consciousness.** The seventh
 cultivated category for the detached practitioner at moment
 sixteen. Its inclusion is a cultivation assertion, not an
-assertion that another mind is then being cognized.
+assertion that another's Consciousness is then being known.
 
 **`Saṃvṛtijñāna` — conventional knowledge.** The seventh
 category in the later, still-undetached cultivation range.
@@ -147,32 +147,32 @@ B = {DharmaKnowledge, AnvayaKnowledge, SufferingKnowledge,
 | Path position and status | Cultivated set | Count |
 |---|---|---:|
 | Moment sixteen, undetached from desire | B | 6 |
-| Moment sixteen, detached from desire | B plus knowledge of another mind | 7 |
+| Moment sixteen, detached from desire | B plus Knowledge of another's Consciousness | 7 |
 | After moment sixteen, still undetached | B plus conventional knowledge | 7 |
 
 The last row applies across the four specified path functions.
 It does not state a universal sevenfold rule for every later
 attainment; subsequent verses extend the conditional account.
 
-For the last row, present cognition varies while the cultivated
+For the last row, present Knowledge varies while the cultivated
 set remains the same:
 
-| Current mode | Present cognition | Cultivated set |
+| Current mode | Present Knowledge | Cultivated set |
 |---|---|---|
 | Worldly | Conventional knowledge | B plus conventional knowledge |
 | Supramundane | One of four truth-specific dharma-knowledges | B plus conventional knowledge |
 
 Thus path position and detachment determine the local cultivated
 set. Worldly or supramundane mode determines the stated present
-cognition; within this row it does not change the sevenfold set.
+Knowledge; within this row it does not change the sevenfold set.
 
 The categories overlap. The membership count is not a partition
-into mutually exclusive kinds of individual cognition. Keep
+into mutually exclusive kinds of individual Knowledge. Keep
 three relations distinct:
 
 ```text
 possessesKnowledgeCategory
-presentlyActualizesCognition
+presentlyActualizesKnowledge
 cultivatesKnowledgeCategory
 ```
 
@@ -186,16 +186,17 @@ source reads `purāgatāni ṣaṭ bhāvyante`. The research Bhāṣya
 study builds a vocabulary entry for `purāgata`, “previously
 arisen / attained.” This reading is doubtful in the inherited
 future-cultivation context; `anāgatāni` is a possible intended
-reading, but is not silently substituted here. The explicit
-six-item list and carried cultivation question secure the
-count independently of this word. “Previously attained” is
-therefore not presented as a verified technical explanation.
+reading, but is not silently substituted here. [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+explicitly says that six are cultivated in the future at the
+sixteenth moment. The six-item list and carried cultivation
+question also secure the count. “Previously attained” is not
+presented as a verified technical explanation.
 
-**Two determinations of the present cognition.** The prose has
+**Two determinations of the present Knowledge.** The prose has
 `dve jñāne pratyutpanne`, followed by Path-knowledge and
 Path-anvaya-knowledge. The established cross-classification
 of knowledge allows both descriptions of the present event.
-Reading this as two numerically separate cognitions would
+Reading this as two numerically separate acts would
 confuse categories with occurrences.
 
 **Cultivation after Seeing.** VAK 7.20 restricted Seeing's
@@ -220,15 +221,18 @@ the visible present act does not exhaust the range cultivated
 through it. Our model must record both the current exercise
 and the conditioned cultivation range.
 
-The capable-support interpretation developed in VAK 7.21 remains
+The capable-Basis interpretation developed in VAK 7.21 remains
 an explicit project choice. This verse supplies cultivation
 counts and conditions; it does not independently settle every
 question about when each cultivated item becomes actual.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The three sets, their conditions, and the present-cognition
-distinction are explicit. The doubtful `purāgatāni` reading
-remains open to textual review.
+**Review status.** Source-first QA reviewed all 13 local lines
+[407|18]–[408|07]. [407|16–17] ends 7.21; [408|08–09]
+begins 7.23. The three cultivated sets, their conditions,
+and the distinction from present Knowledge are explicit.
+Local `bhāvyanta` and `purāgatāni` remain visible; Xuanzang's
+parallel supports future cultivation of the six without
+settling the Sanskrit qualifier.
 
 ## 10. OWL++ Seed
 
@@ -238,7 +242,7 @@ Class: KnowledgeCategory
 Class: PathPosition
 Class: DetachmentStatus
 Class: PathFunction
-Class: PresentCognition
+Class: PresentKnowledge
 
 ObjectProperty: hasPathPosition
 ObjectProperty: hasDetachmentStatus
@@ -254,7 +258,7 @@ Case: SixteenthUndetached
     cultivatedSet: BaseSix
 
 Case: SixteenthDetached
-    cultivatedSet: BaseSix plus OtherMindKnowledge
+    cultivatedSet: BaseSix plus KnowledgeOfAnothersConsciousness
 
 Case: LaterUndetached
     cultivatedSet: BaseSix plus ConventionalKnowledge
@@ -263,7 +267,7 @@ Case: LaterUndetached
     presentIfSupramundane: OneOfFourTruthSpecificDharmaKnowledges
 
 ProjectConstraint: Equal counts need not mean equal sets.
-ProjectConstraint: Knowledge categories can overlap in one cognition.
+ProjectConstraint: Knowledge categories can overlap in one act.
 ProjectConstraint: The sixteenth moment belongs to Cultivation.
 ProjectConstraint: Cultivation, possession, and actualization are distinct.
 ProjectConstraint: Do not extend LaterUndetached beyond its detachment condition.

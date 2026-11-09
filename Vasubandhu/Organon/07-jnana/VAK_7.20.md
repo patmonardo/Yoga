@@ -20,6 +20,11 @@ which knowledges cultivated? Its answer concerns future acceptances
 and knowledges corresponding to the presently arising kind, with
 an additional conventional cultivation at three specified moments.
 
+**Textual status.** The Bhāṣya's introductory question at [405|18]
+reads `bhavyante` where the cultivation context calls for `bhāvyante`.
+Its reason `gotrāṇāmaporatilabdhatvāt` is damaged. Both remain visible
+in the Bhāṣya source block.
+
 ## 3. Lexical Analysis
 
 
@@ -53,7 +58,7 @@ yad yad eva utpadyate — kṣāntiḥ jñānaṃ vā
 ```
 
 Whatever acceptance or knowledge arises, the future of that
-same kind enters cultivation. The presently arisen cognition
+same kind enters cultivation. The presently arisen event
 and the future cultivated dharmas are distinguished through
 type-correspondence, not identified as numerically one event.
 
@@ -93,8 +98,8 @@ also, at the three anvaya-knowledges, conventional knowledge
 ## 6. Philosophical Translation
 
 > Cultivation follows the determinate form of the presently
-> arising cognition. Its future field is specified by the
-> same cognitive kind and the corresponding truth-aspects.
+> arising acceptance or Knowledge. Its future field is specified by the
+> same kind and the corresponding truth-aspects.
 > At three completion-points of truth-realization, a further
 > conventional cultivation is included. The Path therefore
 > has a cultivation structure that differs from both its
@@ -134,12 +139,13 @@ Future classification and guaranteed later arising are not
 identical predicates in the source's discussion.
 
 **`Sabhāgajñānākārabhāvanā` — cultivation of corresponding
-knowledge and aspects.** The prose's formulation of the
-restriction in Seeing. The accompanying reason contains
-the corrupt `gotrāṇāmaporatilabdhatvāt`; the same-kind rule
-is explicit even though the exact ground requires textual
-review. No broad theory of `gotra` is inferred from that
-damaged expression.
+knowledge and aspects.** The prose asks why Seeing cultivates only
+these corresponding kinds and aspects. The local
+`gotrāṇāmaporatilabdhatvāt` is damaged; [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+supports the working sense “because this kind had not previously been
+acquired.” The Chinese also says that counteragent and Support are
+determinate; this is parallel evidence, not a restoration of the local
+Sanskrit. The precise force and letters of `gotra` remain open.
 
 **`Akṛtsnasatyābhisamaya` — incomplete direct realization of
 the truth.** The stated reason that the additional conventional
@@ -166,14 +172,14 @@ of every future item included in cultivation.
 
 The special conventional addition is:
 
-| Present cognition | Moment in the established sequence | Conventional cultivation |
+| Present Path event | Moment in the established sequence | Conventional cultivation |
 |---|---:|---|
 | Suffering-anvaya-knowledge | 4 | Included |
 | Origination-anvaya-knowledge | 8 | Included |
 | Cessation-anvaya-knowledge | 12 | Included |
 | Corresponding dharma-knowledges | 2, 6, 10 | Not included: truth-realization incomplete |
 
-The Bhāṣya names the cognitions; the numbers are supplied
+The Bhāṣya names the knowledge moments; the numbers are supplied
 from the established sequence. Path-anvaya-knowledge is not
 in this triad. It is also the sixteenth moment, classified
 as Cultivation rather than strict Seeing; the continuation
@@ -184,8 +190,8 @@ Three relations are now independently required:
 
 ```text
 possessesKnowledgeCategory
-presentlyActualizesCognition
-cultivatesFutureCognition
+presentlyActualizesPathEvent
+cultivatesFutureKind
 ```
 
 Their distinction explains why VAK 7.19's seven possessed
@@ -219,11 +225,11 @@ aspect. At the same time, the same-kind restriction prevents
 a general sixteen-aspect or ten-knowledge expansion at every
 moment. Both limits must remain visible.
 
-**Textual caution.** The difficult `gotrāṇāmaporatilabdhatvāt`
-is preserved as an unresolved reason-clause. The surrounding
-question and answer secure the restriction without licensing
-a silent restoration of the compound or a definitive account
-of its `gotra` terminology.
+**Textual caution.** The local `bhavyante` and
+`gotrāṇāmaporatilabdhatvāt` are preserved. The question and
+parallel Chinese secure the reason's broad sense of previous
+nonacquisition, without settling its Sanskrit spelling or a
+general theory of `gotra`.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.** Our
 Yoga system now needs a third relation alongside actual
@@ -248,30 +254,31 @@ forthcoming dispute sharpen that relation. This develops
 the Yoga-system interpretation without preempting the
 Bhāṣya's explanation.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The same-kind/four-aspect rule and three conventional
-completion-points are explicit. The `gotra` reason-clause
-remains uncertain; the special cultivation's actualization
-is reserved for VAK 7.21.
+**Review status.** Source-first QA reviewed all eight local lines
+[405|18]–[406|06]. [405|16–17] ends 7.19; [406|07]
+opens 7.21. The same-kind/four-aspect rule, its reason question,
+and three conventional completion-points are translated.
+`Bhavyante` and the *gotra* compound remain damaged; the special
+cultivation's actualization belongs to VAK 7.21.
 
 ## 10. OWL++ Seed
 
 ```text
-Class: PresentCognition
+Class: PresentPathEvent
 Class: FutureCultivationAssertion
 Class: CognitiveKind
 Class: TruthAspectRange
 Class: PathMoment
 Class: SourceSpan
 
-ObjectProperty: triggeredByPresentCognition
+ObjectProperty: triggeredByPresentPathEvent
 ObjectProperty: cultivatesFutureKind
 ObjectProperty: hasCorrespondingAspectRange
 ObjectProperty: occursAtPathMoment
 ObjectProperty: supportedBy
 
 Rule: An acceptance or knowledge arising in Seeing cultivates
-    future cognition of its own kind with the corresponding four aspects.
+    future dharmas of its own kind with the corresponding four aspects.
 
 AdditionalCultivation: ConventionalKnowledge
     at: SufferingAnvayaKnowledge,

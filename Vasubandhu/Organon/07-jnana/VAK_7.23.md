@@ -99,8 +99,8 @@ the group of eight liberation paths.
 
 This local counteraction argument is not a universal rule
 that every cultivated category must itself be the presently
-operative counteragent. The inclusion of knowledge of another
-mind in the liberation-path range already requires that
+operative counteragent. The inclusion of Knowledge of another's Consciousness
+in the liberation-path range already requires that
 actual counteraction and the wider cultivated field remain
 distinct questions.
 
@@ -108,7 +108,7 @@ distinct questions.
 
 **`Saptabhūmi` — seven levels.** Four dhyānas and the first
 three formless levels. These are levels from which detachment
-is undertaken, not the seven support levels counted in VAK
+is undertaken, distinct from the seven cultivated levels counted in VAK
 7.21. Equal numbers do not establish equal inventories.
 
 **`Jaya` — conquest.** Explicitly glossed as `vairāgya`,
@@ -153,20 +153,20 @@ B = {DharmaKnowledge, AnvayaKnowledge, SufferingKnowledge,
 | Detachment from seven levels | Uninterrupted | B plus conventional knowledge |
 | Five higher knowledges | Uninterrupted | B plus conventional knowledge |
 | Mixed cultivation of dhyāna | Uninterrupted | B plus conventional knowledge |
-| Attainment of immovability | Uninterrupted | B plus a replacement seventh; reading requires review |
-| Bhavāgra detachment | Eight liberation paths | B plus knowledge of another mind |
+| Attainment of immovability | Uninterrupted | B plus exhaustion-Knowledge in Xuanzang's parallel; Sanskrit reading damaged |
+| Bhavāgra detachment | Eight liberation paths | B plus Knowledge of another's Consciousness |
 
-**Present cognition.** In the worldly case the prose names
-conventional knowledge. In the supramundane case it names
-one of four anvaya-knowledges or two dharma-knowledges. It
-repeats that sixfold present-cognition range for the eight
-Bhavāgra liberation paths.
+**Present Knowledge.** In the worldly case the prose names
+conventional Knowledge. In the supramundane case it names
+one of four anvaya-knowledges or two dharma-knowledges. Its
+final sentence repeats those six present-Knowledge options for
+the eight Bhavāgra liberation paths.
 
 The four anvaya determinations concern the four truths.
 The two dharma determinations concern cessation and Path,
 consistent with their three-domain counteractive efficacy
 established in VAK 7.09. These are six truth-specific options,
-not six simultaneous cognitions or six new inventory members.
+not six simultaneous Knowledge acts or six new inventory members.
 The worldly/supramundane distinction is conditional; it does
 not establish that every listed attainment admits both modes.
 
@@ -177,24 +177,27 @@ must control the remaining cases.
 
 ## 9. Interpretive Note
 
-**Translation note.** At immovability, the Bhāṣya excludes conventional knowledge and records an
-uncertain replacement for the seventh; its seven-item list for the eight
-liberation paths is explicit.
+**Translation note.** At immovability, the Bhāṣya excludes conventional
+Knowledge and records a damaged name for the seventh; its seven-item list
+for the eight liberation paths is explicit. The final prose names the six
+alternatives for the Knowledge present on those liberation paths.
 
 **The doubtful seventh at immovability.** The running source
 prints `tatra jayajñānaṃ saptamaṃ veditavyam`. The research
 study promotes `jayajñāna` to “knowledge of conquest.” That
 would introduce an unsupported category into an account
 organized by the established ten knowledges. A possible
-restoration is `kṣayajñāna`, knowledge of exhaustion, but
-the local witness does not verify that restoration. The
-official study records the uncertainty rather than treating
-either a new category or an emendation as settled text.
+restoration is `kṣayajñāna`, exhaustion-Knowledge:
+[Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+lists exhaustion-Knowledge among seven cultivated in an arhat's
+uninterrupted faculty-strengthening paths. This corroborates the category
+without establishing the Sanskrit letters or the exact relation of that
+parallel to this compressed immovability clause.
 
 The secure content survives this defect: conventional
-knowledge is excluded at immovability; the count remains
-seven; another seventh is intended. The exact replacement
-requires a checked textual witness before final review.
+Knowledge is excluded at immovability; the count remains
+seven; the parallel supports exhaustion-Knowledge as the seventh. The
+local Sanskrit reading still requires collation.
 
 **Counteraction has a specific scope.** The negative reason
 explains conventional knowledge's exclusion in the two
@@ -219,18 +222,15 @@ practice.” Nor can an unchanged count certify an unchanged
 capacity. The determinate members and their relations to
 the undertaking must be carried with the number.
 
-The uncertain seventh also disciplines reconstruction:
-an attractive term such as “knowledge of conquest” cannot
-become a new Yoga Vidyā category merely because a damaged
-source string suggests it. The conceptual account retains
-an explicit unresolved position until textual review supplies
-its content.
+The damaged seventh also disciplines reconstruction: the local
+`jayajñānaṃ` cannot become a new Yoga Vidyā category from its spelling.
+The parallel supports an existing category; its Sanskrit form remains
+an editorial question.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The syntactic grouping, seven target levels, five higher
-knowledges, negative counteraction reason, and eight-path
-range are source-checked. The immovability replacement
-and compressed trainee qualification remain flagged.
+**Review status.** Complete [408|08–09]–[408|18–19] Bhāṣya unit reviewed
+against `kosabhasya.txt`. [408|07] ends 7.22; [408|20] begins 7.24.
+The Sanskrit `jayajñānaṃ` and scope of `śaikṣasya` remain open, while
+Xuanzang's parallel supports exhaustion-Knowledge as the seventh.
 
 ## 10. OWL++ Seed
 
@@ -258,18 +258,19 @@ Case: OrdinarySpecifiedUninterruptedPaths
 Case: ImmovabilityUninterruptedPaths
     excludes: ConventionalKnowledge
     count: 7
-    unresolvedMember: SeventhReadingAt408_16
+    parallelMember: ExhaustionKnowledge
+    unresolvedSanskritReading: SeventhReadingAt408_16
 
 Case: EightBhavagraLiberationPaths
-    cultivatedSet: BaseSix plus OtherMindKnowledge
+    cultivatedSet: BaseSix plus KnowledgeOfAnothersConsciousness
     excludes: ConventionalKnowledge
 
 SourceReason: ConventionalKnowledge is not a counteragent to Bhavagra.
-ProjectConstraint: Keep present cognition separate from cultivated range.
-ProjectConstraint: Seven target levels are not seven cognitive support levels.
+ProjectConstraint: Keep present Knowledge separate from cultivated range.
+ProjectConstraint: Seven target levels differ from seven cultivated levels.
 ProjectConstraint: Do not create a ConquestKnowledge category from the doubtful reading.
 ProjectConstraint: Do not universalize the local counteraction exclusion.
 ```
 
 This is a declarative project seed, not executable OWL.
-The uncertain member remains unresolved in the formal layer.
+The local Sanskrit name remains unresolved in the formal layer.

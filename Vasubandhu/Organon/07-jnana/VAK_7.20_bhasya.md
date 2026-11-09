@@ -16,31 +16,46 @@ Kārikā study: [`VAK_7.20.md`](./VAK_7.20.md).
 
 ## 2. Continuous Sanskrit
 
-> atha kasyām avasthāyāṃ kati jñānāni bhāvyante /
-> darśanamārge yad yad evotpadyate kṣāntir jñānaṃ vā tajjātīyam anāgataṃ bhāvanāṃ gacchati tadākārā eva catvāraḥ /
-> tatraiva darśanamārge saṃvṛtijñānaṃ cāpi bhāvyate triṣu duḥkha-samudaya-nirodhānvayajñāneṣu /
-> na dharmajñāneṣv akṛtsnasatyābhisamayāt /
+> atha kasyāmavasthāyāṃ kati jñānāni bhavyante /
+> yathotpannāni bhāvyante kṣāntijñānāni darśane /
+> anāgatāni
+> darśanamārge yadyadevotpadyate kṣāntirjñānaṃ vā tajjātīyamanāgataṃ bhāvanāṃ gacchati tadākārā eva catvāraḥ /
+> kasmāddarśanamārge sabhāgajñānākārabhāvanaiva gotrāṇāmaporatilabdhatvāt /
+> tatraiva sāṃvṛtaṃ cānvayatraye // VAkK_7.20 //
+> tatraiva darśanamārge saṃvṛtijñānaṃ cāpi bhāvyate triṣu duḥkhasamudayanirodhānvayajñāneṣu /
+> na dharmajñāneṣvakṛtsnasatyābhisamayāt /
 
-**Witness.** Pradhan 405|18–406|06. Reason-clause `gotrāṇāmaporatilabdhatvāt`
-unrestored. Voice: Vasubandhu. Path-anvaya exclusion developed in 7.21.
+**Witness.** Complete natural unit [405|18]–[406|06], eight local
+source lines. [405|16–17] closes 7.19; `ato 'bhisamayāntyākhyaṃ`
+at [406|07] opens 7.21. Local `bhavyante` and
+`gotrāṇāmaporatilabdhatvāt` remain visible. [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+supports the reason's prior-nonacquisition sense without restoring
+the Sanskrit letters. Voice: Vasubandhu.
 
 ## 3. Continuous Translation
 
-> Now, at which stage are how many knowledges cultivated?
+> Now, at which stage are how many knowledges cultivated [local
+> `bhavyante`]? “In Seeing, acceptances and knowledges are cultivated
+> according to what has arisen”; “[the] future [ones].”
 >
 > In the Path of Seeing, whichever acceptance or knowledge arises, the future
-> of that same kind enters cultivation — those four aspects only.
+> of that same kind enters cultivation — those four aspects only. Why is
+> there cultivation only of corresponding knowledge and aspects in the
+> Path of Seeing? Because the relevant kinds had not previously been
+> acquired [local `gotrāṇāmaporatilabdhatvāt`; exact letters remain open].
 >
-> There also, in the Path of Seeing, conventional knowledge too is cultivated,
-> at the three: suffering-, origination-, and cessation-anvaya-knowledge.
-> Not at the dharma-knowledges, because direct realization of the truth is
-> not complete.
+> “There too, conventional [knowledge] at the three anvaya[-knowledges]”:
+> in that same Path of Seeing, conventional knowledge is also cultivated
+> at suffering-, origination-, and cessation-anvaya-knowledge. It is not
+> cultivated at the dharma-knowledges, because direct realization of the
+> truth is incomplete.
 
 ## 4. Movement of the Commentary
 
 ```text
 possession (7.19) → cultivation (this verse)
     present kṣānti or jñāna → future same kind, four matching aspects
+    why only corresponding kind? relevant kind not previously acquired
     + conventional at three anvaya-knowledges (not Path-anvaya)
     not at the matching dharma-knowledges (truth not yet complete)
 ```
@@ -80,6 +95,7 @@ Do not lock `anvaya` as “inferential.”
 
 - `anāgatāni` belongs with the first clause;
 - `tajjātīya` and `tadākārā eva catvāraḥ` unpack `yathotpannāni`;
+- the local damaged *gotra* clause answers why the restriction holds;
 - `anvayatraye` = the first three anvaya-knowledges;
 - `akṛtsnasatyābhisamaya` bars the dharma-moments.
 
@@ -87,18 +103,18 @@ Do not lock `anvaya` as “inferential.”
 
 This section is reconstruction.
 
-Technē: the present determination governs the form that can be cultivated
-from it. Vidyā: Philosophical Cognition still sees both sides; conventional
-cultivation waits until that truth is complete across sides. Taking as
-non-self remains method. The Dialectic that uses the method is Ideal —
-not this same-kind rule promoted to Logic. Appearance would say Seeing
-cultivates everything.
-
-7.21 will fight over whether the special conventional knowledge is ever
-made present. Do not pick the winner here.
+The Organon can distinguish a presently arisen acceptance or Knowledge
+from the future of its corresponding kind that is cultivated. The
+additional conventional cultivation occurs only at the three named
+completion points. Whether that conventional Knowledge can later be
+made present is disputed in the next unit, so this one establishes
+its cultivation without settling its actualization.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.20.md`
-(Pradhan 405|18–406|06).
-`Gotra` clause open. `kosabhasya.txt` collation pending. Provisional.
+All eight local source lines [405|18]–[406|06] are reproduced and
+translated, including the reason question and both quoted verse
+fragments. [405|16–17] ends 7.19; [406|07] opens 7.21.
+The local `bhavyante` and `gotrāṇāmaporatilabdhatvāt` remain visibly
+damaged; the Chinese parallel supports a prior-nonacquisition sense,
+not a reconstructed Sanskrit spelling.

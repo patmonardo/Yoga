@@ -1,4 +1,4 @@
-# VAK_7.18 — The Ten Dharma Classes and the Knowing's Own Complex
+# VAK_7.18 — The Ten Dharma Classes and Knowledge's Own Complex
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -16,7 +16,7 @@ sāṃvṛtaṃ svakalāpānyad ekaṃ vidyād anātmataḥ || 7.18 ||
 
 The Sanskrit follows the local kārikā witness. The first half
 supplies the ten dharma classes announced in VAK 7.17. The
-second asks how far a single conventional cognition can range,
+second asks how far a single conventional knowledge can range,
 excluding its own complex. This completes the project's first
 working block, VAK 7.01–7.18; that block division is editorial.
 
@@ -51,15 +51,15 @@ different division, wholesome and indeterminate. The repeated
 `dvidhā` therefore does not impose one identical binary predicate
 on every field.
 
-**One conventional knowing.** `Ekaṃ sāṃvṛtam [jñānam]` is the
+**One conventional knowledge.** `Ekaṃ sāṃvṛtam [jñānam]` is the
 subject of `vidyāt`. The optative expresses possibility: “could
 know,” rather than a command that the reader should know.
 `Svakalāpānyat` is its object, expanded in prose as
 `svasmāt kalāpād anyān sarvadharmān`, all dharmas other than
-its own complex. `Anātmataḥ` specifies the aspect of that knowing.
+its own complex. `Anātmataḥ` specifies the aspect of that knowledge.
 
 **The limitation belongs to the same act.** The Bhāṣya defines
-the complex through the knowing itself and the dharmas co-arising
+the complex through the knowledge itself and the dharmas co-arising
 with it. The exclusion is thus more extensive than the isolated
 cognitive factor. It does not establish that those dharmas can
 never be known by a different cognition.
@@ -69,10 +69,12 @@ and the unconditioned, [are] each twofold. One conventional
 [knowledge] could know, as non-self, what is other than its own
 complex.
 
-The Bhāṣya further distinguishes hearing-, reflection-, and
-cultivation-derived forms and qualifies cultivated knowing by
-delimited level (Pradhan 404|12–405|04). These conditions constrain
-the broad object-range without changing the verse's local syntax.
+The Bhāṣya further distinguishes desire-domain conventional knowledge
+formed through hearing or reflection from form-domain conventional
+knowledge formed through hearing or cultivation. It qualifies the
+Support by delimited level and rejects simultaneous dispassion from all
+levels as an inferred result. These statements close the [404|11]–[405|06]
+unit without changing the verse's local syntax.
 
 ## 5. Translation
 
@@ -116,9 +118,9 @@ metaphysical organizing principle for the study.
 | `saṃprayukta` / `viprayukta` | associated / non-associated | The first division applies to each conditioned field; the non-associated side is wider than the technical list of dissociated formations and includes form where applicable. |
 | `amala` / `anāsrava` | uncontaminated | Here a conditioned field distinct from the unconditioned. |
 | `akṛta` / `asaṃskṛta` | unmade / unconditioned | Divided by wholesome and indeterminate status, not by the conditioned association division. |
-| `svakalāpa` | own complex | This cognition together with its co-arising dharmas; the exclusion concerns this act's object-field. |
-| `viṣaya-viṣayibheda`, `ekālambanatva`, `saṃnikṛṣṭatva` | object/knower distinction, common object-support, proximity | The Bhāṣya's compressed reasons for excluding the own complex; their exact allocation remains open. |
-| `śrutamaya`, `cintāmaya`, `bhāvanāmaya` | derived from hearing, reflection, cultivation | The prose distinguishes forms of conventional knowing and qualifies cultivated knowing by delimited level. |
+| `svakalāpa` | own complex | This knowledge together with its co-arising dharmas; the exclusion concerns this act's Support field. |
+| `viṣaya-viṣayibheda`, `ekālambanatva`, `saṃnikṛṣṭatva` | distinction of Condition and apprehender, having one Support, proximity | The Bhāṣya's reasons for excluding the own complex; their exact allocation remains open. Condition (*viṣaya*) and Support (*ālambana*) retain different roles. |
+| `śrutamaya`, `cintāmaya`, `bhāvanāmaya` | formed through hearing, reflection, cultivation | Desire-domain conventional knowledge is hearing- or reflection-formed; form-domain conventional knowledge is hearing- or cultivation-formed. The subsequent delimited-level reason has a compressed pronoun. |
 
 The ten class identifiers D1–D10 below are study labels for the
 Bhāṣya's distribution, not additional Sanskrit terms.
@@ -157,14 +159,14 @@ The Bhāṣya gives the complete assignment:
 | Origination | D1–D6 | 6 |
 | Cessation | D9 | 1 |
 | Path | D7, D8 | 2 |
-| Other-mind | D1, D3, D7 | 3 |
+| Knowledge of another's Consciousness | D1, D3, D7 | 3 |
 | Exhaustion | D1–D9 | 9 |
 | Non-arising | D1–D9 | 9 |
 
 These counts differ from VAK 7.17 because the objects are now
 dharma classes, not knowledge-categories. Cessation-knowledge
 had zero knowledge-category objects but has one dharma class
-here. Other-mind knowledge had ten knowledge-category objects
+here. Knowledge of another's Consciousness had ten knowledge-category objects
 but has three associated-dharma classes here. Neither is a
 contradiction.
 
@@ -177,8 +179,8 @@ ObjectFieldOfTheSpecifiedConventionalKnowing(k)
     excludes OwnComplex(k)
 ```
 
-This is compatible with cognition becoming the object of
-another cognition. The statement does not confer a sufficient
+This is compatible with a knowledge becoming the Support of
+another knowledge. The statement does not confer a sufficient
 condition for actual knowing merely because an object lies
 outside the excluded complex.
 
@@ -241,11 +243,11 @@ The first eighteen studies supply the source-grounded
 distinctions for that work. Their integration as a Yoga
 system remains our explicit constructive undertaking.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The ten classes and their knowledge-object distribution are
-explicit. The compressed reason-clause and final level
-qualification remain marked for review. This completes the
-editorial first block without advancing to VAK 7.19.
+**Review status.** Source-first QA reviewed all 31 local lines
+[404|11]–[405|06]. [404|10] ends 7.17; [405|07] opens 7.19.
+The ten classes, complete knowledge-Support assignment, and final
+hearing/reflection/cultivation and level qualification are translated.
+The damaged local readings and exact pronoun scope remain open.
 
 ## 10. OWL++ Seed
 
@@ -273,7 +275,7 @@ ObjectClasses: Anvaya -> D3,D4,D5,D6,D7,D8,D9
 ObjectClasses: Suffering, Origination -> D1,D2,D3,D4,D5,D6
 ObjectClasses: Cessation -> D9
 ObjectClasses: Path -> D7,D8
-ObjectClasses: OtherMind -> D1,D3,D7
+ObjectClasses: KnowledgeOfAnothersConsciousness -> D1,D3,D7
 ObjectClasses: Exhaustion, NonArising -> D1,D2,D3,D4,D5,D6,D7,D8,D9
 
 Constraint: The specified conventional knowing excludes its own coarising complex.

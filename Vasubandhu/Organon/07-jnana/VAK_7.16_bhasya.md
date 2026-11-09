@@ -6,52 +6,66 @@
 > trīṇi catvāri śeṣāṇi dharmadhīgocaro nava || 7.16 ||
 
 > Cessation-knowledge falls under mindfulness of dharmas alone;
-> other-mind knowledge under mindfulness of feeling, mind, and
-> dharmas; and the remaining knowledges under all four applications.
+> Knowledge of another's Consciousness under mindfulness of feeling,
+> Consciousness, and dharmas; and the remaining knowledges under all four
+> applications.
 > Dharma-knowledge can take nine kinds of knowledge as objects,
 > excluding anvaya-knowledge.
 
-Two inquiries in one verse. Level and support were closed at 7.15.
+Two inquiries in one verse. Level and Basis were closed at 7.15.
 The object-matrix continues in 7.17.
 
 Kārikā study: [`VAK_7.16.md`](./VAK_7.16.md).
 
 ## 2. Continuous Sanskrit
 
-> kṛto bhūmyāśrayanirdeśaḥ /
 > smṛtyupasthānasaṃgraho vaktavyaḥ /
-> dhīḥ prajñā jñānam iti paryāyāḥ /
-> nirodhajñānam ekaṃ dharmasmṛtyupasthānam /
-> paracittajñānaṃ trīṇi vedanā-citta-dharmasmṛtyupasthānāni /
-> nirodha-paracittajñānābhyām anyāni jñānāni catvāri smṛtyupasthānāni /
-> katamasya jñānasya kati jñānāny ālambanam /
-> dharmajñānasya nava jñānāny ālambanam anyatrānvayajñānāt /
+> so 'yamucyate /
+> smṛtyupasthānamekaṃ dhīrnirodhe
+> dhīḥ prajñā jñānamiti paryāyāḥ /
+> nirodhajñānamekaṃ dharmasmṛtyupasthānam /
+> paracittadhīḥ /
+> trīṇi
+> paracittajñānaṃ trīṇi vedanācittadharmasmṛtyupasthānāni /
+> catvāri śeṣāṇi
+> nirodhaparacittajñānābhyāmanyāni jñānāni catvāri smṛtyupasthānāni
+> katamasya jñānasya kati jñānānyālambanam /
+> dharmadhīgocaro nava // VAkK_7.16 //
+> dharmajñānasya nava jñānānyālambanamanyatrānvayajñānāt /
 
-**Witness.** Pradhan 403|08–18. Devanāgarī witness `dharmadhīrgocaro`;
-IAST/prose `dharmadhīgocaraḥ` / `dharmajñānasya`. Voice: Vasubandhu.
+**Witness.** Complete local unit [403|08]–[403|18]. The level-and-Basis
+closure ends 7.15 at [403|07]; 7.17 begins `nava mārgānvayadiyoḥ` at
+[404|01]. The verse's local IAST reads `dharmadhīgocaro`, while the paired
+study's inherited Devanāgarī reads `धर्मधीर्गोचरो`. Voice: Vasubandhu.
 
 ## 3. Continuous Translation
 
-> The determination of levels and supports is complete. Inclusion under
-> the applications of mindfulness is to be stated.
+> Inclusion under the applications of mindfulness is to be stated.
+> Thus it is said:
 >
-> `Dhī`, `prajñā`, and `jñāna` are equivalent expressions here.
+> “Knowledge concerning cessation is one application of mindfulness.”
+> `Dhī`, `prajñā`, and `jñāna` are equivalent expressions.
+> Cessation-knowledge is one application: mindfulness of dharmas.
 >
-> Knowledge of cessation is one application of mindfulness: mindfulness of
-> dharmas. Knowledge of another mind is three: feeling, mind, and dharmas.
-> The knowledges other than those two are the four applications of mindfulness.
+> “Knowledge of another's Consciousness” [continues the verse]; “three”:
+> Knowledge of another's Consciousness is [included in] three applications
+> of mindfulness: feeling, Consciousness, and dharmas.
 >
-> Of which knowledge are how many knowledges the object-support?
+> “The remaining [knowledges are] four”: knowledges other than cessation-
+> knowledge and Knowledge of another's Consciousness are [included in]
+> the four applications of mindfulness.
 >
-> Nine knowledges are the object-support of dharma-knowledge, except for
-> anvaya-knowledge.
+> For which knowledge are how many knowledges Supports?
+>
+> “Nine [are] the range of dharma-knowledge”: nine knowledges are Supports
+> for dharma-knowledge, except anvaya-knowledge.
 
 ## 4. Movement of the Commentary
 
 ```text
 smṛtyupasthāna-saṃgraha
     nirodha → dharma-mindfulness only
-    paracitta → feeling, mind, dharmas
+    paracitta → feeling, Consciousness, dharmas
     the rest → all four (body included)
 new question: knowledges as ālambana of knowledges
     dharma-knowledge → nine categories, anvaya excluded
@@ -64,9 +78,9 @@ the other is a knowledge-kind. Shared word, different role.
 
 Local synonymy of `dhī` / `prajñā` / `jñāna` does not cancel 7.01.
 
-Three mindfulness classes for paracitta count possible standpoints, not
-three objects in one act. 7.11's one-entity rule stands. No body-
-mindfulness for paracitta.
+Three mindfulness classes for Knowledge of another's Consciousness count
+possible standpoints, not three objects in one act. 7.11's one-entity
+rule stands. No body-mindfulness for this knowledge.
 
 A cessation-knowledge that is also dharma-knowledge stays under dharma-
 mindfulness. The remainder's fourfold range does not rewrite that instance.
@@ -86,26 +100,27 @@ exclusion beyond stating it. 7.17 continues the matrix.
 
 - `dhīr nirodhe` = nirodhajñāna;
 - `paracittadhīḥ` construes with `trīṇi`;
-- `gocara` = `ālambana` of knowledge-categories;
+- `gocara` gives the range; `ālambana` names the Support relation;
 - exclusion explicit: `anyatrānvayajñānāt`.
 
 ## 8. Interpretation
 
 This section is reconstruction.
 
-Vidyā four-fold and the dharma:kāma dyad stay overlay. Technē here is
-inclusion and object-network. The striking Technē fact: dharma-knowledge
-does not take anvaya-knowledge as object. Philosophical Cognition sees
-both sides; this Path-form does not take the other-side *knowledge* as
-ālambana. Seeing both ≠ having the other knowing as object. That is
-not yet an explanation of the exclusion — only a fence against collapsing
-Vidyā into the matrix.
+The Organon can model mindfulness classification and the relation of
+knowledge to a knowledge-Support as separate typed relations. The source
+says that dharma-knowledge does not take anvaya-knowledge as Support;
+it does not explain that exclusion here. A wider account of reflective
+practice must preserve this stated limit.
 
-Nirodha as mindfulness-of-dharmas only: cessation remains arthic, held
-under the dharma-application, not meta-nirodha.
+Cessation-knowledge's sole mindfulness class is dharmas. This is a
+classification of the knowledge, not a claim that cessation is a new
+mental factor.
 
 ## 9. Review Status
 
-QA reviewed against the paired Organon kārikā and Bhāṣya studies
-(Pradhan 403|08–18). The object matrix continues in 7.17.
-Sanskrit collation remains pending. Provisional.
+The complete 13-line local source unit [403|08]–[403|18] is reproduced
+and translated, including the omitted introductory and quoted verse
+steps. [403|07] ends 7.15; [404|01] opens 7.17's object matrix.
+The inherited Devanāgarī `धर्मधीर्गोचरो` differs from local IAST
+`dharmadhīgocaro`; exact provenance of the added `r` remains open.

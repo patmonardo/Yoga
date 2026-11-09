@@ -66,9 +66,10 @@ he has an increase of one at each.
 
 The prose identifies the four additions as anvaya-, origination-,
 cessation-, and Path-knowledge. It also gives the previously detached
-practitioner other-mind knowledge in addition throughout; that is a
-commentarial contrast, not a second subject in the verse (Pradhan
-405|07–17). Cultivation becomes the next inquiry in 7.20.
+practitioner Knowledge of another's Consciousness in addition throughout;
+that is a commentarial contrast, not a second subject in the verse.
+The complete unit is [405|07]–[405|16–17]; cultivation begins at
+[405|18] in 7.20.
 
 ## 5. Translation
 
@@ -95,32 +96,32 @@ commentarial contrast, not a second subject in the verse (Pradhan
 > The next act introduces two classifications of one knowledge;
 > later moments add further categories until seven are possessed.
 > Prior detachment changes the baseline through the additional
-> possession of other-mind knowledge.
+> possession of Knowledge of another's Consciousness.
 
 The count concerns the practitioner's possession, not the number
-of simultaneous cognitions. A single present cognition can
+of simultaneous knowledge acts. A single present knowledge can
 instantiate both dharma-knowledge and suffering-knowledge, while
 conventional knowledge remains possessed without being the
-present Path-cognition. Possession must also remain distinct
+present Path knowledge. Possession must also remain distinct
 from cultivation and unrestricted immediate availability.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| `anvita` / `samanvāgata` | possessed of | The verse and prose count knowledge-categories held by a continuum at a specified stage, distinct from the presently occurring cognition. |
+| `anvita` / `samanvāgata` | possessed of | The verse and prose count knowledge-categories held by a continuum at a specified stage, distinct from the presently occurring knowledge. |
 | `rāgī` / `kāmāvītarāga` | not detached from desire | The Bhāṣya restricts the verse's count to this practitioner; it does not describe the acceptance itself as afflicted. |
 | `duḥkhadharmajñānakṣānti` | suffering-dharma acceptance | The first uncontaminated moment is an acceptance, which 7.01 excludes from knowledge; the possessed count stays at one. |
-| `duḥkhadharmajñāna` | suffering-dharma knowledge | The second moment is one cognition with two new category memberships, dharma and suffering knowledge. |
+| `duḥkhadharmajñāna` | suffering-dharma knowledge | The second moment is one knowledge act with two new category memberships, dharma and suffering knowledge. |
 | `ekaikajñānavṛddhi` | increase by one knowledge each | Applies at four named later moments, not every intervening Path-moment. |
-| `vītarāga` | detached practitioner | Possesses other-mind knowledge additionally in the Bhāṣya's contrast, without its occurring in Seeing. |
+| `vītarāga` | detached practitioner | Possesses Knowledge of another's Consciousness additionally in the Bhāṣya's contrast, without its occurring in Seeing. |
 
 ## 8. Logical Determination
 
 The prose names the decisive moments. Their numbers follow
 the established sixteen-moment direct-realization sequence:
 
-| Moment | Present Path-cognition | New knowledge-categories | Total for the non-detached case |
+| Moment | Present Path event | New knowledge-categories | Total for the non-detached case |
 |---:|---|---|---:|
 | 1 | Suffering-dharma acceptance | None; conventional knowledge is already possessed | 1 |
 | 2 | Suffering-dharma knowledge | Dharma and suffering | 3 |
@@ -136,7 +137,7 @@ Conventional, Dharma, Anvaya,
 Suffering, Origination, Cessation, Path
 ```
 
-The contrasting detached case adds other-mind knowledge at
+The contrasting detached case adds Knowledge of another's Consciousness at
 each stage, yielding counts 2, 4, 5, 6, 7, and 8 at these
 same checkpoints. This is the Bhāṣya's additional-possession
 rule applied to the table, not an additional series quoted
@@ -145,10 +146,10 @@ verbatim from it.
 ```text
 PossessedKnowledgeCategories(practitioner, moment)
     differs from
-PresentCognition(practitioner, moment)
+PresentPathEvent(practitioner, moment)
 ```
 
-At moment two, one event adds two category memberships.
+At moment two, one knowledge act adds two category memberships.
 At moment one, an uncontaminated event adds none. These
 results depend on the systematic distinctions already
 established; they cannot be recovered by counting events
@@ -175,8 +176,8 @@ opening distinction rather than indicating a failed or
 merely conventional entry into Seeing.
 
 **Possession is not present performance.** The detached
-practitioner's additional other-mind knowledge is possessed
-even though other-mind knowledge does not occur in Seeing.
+practitioner's additional Knowledge of another's Consciousness is possessed
+even though that knowledge does not occur in Seeing.
 Keeping these relations separate makes the commentary
 consistent with its earlier actualization restrictions.
 
@@ -196,7 +197,7 @@ its kriyā–karma companion, develops the ordered undertaking
 through which these determinations become possessed.
 
 The difference between entering the Path, possessing knowledge,
-and exercising a particular cognition becomes practically
+and exercising a particular knowledge becomes practically
 decisive. An actual transition can occur before a new knowledge-
 category is gained; another single act can bring two categories
 into possession. Our reconstruction must therefore describe
@@ -209,10 +210,12 @@ provides a precise sequence and a prior-detachment qualification.
 Its further account of cultivation will add another relation
 rather than merely repeat this possession table.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The
-named additions and prior-detachment contrast are explicit.
-Moment numbers are supplied from the established Path sequence;
-the cultivation question remains for VAK 7.20.
+**Review status.** Source-first QA reviewed all 15 local lines
+[405|07]–[405|16–17], from the possession question through the
+detached-practitioner contrast. [405|06] ends 7.18; [405|18]
+opens 7.20's cultivation question. The joined `rāgīprathame`
+and damaged `catuṣrvekaika-` remain visible in the Bhāṣya study.
+Moment numbers are supplied from the established Path sequence.
 
 ## 10. OWL++ Seed
 
@@ -221,13 +224,13 @@ Class: PractitionerContinuum
 Class: PathMoment
 Class: KnowledgeCategory
 Class: KnowledgePossessionAssertion
-Class: PresentCognition
+Class: PresentKnowledge
 Class: SourceSpan
 
 ObjectProperty: concernsPractitioner
 ObjectProperty: atPathMoment
 ObjectProperty: possessesKnowledgeCategory
-ObjectProperty: hasPresentCognition
+ObjectProperty: hasPresentKnowledge
 ObjectProperty: hasPriorDetachmentStatus
 ObjectProperty: supportedBy
 
@@ -239,16 +242,16 @@ Baseline: NotPreviouslyDetachedFromDesireDomain
     moment10Adds: Cessation
     moment14Adds: Path
 
-BhāṣyaContrast: The detached case possesses OtherMindKnowledge additionally throughout.
+BhāṣyaContrast: The detached case possesses KnowledgeOfAnothersConsciousness additionally throughout.
 
 ProjectConstraint: Possession is not simultaneous occurrence.
-ProjectConstraint: One cognition can add two knowledge-category memberships.
+ProjectConstraint: One knowledge act can add two knowledge-category memberships.
 ProjectConstraint: Uncontaminated acceptance does not add a knowledge-category.
-ProjectConstraint: Additional other-mind possession does not place its occurrence in Seeing.
+ProjectConstraint: Additional possession of Knowledge of another's Consciousness does not place its occurrence in Seeing.
 ProjectConstraint: Preserve prior-detachment qualification of each count.
 ProjectConstraint: Do not identify possession with cultivation.
 ```
 
 This is a declarative project seed. It records possession at
-specified stages while keeping actual cognition and the next
+specified stages while keeping present operation and the next
 inquiry into cultivation distinct.

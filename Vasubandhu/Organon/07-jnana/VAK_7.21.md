@@ -92,13 +92,13 @@ its own truth's aspects and is produced through application.
 > What does cultivation accomplish? One account registers
 > acquisition even where the acquired knowledge can never
 > become present. The commentary asks what this acquisition
-> explains, and finds an effective account in a changed support:
+> explains, and finds an effective account in a changed Basis:
 > through the Path, subsequent worldly knowing becomes possible
 > in a superior form. The question concerns the relation between
 > a cultivated determination and the continuum's power to know.
 
 The dispute is substantive. A future dharma classified as
-never arising and a support capable of subsequent manifestation
+never arising and a Basis capable of subsequent manifestation
 are different explanations of cultivation. The Bhāṣya's positive
 judgment of the former teachers' account must remain visible,
 alongside the Vaibhāṣikas' explicit refusal of it.
@@ -124,12 +124,12 @@ to acquisition itself is challenged as circular.
 passage. It does not itself name them Sautrāntikas; the study
 retains the source's attribution.
 
-**`Saṃmukhībhāvasamarthāśrayalābha` — acquisition of a support
+**`Saṃmukhībhāvasamarthāśrayalābha` — acquisition of a Basis
 capable of manifestation.** The alternative explanation of
 acquisition. Through the power of the supramundane Path, one
-who has emerged actualizes superior worldly knowledge with
-the truths as its object. “Support” preserves `āśraya` without
-imposing a modern anatomical or computational identity.
+who has emerged actualizes superior worldly Knowledge with
+a Truth as its Support (`ālambana`). “Basis” preserves `āśraya`
+without imposing an anatomical identity.
 
 **`Prāyogika` — produced through application.** The explicit
 gloss of `yatnika`. The reason given is acquisition through
@@ -166,7 +166,7 @@ proof itself.
 | Initial account | The special conventional knowledge never becomes present | Explicit answer matching the verse |
 | Acquisition explanation | It is cultivated because previously unacquired knowledge is acquired | Questioned |
 | Appeal to `prāpti` | Acquisition explains how it is acquired | Rejected as failing to establish cultivation |
-| Former teachers | The Path produces a support capable of superior worldly knowing after emergence | Endorsed as a successful explanation |
+| Former teachers | The Path brings acquisition of a Basis capable of superior worldly Knowledge after emergence | Endorsed as a successful explanation |
 | Vaibhāṣika response | Refusal of that alternative | Explicitly recorded |
 
 **Level and truth restrictions.**
@@ -189,13 +189,13 @@ not four simultaneously occurring cognitive acts.
 
 **Translation note.** These predicates characterize the special conventional knowledge cultivated at
 the three anvaya moments. The reading `yatnikam` follows the Devanāgarī and the
-Bhāṣya lemma; the running source's `yātnikam` remains a textual uncertainty.
+Bhāṣya lemma; the separate kārikā witness's `yātnikam` remains a textual uncertainty.
 
 **Acquisition needs explanatory content.** The commentary's
 criticism is sharper than a neutral listing of alternatives.
 “Because acquired, therefore acquired” does not establish
 cultivation. The former teachers' account succeeds by specifying
-what has changed: the acquisition of a support capable of
+what has changed: the acquisition of a Basis capable of
 manifesting the relevant knowledge.
 
 **The alternative has a specified outcome.** It concerns superior
@@ -210,7 +210,7 @@ noise, including `tadānutpattidharmakam`, against the kārikā's
 `tad anutpattidharmakam`, and damaged verbal forms in the level
 examples. The surrounding prose secures the never-arising
 claim and the two/seven level counts. The former teachers'
-support explanation is explicit independently of the difficult
+Basis explanation is explicit independently of the difficult
 following `gotre ... gautrikaṃ` sentence; no additional theory
 of lineage or disposition is built on that wording here.
 
@@ -219,7 +219,7 @@ passage gives our Yoga system a precise question: what does
 practice make the knowing continuum capable of doing? Yoga
 Vidyā articulates the truth, its aspects, and the determination
 of knowledge. Yoga Technē, its kriyā–karma companion, concerns
-the undertaking through which the support gains the power
+the undertaking through which the Basis gains the power
 to actualize that knowing.
 
 For this reconstruction we take up the former teachers' account
@@ -231,23 +231,27 @@ nor a claim that the Vaibhāṣikas accept the same account.
 
 The truth-specific restrictions matter for the reconstruction.
 A cultivated capacity has a determinate object, aspect-range,
-and support. Technē must articulate the conditions connecting
+and Support. Technē must articulate the conditions connecting
 the undertaking to that capacity and its exercise; Vidyā must
 articulate what makes the resulting knowledge knowledge of
 this truth. Their relation develops the user's Yoga-system
 project without attributing its vocabulary to Vasubandhu.
 
-**Review status.** Provisional, Bhāṣya-controlled study. The
-dispute, source attributions, level endpoints, mindfulness
-distribution, truth matching, effort-gloss, and entourage
-counts have been checked against the running source.
+**Review status.** Source-first QA reviewed all 45 local lines
+[406|07]–[407|16–17]. [406|06] ends 7.20; [407|18]
+opens 7.22. The complete Path-exclusion exchange, cultivation
+dispute, level endpoints, mindfulness distribution, truth-aspect
+and Support match, effort gloss, and entourage counts are translated.
+The local `gautrikaṃ`, `bhāṣyate`, and other damaged forms remain
+open for collation; the separate kārikā witness has `yātnikam`
+against the Bhāṣya lemma `yatnikam`.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: CompletionConventionalKnowledge
 Class: CultivationAccount
-Class: CognitiveSupport
+Class: CognitiveBasis
 Class: Truth
 Class: Level
 Class: SourceAttribution
@@ -264,10 +268,10 @@ Account: NeverArisingAcquisition
     claim: Special completion knowledge is acquired but never actualized.
     criticism: Appeal to acquisition alone does not establish cultivation.
 
-Account: CapableSupport
+Account: CapableBasis
     attributedTo: FormerTeachers
     assessment: Endorsed in the Bhasya; rejected by Vaibhasikas.
-    claim: The supramundane Path produces a support capable of
+    claim: The supramundane Path brings acquisition of a Basis capable of
         superior worldly truth-knowledge after emergence.
 
 Constraint: Cultivated levels are the Seeing level and lower levels.
@@ -279,7 +283,7 @@ Constraint: Base counts include the entourage.
 
 ProjectConstraint: Keep disputed accounts separately attributed.
 ProjectConstraint: Anutpattidharmaka is not the category AnutpadaKnowledge.
-ProjectChoice: Yoga Vidya and Yoga Techne develop the capable-support account.
+ProjectChoice: Yoga Vidya and Yoga Techne develop the capable-Basis account.
 ```
 
 This declarative seed preserves the disagreement. It is not

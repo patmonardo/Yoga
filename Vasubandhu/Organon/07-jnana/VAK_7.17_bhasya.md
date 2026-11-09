@@ -8,7 +8,8 @@
 > Path- and anvaya-knowledge each take nine kinds of knowledge as
 > objects, excluding conventional and dharma-knowledge respectively.
 > Suffering- and origination-knowledge each take two: conventional
-> and other-mind knowledge. Conventional, other-mind, exhaustion,
+> and Knowledge of another's Consciousness. Conventional knowledge,
+> Knowledge of another's Consciousness, exhaustion-knowledge,
 > and non-arising knowledge each take all ten; cessation-knowledge
 > takes no knowledge as object. Ten classes of dharmas are next to
 > be assigned.
@@ -21,32 +22,42 @@ Kārikā study: [`VAK_7.17.md`](./VAK_7.17.md).
 
 ## 2. Continuous Sanskrit
 
-> dharmajñānasya nava jñānāny ālambanam anyatrānvayajñānāt /
-> anvayajñānasyāpi nava anyatra dharmajñānāt /
-> mārgajñānasyāpi nava anyatra saṃvṛtijñānāt /
-> duḥkhahetujñānayor dve saṃvṛtiparacittajñāne /
-> saṃvṛtiparacitta-kṣayānutpādajñānānāṃ daśa /
-> nirodhajñānasyāikasya na kiṃcij jñānam ālambanam /
-> yojyā dharmāḥ punar daśa /
+> nava mārgānvayadiyoḥ
+> anvayajñānasyāpi nava jñānānyālambanamanyatra dharmajñānāt /
+> mārgajñānasyāpi nava jñānānyālambanamanyatra saṃvṛtijñānāt /
+> duḥkhahetudhiyordvayam /
+> duḥkhasamudayajñānayordve saṃvṛtiparacitajñāne ālambanam /
+> caturṇāṃ daśa
+> saṃvṛtiparacittakṣayānutpādajñānānāṃ daśa jñānānyālambanam /
+> naikasya
+> ekasya nirodhajñānasya naiva jñānamālambanam /
+> yojyā dharmāḥ punardaśa // VAkK_7.17 //
 
-**Witness.** Pradhan 403|16–404|10 for this table; 7.18 begins the ten
-classes. `Paracitajñāne` unrestored. Voice: Vasubandhu.
+**Witness.** Complete local unit [404|01]–[404|10], ten source lines.
+The dharma-knowledge entry ends 7.16 at [403|18]; `katame daśa /`
+opens 7.18 at [404|11]. The verse line reads `mārgānvayadiyoḥ` against
+the separate local kārikā witness's `mārgānvayadhiyoḥ`; the prose reads
+`paracitajñāne`. Both local readings remain visible. Voice: Vasubandhu.
 
 ## 3. Continuous Translation
 
-> For dharma-knowledge, nine knowledges are object-supports, except
-> anvaya-knowledge. For anvaya-knowledge also, nine, except dharma-knowledge.
-> For Path-knowledge also, nine, except conventional knowledge.
+> “Nine for Path- and anvaya-knowledge”: for anvaya-knowledge too,
+> nine knowledges are Supports, apart from dharma-knowledge. For
+> Path-knowledge too, nine knowledges are Supports, apart from
+> conventional knowledge.
 >
-> For suffering- and origination-knowledge, two: conventional knowledge and
-> knowledge of another mind.
+> “A pair for suffering- and origination-knowledge”: for these two,
+> conventional knowledge and Knowledge of another's Consciousness
+> are Supports [local `paracitajñāne`].
 >
-> For conventional knowledge, other-mind knowledge, exhaustion-knowledge,
-> and non-arising-knowledge: ten.
+> “Ten for four”: for conventional knowledge, Knowledge of another's
+> Consciousness, exhaustion-knowledge, and non-arising-knowledge,
+> ten knowledges are Supports.
 >
-> For the one — cessation-knowledge — no knowledge at all is an object-support.
+> “None for one”: for the one, cessation-knowledge, no knowledge
+> at all is a Support.
 >
-> Again, the dharmas to be assigned are ten.
+> “Again, ten dharmas are to be assigned.”
 
 ## 4. Movement of the Commentary
 
@@ -58,26 +69,27 @@ classes. `Paracitajñāne` unrestored. Voice: Vasubandhu.
 
 ## 5. The Directed Table
 
-| Knowing category | Knowledge-objects | n |
+| Knowledge category | Knowledge-Support categories | n |
 |---|---|---:|
 | Dharma | all except anvaya | 9 |
 | Anvaya | all except dharma | 9 |
 | Path | all except conventional | 9 |
-| Suffering | conventional, other-mind | 2 |
-| Origination | conventional, other-mind | 2 |
+| Suffering | conventional, Knowledge of another's Consciousness | 2 |
+| Origination | conventional, Knowledge of another's Consciousness | 2 |
 | Conventional | all ten | 10 |
-| Other-mind | all ten | 10 |
+| Knowledge of another's Consciousness | all ten | 10 |
 | Exhaustion | all ten | 10 |
 | Non-arising | all ten | 10 |
 | Cessation | none of the ten | 0 |
 
-Directed, not symmetric. Conventional can take cessation-knowledge as
-object; cessation-knowledge takes none of the ten. Zero knowledge-objects
-≠ objectless: it knows cessation.
+The relation is directed. Conventional knowledge can take cessation-
+knowledge as Support; cessation-knowledge takes none of the ten as
+Support. Its zero does not make it objectless: it knows cessation.
 
-Ten ≠ every instance, ≠ all ten at once. Paracitta's ten is still bound by
-7.06 sides, 7.11 one-entity, present-object, and support. Category
-self-inclusion ≠ same-moment self-knowing.
+Ten does not mean every instance or all ten at once. Knowledge of another's
+Consciousness remains bound by 7.06's sides and 7.11's one-entity and
+present-Condition restrictions. Category self-inclusion does not imply
+same-moment self-knowing.
 
 Count is not rank. Efficacy, ethics, and Path-completion stay earlier axes.
 
@@ -85,7 +97,7 @@ Count is not rank. Efficacy, ethics, and Path-completion stay earlier axes.
 
 Dharma excludes anvaya. Anvaya excludes dharma. Path excludes conventional.
 Same number, three different cuts. The dharma ↔ anvaya ban is mutual at the
-category-object level; Path's cut is different.
+category-Support level; Path's cut is different.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
@@ -98,18 +110,17 @@ category-object level; Path's cut is different.
 
 This section is reconstruction.
 
-The matrix is Technē: who may take which knowing as artha. Vidyā still sees
-both sides. The mutual object-ban of dharma- and anvaya-knowledge is the
-Path-form of that fence — not a refutation of Philosophical Cognition.
-Nirodha's zero is the arthic truth: cessation is not a knowledge among the
-ten. Meta-nirodha remains the Idea asking the matrix, not a cell in it.
-
-Dharma:kāma as visible enclosure is not this table. Do not read the four
-who take all ten as “higher.” Conventional taking all ten is breadth of
-convention, not paramārtha.
+The Organon may model the directed relation between a Knowledge kind
+and its possible Knowledge-Support kinds. The mutual exclusion of
+dharma- and anvaya-knowledge at this category level is a source rule;
+its larger philosophical interpretation belongs to the reconstruction.
+The four kinds with ten possible Supports do not thereby receive a
+higher rank. Cessation-knowledge's zero concerns knowledge as Support;
+cessation is still its Support.
 
 ## 9. Review Status
 
-QA reviewed against the paired Organon kārikā and Bhāṣya studies.
-Ten dharma classes are reserved for 7.18. Sanskrit collation remains
-pending. Provisional.
+All ten local source lines [404|01]–[404|10] are reproduced and
+translated. [403|18] closes 7.16; `katame daśa /` at [404|11]
+begins 7.18. The local `mārgānvayadiyoḥ` and `paracitajñāne`
+remain open for collation. Ten dharma classes are reserved for 7.18.

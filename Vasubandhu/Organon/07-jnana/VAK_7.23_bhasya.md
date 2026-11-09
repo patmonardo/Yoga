@@ -16,62 +16,84 @@ Kārikā study: [`VAK_7.23.md`](./VAK_7.23.md).
 
 ## 2. Continuous Sanskrit
 
-> sapta jñānāni bhāvyante iti vartate /
-> sapta bhūmayaḥ catvāri dhyānāni trayaś cārūpyāḥ /
-> tāsāṃ jayaḥ vairāgyam /
-> … pañcasu cābhijñāsu akopyaprativedhe ca vyavakīrṇabhāvite ca dhyāne …
-> ānantaryamārgās teṣv api sarveṣu sapta jñānāni bhāvyante /
-> akopyaprativedhe tu saṃvṛtijñānaṃ na bhāvyate / bhavāgrāpratipakṣatvāt /
-> tatra … saptamaṃ veditavyam /
-> … bhavāgravairāgye vimuktimārgeṣv aṣṭāsu saptaiva jñānāni bhāvyante /
-> dharmānvaya-duḥkha-samudaya-nirodha-mārga-paracittajñānāni /
-> saṃvṛtijñānaṃ na bhāvyate / bhavāgrāpratipakṣatvāt /
+> saptabhūmijayā 'bhijñākopyāptyākīrṇabhāvite
+> ānanataryapatheṣūrdhvaṃ muktimārgāṣṭake 'pi ca // VAkK_7.23 //
+> saptajñānāni bhāvyante iti vartate /
+> sapta bhūmayaḥ catvāri dhyānāni trayaścārupyāḥ /
+> tāsāṃ jayaḥ vairāgyaṃ tasmin saptabhūmike vairāgye pañcasu cābhijñāsu akopyaprativedhe ca vyavakīrṇabhāvite ca dhyāne śaikṣasya yāvantaḥ ānantaryamārgāsteṣvapi sarveṣu sapta jñānāni bhāvyante tānyeva /
+> laukikeścet bhāvnāmārgaḥ saṃvṛtijñānaṃ pratyutpannam /
+> lokottaraśceccaturṇāmanvajñānānāṃ dvayośca dharmajñānayoranyatamat /
+> akopyaprativedhe tu saṃvṛtijñānaṃ na bhāvyate /
+> bhavāgrāprati pakṣatvāt /
+> tatra jayajñānaṃ saptamaṃ veditavyam /
+> saptabhūmivairāgyādapi cordhvaṃbhavāgravairāgye vimuktimārgeṣvaṣṭāsu saptaiva jñānāni bhāvyante /
+> dharmānvayaduḥkhasamudayanirodhamārgaparacittajñānāni /
+> saṃvṛtijñānaṃ na bhāvyate /
+> bhavāgrāpratipakṣatvāt /
+> pratyutpannaṃ tu caturṇāmanvayajñānānāṃ dvayośca dharmajñānayoranyatamat /
 
-**Witness.** Pradhan 408|08–19. `Jayajñānaṃ` at 408|16 doubtful — not made a
-eleventh knowledge-kind. `Śaikṣasya` not spread over immovability. Voice:
+**Witness.** Complete natural unit [408|08–09]–[408|18–19], all 15 local
+source lines. [408|07] closes 7.22; [408|20] opens 7.24. The running
+`ānanatarya-`, `bhāvnāmārgaḥ`, `anvajñānānāṃ`, divided
+`bhavāgrāprati pakṣatvāt`, and `jayajñānaṃ` remain visible.
+[Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+lists exhaustion-Knowledge among seven cultivated on an arhat's
+uninterrupted faculty-strengthening paths, but does not restore the
+Sanskrit letters. `Śaikṣasya` cannot simply be spread over immovability. Voice:
 Vasubandhu.
 
 ## 3. Continuous Translation
 
-> “Seven knowledges are cultivated” continues.
+> “In conquest of seven levels, higher knowledge, attainment of
+> immovability, and mixed cultivation, on uninterrupted paths; and above,
+> also in the eight liberation paths”: “seven knowledges are cultivated”
+> continues.
 >
-> The seven levels: four dhyānas and three formless. Their conquest is
-> detachment. In that seven-level detachment, in the five higher knowledges,
-> in penetration of immovability, and in mixed cultivation of dhyāna — on
-> those uninterrupted paths — seven knowledges are cultivated: the same.
+> The seven levels are the four dhyānas and three formless [levels]. Their
+> conquest is detachment. In that seven-level detachment, in the five higher
+> knowledges, in penetration of immovability, and in dhyāna cultivated in
+> mixed form, on however many uninterrupted paths there are for a trainee
+> [where applicable], in all of them seven knowledges are cultivated: those
+> same [seven].
 >
-> If the Path of Cultivation is worldly, conventional knowledge is present;
-> if supramundane, one of the four anvaya-knowledges or of two dharma-knowledges.
+> If the Path of Cultivation is worldly, conventional Knowledge is present;
+> if supramundane, one of the four anvaya-knowledges or one of the two
+> dharma-knowledges is present.
 >
-> At penetration of immovability, however, conventional knowledge is not
-> cultivated, because it is not a counteragent to Bhavāgra. There a seventh
-> is to be understood [reading uncertain].
+> At penetration of immovability, however, conventional Knowledge is not
+> cultivated, because it is not a counteragent to Bhavāgra. There
+> `jayajñānaṃ` is to be understood as the seventh [damaged Sanskrit;
+> Xuanzang's parallel names exhaustion-Knowledge].
 >
-> Also above seven-level detachment, in detachment from Bhavāgra, on the eight
-> liberation paths, seven knowledges are cultivated: dharma, anvaya, suffering,
-> origination, cessation, Path, and other-mind. Conventional knowledge is not
-> cultivated, because it is not a counteragent to Bhavāgra.
+> Also beyond detachment from the seven levels, in detachment from Bhavāgra,
+> on the eight liberation paths precisely seven knowledges are cultivated:
+> dharma-, anvaya-, suffering-, origination-, cessation-, Path-Knowledge, and
+> Knowledge of another's Consciousness. Conventional Knowledge is not
+> cultivated, because it is not a counteragent to Bhavāgra. The Knowledge
+> present, however, is one of the four anvaya-knowledges or one of the two
+> dharma-knowledges.
 
 ## 4. Movement of the Commentary
 
 ```text
 same count, new settings on ānantarya-paths
     seven-level vairāgya / five abhijñās / mixed dhyāna: B + conventional
-    immovability: B + ? ; conventional out (not pratipakṣa of Bhavāgra)
+    immovability: B + exhaustion-Knowledge (Chinese parallel); conventional out
 ūrdhvam = Bhavāgra-detachment, eight vimukti-paths: B + paracitta
     conventional out for the same reason
 ```
 
 ## 5. Stable Seven, Changing Seventh
 
-Seven target levels ≠ 7.21's support-levels. `Jaya` = vairāgya, not merely
+Seven target levels differ from 7.21's cultivated levels. `Jaya` = vairāgya, not merely
 entering the attainment. Five abhijñās only here.
 
 `Bhavāgrāpratipakṣatva` = *not* being a counteragent to Bhavāgra. A positive
 gloss would reverse it.
 
-Do not mint `jayajñāna` as a category. Possible `kṣayajñāna` is conjecture.
-Count seven; replacement unnamed until a checked witness.
+Do not mint `jayajñāna` as a category. Xuanzang's parallel includes
+exhaustion-Knowledge in a corresponding seven, supporting `kṣayajñāna` as a proposed
+Sanskrit repair without establishing its letters in this witness.
 
 Present vs cultivated stays. Supramundane present options (four anvaya, two
 dharma: cessation and Path) are options, not six simultaneous acts. Local
@@ -89,15 +111,17 @@ The eight are a bounded set for Bhavāgra-detachment. Remainder: 7.24+.
 
 ## 8. Interpretation
 
-This section is reconstruction.
-
-Technē: the task picks the seventh. Conventional knowledge is not discarded
-for being “lower”; it cannot oppose Bhavāgra. Paramārtha attributes as
-Appearance of the Absolute would be modalities adequate to the work — still
-not the Absolute as Appearans. Revelation is not a seventh cell.
+This section is Organon reconstruction. The unchanged count does not fix an
+unchanged membership: path function and target level determine which Knowledge
+is cultivated. Conventional Knowledge is excluded here because it cannot
+counter Bhavāgra; the source does not turn this local reason into a general
+test of every cultivated member.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.23.md`
-(Pradhan 408|08–19).
-Immovability seventh open. `kosabhasya.txt` collation pending. Provisional.
+Complete natural unit [408|08–09]–[408|18–19] reviewed against
+`kosabhasya.txt`; [408|07] ends 7.22 and [408|20] starts 7.24.
+The omitted closing present-Knowledge clause and abbreviated Sanskrit are
+restored. The immovability seventh is exhaustion-Knowledge in Xuanzang's
+parallel; the Sanskrit `jayajñānaṃ` remains damaged, and the exact scope of
+`śaikṣasya` in the compressed list remains open.

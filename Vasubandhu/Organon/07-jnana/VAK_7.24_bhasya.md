@@ -15,38 +15,57 @@ Kārikā study: [`VAK_7.24.md`](./VAK_7.24.md).
 
 ## 2. Continuous Sanskrit
 
-> śaikṣasyendriyottāpanāyāṃ vimuktimārge sarāgasya ṣaṇṇāṃ bhāvanā …
-> vītarāgasya saptānāṃ paracittajñānaṃ prakṣipya /
-> saṃvṛtijñānasyāpy ubhayor iti kecit /
-> tatra matavikalpajñāpanārtho vāśabdaḥ /
+> śaikṣottāpanamuktau vā ṣaṭsaptajñānabhāvanā /
+> śaikṣasyendriyottāpanāyāṃ vimuktimārge sarāgasya ṣaṇṇāṃ bhāvanā dharmānvayaduḥkhasamudayanirodhamārgajñānānāṃ vitarāgasya saptānāṃ paracittajñānaṃ prakṣipya /
+> saṃvṛtijñānasyāpyubhayoriti kecit /
+> tatra matavikalpajñāpanārtho vāśabdhaḥ /
 > prayogamārge tu tayoḥ saṃvṛtijñānasyāpi bhāvanā /
-> … ānantaryamārge ṣaṇṇāṃ bhāvanā pūrvavat /
-> na saṃvṛtijñānasya / darśanamārga-sādṛśyāt /
-> na paracittajñānasya / … apratipakṣatvāt /
-> bhavāgravairāgye 'py ānantaryamārgeṣu ṣaṇṇāṃ bhāvanā tathaiva /
+> ānantaryapatha ṣaṇṇāṃ
+> vītarāgasyāvītarāgasya vā śaikṣasyendriyottāpanāyāmānantaryamārge ṣaṇṇāṃ bhāvanā pūrvavat /
+> na saṃvṛtijñānasya /
+> darśanamārga sādṛśyāt /
+> na paracittajñānasya /
+> sarvānantaryamārga pratipiddhatvāt /
+> kimartha pratipidhyate /
+> apratipakṣatvāt /
+> bhavāgravijaye tathā // VAkK_7.24 //
+> bhavāgravairāgye 'pyānantaryamārgeṣu ṣaṇṇāṃ bhāvanā tathaiva /
 
-**Witness.** Pradhan 408|20–409|07. Conventional-exclusion sentence at 409|03
-restored. `Pratipiddhatvāt` unrestored.
-Voices: Vasubandhu; `kecit`. No school name.
+**Witness.** Complete natural unit [408|20]–[409|07], all 15 local source
+lines. [408|18–19] closes 7.23; `navānāṃ tu kṣayajñāne` at [409|08]
+opens 7.25. The running `vitarāgasya`, `vāśabdhaḥ`,
+`pratipiddhatvāt`, and `pratipidhyate` remain visible. The last two
+forms occur in the question about exclusion; the immediately following
+`apratipakṣatvāt` states its ground. Voices: Vasubandhu and unnamed
+`kecit`.
 
 ## 3. Continuous Translation
 
-> In the liberation path of a trainee's faculty-strengthening: for one not
-> detached, cultivation of six — dharma, anvaya, suffering, origination,
-> cessation, Path. For one detached, of seven, other-mind knowledge added.
+> “Or, in the liberation path of strengthening a trainee's Faculties,
+> cultivation is of six or seven knowledges.”
 >
-> Some: conventional knowledge also, for both. The word “or” makes that
-> difference of opinion known.
+> In the liberation path of a trainee's Faculty-strengthening, for one
+> not detached from desire there is cultivation of six: dharma-, anvaya-,
+> suffering-, origination-, cessation-, and Path-Knowledge. For one
+> detached from desire, there is cultivation of seven, Knowledge of
+> another's Consciousness being added.
 >
-> In the preparatory path, however, conventional knowledge also is cultivated
-> for both.
+> Some say that conventional Knowledge too is cultivated for both. Here
+> the word “or” makes a difference of opinion known.
 >
-> In the uninterrupted path of that faculty-strengthening, whether detached
-> or not, cultivation of six as before. Not of conventional knowledge — from
-> resemblance to the Path of Seeing. Not of other-mind knowledge — because it
-> is not a counteragent (and so of all uninterrupted paths).
+> In the preparatory path, however, conventional Knowledge too is
+> cultivated for both.
 >
-> Likewise in the uninterrupted paths of detachment from Bhavāgra: six.
+> “In the uninterrupted path, of six”: in the uninterrupted path of a
+> trainee's Faculty-strengthening, whether detached or not detached, six
+> are cultivated as before. Conventional Knowledge is not cultivated,
+> because [this path] resembles the Path of Seeing. Nor is Knowledge of
+> another's Consciousness cultivated, because it is excluded from all
+> uninterrupted paths [local `pratipiddhatvāt`]. Why is it excluded
+> [local `pratipidhyate`]? Because it is not a counteragent.
+>
+> “Likewise in conquest of Bhavāgra”: in detachment from Bhavāgra too,
+> on the uninterrupted paths, the cultivation of six is just the same.
 
 ## 4. Movement of the Commentary
 
@@ -56,7 +75,7 @@ indriyottāpanā of a śaikṣa
     prayoga: conventional also for both
     ānantarya: 6 either way
         conventional out (resemblance to Seeing)
-        paracitta out (not pratipakṣa; all ānantarya)
+        paracitta out (excluded on all ānantarya; not pratipakṣa)
 Bhavāgra ānantarya: same six
 ```
 
@@ -65,8 +84,9 @@ Bhavāgra ānantarya: same six
 Do not fuse them. Resemblance to Seeing ≠ a second Path of Seeing. Does not
 cancel 7.20–7.21's special conventional cultivation.
 
-7.23's eight Bhavāgra *liberation* paths cultivate B + paracitta. This verse's
-Bhavāgra *uninterrupted* paths cultivate B only. Different function.
+7.23's eight Bhavāgra *liberation* paths cultivate B plus Knowledge
+of another's Consciousness. This verse's Bhavāgra *uninterrupted* paths
+cultivate B only. Different function.
 
 Possession ≠ cultivation here. Alternative seven/eight stay attributed to
 `kecit`, not merged into the principal six/seven.
@@ -77,7 +97,8 @@ Possession ≠ cultivation here. Alternative seven/eight stay attributed to
 B = dharma, anvaya, suffering, origination, cessation, Path
 ```
 
-Principal vimukti: B / B+paracitta. `Kecit`: +conventional for both.
+Principal vimukti: B / B + Knowledge of another's Consciousness.
+`Kecit`: +conventional Knowledge for both.
 Ānantarya (faculties and Bhavāgra): B.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
@@ -89,14 +110,18 @@ Principal vimukti: B / B+paracitta. `Kecit`: +conventional for both.
 
 ## 8. Interpretation
 
-This section is reconstruction.
-
-Technē: strengthening a faculty is not inflating a count. Phase and function
-pick the field. Paramārtha attributes as Appearance still have to be *adequate
-to the work*. Revelation is not an eighth knowledge added by `kecit`.
+This section is Organon reconstruction. The Faculty-strengthening undertaking
+has distinct preparatory, uninterrupted, and liberation functions. A change
+of practitioner status changes the liberation-path count in the principal
+account; it does not change the six cultivated on the uninterrupted path.
+The opinion of `kecit` is a separately attributed count.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.24.md`
-(Pradhan 408|20–409|07).
-`Kecit` unnamed. `kosabhasya.txt` collation pending. Provisional.
+Complete natural unit [408|20]–[409|07] reviewed against
+`kosabhasya.txt`, with all 15 local source lines present and translated.
+[408|18–19] ends 7.23; [409|08] starts 7.25. The omitted verse fragments,
+principal six/seven count, attributed conventional-Knowledge alternative,
+and exclusion question and answer are restored. The source forms
+`vitarāgasya`, `vāśabdhaḥ`, `pratipiddhatvāt`, and `pratipidhyate`
+remain for collation; the identity of `kecit` is unstated.
