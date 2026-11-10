@@ -5,41 +5,49 @@
 > tisro nāmārthavāgjñānam avivartyaṃ yathākramam |
 > caturthī yuktamuktābhilāpamārgavaśitvayoḥ || 7.38 ||
 
-> The first three are, respectively, unfailing knowledge concerning name,
-> meaning, and speech. The fourth is likewise unfailing knowledge,
+> The first three are, respectively, unfailing Knowledge concerning name,
+> meaning, and speech. The fourth is likewise unfailing Knowledge,
 > concerning fitting and unimpeded expression and mastery of the Path.
 
-`Tīsro` / `nāmatha` unrestored. Fourth keeps `avivartyaṃ jñānam` — not
-mastery instead of knowledge. Level and category: 7.39.
+Local `nāmatha` and `yuktomukta` remain visible below. The fourth keeps
+`avivartyaṃ jñānam`; level and category are determined in 7.39.
 
 Kārikā study: [`VAK_7.38.md`](./VAK_7.38.md).
 
 ## 2. Continuous Sanskrit
 
-> nāmapadavyañjanakāyeṣv arthavākṣu tā avivartyajñānaṃ dharmārthaniruktipratisaṃvido yathākramam /
-> avivartyaṃ jñānam iti vartate /
-> yuktamuktābhilāpitāyāṃ … cāvivartyaṃ jñānaṃ pratibhānasaṃvit /
+>      tisro nāmathavāgjñānamavivartya yathākramam /
+> nāmapadavyañjanakāyeṣvarthavācitā avivartyajñānaṃ dharmāthaṃniruktipratisaṃvido yathākramam /
+>      caturthīyuktomuktābhilāpamārgavaśitvayoḥ // VAkK_7.38 //
+> avivartyaṃ jñānamiti vartate /
+> yuktamutābhilāpitāyāṃ samādhivaśisaṃprakyāne cāvivartyaṃ jñānaṃ pratibhānasaṃvit /
 
-**Witness.** Pradhan 418|13–18. Lemma `yuktomukta`, prose `yuktamuta` and
-`samādhivaśisaṃprakyāne` unrestored. 418|19–20 (7.39) confirms speech and
-Path as the fourth's objects. Voice: Vasubandhu.
+**Witness.** Complete local `kosabhasya.txt` unit [418|13]–[418|17–18].
+The final reservation at [418|12] closes 7.37; `vāṅmārgālambanā cāsau`
+at [418|19] begins 7.39. The local verse has `nāmatha` and
+`yuktomukta` against the separate kārikā study reading; prose
+`dharmāthaṃnirukti`, `yuktamuta`, and `samādhivaśisaṃprakyāne` remain
+damaged rather than being silently repaired.
 
 ## 3. Continuous Translation
 
-> In the bodies of names, phrases, and verbal units, in meaning, and in speech:
-> that unfailing knowledge is dharma-, artha-, and nirukti-pratisaṃvid,
-> respectively.
+> “The first three are, respectively, unfailing Knowledge of name, meaning,
+> and speech” [the verse's `nāmatha` is damaged]. In the collections of
+> names, phrases, and verbal units, in meaning, and in speech, unfailing
+> Knowledge is dharma-, artha-, and nirukti-pratisaṃvid, respectively
+> [the prose join is damaged].
 >
-> “Unfailing knowledge” continues. Unfailing knowledge concerning fitting and
-> free expression and [the compressed samādhi / Path-mastery phrase] is
-> pratibhāna-pratisaṃvid.
+> “The fourth [concerns] fitting and free expression and mastery of the Path”
+> [the verse has `yuktomukta`]. “Unfailing Knowledge” continues. Unfailing
+> Knowledge concerning fitting and free expression and [the damaged
+> samādhi/mastery/exposition phrase] is pratibhāna-pratisaṃvid.
 
 ## 4. Movement of the Commentary
 
 ```text
 three fields in order: nāma-pada-vyañjana / artha / vāk
 fourth: yukta-mukta-abhilāpa + mārga-vaśitva
-common predicate: avivartya jñāna
+common predicate: unfailing Knowledge (avivartya jñāna)
 category and level deferred
 ```
 
@@ -79,6 +87,8 @@ inside it. Pratibhāna is Technē of fitting speech under Path — still knowled
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.38.md`
-(Pradhan 418|13–18). Fourth-member
-prose damaged. `kosabhasya.txt` collation pending. Provisional.
+Complete [418|13]–[418|17–18] local unit checked against
+`kosabhasya.txt`: all five substantive lines, including both quoted verse
+parts, the threefold mapping, carried Knowledge predicate, and fourth-member
+gloss, appear above and are translated. [418|12] ends 7.37; [418|19]
+begins 7.39. The verse variants and damaged prose joins remain open.

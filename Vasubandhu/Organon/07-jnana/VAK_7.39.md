@@ -1,4 +1,4 @@
-# VAK_7.39 — Object, Knowledge-Constitution, and Level of the Pratisaṃvids
+# VAK_7.39 — Support, Knowledge Constitution, and Level of the Pratisaṃvids
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -19,132 +19,132 @@ prints `sarvatra anye`; regular external sandhi gives
 `sarvatrānye`, corresponding to its Devanāgarī. This is
 an editorial presentation decision, not a change to the
 research witness. The verse continues the separate analysis
-of object, knowledge-constitution, and supporting level
+of Support, Knowledge constitution, and meditative level
 announced in VAK 7.37.
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `vāṅmārgālambanā` | nominative singular feminine compound | having speech and the Path as objects |
-| `asau` | nominative singular feminine pronoun | that [fourth discriminating knowledge] |
-| `nava jñānāni` | nominative plural neuter | nine knowledge categories |
+| `vāṅmārgālambanā` | nominative singular feminine compound | having speech and the Path as Supports |
+| `asau` | nominative singular feminine pronoun | that [fourth discriminating Knowledge] |
+| `nava jñānāni` | nominative plural neuter | nine Knowledge categories |
 | `sarvabhūḥ` | nominative singular feminine compound adjective | belonging to every level |
-| `daśa` | numeral | ten [knowledge categories] |
+| `daśa` | numeral | ten [Knowledge categories] |
 | `ṣaṭ vā` | numeral with alternative particle | or six |
-| `arthasaṃvit` | nominative singular feminine compound | discriminating knowledge of meaning |
+| `arthasaṃvit` | nominative singular feminine compound | discriminating Knowledge of meaning |
 | `sā` | nominative singular feminine pronoun | it, that artha-pratisaṃvid |
 | `sarvatra` | adverb | everywhere, at every level |
 | `anye` | nominative dual feminine | the other two |
-| `sāṃvṛtam` | nominative singular neuter adjective used substantivally | conventional knowledge |
+| `sāṃvṛtam` | nominative singular neuter adjective used substantivally | conventional Knowledge |
 
 `Vāk + mārga` yields `vāṅmārga`; `ṣaṭ + vā + artha`
 yields `ṣaḍvārtha`. The singular neuter `sāṃvṛtam`
-states the common knowledge-nature of the feminine dual
+states the common Knowledge nature of the feminine dual
 “other two”; it does not turn them into one quality.
 
 ## 4. Grammar
 
-**The fourth discriminating knowledge.** `Asau` resumes
+**The fourth discriminating Knowledge.** `Asau` resumes
 pratibhāna-pratisaṃvid from VAK 7.38. The feminine compound
-specifies two objects, speech and Path. `Nava jñānāni`
+specifies two Supports, speech and Path. `Nava jñānāni`
 states its constitution; the prose supplies the exclusion
-of cessation-knowledge.
+of Cessation-Knowledge.
 
 **All-level range.** `Sarvabhūḥ` qualifies the fourth
-knowledge. The Bhāṣya expands the range from the desire
+Knowledge. The Bhāṣya expands the range from the desire
 domain through Bhavāgra and explains that either speech
-or Path may be its object. The range is not a claim that
-both objects occur at every level in the same manner.
+or Path may be its Support. The range is not a claim that
+both Supports occur at every level in the same manner.
 
 **Two meanings of `artha`.** `Daśa ṣaṭ vā` is governed
 by two semantic determinations in the prose. If `artha`
-means all dharmas, artha-pratisaṃvid comprises ten knowledges;
+means all dharmas, artha-pratisaṃvid comprises ten Knowledges;
 if it means nirvāṇa, it comprises six. The alternative
 does not express an uncertain count under an unchanged
 definition.
 
 **The other two.** `Anye` refers to dharma- and nirukti-
-pratisaṃvid. The prose makes both conventional knowledge
-because their objects are name-complexes and speech.
+pratisaṃvid. The prose makes both conventional Knowledge
+because their Supports are name-complexes and speech.
 Their particular level-ranges remain for VAK 7.40.
 
-**Close construe.** That [fourth discriminating knowledge]
-has speech and the Path as its objects, consists of nine
-knowledges, and belongs to every level. The discriminating
-knowledge of meaning consists of ten or six and occurs
-at every level. The other two are conventional knowledge.
+**Close construe.** That [fourth discriminating Knowledge]
+has speech and the Path as its Supports, consists of nine
+Knowledges, and belongs to every level. The discriminating
+Knowledge of meaning consists of ten or six and occurs
+at every level. The other two are conventional Knowledge.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> That [fourth discriminating knowledge] has speech and
-> the Path as its objects; it consists of nine knowledges
-> and belongs to every level. The discriminating knowledge
+> That [fourth discriminating Knowledge] has speech and
+> the Path as its Supports; it consists of nine Knowledges
+> and belongs to every level. The discriminating Knowledge
 > of meaning consists of ten or six and occurs everywhere;
-> the other two are conventional knowledge.
+> the other two are conventional Knowledge.
 
 ### Bhāṣya-informed study translation
 
 
-> The fourth discriminating knowledge takes speech and the Path as its
-> objects, comprises nine knowledge categories, and occurs on every level.
+> The fourth discriminating Knowledge takes speech and the Path as Supports,
+> comprises nine Knowledge categories, and occurs on every level.
 > Meaning-discrimination comprises ten categories when its field is all
 > dharmas, or six when its field is nirvāṇa; it too occurs on every level.
-> The other two have conventional knowledge as their nature.
+> The other two have conventional Knowledge as their nature.
 
 ## 6. Philosophical Translation
 
-> A discriminating knowledge is determined along three
-> independent axes: what it knows, what kind of knowledge
+> A discriminating Knowledge is determined along three
+> independent axes: what it takes as Support, what kind of Knowledge
 > constitutes it, and on which levels it can occur. The
-> scope of `artha` determines whether its knowledge-range
+> scope of `artha` determines whether its Knowledge range
 > is tenfold or sixfold. Definition therefore governs
 > enumeration; the numeral alone does not disclose the
 > structure of the capacity.
 
-Conventional knowledge is not treated as a defective
+Conventional Knowledge is not treated as a defective
 remainder. It is the cognitive nature appropriate to
-the linguistic objects of dharma- and nirukti-pratisaṃvid.
-The same object, nature, and support relations must still
+the linguistic Supports of dharma- and nirukti-pratisaṃvid.
+The same Support, constitution, and level relations must still
 be kept distinct.
 
 ## 7. Technical Vocabulary
 
-**`Vāṅmārgālambana`.** Having speech and Path as object-
-supports. The compound states two eligible fields of
+**`Vāṅmārgālambana`.** Having speech and Path as Supports.
+The compound states two eligible fields of
 pratibhāna-pratisaṃvid. It does not identify speech with
 the Path or make all speech liberating.
 
-**`Navajñānasvabhāva`.** Having nine knowledge categories
+**`Navajñānasvabhāva`.** Having nine Knowledge categories
 as its possible nature. The explicit exclusion is
-cessation-knowledge. This is a category range, not nine
+cessation-Knowledge. This is a category range, not nine
 simultaneous cognitions constituting every exercise.
 
 **`Sarvabhūmika`.** Belonging to all levels. For pratibhāna-
 and artha-pratisaṃvid, the Bhāṣya applies this term without
-assigning the same object or knowledge-category to every
+assigning the same Support or Knowledge category to every
 actual occurrence.
 
 **`Sarvadharmāś ced arthāḥ`.** If all dharmas are the
 meaning-field. This semantic determination yields the
-ten-knowledge classification of artha-pratisaṃvid.
+ten-Knowledge classification of artha-pratisaṃvid.
 
 **`Nirvāṇaṃ ced arthaḥ`.** If nirvāṇa is the meaning-field.
-This determination yields the explicit six-knowledge
+This determination yields the explicit six-Knowledge
 classification. Here `artha` is contextual and relational,
 not fixed by one dictionary equivalent.
 
 **`Nāmakāyādi`.** Name-collections and the related verbal
-structures introduced in VAK 7.38. These are the object-
-support of dharma-pratisaṃvid in the prose explanation.
+structures introduced in VAK 7.38. These are the Supports
+of dharma-pratisaṃvid in the prose explanation.
 
 ## 8. Logical Determination
 
-| Pratisaṃvid | Object | Knowledge-constitution | Level-range |
+| Pratisaṃvid | Support | Knowledge constitution | Level range |
 |---|---|---|---|
-| Pratibhāna | Speech or Path | Nine, excluding cessation | All levels |
+| Pratibhāna | Speech or Path | Nine, excluding Cessation-Knowledge | All levels |
 | Artha, all-dharma reading | All dharmas | Ten | All levels |
 | Artha, nirvāṇa reading | Nirvāṇa | Six specified categories | All levels |
 | Dharma | Name-complexes and related verbal structures | Conventional | Deferred to 7.40 |
@@ -176,27 +176,28 @@ It should not be rewritten as a disagreement over whether
 six equals ten or as an arbitrary choice between counts.
 
 For pratibhāna, all-level availability follows because
-either speech or Path can be its object. This is the
+either speech or Path can be its Support. This is the
 Bhāṣya's stated explanation. It does not override the
-individual support restrictions already established
-for particular knowledge categories.
+individual Support restrictions already established
+for particular Knowledge categories.
 
 ## 9. Interpretive Note
 
-**Translation note.** Source: Pradhan 418|19–419|11. The level restrictions
-of the latter two discriminating knowledges begin with
-VAK 7.40 and are not imported into the present verse.
+**Translation note.** Complete local unit [418|19]–[419|10–11].
+[418|17–18] closes 7.38; `kāmadhyāneṣu dharme vit` at [419|12]
+opens 7.40. The latter two discriminating knowledges' level
+restrictions begin there.
 
 **Meaning determines the count.** This verse gives a
 particularly clear instance of the project's principle
 that meaning emerges in a system. `Artha` does not carry
 one isolated gloss into every construction. Its relation
-to all dharmas or to nirvāṇa determines which knowledge
-categories can constitute the discriminating knowledge.
+to all dharmas or to nirvāṇa determines which Knowledge
+categories can constitute the discriminating Knowledge.
 
-**Object, constitution, and level are orthogonal.** The
+**Support, constitution, and level are orthogonal.** The
 fact that artha-pratisaṃvid occurs at every level does
-not imply that every one of its ten or six knowledge
+not imply that every one of its ten or six Knowledge
 categories occurs on every level. Similarly, the fact
 that dharma- and nirukti-pratisaṃvid are conventional
 does not determine their identical level-range. VAK 7.40
@@ -205,14 +206,16 @@ supplies their different ranges.
 **Textual caution.** The running source has `ālmvanam`,
 `arthapratibhānasaṃvit`, and `pratisavidau`. The verse,
 the named fourfold inventory, and the explicit prose
-explanations secure `ālambanam`, artha-pratisaṃvid, and
-the dharma/nirukti dual. These are treated as electronic
-transcription defects rather than new technical readings.
+explanations control the intended relations, but do not settle
+the exact letters or provenance of these witness forms.
+[Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7027)
+corroborates the nine, ten, and six classifications and the conventional
+nature of the other two, without restoring the local Sanskrit.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
-Yoga Vidyā articulates the object-field and the knowledge
+Yoga Vidyā articulates the Support-field and the Knowledge
 constitution appropriate to it. Yoga Technē, its kriyā–
-karma companion, concerns the level-supported exercise
+karma companion, concerns the level-conditioned exercise
 and communicative deployment of that knowing. The three
 relations intersect without becoming interchangeable.
 
@@ -220,49 +223,50 @@ For our Yoga system, `artha` is an excellent control case.
 A fixed label cannot determine the operative range before
 the relation in which meaning stands has been resolved.
 When meaning ranges over all dharmas, the whole tenfold
-knowledge field is admitted; when nirvāṇa is the meaning,
+Knowledge field is admitted; when nirvāṇa is the meaning,
 the field contracts to six specified kinds. The change
 is conceptual before it is numerical.
 
 Pratibhāna adds the practical communicative side. Speech
-and Path are possible objects of one discriminating
-knowledge, but their conjunction does not make eloquence
+and Path are possible Supports of one discriminating
+Knowledge, but their conjunction does not make eloquence
 identical with liberation. Vidyā supplies the determinate
 content; Technē supplies its fitting exercise within
 the supported path. This is project reconstruction,
 while the source's own classification remains primary.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The object, knowledge-category, and all-level determinations,
-including both contextual meanings of `artha`, are checked
-against the running source.
+**Review status.** Complete [418|19]–[419|10–11] local Bhāṣya unit
+reviewed against `kosabhasya.txt`, with both adjacent boundaries
+checked. All fourteen substantive lines are translated, including
+both contextual meanings of `artha`; the three local damaged forms
+remain unresolved.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: DiscriminatingKnowledge
-Class: ObjectField
+Class: SupportField
 Class: KnowledgeCategoryRange
-Class: SupportLevelRange
+Class: MeditativeLevelRange
 Class: SemanticScopeAnalysis
 
-ObjectProperty: hasObjectField
+ObjectProperty: hasSupportField
 ObjectProperty: hasKnowledgeCategoryRange
-ObjectProperty: hasSupportLevelRange
+ObjectProperty: hasMeditativeLevelRange
 ObjectProperty: determinedUnderMeaningScope
 
 PratibhanaPratisamvid:
-    objects: Speech, Path
+    supports: Speech, Path
     categoryRange: TenKnowledges minus CessationKnowledge
     levelRange: AllLevels
 
 ArthaPratisamvidUnderAllDharmas:
-    object: AllDharmas
+    support: AllDharmas
     categoryRange: TenKnowledges
     levelRange: AllLevels
 
 ArthaPratisamvidUnderNirvana:
-    object: Nirvana
+    support: Nirvana
     categoryRange: Dharma, Anvaya, Cessation,
         Exhaustion, NonArising, Conventional
     levelRange: AllLevels
@@ -275,8 +279,8 @@ NiruktiPratisamvid:
     levelRange: DeferredToVAK_7.40
 
 ProjectConstraint: Semantic scope determines the category count.
-ProjectConstraint: Object, knowledge nature, and level are distinct relations.
-ProjectConstraint: All-level range does not override category support restrictions.
+ProjectConstraint: Support, Knowledge nature, and level are distinct relations.
+ProjectConstraint: All-level range does not override category Support restrictions.
 ProjectConstraint: Category range does not imply simultaneous actualization.
 ```
 

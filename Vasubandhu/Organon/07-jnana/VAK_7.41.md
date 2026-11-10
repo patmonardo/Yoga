@@ -45,12 +45,12 @@ plural qualities dependent on its power.
 ## 4. Grammar
 
 **What is sixfold?** The Bhāṣya first calls final-limit
-fourth dhyāna `ṣaḍātmakam`, then names araṇā, resolve-
-knowledge, and three discriminating knowledges as its
-forms. It separately says nirukti-pratisaṃvid is acquired
-through that dhyāna's power but is not fourth-dhyāna-grounded.
-Thus the sixfold dependency-set and the five intrinsically
-fourth-dhyāna forms must be distinguished.
+fourth dhyāna `ṣaḍātmakam`: araṇā, Knowledge through resolve,
+three discriminating Knowledges, and that final-limit dhyāna
+itself. Nirukti-pratisaṃvid is acquired through its power but
+does not belong to the fourth-dhyāna level. The six constituents
+here differ from the six qualities acquired through its power
+in 7.40.
 
 **Two coordinated predicates.** `Sarvabhūmyanulomitam`
 and `vṛddhikāṣṭhāgatam` qualify the final-limit fourth
@@ -90,9 +90,10 @@ these [qualities] arise from deliberate application.
 
 > Final-limit cultivation has two dimensions: ordered
 > integration across the hierarchy of levels and maximum
-> development in degree. The resulting qualities form
-> a common dependency-system without acquiring one identical
-> support. Their mode of manifestation then differs:
+> development in degree. Five qualities and the dhyāna itself
+> constitute the sixfold final-limit attainment. Nirukti is
+> acquired through its power while occupying another level.
+> The qualities' mode of manifestation then differs:
 > deliberate application for the non-Buddha, intention-
 > dependent presence under complete mastery for the Buddha.
 
@@ -152,17 +153,17 @@ are continuously manifest at once.
 
 ```text
 Forward:
-    Desire-domain mind
+    Desire-domain Consciousness
     → First dhyana → Second → Third → Fourth
-    → Infinite Space → Infinite Consciousness
+    → Infinite Space → Infinite Cognition
     → Nothingness → Neither-Perception-Nor-Nonperception
 
 Reverse:
     Neither-Perception-Nor-Nonperception
-    → ... → First dhyana → Desire-domain mind
+    → ... → First dhyana → Desire-domain Consciousness
 
 Final forward movement:
-    Desire-domain mind
+    Desire-domain Consciousness
     → First → Second → Third → Fourth dhyana
 ```
 
@@ -185,17 +186,17 @@ necessary determinations of the defined final-limit dhyāna.
 The first concerns ordered range-integration; the second
 concerns degree of development.
 
-**The six and the five.**
+**The two sixes.**
 
-| Relation to final-limit dhyāna | Qualities |
+| Relation to final-limit dhyāna | Members |
 |---|---|
-| Forms explicitly enumerated on its fourth-dhyāna ground | Araṇā, resolve-knowledge, dharma-, artha-, and pratibhāna-pratisaṃvid |
-| Acquired through its power but intrinsically lower-grounded | Nirukti-pratisaṃvid |
-| Full dependency-set | All six qualities |
+| Five qualities on its fourth-dhyāna level | Araṇā, Knowledge through resolve, dharma-, artha-, and pratibhāna-pratisaṃvid |
+| Sixth constituent | Final-limit fourth dhyāna itself |
+| Acquired through its power but outside the fourth-dhyāna level | Nirukti-pratisaṃvid |
 
-This resolves the compressed enumeration without making
-nirukti fourth-dhyāna-grounded and without reducing the
-sixfold count to five.
+The 7.40 list of six *acquired qualities* includes nirukti,
+whereas 7.41's sixfold constitution includes the dhyāna
+itself. The two enumerations have different subjects.
 
 **Modes of manifestation.**
 
@@ -215,7 +216,7 @@ intention or collapse intention into the resulting quality.
 
 ## 9. Interpretive Note
 
-**Translation note.** Source: Pradhan 420|07–421|03. The last Buddha/non-Buddha
+**Translation note.** Source: [420|08]–[421|03]. The last Buddha/non-Buddha
 distinction is stated by the Bhāṣya and should not be
 reduced to an unstated psychology of habituation.
 
@@ -238,10 +239,10 @@ official study preserves that stronger source claim.
 **Textual caution.** The running source has `tatṣaḍivadhaṃ`,
 `prantakoṭikam`, `buddhatuṇāḥ`, and a compressed final
 `pratibadhaḥ`. The separate verse witness and continuous
-prose secure the sixfold, final-limit, Buddha-quality,
-and intention-dependent readings. The apparently five-member
-enumeration is resolved through the explicit nirukti
-qualification, not by inventing a seventh quality.
+prose secure the sixfold, final-limit, and intention-dependent
+readings. `Buddhatuṇāḥ` is not restored here. The five named
+qualities plus the dhyāna itself form the sixfold constitution;
+nirukti is an acquired quality outside that constitution.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 This is a decisive Yoga Technē passage. It supplies an
@@ -267,10 +268,11 @@ this as the passage from cultivated Technē to free mastery,
 provided it keeps the source's explicit denial of Buddha
 `prayoga` and does not substitute a merely automated routine.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The traversal, graded intensification, five/six distinction,
-and Buddha/non-Buddha manifestation rule are checked against
-the complete local source span.
+**Review status.** Complete [420|08]–[421|03] local unit
+reviewed against `kosabhasya.txt`, including [420|07] and
+[421|03–04] boundaries. The sixfold constitution, traversal,
+graded intensification, and Buddha/non-Buddha manifestation
+rule are checked; damaged forms remain open.
 
 ## 10. OWL++ Seed
 
@@ -293,7 +295,11 @@ FinalLimitDhyana:
     development: WeakToMediumToStrong
     result: SummitOfIncrease
 
-DependencySet: Arana, ResolveKnowledge,
+ConstituentsOfFinalLimitDhyana: Arana, ResolveKnowledge,
+    DharmaPratisamvid, ArthaPratisamvid,
+    PratibhanaPratisamvid, FinalLimitDhyanaItself
+
+QualitiesAcquiredThroughItsPower: Arana, ResolveKnowledge,
     DharmaPratisamvid, ArthaPratisamvid,
     NiruktiPratisamvid, PratibhanaPratisamvid
 

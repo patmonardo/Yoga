@@ -217,11 +217,11 @@ equality and an irrelevant body.
 
 **Textual limits.** The running source has malformed
 compounds in the power catalogue, the field-of-merit
-explanation, and the final quotation. The research excerpt
-uses an ellipsis over much of the devotional conclusion.
-This study includes its readable argument while leaving
-damaged details unexpanded. The three principal excellences
-and the clear fourfold lists do not depend on repairing
+explanation, and the final quotation. The Sanskrit in the Bhāṣya study
+retains the complete local unit, including the devotional conclusion
+and its damaged wording. This paired study construes the readable
+argument without restoring those letters. The three principal
+excellences and the clear fourfold lists do not depend on repairing
 those passages.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
@@ -248,9 +248,10 @@ That interpretive contact should retain the source's
 language of reverence and merit, without recasting its
 entire purpose as an abstract technical architecture.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The equality/difference account and full natural conclusion
-have been read through the explicit closure at 416|17.
+**Review status.** Complete local Bhāṣya unit [415|11]–[416|17]
+reviewed against `kosabhasya.txt`; the adjacent [415|10] and [416|18]
+boundaries were checked. The equality/difference account and full natural
+conclusion are translated through the explicit closure at [416|17].
 The compressed beneficence and effective-power catalogues,
 and damaged closing quotation, retain stated limits.
 

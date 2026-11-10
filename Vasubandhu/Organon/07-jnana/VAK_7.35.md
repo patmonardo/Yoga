@@ -15,7 +15,7 @@ araṇāpraṇidhijñānapratisaṃvidguṇādayaḥ || 7.35 ||
 ```
 
 The Sanskrit follows the local kārikā witness, with its
-editorial compound-hyphens removed. The preceding prose
+editorial compound-hyphens removed. The preceding prose at [416|17]
 closes the eighteen unshared Buddha-qualities. This verse
 opens another class of qualities belonging to Buddhas
 but shared, as applicable, with other practitioners.
@@ -78,8 +78,8 @@ discriminating knowledges, and so forth, as applicable.
 
 
 > Other excellent qualities of Buddhas are shared with śrāvaka disciples,
-> and some also with ordinary persons, as appropriate: araṇā, resolve-
-> knowledge, discriminating knowledges, and so forth.
+> and some also with ordinary persons, as appropriate: araṇā, Knowledge
+> through resolve, discriminating knowledges, and so forth.
 
 ## 6. Philosophical Translation
 
@@ -117,7 +117,7 @@ status without conferring noble attainment by that fact.
 
 **`Araṇā`.** Freedom from conflict. The continuation makes
 its relational character clear: an arhat seeks to avoid
-becoming the object occasioning afflictions in others.
+becoming the Support occasioning afflictions in others.
 The term is not exhausted by the arhat's own inner calm.
 
 **`Praṇidhijñāna`.** Knowledge through resolve. This is
@@ -169,28 +169,27 @@ Every sravaka possesses every listed quality.
 Shared quality-kind entails identical range or mastery.
 ```
 
-**The opening araṇā explanation.** At 417|02–05, a certain
+**The opening araṇā explanation.** At [417|02–05], a certain
 arhat knows that beings' suffering arises from afflictions
 and recognizes himself as a distinguished recipient of
 offerings. Wishing to avoid others' afflictions arising
-with himself as their object, he produces the relevant
-knowledge. The prose names attachment, hatred, and pride
+with himself as their Support, he produces the relevant
+Knowledge. The prose names attachment, hatred, and pride
 as afflictions not arising toward him in this account.
 It explains the name through a course that does not
 provoke conflict in another.
 
 This introduction establishes the direction of the
-undertaking. Its knowledge nature, support, bearer, and
+undertaking. Its Knowledge nature, Support, bearer, and
 further limits are the subject of VAK 7.36, so the present
 study does not turn the introductory wording into an
 unqualified power to eliminate every affliction in others.
 
 ## 9. Interpretive Note
 
-**Translation note.** Source: Pradhan 416|17–417|02. The immediate continuation
-introduces araṇā before its classification in VAK 7.36;
-that introduction is noted below without advancing the
-official verse sequence.
+**Translation note.** Complete local source unit: [416|18]–[417|05].
+The araṇā introduction belongs here; its classification as conventional
+Knowledge starts VAK 7.36 at [417|06]. [416|17] closes VAK 7.34.
 
 **Do not infer distribution from the list alone.** The
 catalogue and its bearer-classes are related by `yathāyogam`.
@@ -235,10 +234,12 @@ the project's practical interpretation should not exceed
 the particular arhat undertaking described by the source.
 The coming analysis will supply its constraints.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The sharing qualification, expanded catalogue, and opening
-araṇā explanation are source-checked. Individual possession
-and support assignments remain for their respective verses.
+**Review status.** Complete [416|18]–[417|05] local Bhāṣya unit reviewed
+against `kosabhasya.txt`, with both adjacent boundaries checked.
+The sharing qualification, expanded catalogue, and full araṇā
+introduction are translated. The catalogue joins and `bhena` remain
+damaged; individual possession and Support assignments remain for their
+respective verses.
 
 ## 10. OWL++ Seed
 

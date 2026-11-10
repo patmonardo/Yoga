@@ -84,8 +84,9 @@ just as the [corresponding] power. Five [are] in the four dhyānas.
 
 > Four higher knowledges—extraordinary efficacy, divine hearing, former-
 > abode recollection, and death-and-reappearance—have conventional knowledge
-> as their nature. Other-mind higher knowledge comprises five knowledge
-> categories: dharma, anvaya, Path, conventional, and other-mind knowledge.
+> as their nature. Higher knowledge of another's Consciousness comprises five
+> Knowledge categories: dharma, anvaya, Path, conventional, and Knowledge of
+> another's Consciousness.
 > Influx-exhaustion higher knowledge is as the corresponding power; the
 > other five are supported on the four dhyānas.
 
@@ -112,15 +113,15 @@ does not by itself place it outside this category. Nor
 is “has a conditioned object” sufficient to explain this
 classification: path-knowledge also has a conditioned object.
 
-**`Jñānapañcaka`.** Five knowledge-categories: dharma,
-anvaya, path, conventional, and other-mind knowledge.
+**`Jñānapañcaka`.** Five Knowledge categories: dharma,
+anvaya, Path, conventional, and Knowledge of another's Consciousness.
 This is a classification across the forms of the capacity,
 not a claim that every occurrence contains five separate
 simultaneous cognitive acts.
 
 **`Kṣayābhijñā`.** Influx-exhaustion higher knowledge.
 The six-or-ten alternative inherits the earlier semantic
-distinction: knowledge taking cessation as object comprises
+distinction: Knowledge taking cessation as Support comprises
 six categories; knowledge in the continuum of one whose
 influxes are exhausted comprises all ten. The six are
 dharma, anvaya, cessation, exhaustion, non-arising, and
@@ -168,11 +169,11 @@ available at every level.
 
 **Why the first five are absent from formless grounds.**
 The prose first excludes three because they take form
-as object: extraordinary efficacy, divine hearing, and
+as **Support** (*ālambana*): extraordinary efficacy, divine hearing, and
 death-and-rebirth knowledge. Here `rūpa` covers material
 objects, including sound; it does not mean visible colour alone.
 
-Other-mind knowledge takes mind as object, but is produced
+Knowledge of another's Consciousness takes Consciousness as Support but is produced
 through a form-based route. The practitioner takes up the
 relation between his own bodily and mental conditions,
 then attends to others through that relation. Once the
@@ -183,9 +184,9 @@ that sign, and independence from that sign does not
 establish a new formless supporting ground.
 
 **Acquiring recollection.** The prose describes attention
-backward from the immediately ceased mental cognition
-through preceding states toward the linking mind and
-intermediate existence. It also cites such objects as
+backward from the immediately ceased mental Cognition
+through preceding states toward the linking Consciousness and
+intermediate existence. It also cites such Supports as
 place and lineage. The local wording around the transition
 to intermediate existence and death is damaged; the exact
 micro-sequence remains a textual-review question.
@@ -220,7 +221,9 @@ Both:
 
 ## 9. Interpretive Note
 
-**Translation note.** Source: the local Bhāṣya witness, Pradhan 421|13–422|14.
+**Translation note.** Source: the complete local Bhāṣya unit
+[421|13]–[422|13–14]. [421|12] closes 7.42; `tāḥ punaretāḥ
+pañcābhijñāḥ` at [422|14] opens 7.44.
 The cross-reference is controlled by the studies of
 [VAK 7.29](./VAK_7.29.md) and [VAK 7.30](./VAK_7.30.md).
 The following prose explains acquisition and the exclusion
@@ -236,9 +239,9 @@ five psychological descriptions with five named knowledge-
 categories. The original research witness remains intact.
 
 **Textual cautions.** The prose prints `caturthadhyānabhūmikāḥ`,
-which on its surface suggests the fourth dhyāna. The verse's
-unambiguous `dhyānacatuṣṭaye` controls the four-dhyāna
-reading here; the prose form remains a witness problem.
+which on its surface specifies the fourth dhyāna. The verse's
+`dhyānacatuṣṭaye` and [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7027)
+support the four-dhyāna reading; the local prose remains a witness problem.
 Other irregularities include `jñānavalam`, `abhhijñā`,
 `jñātvyā`, and `udgṛhlāti`. The expressions around
 `anupūrvāvasthāntaramaraṇābhiniṣpatteḥ` and the subsequent
@@ -264,12 +267,12 @@ the Bhāṣya explicitly states sign-independent knowing
 and recollection that skips stages, without supplying
 that philosophical terminology.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The four-member set, five named categories, exhaustion-
-power cross-reference, four dhyānas, and distinction
-between acquisition and accomplishment have been checked
-against the local witnesses. Damaged prose remains marked
-for textual review.
+**Review status.** Complete [421|13]–[422|13–14] unit
+reviewed against `kosabhasya.txt`, with both adjacent boundaries
+checked. All 31 substantive lines, the four-member set, five named
+categories, power cross-reference, and acquisition sequence are covered.
+The prose's fourth-dhyāna form and the recollection micro-sequence remain
+open textual questions.
 
 ## 10. OWL++ Seed
 

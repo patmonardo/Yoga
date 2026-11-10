@@ -5,9 +5,9 @@
 > saṃvṛtijñānam araṇā dhyāne 'ntye 'kopyadharmaṇaḥ |
 > nṛjā anutpannakāmāptasavastukleśagocarāḥ || 7.36 ||
 
-> Araṇā is conventional knowledge, grounded in the final dhyāna, of an
-> immovable arhat. It arises among humans and has unarisen desire-domain
-> afflictions connected with determinate objects as its field.
+> Araṇā is conventional Knowledge, grounded in the final dhyāna, of an
+> immovable arhat. It arises among humans. Its field is unarisen desire-domain
+> afflictions grounded in determinate Things.
 
 Transmitted `gocarāḥ` vs singular araṇā recorded, not repaired. Next sentence
 of the source opens 7.37.
@@ -16,57 +16,61 @@ Kārikā study: [`VAK_7.36.md`](./VAK_7.36.md).
 
 ## 2. Continuous Sanskrit
 
-> kaścid evārhan kleśaprabhavaṃ sattvānāṃ duḥkhaṃ viditvātmānaṃ ca dakṣiṇīyaviśeṣaṃ pareṣāṃ tadālambanaṃ kleśotpādaṃ parihartukāmas tādṛśaṃ jñānam utpādayati yena pareṣāṃ sarvathā 'pi raṇaṃ notpādayati /
-> na kasyacit tadālambano rāga utpadyate dveṣo māno vā /
-> naiṣā pratipat kañcid eva raṇayatīty araṇā /
-> ayam asyā svabhāvaḥ /
-> caturthadhyānabhūmikā sukhapratipadāmagratvāt /
+>      saṃvṛtijñānamaraṇā
+> ayamasyā svabhāvaḥ /
+>      dhyāne 'ntye
+> caturthadhyāna bhūmikā sukhapratipadāmagratvāt /
+>      akopyadharmaṇaḥ /
 > nānyasyārhataḥ /
-> anyo hi svasaṃtānād api kadācit kleśaraṇaṃ parihartuṃ na śaknoti /
-> manuṣyeṣv evotpadyate triṣu dvīpeṣu /
-> anāgatāḥ kāmāvacarāḥ savastukāḥ kleśā asyā ālambanam /
-> avastukās tu kleśā na śakyāḥ parihartuṃ sarvatragāṇāṃ sakalasvabhūmyālambanatvāt /
+> anyo hi svasaṃtānādapi kadācit kleśaraṇaṃ parihartu na śaknoti /
+>      nṛjā
+> manuṣyeṣvevotpadyate triṣu dvīpeṣu /
+>      anutpannakāmāptasavastukleśagocarāḥ // VAkK_7.36 //
+> anāgatāḥ kāmāvacarāḥ savastukāḥ kleśāḥ asyā ālambanaṃ nāpareṣāṃ kleśa udapādītyevaṃ pravṛttatvāt /
+> avastukāstu kleśā na śakyāḥ parihartuṃ sarvatragāṇāṃ sakalasvabhūmyālambanatvāt /
 
-**Witness.** Pradhan 417|02–18. `Bhena` and compressed purpose-clause unrestored.
-Voice: Vasubandhu.
+**Witness.** Complete local `kosabhasya.txt` unit [417|06]–[417|17–18].
+The continuation lead-in `sā punareṣā` at [417|05] belongs to 7.35;
+`yathā cāraṇoktā` at [417|18] opens 7.37. The source label
+`[341|711-41711]` is malformed, and the final verse ending `gocarāḥ`
+remains in tension with singular `araṇā`.
 
 ## 3. Continuous Translation
 
-> A certain arhat, knowing beings' suffering as born of afflictions and himself
-> a distinguished recipient of offerings, wishing to avoid afflictions arising
-> in others with himself as their object, produces such knowledge that he does
-> not occasion conflict in others in any way. Attachment, hatred, or pride
-> having him as object arises in no one. This course does not provoke anyone
-> into conflict: hence araṇā.
+> “Araṇā is conventional Knowledge.” This is its nature. “In the final
+> dhyāna”: it belongs to the fourth dhyāna level, because that is foremost
+> among courses of ease. “Of an immovable one”: not of another arhat. For
+> another arhat may sometimes be unable to avoid afflictive conflict even
+> from his own continuum. “Arising among humans”: it arises among humans
+> in the three continents.
 >
-> This is its nature: conventional knowledge. In the final dhyāna — the fourth,
-> as foremost among courses of ease. Of an immovable one, not of another arhat:
-> another cannot always avoid afflictive disturbance even from his own continuum.
-> It arises among humans, in three continents.
->
-> Future desire-domain determinate-object afflictions are its object-support.
-> Avastuka afflictions cannot be avoided this way: the pervasive ones take the
-> whole of their own level as object.
+> “Having unarisen, desire-domain afflictions grounded in determinate Things
+> as its field” [the transmitted plural ending is uncertain].
+> Future, desire-domain afflictions with a determinate Thing as their basis
+> are its Support, because it operates with the thought, “May no affliction
+> arise in others” [the local wording is compressed]. Afflictions classed
+> as *avastuka* cannot be avoided: the pervasive afflictions take the whole
+> of their own level as Support.
 
 ## 4. Movement of the Commentary
 
 ```text
-suffering from kleśa + I am dakṣiṇīya
-    → do not become others' afflictive object
-    → conventional knowledge, fourth dhyāna, immovable arhat, three continents
-    → field: future / kāma / savastuka
-    → avastuka out (whole-level object)
+7.35: the arhat's undertaking, already introduced
+    → conventional Knowledge as araṇā's constitution
+    → fourth dhyāna, immovable arhat, three continents
+    → Support: future / desire domain / savastuka afflictions
+    → avastuka excluded (whole-own-level Support)
 ```
 
-## 5. Two Object-Relations
+## 5. Two Support Relations
 
-Araṇā knows a possible affliction in another. That affliction would take *this*
-arhat as object. Not the same arrow twice.
+Araṇā has a possible affliction in another as Support. That affliction
+would take *this* arhat as Support. Not the same arrow twice.
 
 Not: own inner calm only. Not: control of every state in another. Not: future
 means the affliction must later happen. Immovable bearer ≠ automatic exercise.
-Three continents ≠ Jambūdvīpa-only of 7.30. Avastuka ≠ literally no object —
-range is the whole own level.
+Three continents ≠ Jambūdvīpa-only of 7.30. Avastuka ≠ literally no Support —
+Support-range is the whole own level.
 
 No method of speech, gait, or appearance is prescribed here.
 
@@ -74,11 +78,11 @@ No method of speech, gait, or appearance is prescribed here.
 
 | | |
 |---|---|
-| nature | conventional knowledge |
-| support | fourth dhyāna |
+| nature | conventional Knowledge |
+| meditative level | fourth dhyāna |
 | bearer | immovable arhat |
 | arising | humans, three continents |
-| field | future kāma savastuka kleśas |
+| Support | future desire-domain savastuka afflictions |
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
@@ -93,13 +97,16 @@ This section is reconstruction.
 
 Practical Reason: the agent is a feature inside the jñāna-model of another's
 possible response. Qualitative Concept of conduct stays inside the Idea.
-Boundary is Technē: only determinate-object occasions. Appearance would claim
-universal management of other minds. Paramārtha does kāmadhātu — this quality
+Boundary is Technē: only occasions grounded in determinate Things.
+Appearance would claim universal management of other minds. Paramārtha
+does kāmadhātu — this quality
 works in the visible enclosure, not above it.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.36.md`
-(Pradhan 417|02–18). Final
-agreement and purpose-clause open. `kosabhasya.txt` collation pending.
-Provisional.
+Complete [417|06]–[417|17–18] local unit checked against
+`kosabhasya.txt`: all twelve substantive lines, including quoted verse
+fragments, constituent explanations, and the exclusion of *avastuka*
+afflictions, appear above and are translated. [417|05] closes 7.35;
+`yathā cāraṇoktā` at [417|18] begins 7.37. The malformed page label,
+verse's plural ending, and compressed purpose clause remain open.

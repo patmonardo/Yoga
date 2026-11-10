@@ -4,21 +4,22 @@
 
 ```sanskrit
 ऋद्धिश्रोत्रमनःपूर्वजन्मच्युत्युदयक्षये ।
-ज्ञातसाक्षीक्रियाभिज्ञाः षड्विधा मुक्तिमार्गधीः ॥ ७.४२ ॥
+ज्ञात साक्षीक्रियाभिज्ञा षड् विधा मुक्तिमार्गधीः ॥ ७.४२ ॥
 ```
 
 ## 2. Sanskrit (IAST)
 
 ```text
 ṛddhiśrotramanaḥpūrvajanmacyutyudayakṣaye |
-jñātasākṣīkriyābhijñāḥ ṣaḍvidhā muktimārgadhīḥ || 7.42 ||
+jñāta sākṣīkriyābhijñā ṣaḍ vidhā muktimārgadhīḥ || 7.42 ||
 ```
 
-The Sanskrit follows the local kārikā witness. The running
-Bhāṣya prints `ṛddhhi-` and `cyutyutpapāda-`; these are
-electronic transcription defects. Its prose clarifies the
-compressed `jñātasākṣīkriyā` through repeated expressions
-of the form `jñānasākṣātkriyā`.
+The Sanskrit follows the separate local kārikā witness,
+including its spacing and singular `abhijñā` and `dhīḥ`.
+The Devanāgarī is an editorial transcription, not another
+witness. The running Bhāṣya has damaged `ṛddhhi-` and
+`cyutyutpapāda-`; its prose construes the compressed
+`jñāta sākṣīkriyā` with `jñānasākṣātkriyā`.
 
 ## 3. Lexical Analysis
 
@@ -30,13 +31,12 @@ of the form `jñānasākṣātkriyā`.
 | `pūrvajanma` | compound member | former birth, expanded as former abodes |
 | `cyutyudaya` | compound member | death and arising / reappearance |
 | `kṣaye` | locative singular masculine | concerning exhaustion of the influxes |
-| `jñātasākṣīkriyā` | compressed compound member | direct cognitive realization |
-| `abhijñāḥ` | nominative plural feminine | higher knowledges |
-| `ṣaḍvidhāḥ` | nominative plural feminine adjective | sixfold |
-| `muktimārgadhīḥ` | nominative plural feminine compound | cognitions of the liberation path |
+| `jñāta sākṣīkriyā` | compressed and uncertain join | direct realization by Knowledge, as the prose construes it |
+| `abhijñā` | nominative singular feminine | higher knowledge, collectively sixfold |
+| `ṣaḍ vidhā` | feminine singular predicate, with separate witness spacing | sixfold |
+| `muktimārgadhīḥ` | nominative singular feminine compound | liberation-Path comprehension |
 
-`Cyuti + udaya` yields `cyutyudaya`; `kriyā + abhijñāḥ`
-yields `kriyābhijñāḥ`. The string of fields in the first
+`Cyuti + udaya` yields `cyutyudaya`. The string of fields in the first
 half is distributive: it names six objects for six higher
 knowledges, not one compound object possessed by each.
 
@@ -55,10 +55,11 @@ same compound to the remaining five. `Sākṣātkriyā` marks
 making directly present or realizing; it should not be
 reduced to knowing a proposition merely by report.
 
-**Two plural predicates.** `Ṣaḍvidhāḥ` and `muktimārgadhīḥ`
-agree with `abhijñāḥ`. The second identifies their cognitive
-nature as liberation-path prajñā in the prose. It does
-not state that “liberation path” is a seventh abhijñā.
+**Two singular predicates.** The separate witness prints
+`abhijñā ṣaḍ vidhā muktimārgadhīḥ`. It describes higher
+knowledge collectively as sixfold and as liberation-Path
+comprehension. The prose explicitly distributes the latter
+nature across all six; it does not introduce a seventh member.
 
 **Close construe.** The higher knowledges are sixfold:
 direct cognitive realizations concerning extraordinary
@@ -106,8 +107,9 @@ Bhāṣya defines it through `jñānasākṣātkriyā`, direct
 cognitive realization. “Supernormal power” captures
 some members poorly if used as the definition of the whole.
 
-**`Ṛddhiviṣaya`.** The field of extraordinary efficacy.
-The present passage names the field and direct realization;
+**`Ṛddhiviṣaya`.** Extraordinary efficacy as cognitive
+**Condition** (*viṣaya*), here the specified field of direct
+realization. The present passage names that field;
 the detailed kinds and manifestations of ṛddhi belong
 to the later analysis.
 
@@ -133,10 +135,11 @@ determination is the death and reappearance of beings.
 the field of the sixth direct realization, not an assertion
 that every kind of hidden-state knowledge exhausts bondage.
 
-**`Vimuktimārgaprajñā`.** Discriminative knowing belonging
-to a liberation path. `Prajñā` should be translated as
-cognition or discriminative comprehension here, rather than
-the abstract “principle” used in the research file.
+**`Vimuktimārgaprajñā`.** Discriminative comprehension belonging
+to a liberation Path. This is the Bhāṣya's explanation of
+the verse's `muktimārgadhīḥ`. **Principle** remains the
+Organon determination of *prajñā*; the continuous translation
+states the cognitive nature asserted in this passage.
 
 ## 8. Logical Determination
 
@@ -181,7 +184,8 @@ four fruits or add those fruits to the sixfold inventory.
 
 ## 9. Interpretive Note
 
-**Translation note.** Source: Pradhan 421|03–421|12. The category and level
+**Translation note.** Source: [421|03–04]–[421|12]. [421|03] closes 7.41;
+`catasraḥ saṃvṛtijñānaṃ` at [421|13] begins 7.43. The category and level
 distributions begin immediately afterward in VAK 7.43;
 they should control further claims about the difference
 between the first five and the sixth.
@@ -201,12 +205,14 @@ conditions. `Sākṣātkriyā` distinguishes direct realization
 from mere report or inference; it does not mean causeless,
 simultaneous, or universally infallible cognition in every bearer.
 
-**Textual caution.** The verse's `jñātasākṣīkriyā` is
-highly compressed. The repeated prose form
-`jñānasākṣātkriyā` controls its semantic determination.
-The running source's `śrādaka`, `ṛddhhi`, and
-`cyutyutpapāda` are evident transcription problems and
-are left untouched in the witness.
+**Textual caution.** The separate verse source prints
+`jñāta sākṣīkriyābhijñā ṣaḍ vidhā muktimārgadhīḥ`;
+its three singular forms replace the study's earlier
+silent plural normalization. The prose form
+`jñānasākṣātkriyā` controls the working sense of the
+compressed `jñāta sākṣīkriyā`. The running source's
+`śrādaka`, `ṛddhhi`, and `cyutyutpapāda` remain visible;
+their exact letters are not restored here.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 This verse presents knowledge as cultivated direct access
@@ -232,10 +238,12 @@ and Technē meet here through direct realization and path-
 function while remaining distinct from spectacle or
 mere augmentation of reach.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The six fields, direct-realization definition, fivefold
-sharing, and liberation-path cognition are checked against
-the complete local source span.
+**Review status.** Complete [421|03–04]–[421|12] local unit
+reviewed against `kosabhasya.txt`, including [421|03] and
+[421|13] boundaries. All twelve substantive lines and the
+separate kārikā witness were checked. The six fields,
+fivefold sharing, and liberation-Path nature are covered;
+the damaged forms remain open.
 
 ## 10. OWL++ Seed
 

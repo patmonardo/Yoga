@@ -30,7 +30,7 @@ expansion secure the intended name/meaning/speech distinction.
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tisraḥ` | nominative plural feminine numeral | the three [discriminating knowledges] |
-| `nāmārthavāgjñānam` | nominative singular neuter compound | knowledge of name, meaning, and speech, distributively |
+| `nāmārthavāgjñānam` | nominative singular neuter compound | Knowledge of name, meaning, and speech, distributively |
 | `avivartyam` | nominative singular neuter adjective | unfailing, not turned back |
 | `yathākramam` | adverbial compound | respectively, in the stated order |
 | `caturthī` | nominative singular feminine ordinal | the fourth [discriminating knowledge] |
@@ -48,7 +48,7 @@ fields: fitting/free expression and Path-mastery.
 **The first three in order.** Supply `pratisaṃvidaḥ`
 with `tisraḥ`. `Yathākramam` assigns dharma-, artha-,
 and nirukti-pratisaṃvid to name, meaning, and speech
-respectively. The singular `jñānam` states the knowledge
+respectively. The singular `jñānam` states the Knowledge
 character distributively; it does not fuse the three
 into one indistinguishable act.
 
@@ -61,8 +61,8 @@ automatically meaning all dharmas as possible objects.
 
 **The fourth retains the predicate.** The commentary
 explicitly says `avivartyaṃ jñānam iti vartate`:
-“unfailing knowledge” continues to govern the fourth.
-It is therefore knowledge concerning the stated fields,
+“unfailing Knowledge” continues to govern the fourth.
+It is therefore Knowledge concerning the stated fields,
 not simply an unqualified assertion that the fourth
 is mastery itself.
 
@@ -74,24 +74,24 @@ Path as the fourth's objects, confirming the two-field
 structure without requiring a conjectural full restoration.
 
 **Close construe.** The three are respectively unfailing
-knowledge of name, meaning, and speech. The fourth is
-[unfailing knowledge] concerning fitting and free expression
+Knowledge of name, meaning, and speech. The fourth is
+[unfailing Knowledge] concerning fitting and free expression
 and mastery of the Path.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The three are respectively unfailing knowledge of name,
-> meaning, and speech. The fourth is such knowledge
+> The three are respectively unfailing Knowledge of name,
+> meaning, and speech. The fourth is such Knowledge
 > concerning fitting and free expression and mastery
 > of the Path.
 
 ### Bhāṣya-informed study translation
 
 
-> The first three are, respectively, unfailing knowledge concerning name,
-> meaning, and speech. The fourth is likewise unfailing knowledge,
+> The first three are, respectively, unfailing Knowledge concerning name,
+> meaning, and speech. The fourth is likewise unfailing Knowledge,
 > concerning fitting and unimpeded expression and mastery of the Path.
 
 ## 6. Philosophical Translation
@@ -111,10 +111,10 @@ of the first three. Its own fields must be retained.
 
 ## 7. Technical Vocabulary
 
-**`Avivartyajñāna`.** Unfailing or non-reversing knowledge.
+**`Avivartyajñāna`.** Unfailing or non-reversing Knowledge.
 The commentary explicitly extends this determination
 to all four. The passage does not equate this term
-with the Buddha's unrestricted knowledge throughout
+with the Buddha's unrestricted Knowledge throughout
 the knowable field in VAK 7.30.
 
 **`Nāma`, `pada`, `vyañjana`, `kāya`.** Names, phrases,
@@ -136,10 +136,10 @@ though both concern language.
 **`Yuktamuktābhilāpa`.** Fitting and free expression.
 “Fluent” is a useful study rendering of the second
 qualification, but should not make fluency alone the
-definition of the fourth knowledge.
+definition of the fourth Knowledge.
 
 **`Mārgavaśitva`.** Mastery of the Path. This is included
-in what the fourth knowledge concerns. The source does
+in what the fourth Knowledge concerns. The source does
 not here state that every speech act itself constitutes
 the liberating Path.
 
@@ -147,10 +147,10 @@ the liberating Path.
 
 | Discriminating knowledge | Stated field | Common determination |
 |---|---|---|
-| Dharma | Names, phrases, and verbal units | Unfailing knowledge |
-| Artha | Meaning / matter meant | Unfailing knowledge |
-| Nirukti | Speech | Unfailing knowledge |
-| Pratibhāna | Fitting/free expression and Path-mastery | Unfailing knowledge |
+| Dharma | Names, phrases, and verbal units | Unfailing Knowledge |
+| Artha | Meaning / matter meant | Unfailing Knowledge |
+| Nirukti | Speech | Unfailing Knowledge |
+| Pratibhāna | Fitting/free expression and Path-mastery | Unfailing Knowledge |
 
 The governing distinction is:
 
@@ -162,32 +162,32 @@ KnowledgeKind → characterizedAs → AvivartyaKnowledge
 Do not replace the fourth row with `KnowledgeKind =
 PathMastery` merely because mastery occurs in its object
 expression. The carried predicate explicitly keeps
-knowledge as the governing determination.
+Knowledge as the governing determination.
 
-VAK 7.37 established immovable-arhat and human support
+VAK 7.37 established immovable-arhat and human Basis
 as shared conditions. This verse begins differentiated
 definitions; it does not import araṇā's fourth-dhyāna
-support and conventional-knowledge constitution into
+level and conventional-Knowledge constitution into
 all four. Those distributions remain for the following
 verses.
 
-The next verse's speech/Path object statement is a
+The next verse's speech/Path Support statement is a
 bounded textual control for the difficult fourth-member
 gloss, not permission to anticipate its complete analysis
 here.
 
 ## 9. Interpretive Note
 
-**Translation note.** Source: Pradhan 418|13–418|18. The immediate continuation
-at 418|19–20 confirms speech and Path as the fourth's
-object-fields. Their full knowledge-category and level
-analysis belongs to VAK 7.39.
+**Translation note.** Complete local source unit: [418|13]–[418|17–18].
+[418|12] closes 7.37; the continuation at [418|19–20] begins 7.39
+and confirms speech and Path as the fourth's Supports. Their full
+Knowledge-category and level analysis belongs to VAK 7.39.
 
 **A precise correction to the earlier draft.** Rendering
 the fourth simply as “mastery concerning expression
 and the Path” loses the Bhāṣya's explicit continuation
 of `avivartyaṃ jñānam`. The official translation preserves
-unfailing knowledge concerning those fields.
+unfailing Knowledge concerning those fields.
 
 **Source-form cautions.** The separate verse source supports
 `yuktamukta`, whereas the running Bhāṣya's quoted lemma
@@ -197,7 +197,10 @@ verse reading and acknowledges the samādhi-related prose
 without fabricating its exact restoration. The first
 prose sentence is also compressed around the meaning/
 speech terms; the named triad and `yathākramam` secure
-the ordered mapping.
+the ordered mapping. [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7027)
+expands the fourth as fitting, unimpeded speech and mastery of the
+samādhi and prajñā paths; it supports the two-field construal without
+fixing the damaged local compound.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 The fourfold account gives our Yoga system a disciplined
@@ -223,11 +226,11 @@ three. Meaning emerges through these specified relations,
 not through replacing them with an attractive general
 analogy.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The ordered first-three mapping and common knowledge
-predicate are explicit. The fourth's two-field structure
-is supported by the verse and continuation; its damaged
-prose gloss remains flagged.
+**Review status.** Complete [418|13]–[418|17–18] local Bhāṣya unit
+reviewed against `kosabhasya.txt`, with [418|12] and [418|19]
+boundaries checked. All five substantive lines are translated;
+the first-three mapping and carried Knowledge predicate are explicit.
+The verse variants and damaged prose joins remain open.
 
 ## 10. OWL++ Seed
 

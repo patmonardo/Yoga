@@ -67,7 +67,7 @@ has acquired the pratisaṃvids. The prose supplies the
 positive implication: whoever has one necessarily has four.
 
 **The six.** `Ete` refers to the qualities beginning with
-araṇā already taught: araṇā, resolve-knowledge, and the
+araṇā already taught: araṇā, Knowledge through resolve, and the
 four discriminating knowledges. `Prāntakoṭikāḥ` states
 their dependence on final-limit cultivation; it does
 not make all six fourth-dhyāna states in their own level.
@@ -145,8 +145,8 @@ to that attainment; VAK 7.41 defines the cultivated
 fourth dhyāna bearing the designation.
 
 **`Pūrvaprayoga`.** Prior preparation. The prose records
-specific disciplines proposed as preparations for the
-four knowledges, then another account making the Buddha's
+four disciplines proposed respectively as preparations for the
+four discriminating knowledges, then another account making the Buddha's
 word the preparation for all. These are alternative
 preparatory analyses, not parts of the definition of
 each knowledge's nature.
@@ -195,21 +195,19 @@ skill is not thereby proved to possess all four attainments.
 Nor does complete possession make their different functions
 interchangeable.
 
-**Preparatory accounts.** One reported distribution assigns
-calculation, the Buddha's word, linguistic science, medicine,
-and reasoning science as prior preparations, in an order
-whose exact attachment is difficult because five disciplines
-are juxtaposed with four pratisaṃvids. The prose concludes
-that someone without cultivated skill in these cannot
-produce the knowledges. Another account describes the
-Buddha's word alone as the preparation for all four.
-The study preserves the disagreement and does not fabricate
-a clean one-to-one table from the awkward list.
+**Preparatory accounts.** One reported distribution names four
+preparations in order: calculation, the Buddha's word,
+language science, and reasoning science. The local
+`śabdavaidyā` is damaged; [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7027)
+gives language science, without medicine. The prose says
+that someone unskilled in these cannot produce the four
+discriminating knowledges. Another account makes the
+Buddha's word alone the preparation for all four.
 
 **The six-quality dependency.**
 
 ```text
-SixQualities = {Arana, ResolveKnowledge,
+SixQualities = {Arana, KnowledgeThroughResolve,
     DharmaPratisamvid, ArthaPratisamvid,
     NiruktiPratisamvid, PratibhanaPratisamvid}
 
@@ -217,19 +215,20 @@ Acquisition(SixQualities)
     dependsOn PowerOf(FinalLimitDhyana)
 ```
 
-The continuation makes a crucial qualification. Araṇā,
-resolve-knowledge, and three pratisaṃvids are enumerated
-as forms of the final-limit fourth dhyāna. Nirukti is
-the sixth dependent quality: it is acquired through
-that dhyāna's power while itself remaining confined to
-the desire domain and first dhyāna. Shared acquisition-
-ground does not imply identical intrinsic support.
+VAK 7.41 makes a crucial qualification. Araṇā, Knowledge
+through resolve, and three pratisaṃvids are forms of
+final-limit fourth dhyāna; that dhyāna itself completes
+its sixfold constitution. Nirukti is the sixth acquired
+quality but is gained through that dhyāna's power, while
+itself remaining confined to the desire domain and first
+dhyāna. Shared acquisition-ground does not imply identical
+intrinsic level.
 
 ## 9. Interpretive Note
 
-**Translation note.** Source: Pradhan 419|12–420|11. The definition of final-limit
-dhyāna begins immediately after this verse and is completed
-under VAK 7.41.
+**Translation note.** Complete local source unit [419|12]–[420|07].
+[419|10–11] ends 7.39; `tatṣaḍivadhaṃ` at [420|08] begins
+7.41's distinct sixfold final-limit analysis.
 
 **The syntax is controlled without being erased.** The
 research file rightly warns about `dharme vit`, but the
@@ -246,21 +245,21 @@ does not make artha and pratibhāna “nonlinguistic” in
 every respect; it says their broader level-ranges follow
 different object and knowledge determinations.
 
-**Six qualities, five fourth-dhyāna forms.** The research
-kārikā study risks calling all six final-edge qualities
-one sixfold fourth-dhyāna attainment. The continuation's
-own qualification prevents that flattening. Nirukti belongs
-to the sixfold dependency-set but is not fourth-dhyāna-
-grounded. The distinction between acquisition through
-a power and intrinsic level must remain explicit.
+**Six acquired qualities and the next verse's six forms.**
+The six acquired qualities are araṇā, Knowledge through
+resolve, and four pratisaṃvids. The 7.41 continuation
+counts final-limit dhyāna itself with araṇā, Knowledge
+through resolve, and three pratisaṃvids, excluding nirukti
+from its intrinsic fourth-dhyāna forms. This forward note
+does not move 7.41's source lines into the 7.40 unit.
 
 **Textual caution.** Besides `dharme vit`, the nominal
 definition quotation contains damaged compounds, and
 the prior-preparation list has an uncertain distribution.
-The source also prints `prāṇtakoṭikāḥ` and `tatṣaḍivadhaṃ`
-near the transition. The supported `prāntakoṭika` and
-`ṣaḍvidha` readings are used in the study while the
-electronic witness remains untouched.
+The source prints `prāṇtakoṭikāḥ` in this unit and
+`tatṣaḍivadhaṃ` in the next verse. The supported
+`prāntakoṭika` and `ṣaḍvidha` readings are used in the
+paired kārikā studies while the local witness remains visible.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 This verse realizes a central form of our Yoga system:
@@ -285,11 +284,12 @@ makes the differentiated knowledge effective. That is
 project reconstruction, while the Sanskrit and Bhāṣya
 remain the controlling source layers.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The five- and two-level ranges, their reasons, complete
-co-acquisition, preparatory disagreement, and six-quality
-dependency are source-checked. The compressed opening
-and preparation-list attachment remain flagged.
+**Review status.** Complete [419|12]–[420|07] local Bhāṣya unit
+reviewed against `kosabhasya.txt`, with [419|10–11] and [420|08]
+boundaries checked. All nineteen substantive lines are translated,
+including the quoted definitions, four preparatory disciplines,
+co-acquisition, and six-quality dependency. The compressed opening,
+damaged quotation, and `śabdavaidyā` remain open.
 
 ## 10. OWL++ Seed
 
@@ -327,7 +327,7 @@ SupportQualification: NiruktiPratisamvid is not intrinsically
 
 ProjectConstraint: Complete acquisition does not erase functional difference.
 ProjectConstraint: Shared acquisition-ground does not imply identical support.
-ProjectConstraint: Do not force the damaged preparation list into a one-to-one mapping.
+ProjectConstraint: Keep the four-item preparatory account separate from the Buddha-word-alone account.
 ProjectConstraint: Preserve the transmitted dharme vit problem.
 ```
 

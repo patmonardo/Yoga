@@ -24,9 +24,9 @@ quality; they must not be inherited indiscriminately.
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tathaiva` | adverb and emphatic particle | just so, likewise |
-| `praṇidhijñānam` | nominative singular neuter | knowledge preceded by resolve |
-| `sarvālambam` | nominative singular neuter adjective | having all as its object-range |
-| `tat` | nominative singular neuter pronoun | that resolve-knowledge |
+| `praṇidhijñānam` | nominative singular neuter | Knowledge preceded by resolve |
+| `sarvālambam` | nominative singular neuter adjective | having all as its Support-range |
+| `tat` | nominative singular neuter pronoun | that Knowledge through resolve |
 | `tathā` | adverb | likewise, in specified respects |
 | `dharmārthayoḥ` | locative dual compound here | concerning dharma and meaning |
 | `niruktau` | locative singular feminine | concerning linguistic expression |
@@ -41,26 +41,26 @@ remain subject to the following verses' precise definitions.
 
 **The first comparison.** `Tathaiva praṇidhijñānam` refers
 back to araṇā. The prose enumerates the inherited conditions:
-conventional knowledge, final dhyāna, immovable arhat,
-and human support. `Tu` then introduces the difference:
-all dharmas are its object-range.
+conventional Knowledge, final dhyāna, immovable arhat,
+and human Basis. `Tu` then introduces the difference:
+all dharmas are its Support-range.
 
 **The second comparison.** The later `tathā` governs the
 four `saṃvidaḥ`. The Bhāṣya asks explicitly in what
 respect they are like araṇā and answers: immovable-arhat
-and human support. Their object, level, and nature are
+and human Basis. Their Support, level, and nature are
 to be stated separately. The first comparison's full
 inheritance therefore cannot be copied into the second.
 
-**Resolve preceding knowledge.** The prose defines
+**Resolve preceding Knowledge.** The prose defines
 `praṇidhijñāna` as `praṇidhipūrvakaṃ jñānam`. Its
 `praṇidhāya` is an absolutive: having resolved. The
 optative `idaṃ jānīyām`, “may I know this,” states the
 directed aim before entry into the specified fourth dhyāna.
 
-**Close construe.** Resolve-knowledge is likewise [as araṇā
-in the stated respects], but it has all as its object-range.
-Likewise [in bearer and human support] are the discriminating
+**Close construe.** Knowledge through resolve is likewise [as araṇā
+in the stated respects], but it has all as its Support-range.
+Likewise [in bearer and human Basis] are the discriminating
 knowledges concerning dharma, meaning, linguistic expression,
 and ready articulation.
 
@@ -68,20 +68,20 @@ and ready articulation.
 
 ### Literal Translation
 
-> Resolve-knowledge is likewise, but it has all as its
-> object-range. Likewise are the knowledges concerning
+> Knowledge through resolve is likewise, but it has all as its
+> Support-range. Likewise are the knowledges concerning
 > dharma and meaning, linguistic expression, and ready
 > articulation.
 
 ### Bhāṣya-informed study translation
 
 
-> Resolve-knowledge is likewise conventional knowledge, grounded in the
-> fourth dhyāna, belonging to an immovable arhat and arising with human
-> support; unlike araṇā, its object-range is all dharmas. The four
+> Knowledge through resolve likewise has conventional Knowledge as its
+> constitution, belongs to the fourth dhyāna and an immovable arhat, and
+> has a human Basis. Unlike araṇā, it has all dharmas as Support. The four
 > discriminating knowledges likewise share the immovable-arhat and human-
-> support conditions: they concern dharma and meaning, linguistic
-> expression, and ready articulation.
+> Basis conditions; they concern dharma and meaning, linguistic expression,
+> and ready articulation.
 
 ## 6. Philosophical Translation
 
@@ -93,22 +93,22 @@ and ready articulation.
 > knowledges then inherit only specified conditions,
 > leaving their particular constitutions open for analysis.
 
-The source does not describe every object as simultaneously
-present to one cognition. Nor does an object being within
-the range imply that it is known in an identical manner
-to every other object. Both restraints arise from the
+The source does not describe every Support as simultaneously
+present to one Cognition. Nor does inclusion in the
+Support-range imply that every dharma is known in an identical manner.
+Both restraints arise from the
 passage's own resolve-sequence and Vaibhāṣika qualification.
 
 ## 7. Technical Vocabulary
 
 **`Praṇidhipūrvaka`.** Preceded by resolve. Resolve is
-part of the stated genesis of the knowledge, not merely
+part of the stated genesis of the Knowledge, not merely
 an optional accompanying attitude.
 
-**`Sarvadharmālambana`.** Having all dharmas as object-range.
+**`Sarvadharmālambana`.** Having all dharmas as Support-range.
 This is broader than araṇā's future desire-domain savastuka
-afflictions. The breadth concerns eligible objects; it
-does not erase the support or bearer restrictions.
+afflictions. The breadth concerns eligible Supports; it
+does not erase the Basis or bearer restrictions.
 
 **`Prāntakoṭika`.** Developed to the culminating limit.
 The fourth dhyāna is qualified by this term in the
@@ -116,13 +116,13 @@ practice description. The passage does not reduce the
 attainment to any casual act of concentration.
 
 **`Yathābhūtam`.** As it actually is. This characterizes
-the knowing of the resolved object in the source's
+the knowing of the resolved Support in the source's
 account, without furnishing a general shortcut from
 desire to know to guaranteed knowledge.
 
 **`Na sākṣāt`.** Not directly. The Vaibhāṣika qualification
 concerns formless attainments. It limits manner of access,
-not their inclusion in the overall object-range.
+not their inclusion in the overall Support-range.
 
 **`Niṣpannacaritaviśeṣa`.** A distinction of accomplished
 conduct, a provisional close rendering. The compressed
@@ -130,22 +130,22 @@ phrase and bare farmer-reference do not supply a complete
 explanation of the inferential signs or procedure involved.
 
 **`Pratisaṃvid`.** Discriminating knowledge. Its four names
-are introduced here, while their precise technical objects
+are introduced here, while their precise technical Supports
 and constitutions are expressly deferred.
 
 ## 8. Logical Determination
 
-| Condition inherited from araṇā | Resolve-knowledge | Four discriminating knowledges |
+| Condition inherited from araṇā | Knowledge through resolve | Four discriminating knowledges |
 |---|---|---|
-| Conventional-knowledge nature | Explicitly retained | To be determined separately |
+| Conventional-Knowledge nature | Explicitly retained | To be determined separately |
 | Fourth-dhyāna level | Explicitly retained | To be determined separately |
 | Immovable-arhat bearer | Retained | Retained |
-| Human support | Retained | Retained |
-| Restricted araṇā object-field | Replaced by all-dharma range | To be determined separately |
+| Human Basis | Retained | Retained |
+| Restricted araṇā Support | Replaced by all-dharma range | To be determined separately |
 
 The table captures the prose's explicit answer to what
 “likewise” means in each case. It prevents an erroneous
-universal fourth-dhyāna or conventional-knowledge assignment
+universal fourth-dhyāna or conventional-Knowledge assignment
 to all four discriminating knowledges.
 
 The resolve account has the stated sequence:
@@ -153,12 +153,12 @@ The resolve account has the stated sequence:
 ```text
 Resolve: May I know this.
     → Entry into culminating fourth dhyana
-    → Knowing the resolved object as it is
+    → Knowing the resolved Support as it is
 ```
 
 This is a description of the qualified yogic attainment,
 not a sufficient rule for any person who forms a wish.
-The practitioner and support conditions remain in force.
+The practitioner and Basis conditions remain in force.
 
 The four introductory fields are:
 
@@ -176,14 +176,14 @@ source explicitly reserves differences of `ālambana`,
 
 ## 9. Interpretive Note
 
-**Translation note.** Source: Pradhan 417|18–418|12. The damaged final page-line
-marker does not interrupt the natural argument. VAK 7.38
-begins the promised differentiated definitions.
+**Translation note.** Complete local unit [417|18]–[418|12].
+[417|17–18] ends 7.36; `tisro nāmathavāgjñānamavivartya` at [418|13]
+opens 7.38. The damaged final page label does not interrupt the argument.
 
 **Selective inheritance is the central grammatical control.**
 The research translation leaves the second “likewise”
 largely implicit. The Bhāṣya is more precise: only the
-specified bearer and human support carry over to the
+specified bearer and human Basis carry over to the
 four discriminating knowledges. Their individual definitions
 must do the remaining work.
 
@@ -199,9 +199,12 @@ used to fill the terse reference.
 `prāṇidhijñānena` and an irregular page-line marker before
 the final reservation. The repeated `praṇidhi` forms
 and continuous prose secure the present reading. The
-more difficult `niṣpannacaritaviśeṣāt` is preserved with
-a limited gloss rather than expanded into an unverified
-mechanism.
+more difficult `niṣpannacaritaviśeṣāt` and the following
+`sarvastatsamādhiviṣayaḥ` are preserved with limited glosses.
+[Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7027)
+describes observing causal conduct and distinctive outflow for the
+formless case and mentions the farmer analogy; it does not restore the
+local Sanskrit letters or supply a narrated farmer story.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 This verse gives our Yoga system a determinate inquiry
@@ -220,14 +223,16 @@ it draws a structural comparison with directed inquiry.
 The second “likewise” is equally useful for the project:
 sharing some determinations does not imply sharing all.
 The four discriminating knowledges require their own
-object, level, and nature analyses. A system of meaning
+Support, level, and nature analyses. A system of meaning
 must preserve the exact relations inherited and the
 differences still to be determined.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-Both comparison-scopes, the all-dharma range, attributed
-formless qualification, resolve-sequence, and fourfold
-introduction are checked against the running source.
+**Review status.** Complete [417|18]–[418|12] local Bhāṣya unit
+reviewed against `kosabhasya.txt`, with both adjacent boundaries
+checked. All nineteen substantive lines and the two comparison scopes,
+all-dharma Support, attributed formless qualification, resolve sequence,
+and fourfold introduction are translated. The damaged terms and label
+named above remain open.
 
 ## 10. OWL++ Seed
 
@@ -239,7 +244,7 @@ Class: DirectedResolve
 Class: AttributedAccessAccount
 
 ObjectProperty: inheritsCondition
-ObjectProperty: hasObjectRange
+ObjectProperty: hasSupportRange
 ObjectProperty: precededByResolve
 ObjectProperty: mediatedByAttainment
 ObjectProperty: hasDeferredDetermination
@@ -248,8 +253,8 @@ ResolveKnowledge:
     nature: ConventionalKnowledge
     level: FourthDhyana
     bearer: ImmovableArhat
-    support: Human
-    objectRange: AllDharmas
+    basis: Human
+    supportRange: AllDharmas
     exercise: Resolve followed by culminating fourth dhyana and knowing as it is
 
 VaibhasikaAccount:
@@ -257,8 +262,8 @@ VaibhasikaAccount:
 
 FourDiscriminatingKnowledges:
     fields: Dharma, Artha, Nirukti, Pratibhana
-    inherited: ImmovableArhatBearer, HumanSupport
-    deferred: Object, Level, Nature
+    inherited: ImmovableArhatBearer, HumanBasis
+    deferred: Support, Level, Nature
 
 ProjectConstraint: Two likewise expressions have different scopes.
 ProjectConstraint: Universal range does not imply simultaneous actualization.

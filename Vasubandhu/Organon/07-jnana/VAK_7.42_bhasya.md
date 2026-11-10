@@ -3,7 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ṛddhiśrotramanaḥpūrvajanmacyutyudayakṣaye |
-> jñātasākṣīkriyābhijñāḥ ṣaḍvidhā muktimārgadhīḥ || 7.42 ||
+> jñāta sākṣīkriyābhijñā ṣaḍ vidhā muktimārgadhīḥ || 7.42 ||
 
 > The six higher knowledges are direct cognitive realizations concerning
 > extraordinary efficacy, divine hearing, another’s mental course, former
@@ -11,35 +11,49 @@
 > influxes. Their nature is discriminative comprehension of the liberation
 > path.
 
-`Jñātasākṣīkriyā` compressed; prose `jñānasākṣātkriyā`. Category and level:
+`Jñāta sākṣīkriyā` compressed; prose `jñānasākṣātkriyā`. Category and level:
 7.43.
 
 Kārikā study: [`VAK_7.42.md`](./VAK_7.42.md).
 
 ## 2. Continuous Sanskrit
 
-> ime tāvac chrāvakasādhāraṇaguṇā abhijñādayaḥ pṛthagjanair api /
-> keyam abhijñā nāma /
+> ime tāvacchrādakasādhāraṇaguṇā abhijñādayaḥ pṛthagjanairapi /
+> keyamabhijñā nāma /
+> ṛddhhiśrotramanaḥpūrvajanmacyutyudayakṣaye /
+> jñātasākṣīkriyā 'bhijñā ṣaḍvidhā
 > ṛddhiviṣaye jñānasākṣātkriyā abhijñā /
-> divyaśrotracetaḥparyāyapūrvanivāsānusmṛticyutyutpādāsravakṣayajñānasākṣātkriyā abhijñāḥ /
+> divyaśrotracetaḥparyāyapūrvanivāsānusmṛticyutyutpapādāsravakṣayajñānasākṣātkriyā abhijñāḥ /
+> etāḥ ṣaḍabhijñā /
 > āsāṃ pañca pṛthagjanaiḥ sādhāraṇāḥ /
-> vimuktimārgaprajñāsvabhāvāḥ / śrāmaṇyaphalavat /
+> sarvāstvetāḥ
+> muktimārgadhīḥ // VAkK_7.42 //
+> vimuktimārgaprajñāsvabhāvāḥ /
+> śrāmaṇyaphalavat /
 
-**Witness.** Pradhan 421|03–12. `Ṛddhhi`, `cyutyutpapāda` unrestored. Voice:
-Vasubandhu.
+**Witness.** Complete local `kosabhasya.txt` unit
+[421|03–04]–[421|12], 12 substantive lines. [421|03] closes 7.41;
+`catasraḥ saṃvṛtijñānaṃ` at [421|13] opens 7.43. Local
+`śrādaka`, `ṛddhhi`, `jñātasākṣīkriyā`, and `cyutyutpapāda`
+remain visible. Voice: Vasubandhu.
 
 ## 3. Continuous Translation
 
-> These, then, are qualities shared with śrāvakas — the higher knowledges and
-> the rest — also with ordinary persons.
+> These, then, are qualities shared with hearers—the higher knowledges
+> and the rest—and also with ordinary persons.
 >
-> What is this called abhijñā? Direct cognitive realization in the field of
-> extraordinary efficacy is an abhijñā. Likewise the direct realizations of
-> divine hearing, another's mental course, recollection of former abodes,
-> death and arising, and influx-exhaustion. These are the six.
+> What is called a higher knowledge? “In extraordinary efficacy, hearing,
+> mind, former birth, death and arising, and exhaustion, direct realization
+> by Knowledge is sixfold higher knowledge.” Direct realization by Knowledge
+> with extraordinary efficacy as its Condition is a higher knowledge. So too
+> are the direct realizations by Knowledge concerning divine hearing,
+> another's mental course, recollection of former abodes, death and
+> reappearance, and exhaustion of the influxes. These are the six higher
+> knowledges.
 >
-> Five of them are shared with ordinary persons. All of them have the nature
-> of liberation-path discriminative knowing — like the fruits of the ascetic path.
+> Five of these are shared with ordinary persons. “All these are liberation
+> Path comprehensions.” They have the nature of the discriminative
+> comprehension of a liberation Path, as with the fruits of the ascetic path.
 
 ## 4. Movement of the Commentary
 
@@ -75,7 +89,7 @@ No progressive ladder or “sixth governs the five” in this unit.
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
 - first compound = six fields, not one object;
-- `jñātasākṣīkriyā` = sākṣātkriyā;
+- compressed `jñāta sākṣīkriyā` is explained through `jñānasākṣātkriyā`;
 - `muktimārgadhīḥ` = vimuktimārga-prajñā, not a seventh abhijñā.
 
 ## 8. Interpretation
@@ -90,6 +104,7 @@ without closing it.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.42.md`
-(Pradhan 421|03–12).
-`kosabhasya.txt` collation pending. Provisional.
+Complete [421|03–04]–[421|12] unit checked against `kosabhasya.txt`;
+[421|03] and [421|13] delimit its adjacent units. All 12 substantive
+source lines appear above. The damaged readings named in the witness note
+remain unresolved.

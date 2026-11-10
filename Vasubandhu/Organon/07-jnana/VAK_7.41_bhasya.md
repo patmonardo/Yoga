@@ -15,43 +15,69 @@ Kārikā study: [`VAK_7.41.md`](./VAK_7.41.md).
 
 ## 2. Continuous Sanskrit
 
-> tad api prāntakoṭikaṃ caturthaṃ dhyānaṃ ṣaḍātmakam /
+> tatṣaḍivadhaṃ
+> tadapi prāntakoṭikaṃ caturtha dhyānaṃ ṣaḍātmakam /
 > araṇāpraṇidhijñānaṃ tisraḥ pratisaṃvidaḥ /
-> niruktipratisaṃvidas tadbalena lābho na tu sā caturthadhyānabhūmikā /
-> kāmāvacarāc cittāt prathamaṃ dhyānaṃ samāpadyate / … yāvan naivasaṃjñānāsaṃjñāyatanam /
-> pratilomaṃ punar yāvat kāmāvacaraṃ cittaṃ tataḥ punar anulomaṃ yāvac caturthadhyānam /
-> tathā bhāvitān mṛduno madhyaṃ madhyād adhimātraṃ samāpadyate /
-> buddhād anyasya prāyogikā na vairāgyalābhikāḥ /
+> tadeva prantakoṭikam /
+> niruktipratisaṃvidastadvalena lābho na tu sā caturthadhyānabhūmikā /
+> kiṃ punaridaṃ prāntakoṭikaṃ nāma /
+> dhyānamantyaṃ caturthaṃ dhyānam /
+> sarvabhūmyanulomitam /
+> vṛddhikāṣṭāgataṃ tacca
+> kathaṃ sarvabhūmyanulomitam /
+> kāmāvacarāccittātprathamaṃ dhyānaṃ samāpadyate /
+> tato dvitīyamevaṃ krameṇa yāvannaivasaṃjñānāsaṃjñāyatanam /
+> pratilomaṃ punaryāvatkāmāvacaraṃ cittaṃ tataḥ punaranulomaṃ yāvaccaturthadhyānamevaṃ sarvabhūmyanulomitam /
+> katham vṛddhikāṣṭāgatam /
+> tathābhāvitānmṛduno madhyaṃ madhyādadhimātraṃ samāpadyate /
+> vṛddhiprakarṣo hi vṛddhikāṣṭā /
+> idamīdṛśaṃ prāntakoṭikaṃ pragatā 'nta koṭirasyeti kṛtvā /
+> koṭiḥ punaratra vṛddhiḥ prakāro vā /
+> catuṣkoṭikavat /
+> ete punaḥ buddhatuṇāḥ
+> buddhānyasya prayogajāḥ // VAkK_7.41 //
+> buddhādanyasya prāyogikā na vairāgyalābhikāḥ /
 > buddhasya nāsti kiñcit prāyogikam /
-> tasya sarvadharmeśvaratvād icchāmātrapratibaddhaḥ sarvaguṇasaṃpatsaṃmukhībhāvaḥ /
+> tasya sarvadharmeśvaratvādicchāmātra pratibadhaḥ sarvaguṇasaṃpatsaṃmukhībhāvaḥ /
 
-**Witness.** Pradhan 420|07–421|03. `Tatṣaḍivadhaṃ` unrestored. Voice:
-Vasubandhu.
+**Witness.** Complete local `kosabhasya.txt` unit [420|08]–[421|03],
+24 substantive lines. [420|07] closes 7.40; [421|03–04] opens 7.42.
+The source's `tatṣaḍivadhaṃ`, `prantakoṭikam`, `buddhatuṇāḥ`, and
+`pratibadhaḥ` remain visible. Voice: Vasubandhu.
 
 ## 3. Continuous Translation
 
-> That final-limit fourth dhyāna is sixfold in nature: araṇā, resolve-knowledge,
-> three pratisaṃvids. Nirukti-pratisaṃvid is acquired by its power, but it is
-> not fourth-dhyāna-supported.
+> “That is sixfold.” Final-limit fourth dhyāna has six constituents:
+> araṇā, Knowledge through resolve, three discriminating Knowledges, and
+> that final-limit dhyāna itself. The discriminating Knowledge of verbal
+> expression is acquired through its power, but it does not belong to the
+> fourth-dhyāna level.
 >
-> How made conformable to all levels? From a desire-domain mind one enters the
-> first dhyāna, then in order as far as neither-perception-nor-nonperception;
-> in reverse as far as a desire-domain mind; then again in order as far as the
-> fourth dhyāna.
+> What, then, is this called “final-limit”? It is the last, fourth dhyāna:
+> “made conformable to all levels and brought to the summit of increase.”
+> How is it made conformable to all levels? From desire-domain Consciousness
+> one enters the first dhyāna; from there the second, and so on in order as
+> far as the Essence of neither-perception-nor-nonperception. One then goes
+> back in reverse as far as desire-domain Consciousness, and again forward
+> as far as the fourth dhyāna. That is conformity to all levels.
 >
-> How brought to the summit of increase? From the weak thus cultivated one
-> enters the medium, from the medium the strong. The peak of increase is the
-> summit of increase.
+> How is it brought to the summit of increase? From the weak degree thus
+> cultivated one enters the medium, and from the medium the strong. The
+> extreme of increase is the summit of increase. This is called final-limit
+> because its limit has reached the end. Here “limit” can mean increase or
+> kind, as in “four kinds.”
 >
-> For one other than a Buddha these are application-produced, not obtained
-> merely by detachment. For a Buddha nothing is application-produced. From
-> mastery of all dharmas, manifestation of the complete qualities depends only
-> on intention.
+> “These, moreover, are [Buddha-qualities?]”; the local noun is damaged.
+> “For one other than a Buddha, they arise from application.” For one other
+> than a Buddha they are acquired through application, not through the
+> attainment of dispassion. For a Buddha nothing is acquired through
+> application. Because of his mastery of all dharmas, the manifestation of
+> the complete array of qualities depends only on intention.
 
 ## 4. Movement of the Commentary
 
 ```text
-six hang on this power; five are fourth-dhyāna forms; nirukti is not
+six constituents include the dhyāna itself and five qualities; nirukti is not
 range: forward all levels → reverse → forward to fourth
 degree: mṛdu → madhya → adhimātra
 non-Buddha: prayoga, not vairāgya-alone
@@ -68,13 +94,17 @@ dependent ≠ all qualities blazing at once without intention.
 Intermediate ārūpya names in the traversal are the established hierarchy for
 readability; the source names endpoints and sequential ascent/descent.
 
-## 6. Five and Six
+## 6. Five Qualities and the Sixth Constituent
 
 | | |
 |---|---|
-| fourth-dhyāna forms named | araṇā, praṇidhi, dharma / artha / pratibhāna |
-| power only | nirukti |
-| dependency-set | all six |
+| qualities on the fourth-dhyāna level | araṇā, praṇidhi, dharma / artha / pratibhāna |
+| sixth constituent | final-limit fourth dhyāna itself |
+| acquired through its power, outside that level | nirukti |
+
+The six qualities acquired through final-limit dhyāna in 7.40 are a
+different count: araṇā, Knowledge through resolve, and all four
+discriminating Knowledges. This verse analyzes the dhyāna's constitution.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
@@ -93,6 +123,7 @@ Appearance would call that “spontaneous” and forget the two axes.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.41.md`
-(Pradhan 420|07–421|03).
-`kosabhasya.txt` collation pending. Provisional.
+Complete [420|08]–[421|03] unit checked against `kosabhasya.txt`;
+[420|07] and [421|03–04] delimit the adjacent units. All 24 substantive
+source lines appear above. The damaged forms named in the witness note,
+especially `buddhatuṇāḥ`, remain unresolved.
