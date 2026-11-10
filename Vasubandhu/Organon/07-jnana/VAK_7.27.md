@@ -45,7 +45,7 @@ when discussing the commentary's terminology.
 `bhāvane`; both are feminine nominative dual. The second
 `bhāvane` is also nominative dual. The verse names two
 pairs, rather than locating an activity “in cultivation.”
-The research file's locative analysis obscures this syntax.
+A locative analysis would obscure this syntax.
 
 **The first domain.** `Śubhasaṃskṛta` qualifies the dharmas
 whose two modes are acquisition and practice. The prose
@@ -135,10 +135,11 @@ as “unwholesome” would make the source's matrix unintelligible.
 addition in the external Abhidharmikas' sixfold account,
 associated with the Faculties.
 
-**`Vibhāvana` — dissociation / removal.** A provisional
-working rendering for the second addition, associated
-with the body. The abbreviated and damaged quotation
-does not justify an elaborate account of its procedure.
+**`Vibhāvana` — contemplative examination [of the body].** The
+second addition belongs to the body in the local prose.
+[Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+describes observation of the body, supporting this working
+sense without repairing the damaged Sanskrit quotation.
 
 **`Antarbhūta` — included within.** The Kāśmīra response
 classifies the two additions within the existing pair.
@@ -175,15 +176,15 @@ The alternative taxonomy is:
 
 ```text
 External Abhidharmikas:
-    FourModes + Restraint + Dissociation = SixModes
+    FourModes + Restraint + BodyExamination = SixModes
 
 Kasmira account:
-    Restraint and Dissociation are included within
+    Restraint and BodyExamination are included within
     Counteraction and Expulsion.
 ```
 
-The order supports the corresponding pairing—restraint
-with counteraction, dissociation with expulsion—but the
+The order suggests a corresponding pairing—restraint
+with counteraction, body examination with expulsion—but the
 closing compound states their inclusion together. The
 study does not infer a separate detailed proof of each
 mapping from this compressed sentence.
@@ -194,7 +195,7 @@ mapping from this compressed sentence.
 and expulsion.
 
 **The four right efforts are not the local explanation.**
-The research kārikā study says the Bhāṣya aligns these
+An earlier account aligned these
 modes with producing and strengthening wholesome states,
 and preventing and abandoning unwholesome states. The
 present source passage does not make that alignment.
@@ -211,8 +212,9 @@ named object. Each mode determines a different relation
 to the dharma concerned.
 
 **Textual caution in the sixfold account.** The running
-source contains `kujñalasaṃskṛta`, `pūrvī`, and a damaged
-opening to the quotation about six Faculties. The immediately
+source contains `kujñalasaṃskṛta`, `bhāvnāḥ`, and a damaged
+opening `ṣaḍigānīndriyāṇi` in the abbreviated quotation
+about six Faculties. The immediately
 following `kuśalasāsrava` and the verse's `śubhasaṃskṛta`
 secure the wholesome reading. The Faculties/body allocation
 of the two additions is clear, but the abbreviated quotation
@@ -243,15 +245,17 @@ their relations must first be examined.
 
 **Transition to the Buddha's qualities.** The commentary
 now recalls its general account of qualities cultivated
-at exhaustion-knowledge. VAK 7.28 distinguishes those
+at exhaustion-Knowledge. VAK 7.28 distinguishes those
 belonging exclusively to a Buddha. The fourfold clarification
 completes the present cultivation discussion before that
 new determination begins.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The dual grammar, temporal distribution, overlapping
-dharma classes, and four/six taxonomy dispute are source-
-checked. The damaged quotation remains explicitly limited.
+**Review status.** Complete [410|18]–[411|06–07] Bhāṣya unit reviewed
+against `kosabhasya.txt`: all 15 local source lines are present and
+translated. [410|17] ends 7.26; `sāmānyena sarveṣāṃ pudgalānāṃ`
+at [411|07–08] begins 7.28. The local verse `vinirdhava`, prose
+`kujñalasaṃskṛta` and `bhāvnāḥ`, and damaged six-Faculties
+quotation remain open for collation.
 
 ## 10. OWL++ Seed
 
@@ -275,7 +279,7 @@ TemporalRule: Present admits both within that pair.
 DomainRule: Contaminated admits Counteraction and Expulsion.
 IntersectionRule: WholesomeContaminated admits all four modes.
 
-ExternalAccount: Adds Restraint and Dissociation as fifth and sixth modes.
+ExternalAccount: Adds Restraint and BodyExamination as fifth and sixth modes.
 KasmiraAccount: Includes those additions within Counteraction and Expulsion.
 
 ProjectConstraint: Wholesome and contaminated are overlapping predicates.

@@ -46,7 +46,7 @@ secures the event-sense of passing away here.
 
 **Two powers, one compressed expression.** The initial
 compound groups the former-abode and death/rebirth powers.
-The Bhāṣya expands their support as `caturdhyānabhūmika`,
+The Bhāṣya expands their level as `caturdhyānabhūmika`,
 belonging to the four dhyāna levels. It does not introduce
 a new eleventh power combining their two fields.
 
@@ -84,22 +84,22 @@ unobstructed.
 
 
 > The powers of knowledge of former abodes and of passing away and arising are
-> in the dhyānas; the remainder is in all levels. Why is his power unobstructed
-> throughout all levels? Because his knowing operates without obstruction.
+> in the dhyānas; the remainder is in all levels. Why is it power in his case?
+> Because his Knowledge operates without obstruction.
 
 ## 6. Philosophical Translation
 
 > A power is not fully determined by its knowledge-category
-> membership. Its support and its manner of operation must
+> membership. Its level and its manner of operation must
 > also be specified. The Buddha's distinction is unobstructed
 > knowing across the knowable field; possession of the same
 > category does not establish that distinction in another
-> practitioner. The support-range and the freedom from
+> practitioner. The level-range and the freedom from
 > obstruction answer different questions.
 
 Unobstructedness is the doctrinal claim stated by this
 passage. It does not require replacing the four-dhyāna
-support rule with unrestricted support, nor does the
+level rule with unrestricted levels, nor does the
 passage assert that every object is cognized simultaneously
 in one timeless cognitive event.
 
@@ -107,10 +107,10 @@ in one timeless cognitive event.
 
 **`Svabhāva` and `bhūmi`.** Constitution and level. The
 opening prose explicitly distinguishes the knowledge-category
-analysis already completed from the support analysis now
+analysis already completed from the level analysis now
 undertaken. `Bhūmi` here is not the object-field known.
 
-**`Caturdhyānabhūmika`.** Supported by the four dhyānas.
+**`Caturdhyānabhūmika`.** Belonging to the four dhyāna levels.
 This qualification belongs to both conventional powers
 identified in VAK 7.29, not to all conventional knowledge.
 
@@ -119,11 +119,11 @@ enumerated eleven comprise one desire level, anāgamya,
 intermediate dhyāna, four dhyānas, and four formless levels.
 This does not make every constituent knowledge-category
 available at every one of those levels without its own
-previously established support restrictions.
+previously established level restrictions.
 
-**`Jambūdvīpapuruṣāśraya`.** Having a human support in
+**`Jambūdvīpapuruṣāśraya`.** Having a human **Basis** in
 Jambūdvīpa. This is the passage's cosmological specification
-of the person supporting the powers. It is distinct from
+of the person on whom the powers depend. It is distinct from
 their meditative level and their knowledge-object.
 
 **`Avyāhata`.** Unobstructed, unimpeded. The central reason
@@ -161,8 +161,8 @@ Four coordinates now need separate representation:
 
 ```text
 Knowledge-category constitution: VAK 7.28–7.29
-Meditative support-level: VAK 7.30
-Personal support: human in Jambudvipa
+Meditative level: VAK 7.30
+Personal Basis: human in Jambudvipa
 Operational distinction: unobstructed knowledge throughout the knowable
 ```
 
@@ -185,8 +185,8 @@ the Buddha's subsequent interventions are not supplied here.
 **Translation note.** The first compound refers to two powers, placed in the four dhyānas; the
 remaining eight range across eleven levels.
 
-**Support is not reach.** The two powers can have a
-restricted meditative support while their Buddha-specific
+**Level is not reach.** The two powers can have a
+restricted meditative level while their Buddha-specific
 exercise is unobstructed. There is no contradiction unless
 the level on which cognition operates is confused with
 the field about which it knows.
@@ -204,16 +204,16 @@ other transcription faults. The kārikā's `avyāhatam`,
 the explicit contrast with obstruction, and the concluding
 `avyāhatajñānatvāt` secure the central reading. The printed
 eleven-level enumeration and the paired power names secure
-the support account. No manuscript variation is inferred
+the level account. No manuscript variation is inferred
 merely from these electronic transcription defects.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā determines the knowledge field and its internal
 categories. Yoga Technē, its kriyā–karma companion, concerns
-the supported exercise of knowing and the conditions
+the exercise of Knowledge and the conditions
 under which it operates. This verse shows why the category
 inventory alone is insufficient: knowing must be considered
-in relation to support, scope, and obstruction.
+in relation to level, Basis, scope, and obstruction.
 
 For our Yoga system, the distinction between possessing
 a determination and exercising it is essential. The
@@ -229,42 +229,43 @@ exercise, and the doctrine's boundless mental power must
 retain their respective scopes. Vidyā–Technē reconstruction
 can articulate the relations without claiming identity.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The two support-ranges, eleven-level enumeration, personal
-support, unobstructedness argument, and abbreviated examples
-have been checked against the running source.
+**Review status.** The complete [412|10]–[413|02–03] unit has been checked
+against `kosabhasya.txt`, including all verse fragments, the eleven-level
+enumeration, the personal Basis, and both Śāriputra examples. [412|08–09]
+closes 7.29; `nārāyaṇabalaṃ kāye` at [413|04] starts 7.31. The damaged
+opening lemma and obstruction clauses remain visible in the paired Bhāṣya.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: BuddhaKnowledgePower
 Class: KnowledgeCategory
-Class: MeditativeSupportLevel
-Class: PersonalSupport
+Class: MeditativeLevel
+Class: PersonalBasis
 Class: OperationalStatus
 
 ObjectProperty: classifiedThroughKnowledgeCategory
-ObjectProperty: supportedAtLevel
-ObjectProperty: hasPersonalSupport
+ObjectProperty: occursAtLevel
+ObjectProperty: hasPersonalBasis
 ObjectProperty: hasOperationalStatus
 
 Group: FormerAbodeAndDeathRebirthPowers
-    supportRange: FourDhyanas
+    levelRange: FourDhyanas
 
 Group: RemainingEightPowers
-    supportRange: Desire, Anagamya, IntermediateDhyana,
+    levelRange: Desire, Anagamya, IntermediateDhyana,
         FourDhyanas, FourFormlessLevels
 
-SourceSupport: HumanInJambudvipa
+SourceBasis: HumanInJambudvipa
 SourceDistinction: Buddhas knowledge operates unobstructed throughout the knowable.
 SourceContrast: Others knowledge may fail to arise even when sought.
 SourceConclusion: Mental power is boundless like the knowable.
 
-ProjectConstraint: Supporting level is not object-field.
-ProjectConstraint: Personal support is not meditative support.
+ProjectConstraint: Meditative level is not object-field.
+ProjectConstraint: Personal Basis is not meditative level.
 ProjectConstraint: Category possession alone does not establish Buddha-power.
 ProjectConstraint: Do not infer simultaneous knowledge of all objects.
-ProjectConstraint: Preserve individual category support restrictions within power-ranges.
+ProjectConstraint: Preserve individual category level restrictions within power-ranges.
 ```
 
 This is a declarative project seed, not executable OWL.

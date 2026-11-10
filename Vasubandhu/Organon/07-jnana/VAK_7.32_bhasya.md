@@ -17,38 +17,65 @@ Kārikā study: [`VAK_7.32.md`](./VAK_7.32.md).
 
 ## 2. Continuous Sanskrit
 
-> yathā sthānāsthānajñānabalam evaṃ samyaksaṃbuddhasya … etad vaiśāradyam /
-> yathāsravakṣayajñānabalam evaṃ kṣīṇāsravasya … /
-> yathā … dvitīyaṃ … ye … antarāyikā dharmā ākhyātāḥ … /
-> yathā sarvatragāminī pratipajjñānabalam evaṃ … niryāṇāya mārga ākhyātaḥ … /
-> nirbhayatā hi vaiśāradyam / … jñānakṛtaṃ vaiśāradyaṃ yujyate / na jñānam eva /
-> trīṇi smṛtyupasthānāni parṣadbhedāt … / smṛtisaṃprajñānasvabhāvāni /
-> … kasmād ete āveṇikā buddhadharmā ucyante / savāsanaprahāṇāt /
-> athavā … saumanasyādyavakāśaḥ sutarām … tasyāiva tad anutpādād āścaryaṃ … /
+> vaiśāradhyaṃ caturdhā tu
+> yathāsūtram /
+> etāni punaścatvāri vaiśāradyāni
+>      yathādyadaśame bale /
+>      dvitīyasaptame caiva /
+> yathā sthānāsthānajñānabalamevaṃ samyaksaṃbuddhasya vata me sate ityetadvaiśāradyaṃ veditavyam /
+> yathāsravakṣayajñānabalamevaṃ kṣīṇāsravasya vata me sata ityetadvaiśāradyam /
+> yathā karmasvakajñānavalamevaṃ ye vā punarmayā śrāvakāṇāmantarāyikā dharmā ādhyātā ityetadvaiśāradyam /
+> yathā sarvatragāminī pratipajjñānaṃ valamevaṃ yo va punarmayā śrāvakāṇāṃ niryāṇāya mārga ādhyāta ityetadvaiśāradyaṃ veditavyam /
+> kathaṃ na jñānameva vaiśārdyam /
+> nirbhayatā hi vaiśāradyam /
+> ebhiśca nirbhayo bhavati /
+> jñānakṛtaṃ vaiśāradyaṃ yujyate /
+> na jñānameva /
+> trīṇi smṛtyupasthānāni parṣadbhedāt bhavanti yathāsūtram /
+> tattvetat
+>      smṛtiprajñātmakaṃ trayam // VAkK_7.32 //
+> smṛtisaṃprajñānasvabhāvānyetāni trīṇi smṛtyupasthānāni /
+> yadā śrāvakasyāpi śuśrūṣamāṇāśuśrūpamāṇobhayeṣvānandī na bhavatyāghāto vā /
+> kasmādete āveṇikā buddhadharmā ucyante /
+> savāsanaprahāṇāt /
+> athavā yasya śrāvakāstasya cacchūśrūṣamāṇāśuśrūṣamāṇobhayeṣu saumanasyādyavakāśaḥ sutarāṃ na tathā 'nyasyeti tasyaiva tānutpādādāścarya vyavasthāpyate nānyasyeti /
 
-**Witness.** Pradhan 413|20–414|16. `Karmasvakajñānavala` unrestored; verse
-“second” = karmic maturation. Sūtra fragments not reconstructed. Voices:
-Vasubandhu; objector (why not knowledge itself?).
+**Witness.** Complete local `kosabhasya.txt` unit [413|20]–[414|14–16].
+`Uktāni valāni` at [413|19] closes 7.31; `mahākaruṇedānī vaktavyā`
+at [414|17] opens 7.33. The four declarations remain the source's abbreviated
+sūtra formulations. `Karmasvakajñānavala` and the listening/not-listening
+forms are damaged; the verse's “second” and [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7027)
+control the working sense without restoring their letters.
 
 ## 3. Continuous Translation
 
-> As the power of knowing possibility and impossibility, so the fearlessness
-> “I am fully awakened.” As the influx-exhaustion power, so “my influxes are
-> exhausted.” As the second power, so the obstructive factors declared to
-> disciples. As the power of the course leading everywhere, so the path taught
-> for leading out.
+> Fearlessness is fourfold, as in the sūtra. These four fearlessnesses are
+> “as with the first and tenth powers, and likewise with the second and
+> seventh.” As with the power of Knowledge of possibility and impossibility,
+> so one should understand the fearlessness, “I am fully awakened.” As with
+> the power of Knowledge of influx-exhaustion, so the fearlessness, “My
+> influxes are exhausted.” As with the power of Knowledge of one's own actions,
+> so the fearlessness, “The dharmas I have stated to the disciples are
+> obstructive.” As with the power of Knowledge of
+> a course leading everywhere, so one should understand the fearlessness,
+> “The path I have stated to the disciples leads out.”
 >
-> Fearlessness is absence of fear. Through these he is without fear. Fearlessness
-> effected by knowledge is fitting — not knowledge itself.
+> How is fearlessness not Knowledge itself? Fearlessness is absence of fear;
+> through these [Knowledges] he is fearless. It is fitting that fearlessness
+> is effected by Knowledge; it is not Knowledge itself.
 >
-> The three establishments of mindfulness arise from difference in the assembly,
-> as in the sūtra. They have mindfulness and clear comprehension as their nature.
+> The three establishments of mindfulness arise from differences in the
+> assembly, as in the sūtra. But this “triad has mindfulness and discriminative
+> comprehension as its nature.” The three establishments of mindfulness have
+> mindfulness and clear comprehension as their nature.
 >
-> Even in a disciple there may be no delight or resentment toward those who
-> listen, do not listen, or both. Why then are these unshared Buddha-qualities?
-> From abandonment together with residual traces. Or: for one whose they are —
-> his own disciples — the occasion for pleasure and the rest is especially
-> strong; their non-arising there is established as a marvel of his, not another's.
+> If even a disciple has neither delight nor resentment toward those who wish
+> to listen, those who do not, or both, why are these called unshared
+> Buddha-qualities? Because even the residual traces have been abandoned.
+> Or: for one whose own disciples they are, the occasion for pleasure and
+> related reactions toward those who listen, do not listen, or both is
+> especially strong, unlike for another. Their non-arising is therefore
+> established as extraordinary for him alone, not for another.
 
 ## 4. Movement of the Commentary
 
@@ -84,14 +111,17 @@ four body/feeling/mind/dharma applications. `Athavā` keeps two answers.
 
 ## 8. Interpretation
 
-This section is reconstruction.
-
-Qualitative Concept (fearlessness, the triad) stays inside the Idea. Knowledge
-grounds the quality; the quality is not the Idea renamed. Teaching-Technē
-includes the assembly's response. Appearance would print “fearlessness = power.”
+**Organon reconstruction.** The four declarations draw on corresponding
+Knowledge-powers, while fearlessness is the resulting absence of fear. The
+mindfulness triad is constituted by mindfulness and clear comprehension and
+is differentiated by the disciples' responses. These relations can inform an
+account of teaching without identifying the power, the declaration, and the
+response as one thing.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.32.md`
-(Pradhan 413|20–414|16).
-Sūtra wording abbreviated. `kosabhasya.txt` collation pending. Provisional.
+Complete [413|20]–[414|14–16] unit compared with `kosabhasya.txt`: all 22
+substantive lines appear above and are translated. [413|19] ends 7.31;
+[414|17] opens 7.33. Exact repair of `karmasvakajñānavala`, the damaged
+sūtra verbs, and the listening/not-listening forms remains open. The sūtra
+declarations are translated only as far as this local witness gives them.

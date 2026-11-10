@@ -33,7 +33,7 @@ level-range and acquisition history.
 | `adhaḥ` | adverb | below, at lower levels |
 | `bhāvyate` | third-person singular passive | is cultivated |
 | `sa-āsravāḥ` | nominative plural masculine adjective | contaminated [qualities] |
-| `kṣaya-jñāne` | locative singular neuter | at knowledge of exhaustion |
+| `kṣaya-jñāne` | locative singular neuter | at Knowledge of exhaustion |
 | `labdha-pūrvam` | nominative singular neuter adjective used substantivally | what has been acquired before |
 | `na` | negative particle | not |
 
@@ -52,16 +52,16 @@ two relatives must not be collapsed into one vague “whatever
 attainment is made for detachment.”
 
 **The omitted knowledge qualification.** The introductory
-prose first gives conventional knowledge's rule, then says
-uncontaminated knowledge is not restricted merely to the
+prose first gives conventional Knowledge's rule, then says
+uncontaminated Knowledge is not restricted merely to the
 level of the path. The first half of the verse answers
 that second question. Its downward extension therefore
-concerns uncontaminated knowledge, not every knowledge
+concerns uncontaminated Knowledge, not every knowledge
 category without qualification.
 
 **A change of subject in the third pāda.** With `sāsravāḥ`,
 supply plural `guṇāḥ ... bhāvyante`. The prose explicitly
-speaks of contaminated qualities at exhaustion-knowledge.
+speaks of contaminated qualities at exhaustion-Knowledge.
 The grammatical change matters: the sentence is broader
 than a list of contaminated knowledges alone.
 
@@ -73,8 +73,8 @@ subsequently relinquished.
 
 **Close construe.** For whichever [level's] detachment [the
 path operates], and whichever [level] is acquired, there
-and below [uncontaminated knowledge] is cultivated. At
-exhaustion-knowledge, contaminated [qualities] also [are
+and below [uncontaminated Knowledge] is cultivated. At
+exhaustion-Knowledge, contaminated [qualities] also [are
 cultivated]. What has been acquired before is not cultivated
 [anew in this acquisition sense].
 
@@ -84,7 +84,7 @@ cultivated]. What has been acquired before is not cultivated
 
 > For whichever level's detachment the path operates, and
 > whichever level is acquired, there and below knowledge
-> is cultivated. At exhaustion-knowledge, contaminated
+> is cultivated. At exhaustion-Knowledge, contaminated
 > qualities also are cultivated. What was acquired before
 > is not cultivated.
 
@@ -92,7 +92,7 @@ cultivated]. What has been acquired before is not cultivated
 
 
 > For whichever level detachment is sought, and whichever level is acquired,
-> knowledge is cultivated there and below. At knowledge of exhaustion,
+> uncontaminated Knowledge is cultivated there and below. At Knowledge of exhaustion,
 > contaminated qualities too are cultivated; what was acquired before is not
 > cultivated.
 
@@ -101,7 +101,7 @@ cultivated]. What has been acquired before is not cultivated
 > Cultivation has both a level-distribution and a history.
 > The present path's level, its target of detachment, and
 > the level gained through detachment are distinct coordinates.
-> At exhaustion-knowledge, wholesome contaminated qualities
+> At exhaustion-Knowledge, wholesome contaminated qualities
 > also enter the cultivated field. Yet a first acquisition
 > and recovery after loss remain different events, even
 > when the recovered attainment appears the same now.
@@ -115,33 +115,36 @@ refuses to reduce every sense of cultivation to that one.
 
 ## 7. Technical Vocabulary
 
-**`Saṃvṛtijñāna` — conventional knowledge.** Its introductory
+**`Saṃvṛtijñāna` — conventional Knowledge.** Its introductory
 rule names the path's own level and the level first acquired.
 Do not substitute the uncontaminated downward-extension
 rule for this more restricted statement.
 
 **`Anāsrava` — uncontaminated.** Qualifies the knowledges
-whose wider level-range the first half determines. The
-prose's `dvividho 'pi mārgaḥ` carries the worldly and
-supramundane distinction of the cultivation discussion.
+whose wider level-range the first half determines. The prose's
+`dvividho 'pi mārgaḥ` speaks of a path of two kinds, beginning
+with preparation; its precise twofold referent is not spelled
+out in this sentence.
 
 **`Sarvabhūmika` — belonging to all levels.** The breadth
 of the contaminated qualities cultivated at exhaustion-
 knowledge. Together with `kṣayajñānalābhika`, it specifies
 the relevant qualities across levels; it does not assign
-every individual quality to every possible support level.
+every individual quality to every possible level.
 
-**`Kṣayajñānalābhika` — acquired through exhaustion-knowledge.**
+**`Kṣayajñānalābhika` — acquired through exhaustion-Knowledge.**
 Restricts the qualities entering this cultivation. The
 special breadth is not an assertion that every contaminated
 dharma, including unwholesome states, is cultivated.
 
-**`Svacittādhirājya` — sovereignty over one's own mind.**
+**`Svacittādhirājya` — sovereignty over one's own Consciousness.**
 The commentary's affirmative image for the occasion. It
 describes wholesome dharmas as coming forward through
 their acquisitions, with an analogy to the reception of
 sovereignty. This is source vocabulary, not an Organon
-addition to the Sanskrit account.
+addition to the Sanskrit account. In the royal comparison,
+*viṣaya* means territories bringing offerings; it is not
+the cognitive **Condition** use controlled elsewhere.
 
 **`Apūrva` / `labdhapūrva`.** Not previously acquired /
 previously acquired. The contrast becomes precise through
@@ -155,13 +158,13 @@ alone does not reveal whether this condition holds.
 
 | Knowledge or quality field | Level rule or qualification |
 |---|---|
-| Future conventional knowledge | Path-level and level first acquired |
-| Uncontaminated knowledge | Not confined to path-level; includes the specified detachment/acquisition levels and lower levels |
-| Contaminated qualities at exhaustion-knowledge | All-level range of the wholesome qualities acquired through that knowledge |
+| Future conventional Knowledge | Path-level and level first acquired |
+| Uncontaminated Knowledge | Not confined to path-level; includes the specified detachment/acquisition levels and lower levels |
+| Contaminated qualities at exhaustion-Knowledge | All-level range of the wholesome qualities acquired through that knowledge |
 
 The level rule must be applied within the established
-support possibilities of each knowledge or quality. It
-does not manufacture uncontaminated knowledge at a level
+eligible levels of each Knowledge or quality. It
+does not manufacture uncontaminated Knowledge at a level
 where the chapter has not admitted it.
 
 The historical restriction is:
@@ -191,23 +194,25 @@ maxim would erase the clarification that immediately follows.
 **Translation note.** The commentary distinguishes first acquisition from reacquisition after loss:
 the previously cultivated item is not cultivated anew.
 
-**Qualities, not “impure knowledges.”** The research kārikā
-study translates `sāsravāḥ` as impure knowledges. The prose's
+**Qualities, not “impure knowledges.”** The earlier rendering
+of `sāsravāḥ` as impure knowledges was too narrow. The prose's
 `guṇāḥ` and subsequent `sarvakuśaladharma` establish wholesome
 contaminated qualities here. Mindfulness of breathing,
 immeasurables, and liberations must remain visible as the
 broader field now under discussion.
 
 **Textual limits in the examples and similes.** The source
-prints `a4ubhā...` at the beginning of its list. The later
-items are readable, but that damaged first item is not
-silently restored. The first simile mentions release through
-the cutting of a rope, but its `peḍā...` wording needs review.
-The following sovereignty image is clearer, though it too
-contains transcription noise. These images support the
-positive account of release and wholesome qualities coming
-forward; they do not justify a detailed reconstruction of
-the damaged comparison.
+prints `a4ubhā...` at the beginning of its list. The translation's
+“contemplation of the unattractive” is supported by
+[Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026),
+while the damaged Sanskrit remains visible. The first simile mentions breathing out after
+a rope is cut, but its `peḍāsādharmyeṇa` wording needs review.
+The following sovereignty image compares wholesome dharmas coming
+forward through their acquisitions with territories bringing
+offerings to a newly established sovereign; `ādhirājyaporaptau`
+remains damaged. [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+supports the broad rope and kingship images without restoring
+the Sanskrit letters.
 
 **Reacquisition is the exact case.** The “no double
 counting” explanation is too broad if it treats the verse
@@ -239,10 +244,11 @@ field belong in one articulated account, with each quality's
 actual conditions retained. “All levels” is not a license
 to claim indiscriminate present mastery.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The knowledge/quality distinction, level rules, and exact
-reacquisition restriction are source-checked. The damaged
-first example and wording of the similes remain flagged.
+**Review status.** Complete [410|03]–[410|17] Bhāṣya unit reviewed
+against `kosabhasya.txt`: all 14 local source lines are present and
+translated. [410|02] ends 7.25; the acquisition question at [410|18]
+opens 7.27. The first list item, first simile, and local forms
+`yardvarāgyāya`, `ādhirājyaporaptau`, and `na tt` remain open.
 
 ## 10. OWL++ Seed
 
@@ -267,7 +273,7 @@ Rule: Uncontaminated cultivation extends through the specified
 
 Case: ExhaustionKnowledge
     additionalField: All-level wholesome contaminated qualities
-        acquired through exhaustion-knowledge.
+        acquired through exhaustion-Knowledge.
 
 History: FirstAcquisition
     status: CultivatedInAcquisitionSense
@@ -277,7 +283,7 @@ History: PreviouslyCultivatedThenRelinquishedThenReacquired
 
 ProjectConstraint: Keep conventional and uncontaminated level rules distinct.
 ProjectConstraint: Contaminated qualities here are not unwholesome states.
-ProjectConstraint: All-level range does not give every quality every support.
+ProjectConstraint: All-level range does not give every quality every level.
 ProjectConstraint: Acquisition history is not recoverable from possession alone.
 ProjectConstraint: Do not generalize the reacquisition rule to all senses of cultivation.
 ```

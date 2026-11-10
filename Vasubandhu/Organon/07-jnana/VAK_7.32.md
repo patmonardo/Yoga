@@ -129,7 +129,7 @@ to explain the verse's `prajñā` in the triad's constitution.
 the triad's situational differentiation, not the fourfold
 body/feeling/mind/dharma object scheme encountered earlier.
 
-**`Savāsanaprahāṇa`.** Abandonment together with residual
+**`Savāsanaprahāṇa`.** Abandonment even of residual
 traces. The concise source phrase gives one answer to
 the challenge about Buddha-specificity. “Residual traces”
 should not be silently equated with a modern psychological
@@ -169,7 +169,7 @@ in a disciple, then asks why these are unshared Buddha-qualities.
 The two answers are retained separately:
 
 ```text
-Answer 1: Abandonment together with residual traces.
+Answer 1: Abandonment even of residual traces.
 
 Answer 2: In relation to one's own disciples, the occasion
     for pleasure and related reactions is especially strong;
@@ -234,10 +234,11 @@ confidence. The distinctions of knowledge-ground, practical
 fearlessness, and mindful relation to an assembly do the
 philosophical work.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The four correspondences, explicit nonidentity claim,
-triad's constitution, and alternative explanations of
-distinctiveness have been checked against the running source.
+**Review status.** Complete [413|20]–[414|14–16] Bhāṣya unit checked against
+`kosabhasya.txt`, including the quoted verse fragments, four abbreviated
+sūtra declarations, the nonidentity exchange, and both explanations of the
+triad's distinctiveness. [413|19] ends 7.31; `mahākaruṇedānī vaktavyā` at
+[414|17] opens 7.33. Damaged power-name and listening forms remain open.
 
 ## 10. OWL++ Seed
 

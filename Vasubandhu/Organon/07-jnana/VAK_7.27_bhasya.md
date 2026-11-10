@@ -16,34 +16,58 @@ Kārikā study: [`VAK_7.27.md`](./VAK_7.27.md).
 
 ## 2. Continuous Sanskrit
 
-> kiṃ khalu pratilambha eva bhāvanā / nety ucyate /
+> kiṃ khalu pratilambha eva bhāvanā netyucyate /
 > caturvidhā hi bhāvanā /
 > pratilambhabhāvanā niṣevaṇabhāvanā pratipakṣabhāvanā vinirdhāvanabhāvanā ca /
-> pratilambhaniṣevaṇabhāvane kuśalasaṃskṛtānāṃ dharmāṇām anāgatānām ekā pratyutpannānām ubhe /
+> tatra
+> pratilambhaniṣevākhye śubhasaṃskṛtabhāvane /
+> pratipakṣavinirdhavabhāvane sāsravasya tu // VAkK_7.27 //
+> pratilambhaniṣevaṇabhāvane kujñalasaṃskṛtānāṃ dharmāṇāmanāgatānāmekā pratyutpannānāmubhe /
 > pratipakṣavinirdhāvanabhāvane sāsravāṇāṃ dharmāṇām /
-> tad evaṃ kuśalasāsravāṇāṃ catasro bhāvanā bhavanti /
+> tadevaṃ kuśalasāsravāṇāṃ catasro bhāvanā bhavanti /
 > anāsravāṇāṃ dve kliṣṭāvyākṛtānāṃ ca /
-> bāhyābhidharmikāṇāṃ ṣaṭ bhāvanāḥ /
-> … te tu pratipakṣavinirdhāvabhāvanāntarbhūte iti kāśmīrāḥ /
+> bāhyābhidharmikāṇāṃ ṣaṭ bhāvnāḥ /
+> etāścatasraḥ saṃvarabhāvanā vibhāvana ca /
+> indriyāṇāṃ pūrvī kāyasyottarā /
+> "ṣaḍigānīndriyāṇi sudāntāni yāvatsubhāvitāni tathā santyasminkāye kleśā" iti vistaraḥ /
+> te tu pratipakṣanirdhāvabhāvanāntarbhūte iti kāśmīrāḥ /
 
-**Witness.** Pradhan 410|18–411|07. `Vinirdhava` in the quotation unrestored.
-Voices: question; Vasubandhu; bāhyābhidharmikas; Kāśmīras. Four right efforts
-not in this span.
+**Witness.** Complete natural unit [410|18]–[411|06–07], all 15 local
+source lines. [410|17] closes 7.26; `sāmānyena sarveṣāṃ pudgalānāṃ`
+at [411|07–08] begins 7.28 under the overlapping printed label. The
+Bhāṣya verse has `vinirdhava` against the separate kārikā witness's
+`vinirdhāva`. Local `kujñalasaṃskṛta`, `bhāvnāḥ`,
+`ṣaḍigānīndriyāṇi`, and the abbreviated quotation remain visible.
+[Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7026)
+describes the external additions as guarding the Faculties and examining
+the body; it does not restore the damaged Sanskrit quotation.
+Voices: Vasubandhu, external Abhidharmikas, and the Kāśmīras.
 
 ## 3. Continuous Translation
 
-> Is cultivation acquisition alone? It is said: no. Cultivation is fourfold:
-> acquisition, practice, counteraction, and expulsion.
+> Is acquisition alone cultivation? It is said: no. Cultivation is
+> fourfold: cultivation through acquisition, through exercise, through
+> counteraction, and through expulsion. In this regard:
 >
-> Acquisition- and practice-cultivation belong to wholesome conditioned dharmas:
-> for future ones, one; for present ones, both. Counteraction- and expulsion-
-> cultivation belong to contaminated dharmas.
+> “The two called acquisition and exercise are cultivations of
+> wholesome conditioned [dharmas]; the two cultivations of counteraction
+> and expulsion, however, concern the contaminated.”
 >
-> Thus wholesome contaminated dharmas have four cultivations; uncontaminated,
-> two; defiled and indeterminate, two.
+> Acquisition-cultivation and exercise-cultivation concern wholesome
+> conditioned dharmas [local `kujñalasaṃskṛta`]: for future ones, one
+> [acquisition]; for present ones, both. Counteraction-cultivation and
+> expulsion-cultivation concern contaminated dharmas. Thus wholesome
+> contaminated dharmas have four modes of cultivation; uncontaminated
+> dharmas have two, and defiled or indeterminate dharmas have two.
 >
-> For external Abhidharmikas, six cultivations — these four plus restraint and
-> dissociation. The Kāśmīras: those two are included in counteraction and expulsion.
+> For external Abhidharmikas, there are six modes of cultivation
+> [local `bhāvnāḥ`]: these four, plus cultivation through restraint
+> and `vibhāvana` [contemplative examination]. The former concerns the
+> Faculties; the latter, the body. “These six Faculties are well tamed
+> ... well cultivated; likewise there are afflictions in this body ...”
+> [local quotation damaged and abbreviated], and so on at length. The
+> Kāśmīras say that these two are included within cultivation through
+> counteraction and expulsion.
 
 ## 4. Movement of the Commentary
 
@@ -53,7 +77,8 @@ not in this span.
     → pair 1: śubha-saṃskṛta (future: acquire; present: acquire + exercise)
     → pair 2: sāsrava (counteract / expel)
     → overlap kuśala-sāsrava takes all four
-    → sixfold alternative subsumed by Kāśmīras
+    → external sixfold: restraint of Faculties + examination of body
+    → these two included in counteraction/expulsion by Kāśmīras
     → 7.28: Buddha-only qualities at kṣaya
 ```
 
@@ -68,8 +93,11 @@ Wholesome ≠ uncontaminated. That overlap is the four-mode row.
 
 ## 6. Four / Six
 
-External addition: saṃvara (faculties), vibhāvana (body). Quotation damaged.
-Kāśmīra inclusion together; do not invent a separate proof of each mapping.
+External addition: saṃvara (restraint of Faculties), vibhāvana (contemplative
+examination of the body). The Sanskrit quotation is damaged and abbreviated;
+Xuanzang's parallel corroborates the examination sense. The Kāśmīras include
+both additions within counteraction and expulsion; the source does not argue
+the two mappings separately.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
@@ -80,17 +108,20 @@ Kāśmīra inclusion together; do not invent a separate proof of each mapping.
 
 ## 8. Interpretation
 
-This section is reconstruction.
-
-Vidyā: the dharma's determinations (wholesome, conditioned, contaminated,
-future, present). Technē: acquire / exercise / counteract / expel. Same name,
-different relation. Taking as non-self remains method. The Dialectic is Ideal;
-this fourfold is Path-Technē, not four moments of the Idea. Appearance would
-print “cultivation = more of X.”
+This section is Organon reconstruction. A cultivation assertion needs the
+dharma's ethical and ontological status, its temporal status, and the mode
+of operation. Acquisition, exercise, counteraction, and expulsion determine
+different relations to their stated domains. The fourfold account prevents
+the acquisition rule of 7.26 from becoming the sole meaning of cultivation.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.27.md`
-(Pradhan 410|18–411|07).
-Damaged sixfold quotation unrestored. `kosabhasya.txt` collation pending.
-Provisional.
+Complete natural unit [410|18]–[411|06–07] reviewed against
+`kosabhasya.txt`, with all 15 local source lines present and translated.
+[410|17] ends 7.26; the Buddha-quality transition at [411|07–08]
+begins 7.28. The external sixfold account, Faculties/body assignment,
+damaged quotation, and Kāśmīra inclusion reply are restored.
+Local `kujñalasaṃskṛta`, `bhāvnāḥ`, `ṣaḍigānīndriyāṇi`, and the
+verse `vinirdhava` remain open for collation; the precise force of
+`vibhāvana` is supported by the Chinese parallel but not fully fixed
+by the local quotation.

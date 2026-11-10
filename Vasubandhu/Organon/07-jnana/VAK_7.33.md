@@ -26,7 +26,7 @@ not one undifferentiated enumeration.
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `mahākṛpā` | nominative singular feminine | great compassion |
-| `saṃvṛtidhīḥ` | nominative singular feminine compound | conventional knowing |
+| `saṃvṛtidhīḥ` | nominative singular feminine compound | conventional Knowledge |
 | `saṃbhārākāragocaraiḥ` | instrumental plural coordinated compound | through accumulation, aspect, and object-field |
 | `samatvāt` | ablative singular neuter | because of equality |
 | `ādhimātryāt` | ablative singular neuter | because of surpassing intensity |
@@ -43,13 +43,13 @@ the final dental of the latter appears as `c`.
 **The initial equation.** `Mahākṛpā` and `saṃvṛtidhīḥ`
 are nominative singular feminine. The prose makes the
 constitution explicit: `saṃvṛtijñānātmikā mahākaruṇā`,
-great compassion has conventional knowledge as its nature.
+great compassion has conventional Knowledge as its nature.
 
 **Five grounds of greatness.** Supply “is called great”
 with the instrumental triad and two causal ablatives.
 The prose asks why it is called great compassion and
 answers under these five headings. Its `ālambana` expands
-the verse's `gocara` as object-field.
+the verse's `gocara` as cognitive range, here specified by Support.
 
 **A new comparison.** Supply the two compared terms with
 `nānākaraṇam`: the prose asks the difference between
@@ -60,10 +60,10 @@ is not a count of the preceding five grounds.
 `adveṣāmohasvabhāvatvāt` distribute their two terms in
 the order compassion / great compassion. Likewise,
 `caturdhyānacaturthadhyāna` means four dhyānas / fourth
-dhyāna. The second member is a definite support restriction,
+dhyāna. The second member is a definite level restriction,
 not “especially” the fourth while leaving other levels open.
 
-**Close construe.** Great compassion is conventional knowing.
+**Close construe.** Great compassion is conventional Knowledge.
 It is great through accumulation, aspect, and object-field,
 because of equality and surpassing intensity. Its distinction
 from compassion is eightfold.
@@ -72,7 +72,7 @@ from compassion is eightfold.
 
 ### Literal Translation
 
-> Great compassion is conventional knowing. It is great
+> Great compassion is conventional Knowledge. It is great
 > through accumulation, aspect, and object-field, through
 > equality and surpassing intensity. The differentiation
 > is eightfold.
@@ -80,7 +80,7 @@ from compassion is eightfold.
 ### Bhāṣya-informed study translation
 
 
-> Great compassion has conventional knowledge as its nature. It is great
+> Great compassion has conventional Knowledge as its nature. It is great
 > through accumulation, aspect, and object-field, through equality and
 > surpassing intensity. Its distinction from compassion is eightfold.
 
@@ -102,13 +102,13 @@ because that category can encompass the required field.
 
 ## 7. Technical Vocabulary
 
-**`Saṃvṛtijñānātmikā`.** Having conventional knowledge as
+**`Saṃvṛtijñānātmikā`.** Having conventional Knowledge as
 its nature. This constitution differs from VAK 7.32's
 knowledge-produced fearlessness: the relation here is
 explicitly constitutive.
 
 **`Mahāpuṇyajñānasaṃbhāra`.** Great accumulation of merit
-and knowledge. This is the stated preparation from which
+and Knowledge. This is the stated preparation from which
 great compassion arises, not a prescribed numerical total.
 
 **`Triduḥkhatā`.** Threefold suffering. The local prose
@@ -117,9 +117,13 @@ the suffering of pain, of change, and of conditioned
 formations. That expansion is a study gloss, not a list
 spelled out in this sentence.
 
+**`Ālambana` and `gocara`.** **Support** is the prose's cognitive relation
+to beings in the three domains; the verse's `gocara` names the range or field.
+Neither denotes the fourth dhyāna as meditative level.
+
 **`Tridhātuka`.** Of the three existential domains: desire,
-form, and formlessness. Here these specify the object-range;
-they are not the supporting levels of great compassion.
+form, and formlessness. Here these specify the range of possible
+Supports; they are not the meditative level of great compassion.
 
 **`Samavṛtti`.** Equal operation toward all beings. This
 explains equality. Equal concern does not by itself specify
@@ -146,9 +150,9 @@ and unconditionally liberated.
 
 | Ground | Bhāṣya determination |
 |---|---|
-| Accumulation | Arising from great merit-and-knowledge accumulation |
+| Accumulation | Arising from great merit-and-Knowledge accumulation |
 | Aspect | Threefold suffering |
-| Object-field | The three existential domains |
+| Range of Supports | The three existential domains |
 | Equality | Equal operation toward all beings |
 | Surpassing degree | Nothing greater beyond it |
 
@@ -158,8 +162,8 @@ and unconditionally liberated.
 |---|---|---|
 | Nature | Non-hatred | Non-delusion |
 | Aspect | One form of suffering | Three forms of suffering |
-| Object-field | One domain | Three domains |
-| Supporting level | Four dhyānas | Fourth dhyāna |
+| Range of Supports | One domain | Three domains |
+| Meditative level | Four dhyānas | Fourth dhyāna |
 | Continuum | Disciples and others | Buddha |
 | Acquisition | Through desire-domain detachment | Through Bhavāgra detachment |
 | Protection | Non-protection | Protection |
@@ -177,22 +181,21 @@ by the fifth greatness-ground, unsurpassed intensity.
 That would make a doubtful comparison look settled merely
 because a related determination occurs earlier.
 
-Object-range and support-range differ sharply: great
+The Support-range and meditative level differ sharply: great
 compassion concerns beings across all three domains while
-its support is the fourth dhyāna. Its acquisition through
-Bhavāgra detachment is a third relation, not another
-name for either object or support.
+its level is the fourth dhyāna. Acquisition through
+Bhavāgra detachment is a third relation.
 
 ## 9. Interpretive Note
 
-**Translation note.** Source: Pradhan 414|17–415|10. The first six paired
+**Translation note.** Source: [414|17]–[415|10]. The first six paired
 distinctions are explicit. The last two are retained
 with the limits of the local wording rather than supplied
 from an unverified reconstruction.
 
 **Constitution and scope explain one another.** The source
-states that without conventional knowledge the universal
-being-object and threefold suffering-aspect would not
+states that without conventional Knowledge the all-beings
+Support and threefold suffering-aspect would not
 be established. That is a specific argument about great
 compassion's classification. It is not a general reduction
 of concern for others to detached factual description.
@@ -204,10 +207,12 @@ clause secure five grounds; the duplicate is not counted
 as a sixth. The final `atulyakaruṇāyanācca` is also too
 compressed to fix its paired values confidently. The
 study preserves the eightfold count while leaving that
-last comparison open.
+last comparison open. [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7027)
+contrasts equal and unequal concern for beings as the eighth ground; that
+independent translation does not establish the local Sanskrit letters.
 
 **Technical compassion is not every ordinary act of kindness.**
-The four-dhyāna support and desire-detachment acquisition
+The four-dhyāna level and desire-detachment acquisition
 locate the compassion being compared within a cultivated
 technical account. “Ordinary compassion” can be a convenient
 contrast-label, but should not make the non-protection
@@ -231,17 +236,18 @@ the determinate means of helping, which this passage does
 not itself enumerate.
 
 Meaning here emerges through the connected determinations:
-what compassion is, what it knows, where it is supported,
+what compassion is, what it knows, at which level it occurs,
 how it is acquired, and what function is attributed to it.
 An unresolved final expression should remain visible within
 that system rather than being completed by a convenient
 but unverified gloss.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The constitution, five greatness-grounds, and first six
-paired differences are explicit. Protection is retained
-at the source's level of compression; the eighth comparison
-remains open for textual review.
+**Review status.** Complete [414|17]–[415|10] Bhāṣya unit checked against
+`kosabhasya.txt`, including the opening transition, five grounds, duplicated
+equality clause, and eight contrasts. [414|14–16] ends 7.32; the question at
+[415|11] begins 7.34. The eighth contrast's doctrinal direction has an
+independent Chinese parallel, while its exact Sanskrit and the duplicated
+intensity line remain unresolved.
 
 ## 10. OWL++ Seed
 
@@ -253,28 +259,28 @@ Class: TextualReadingIssue
 
 ObjectProperty: hasConstitution
 ObjectProperty: hasAspectRange
-ObjectProperty: hasObjectRange
-ObjectProperty: hasSupportLevel
+ObjectProperty: hasSupportRange
+ObjectProperty: hasMeditativeLevel
 ObjectProperty: acquiredThrough
 ObjectProperty: hasUnresolvedComparison
 
 GreatCompassion:
     constitution: ConventionalKnowledge; NonDelusion
     aspectRange: ThreefoldSuffering
-    objectRange: BeingsAcrossThreeDomains
-    support: FourthDhyana
+    supportRange: BeingsAcrossThreeDomains
+    meditativeLevel: FourthDhyana
     continuum: Buddha
     acquisition: BhavagraDetachment
 
 GreatnessGrounds: Accumulation, Aspect, ObjectField, Equality, UnsurpassedDegree
 
-ComparisonCoordinates: Nature, Aspect, Object, SupportLevel,
+ComparisonCoordinates: Nature, Aspect, SupportRange, MeditativeLevel,
     Continuum, Acquisition, Protection, FinalCompassionComparison
 ReadingIssue: FinalCompassionComparison requires textual review.
 
 ProjectConstraint: Five greatness-grounds are not the eight comparison coordinates.
-ProjectConstraint: Object, support, and acquisition are distinct relations.
-ProjectConstraint: Conventional knowledge alone does not imply great compassion.
+ProjectConstraint: Support-range, meditative level, and acquisition are distinct relations.
+ProjectConstraint: Conventional Knowledge alone does not imply great compassion.
 ProjectConstraint: Do not infer automatic universal liberation from protection.
 ProjectConstraint: Preserve the duplicated prose as a source issue, not a sixth ground.
 ```

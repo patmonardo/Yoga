@@ -16,34 +16,54 @@ Kārikā study: [`VAK_7.29.md`](./VAK_7.29.md).
 
 ## 2. Continuous Sanskrit
 
-> dhyānavimokṣasamādhisamāpattijñānabalaṃ nava jñānāni / nirodhajñānaṃ hitvā /
-> evam indriyaparāparajñānabalaṃ nānādhimuktijñānabalaṃ nānādhātujñānabalaṃ /
-> yadi saphalā pratipat gṛhyate … daśa jñānāni / na cen nava / anyatra nirodhajñānāt /
+>      dhyānādyakṣādhhimokṣeṣu dhātau ca
+> dhyānavimokṣasamādhisamāpattijñānabalaṃ nava jñānāni /
+> nirodha jñānaṃ hitvā /
+> evamindriyaparāparajñāna balaṃ nānādhimuktijñānabalaṃ nānādhātujñānabalaṃ veditavyam /
+>      pratipatsu tu /
+>      daśa vā
+> nava veti matavikalpā 'rtho vāśabdaḥ /
+> yadi saphalā pratipat gṛhyate /
+> sarvatragāminī pratipajjñānabalaṃ daśa jñānāni /
+> na cennava /
+> anyatra nirodhajñānāt /
+>      saṃvṛtijñānaṃ dvayoḥ
 > pūrvanivāsānusmṛtijñānabalaṃ ca saṃvṛtijñānam /
-> āsravakṣayajñānabalaṃ ṣaḍ jñānāni … /
-> yadi nirodhajñānam evāsravakṣayajñānam /
-> atha kṣīṇāsravasaṃtāne jñānam … tato daśa jñānāni /
+>      ṣaṭ daśa vā kṣaye // VAkK_7.29 //
+> āsravakṣayajñānabalaṃ saḍ jñānāni dharmānvayanirodhakṣayānutpādasaṃvṛtijñānāniṃ /
+> yadi nirodhajñānamevāsravakṣayajñānam /
+> atha kṣīṇasravasaṃtāne jñānamāsravakṣayajñānaṃ tato daśa jñānāni /
 
-**Witness.** Pradhan 411|18–412|09. Dual-line names only former-abode; second
-member recovered from 7.30 pairing with cyutyupapatti, source line untouched.
-`Vā` = matavikalpa / scope. Voice: Vasubandhu.
+**Witness.** Complete local `kosabhasya.txt` unit [411|18]–[412|08–09].
+`Nava` at [411|17] carries in from 7.28; `uktaḥ svabhāvo` at [412|10]
+opens 7.30. The source names only former-abode recollection in its explanation
+of `dvayoḥ`; the next unit and [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7027)
+identify death-and-rebirth as the second power. The local `dhhimokṣeṣu`,
+`saḍ`, `jñānāniṃ`, and `kṣīṇasrava` remain unrepaired. Voice: Vasubandhu.
 
 ## 3. Continuous Translation
 
-> The power of knowing dhyānas, liberations, concentrations, and attainments
-> is nine knowledges, excluding cessation-knowledge. Likewise the powers of
-> higher and lower faculties, diverse inclinations, and diverse domains.
+> “For dhyānas and the like, Faculties, inclinations, and domains.” The power
+> of Knowledge of dhyānas, liberations, concentrations, and attainments
+> comprises nine Knowledges, excluding Cessation-Knowledge. The powers of
+> Knowledge of higher and lower Faculties, diverse inclinations, and diverse
+> domains are to be understood in the same way.
 >
-> Concerning paths: “or” marks a difference of analysis. If the course leading
-> everywhere is taken with its fruit, ten; if not, nine, except cessation-knowledge.
+> “Concerning courses, however, ten or…” The word “or” indicates a difference
+> of opinion: [the count is] nine or ten. If the course is taken together with
+> its fruit, the power of Knowledge of a course leading everywhere comprises
+> ten Knowledges. If it is not, [it comprises] nine, excluding
+> Cessation-Knowledge.
 >
-> Of the two: recollection of former abodes is conventional knowledge [and
-> death-and-rebirth, from the local pair].
+> “Conventional Knowledge for the two.” The power of Knowledge that recalls
+> former abodes, too, is conventional Knowledge.
 >
-> The influx-exhaustion power is six — dharma, anvaya, cessation, exhaustion,
-> non-arising, conventional — if influx-exhaustion knowledge means cessation-
-> knowledge. If it means knowledge in the continuum of one whose influxes are
-> exhausted, then ten.
+> “Six or ten concerning exhaustion.” The power of Knowledge of the exhaustion
+> of influxes comprises six Knowledges: Dharma-, anvaya-, Cessation-,
+> exhaustion-, non-arising-, and conventional Knowledge. That is if Knowledge
+> of influx-exhaustion means Cessation-Knowledge. But if Knowledge of
+> influx-exhaustion means Knowledge in a continuum whose influxes have been
+> exhausted, then [it comprises] ten Knowledges.
 
 ## 4. Movement of the Commentary
 
@@ -59,7 +79,8 @@ two history-powers → conventional only
 Not two Buddhas with different power-counts. Same named quality, two analyses.
 Six includes conventional; “knowing cessation” ≠ only the nirodha-slot.
 Broad continuum-reading does not give every kṣīṇāsrava this Buddha-power.
-`Dhātu` here = domain / disposition, not mahābhūta, not automatically the 18.
+`Dhātu` here is rendered domain or disposition within the power-list; it is
+not automatically the eighteen-Principle inventory.
 
 Completed table with 7.28:
 
@@ -86,17 +107,16 @@ the quality, not a new jñāna-list.
 
 ## 8. Interpretation
 
-This section is reconstruction.
-
-Qualities as Qualitative Concepts in a Sāṃkhya–Hegelian sense: possible, if
-the Concept:Idea dyad is kept. The power is a quality; its feature-mask
-(which knowledge-kinds, which field, fruit in or out) is Conceptual. Jñāna
-remains Idea — the flow around artha — not a tenth Qualitative Concept.
-Definition determining count is Vidyā seeing both sides of the name before
-the number. Appearance would store “path-power = 10.”
+**Organon reconstruction.** A power's field and qualifying scope determine
+which Knowledge categories can constitute it. For the course-power, the model
+must state whether the fruit is included. For the influx-exhaustion power, it
+must state whether Knowledge is specified by cessation or by the continuum
+in which it occurs. The counts alone do not encode those relations.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.29.md`
-(Pradhan 411|18–412|09).
-Incomplete dual-line flagged. `kosabhasya.txt` collation pending. Provisional.
+Complete local unit [411|18]–[412|08–09] compared with `kosabhasya.txt`;
+all 17 substantive lines, including quoted verse fragments and the sixfold
+enumeration, appear above and are translated. [411|17] belongs to 7.28,
+while [412|10] starts 7.30. The incomplete explanation of `dvayoḥ` and exact
+repairs of `dhhimokṣeṣu`, `saḍ`, `jñānāniṃ`, and `kṣīṇasrava` remain open.

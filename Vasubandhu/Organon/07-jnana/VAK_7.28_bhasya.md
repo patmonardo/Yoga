@@ -17,30 +17,40 @@ Kārikā study: [`VAK_7.28.md`](./VAK_7.28.md).
 ## 2. Continuous Sanskrit
 
 > sāmānyena sarveṣāṃ pudgalānāṃ kṣayajñāne guṇabhāvanoktā /
+>      aṣṭādaśāveṇikāstu buddhadharmā balādayaḥ /
 > ye buddhasyaiva bhagavataḥ kṣayajñāne bhāvanāṃ gacchanti nānyasya /
 > katame 'ṣṭādaśa /
 > daśa balāni catvāri vaiśāradyāni trīṇi smṛtyupasthānāni mahākaruṇā ca /
-> asādhāraṇaṃ hy āveṇikam ity ucyate /
+> asādhāraṇaṃ hyāveṇikamityucyate /
+> tatra
+>      sthānāsthāne daśa jñānāni
 > sthānāsthānajñānabalaṃ daśa jñānāni /
-> karmavipākajñānabalam aṣṭau jñānāni / nirodhamārgajñāne hitvā /
+>      aṣṭau karmaphale
+> kamavipākajñānabalamaṣṭī jñānāni /
+> nirodhamārgajñāne hitvā /
+>      nava // VAkK_7.28 //
 
-**Witness.** Pradhan 411|07–17. `Kamavipāka…balaṃ maṣṭī` unrestored. Voice:
-Vasubandhu. “For all persons” = the general kṣaya-occasion, not that every
-person has exhaustion-knowledge.
+**Witness.** Complete local `kosabhasya.txt` unit [411|07–08]–[411|17],
+including each embedded verse fragment. `Kamavipāka…aṣṭī` at [411|16]
+remains unrestored. [411|06–07] closes 7.27; [411|18] starts 7.29.
+Voice: Vasubandhu. “For all persons” is governed by the exhaustion-Knowledge
+occasion, not a claim that everyone has attained it.
 
 ## 3. Continuous Translation
 
-> In general, cultivation of qualities at exhaustion-knowledge has been stated
-> for persons. But the eighteen distinctive Buddha-qualities, beginning with
-> the powers, enter cultivation at the Blessed Buddha's exhaustion-knowledge
-> alone, not another's.
+> In general, cultivation of qualities at Knowledge of exhaustion has been
+> stated for all persons. “The eighteen unshared Buddha-qualities begin with
+> the powers.” These enter cultivation at the Blessed Buddha's Knowledge of
+> exhaustion alone, and at no one else's.
 >
 > Which eighteen? Ten powers, four fearlessnesses, three establishments of
 > mindfulness, and great compassion. For what is unshared is called distinctive.
 >
-> The power of knowledge of possibility and impossibility is the ten knowledges.
-> The power of knowledge of karmic maturation is eight knowledges, excluding
-> cessation-knowledge and Path-knowledge. Nine…
+> Here: “For possibility and impossibility, ten Knowledges.” The power of
+> Knowledge of possibility and impossibility consists of the ten Knowledges.
+> “For karmic result, eight.” The power of Knowledge of karmic maturation
+> consists of eight Knowledges, excluding Cessation-Knowledge and
+> Path-Knowledge. “Nine” [continues into 7.29].
 
 ## 4. Movement of the Commentary
 
@@ -60,9 +70,10 @@ or compassion — these eighteen are unshared.
 
 Buddha's three smṛtyupasthānas ≠ the four body/feeling/mind/dharma applications.
 
-Eight = conventional, dharma, anvaya, suffering, origination, other-mind,
-exhaustion, non-arising. Overlapping kinds, not eight events. Exclusion reason
-not given in this short span; do not print a guessed object-field as Bhāṣya.
+Eight = conventional, dharma, anvaya, suffering, origination, Knowledge of
+another's Consciousness, Knowledge of exhaustion, and Knowledge of non-arising.
+These are overlapping kinds, not eight events. The reason for the exclusions
+is not given in this short span.
 
 Ten knowledges possessed ≠ this power. Category-constitution ≠ simultaneous
 actualization. Eighteen ≠ eighteen new knowledge-kinds.
@@ -81,17 +92,16 @@ a knowledge-range.
 
 ## 8. Interpretation
 
-This section is reconstruction.
-
-Jñāna-artha as what we are building: a power is a jñāna-model; the admissible
-knowledge-kinds and the field (possibility / maturation) are its artha-features.
-Reasonable. Still overlay. The verse does not say “model.” Ten features on the
-first power, eight on the second, same inventory, different feature-mask.
-Buddha Mind remains the Singular — not a larger feature-vector of an ordinary
-continuum. Revelation is not the ten-count lighting up.
+**Organon reconstruction.** The two powers can be represented by a field and
+the Knowledge categories through which the Bhāṣya classifies them. That model
+keeps possibility and impossibility distinct from karmic maturation even
+though their category ranges overlap. It does not derive a Buddha's unshared
+power from the mere possession or simultaneous exercise of those categories.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.28.md`
-(Pradhan 411|07–17). Remaining
-powers in 7.29. `kosabhasya.txt` collation pending. Provisional.
+Complete natural unit [411|07–08]–[411|17] checked against
+`kosabhasya.txt`; [411|06–07] closes 7.27 and [411|18] opens 7.29.
+All local lines and the verse fragments are translated. The exact repair of
+`kamavipākajñānabalamaṣṭī` remains open; the verse and the explicit
+exclusion control the working sense. `Nava` awaits its fields in 7.29.

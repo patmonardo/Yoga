@@ -166,9 +166,9 @@ The two completed power classifications are:
 | Karmic maturation | 8 | Cessation-knowledge and Path-knowledge |
 
 The eight are therefore conventional, dharma, anvaya,
-suffering, origination, other-mind, exhaustion, and
-non-arising knowledge. This list is obtained by the
-source's explicit subtraction from the established ten.
+suffering, origination, Knowledge of another's Consciousness,
+Knowledge of exhaustion, and Knowledge of non-arising. This list is obtained
+by the source's explicit subtraction from the established ten.
 It counts overlapping categories, not mutually exclusive
 individual cognitive events.
 
@@ -238,10 +238,11 @@ competencies reproduces Buddhahood. The coming verses
 must determine the powers more fully before that relation
 is formalized beyond the present classification.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The eighteenfold inventory, Buddha-specific cultivation,
-ten/eight classifications, and continuation of `nava` have
-been checked against the running source.
+**Review status.** Complete [411|07–08]–[411|17] Bhāṣya unit checked against
+`kosabhasya.txt`, including all embedded verse fragments; [411|06–07] and
+[411|18] control the adjacent boundaries. The eighteenfold inventory,
+Buddha-specific cultivation, ten/eight classifications, and forward force
+of `nava` are checked. Exact repair of `kamavipākajñānabalamaṣṭī` remains open.
 
 ## 10. OWL++ Seed
 

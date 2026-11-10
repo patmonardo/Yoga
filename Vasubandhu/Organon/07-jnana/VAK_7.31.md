@@ -1,4 +1,4 @@
-# VAK_7.31 — Bodily Strength: Measure, Support, and Material Constitution
+# VAK_7.31 — Bodily Strength: Measure and Material Constitution
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -226,11 +226,11 @@ than treating every use of `bala` as the same kind of
 power. The word acquires its meaning through the domain
 and relations in which it is used.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-Localization, attributed boundlessness, the principal
-sevenfold series, joint comparison, and rival material
-accounts are source-checked. The alternative numerical
-reckoning remains limited by its compressed wording.
+**Review status.** Complete [413|04]–[413|19] Bhāṣya unit checked against
+`kosabhasya.txt`, including the joint images, both graded accounts, the
+material alternatives, and `uktāni valāni`. [413|02–03] ends 7.30;
+`vaiśāradhyaṃ caturdhā tu` at [413|20] starts 7.32. Exact Sanskrit repairs
+and the alternative reckoning's compressed syntax remain open.
 
 ## 10. OWL++ Seed
 

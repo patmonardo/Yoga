@@ -240,10 +240,13 @@ This remains an Organon interpretation of the source's
 analysis. The Sanskrit supplies the conditions and counts;
 it does not itself introduce our Vidyā–Technē terminology.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The remaining power-ranges, both scope-dependent alternatives,
-and the locally recovered second conventional power have
-been checked against the running source.
+**Review status.** Complete [411|18]–[412|08–09] Bhāṣya unit compared with
+`kosabhasya.txt`, including all verse fragments and the explicit sixfold
+enumeration. [411|17] supplies `nava` from 7.28; `uktaḥ svabhāvo` at
+[412|10] begins 7.30. The four ninefold powers, both scope-dependent
+alternatives, and the locally recovered second conventional power are
+controlled. The incomplete `dvayoḥ` explanation and damaged Sanskrit forms
+remain open.
 
 ## 10. OWL++ Seed
 
