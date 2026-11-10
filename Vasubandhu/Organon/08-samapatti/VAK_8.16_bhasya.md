@@ -17,44 +17,109 @@ Kārikā study: [`VAK_8.16.md`](./VAK_8.16.md).
 
 ## 2. Continuous Sanskrit
 
-> kliṣṭāt samāpattidravyād anantaraṃ svabhūmike śuddhakakliṣṭe utpadyete /
-> kleśotpīḍito hy adharam api samāpattiṃ śuddhakaṃ bahu manyate /
-> pūrvāvedhāt … varam adhastāt śuddhakaṃ nopariṣṭāt kliṣṭam /
-> pūrvābhiprāyaṃ ca saṃtatir anuvartate / praṇidhāya suptasya … prabodhavat /
-> anāsravaṃ tu kliṣṭād anantaraṃ sarvathā notpadyate /
-> samāpattikālaṃ praty etad uktam /
-> cyutikāle tu upapattilābhikāc chuddhakād anantaraṃ sarvabhūmikaṃ kliṣṭam utpadyate /
-> kliṣṭāt tu dhyānārūpyād … svādharabhūmikaṃ kliṣṭam / nordhvabhūmikam /
+```text
+[444|09]
+     kliṣṭāt svaṃ śuddhakaṃ kliṣṭaṃ
 
-**Witness.** Pradhan 444|09–445|02. Voices: Vasubandhu; objector (if you first
-cut the stain, the move is from kuśala).
+[444|10]
+kliṣṭātsamāpattidravyādanantaraṃ svabhūmike śuddhakakliṣṭe utpadyete /
+
+[444|11]
+     evaṃ cādharaśuddhakam /
+
+[444|12]
+kleśotpīḍito hyadharamapi samāpattiṃ śuddhakaṃ bahu manyate /
+
+[444|12-444|13]
+yadi kliṣṭaṃ paricchidyādhaḥ saṃcarati /
+
+[444|13]
+kuśalātsaṃcarito bhavati na kliṣṭāt /
+athāparicchidya kathaṃ saṃcarati /
+
+[444|14-444|15]
+pūrvāvedhāt pūrvaṃ hi sa evaṅkāmo bhavati varamadhastāt śuddhakaṃ nopariṣṭāt kliṣṭamiti /
+
+[444|15]
+pūrvābhiprāyaṃ ca saṃtatiranuvartate sattvānām /
+
+[444|15-444|16]
+praṇidhāya suptasyābhipretakālaprabodhavat /
+
+[444|16]
+anāsravaṃ tu kliṣṭādanantaraṃ sarvathā notpadyate /
+
+[444|16-444|17]
+samāpattikālaṃ pratyetaduktam /
+
+[444|17-444|18]
+śuddhakāt kliṣṭācca samanantaraṃ svabhūmikameva kliṣṭamutpadyate nānyabhūmikamiti /
+
+[444|19]
+     cyutau tu śuddhakāt kliṣṭaṃ sarvaṃ
+
+[444|20]
+cyutikāle tu upapattilābhikācchuddhakādanantaraṃ sarvabhūmikaṃ kliṣṭamutpadyate /
+
+[444|21]
+     kliṣṭāttu nottaram // VAkK_8.16 //
+
+[445|01]
+kliṣṭāttu dhyānārūpyādanantaraṃ cyutikāle svādharabhūmikaṃ kliṣṭamutpadyate /
+
+[445|01-445|02]
+nordhvabhūmikam /
+```
+
+**Witness.** Pradhan [444|09]–[445|01–02], transcribed from
+`kosabhasya.txt`. The source first treats succession during attainment,
+then explicitly switches to succession at death.
 
 ## 3. Continuous Translation
 
-> Immediately after a defiled attainment-item, same-level pure and defiled arise.
-> Likewise a lower pure: oppressed by defilement, one values even a lower pure
-> attainment highly. If one first delimits the defiled and then moves down, the
-> move is from wholesome, not from defiled. If one does not delimit it, how does
-> one move? From prior impulse: earlier the wish was “better a lower pure than a
-> higher defiled.” The continuum follows that prior resolve — like one who sleeps
-> after resolving and wakes at the intended time. Uncontaminated never arises
-> immediately after defiled. This is said of attainment-time.
+> “After a defiled [attainment], the pure and defiled of its own
+> ground.” Immediately after a defiled attainment item, the pure and
+> defiled items of its own ground arise. “And likewise a lower pure
+> [attainment].” Pressed by defilements, one prizes even a pure
+> attainment of a lower ground.
 >
-> At death: after a rebirth-acquired pure, defiled of every ground. After a
-> defiled dhyāna or ārūpya: same or lower defiled, not higher.
+> If one cuts off the defiled state before moving downward, the
+> transition is from a wholesome state, not from a defiled one. But
+> how does one make the transition without cutting it off? Through
+> prior conditioning: earlier one wished, “Better a pure [attainment]
+> below than a defiled one above.” The continuum of beings follows
+> an earlier intention, as when a person who has gone to sleep after
+> resolving to do so wakes at the intended time.
+>
+> An uncontaminated [attainment], however, never arises immediately
+> after a defiled one. This has been said with regard to the time of
+> attainment: if a defiled item arises immediately after either a pure
+> or a defiled item, it belongs to its own ground, not another ground.
+>
+> “But at death, after a pure [attainment], defiled [attainment] of
+> every ground.” At the time of death, immediately after a pure
+> attainment acquired through rebirth, a defiled item of any ground
+> arises. “But after a defiled [attainment], not a higher one.” At
+> death, immediately after a defiled dhyāna or formless attainment,
+> a defiled item of its own or a lower ground arises, not of a higher
+> ground.
 
 ## 4. Movement of the Commentary
 
 ```text
-samāpatti-time table ≠ death-time table
-lower-pure explained by pūrvābhiprāya, not by a new intervening cut
-kliṣṭa ⇏ immediate anāsrava
+attainment-time table ≠ death-time table
+lower-pure transition: pūrvāvedha / pūrvābhiprāya
+no immediate anāsrava after kliṣṭa
+during attainment: kliṣṭa successor only on the same ground
 ```
 
 ## 5. Two Contexts
 
-Cyuti ≠ parihāṇi of 8.14. Lower-pure ≠ lower-defiled. “All levels” = range, not
-every state at once. Immediate ban ≠ never later through a sequence.
+Death (*cyuti*) is distinct from the decline (*parihāṇi*) discussed in
+8.14. The lower successor during attainment is pure, while the lower
+successor at death after a defiled predecessor is defiled. “Every
+ground” gives a range of possible defiled successors, not simultaneous
+states. The prohibition concerns immediate succession.
 
 ## 6. Permissions
 
@@ -75,13 +140,22 @@ every state at once. Immediate ban ≠ never later through a sequence.
 
 This section is reconstruction.
 
-The next moment is not the whole cause. Vidyā keeps prior resolve distinct from
-the stained predecessor. Technē: a lower pure can be worth more than a higher
-stain. Appearance would either freeze the stain or let anāsrava jump out of it.
-Neither.
+The immediately preceding defiled item and the earlier resolve are
+different determinations. The Organon reading preserves both when it
+represents the lower-pure transition. The source's death-time rule then
+changes the relevant context; it cannot be substituted into the
+attainment-time table.
 
 ## 9. Review Status
 
-Pair with Organon `VAK_8.16.md` (Pradhan 444|09–445|02), upgraded to the
-current Method: kārikā translations and anchor standardized; terminology
-upgraded. `kosabhasya.txt` collation pending. Provisional.
+Complete natural unit [444|09]–[445|01–02] checked against
+`kosabhasya.txt`. [444|07–08] closes 8.15; [445|02–03] opens
+8.17's question about the pure subtypes. The earlier extract
+compressed the objection about cutting off the defiled state,
+the prior-conditioning reply and sleep analogy, and the
+same-ground recapitulation at [444|17–18]. These steps and the
+split verse are restored in witness order. The extent of the
+prior conditioning (*pūrvāvedha*) is explained by the source's
+prior intention and analogy, without supplying a separate
+mechanism. No Sanskrit emendation is proposed. The paired
+kārikā anchor matches exactly.

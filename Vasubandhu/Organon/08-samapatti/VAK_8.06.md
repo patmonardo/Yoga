@@ -31,7 +31,7 @@ prose establish `lokottaram`.
 | `tat` | nominative singular neuter pronoun (`tat + tad-` → `tattad-`) | that pure attainment |
 | `tad-āsvādyam` | nominative singular neuter compound with gerundive | to be savored by the savoring-associated attainment, which takes the pure attainment as object |
 | `lokottaram` | nominative singular neuter adjective | supramundane |
-| `anāsravam` | nominative singular neuter adjective | uncontaminated, without influxes |
+| `anāsravam` | nominative singular neuter adjective | without influx |
 
 The understood noun is `samāpatti-dravyam`, the attainment under classification.
 
@@ -76,7 +76,7 @@ one-way definition does not identify pure with uncontaminated.
 **Close construe.** Savoring-associated attainment has
 craving. Worldly wholesome attainment is pure. That
 pure attainment is savored by the savoring-associated
-one. Supramundane attainment is uncontaminated.
+one. Supramundane attainment is without influx.
 
 ## 5. Translation
 
@@ -85,14 +85,14 @@ one. Supramundane attainment is uncontaminated.
 > Savoring-associated attainment is accompanied by craving.
 > Worldly wholesome attainment is pure; that is what
 > the savoring-associated attainment savors. Supramundane
-> attainment is uncontaminated.
+> attainment is without influx.
 
 ### Bhāṣya-informed study translation
 
 > Savoring-associated attainment is accompanied by craving.
 > Worldly wholesome attainment is pure; that pure attainment is
 > what the savoring-associated attainment savors. Supramundane
-> attainment is uncontaminated.
+> attainment is without influx.
 
 ## 6. Philosophical Translation
 
@@ -140,7 +140,7 @@ return to an ordinary nonmeditative condition: the
 practitioner is described as entered into the savoring-
 associated attainment.
 
-**`Lokottara / anāsrava`.** Supramundane and uncontaminated.
+**`Lokottara / anāsrava`.** Supramundane and without influx.
 The source correlates these in the attainment classification.
 They do not mean unconditioned simply by contrast with
 worldly wholesome attainment.
@@ -244,12 +244,13 @@ produces attachment. The positive source determination
 is narrower: what savoring is, what it savors here,
 and which attainment the practitioner has left and entered.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-first Bhāṣya-controlled study.
 The craving definition, worldly-wholesome pure mode,
 non-greed explanation, immediately past object, emergence/
 entry distinction, and supramundane classification have
-been checked against the local extract and running
-source. The factor-analysis transition remains for 8.07.
+been checked against the complete [437|02]–[437|13]
+unit in the running source. The factor-analysis transition
+at [437|13–14] remains for 8.07.
 
 ## 10. OWL++ Seed
 

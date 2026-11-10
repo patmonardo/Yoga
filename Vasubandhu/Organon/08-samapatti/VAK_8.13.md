@@ -1,4 +1,4 @@
-# VAK_8.13 — First-Dhyāna Knowledge in Higher Dhyāna Rebirth
+# VAK_8.13 — First-Dhyāna Cognition in Higher Dhyāna Rebirth
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -23,8 +23,8 @@ beings reborn at the second and higher dhyāna levels.
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `kāyākṣiśrotravijñānam` | nominative singular neuter compound, distributively understood | body-, eye-, and ear-knowledge |
-| `vijñaptyutthāpakam` | nominative singular neuter adjective, with vijñānam understood | knowledge that initiates manifest action |
+| `kāyākṣiśrotravijñānam` | nominative singular neuter compound, distributively understood | body-, eye-, and ear-Cognition |
+| `vijñaptyutthāpakam` | nominative singular neuter adjective, with vijñānam understood | Cognition that initiates manifest action |
 | `ca` | conjunction | and |
 | `yat` | nominative singular neuter relative pronoun | that which |
 | `dvitīyādau` | locative singular compound | in the second and subsequent [dhyānas] |
@@ -69,9 +69,9 @@ The commentary supplies “reborn there” and specifies the first-dhyāna level
 
 
 **Close construe.** In the second and subsequent dhyāna
-rebirths, the body-, eye-, and ear-knowledge, together
-with knowledge initiating manifest action, belongs to
-the first dhyāna; that knowledge is undefiled-neutral.
+rebirths, the body-, eye-, and ear-Cognition, together
+with Cognition initiating manifest action, belongs to
+the first dhyāna; that Cognition is undefiled and ethically indeterminate.
 
 ## 5. Translation
 
@@ -92,68 +92,65 @@ the first dhyāna; that knowledge is undefiled-neutral.
 ## 6. Philosophical Translation
 
 > The level at which a being is reborn and the level
-> to which an operative knowledge belongs are distinct
+> to which an operative Cognition belongs are distinct
 > determinations. A sensory capacity need not belong
 > to the higher level itself in order to become
 > operative for a being reborn there. The passage
 > specifies both the first-dhyāna basis of the operation
-> and its undefiled-neutral ethical character.
+> and its undefiled, ethically indeterminate character.
 
 The distinction explains availability without assigning
-higher-level status to the lower-level knowledge.
+higher-level status to the lower-level Cognition.
 It does not establish a general theory of simultaneous
 mental layers or an unchanged higher attainment running
-alongside sensory knowledge.
+alongside sensory Cognition.
 
 ## 7. Technical Vocabulary
 
 **Source.** Pradhan 442|07–442|18, checked against the local Bhāṣya
-study and running source. The study translation uses **Cognition**
-for *vijñāna*; “knowledge” in the surrounding notes is the older
-research rendering of the same term. Brackets in the Bhāṣya
-translation make the scope of the final reasons explicit.
+study and running source. The study translation uses **Cognition** for
+*vijñāna*. The Bhāṣya question reads `cāvijñapti` against its repeated
+*vijñapti* in the answer; the discrepancy remains unresolved.
 
 **`Kāya / akṣi / śrotra-vijñāna`.** Body-, eye-, and
-ear-knowledge: the three sensory kinds named here.
+ear-Cognition: the three sensory kinds named here.
 The prose refers to seeing through touching as the
 range of functions under discussion.
 
 **`Vijñaptyutthāpaka`.** Initiating manifest action. The
-understood subject is knowledge that brings about
+understood subject is Cognition that brings about
 bodily or verbal manifestation. Vijñapti is not simply
 modern information transmission; the Karmanirdeśa
 vocabulary supplies its action context.
 
 **`Svabhūmika`.** Belonging to one's own level. The
 prose's denial concerns this membership, not every
-possibility of the knowledge becoming operative.
+possibility of the Cognition becoming operative.
 
 **`Saṃmukhīkurvanti`.** They make present or bring into
 operation. This is the positive answer to the problem
 of sensory and manifest activity. “Borrowing” may
 serve as an explanatory metaphor, but the source
 neither describes a transfer between persons nor
-posits an external store of knowledge.
+posits an external store of Cognition.
 
-**`Nirmāṇacittavat`.** As with a mind for producing a
-magical creation. The comparison concerns the operation
-of a mind belonging to another level. The local
-research's “constructed mind” should not be taken
-to mean that the passage treats all cognition as
-fabricated or introduces artificial intelligence.
+**`Nirmāṇacittavat`.** As with construction-Consciousness.
+The comparison concerns the operation of a Consciousness
+belonging to another level; it does not classify all seeing
+as construction.
 
 **`Akliṣṭāvyākṛta / anivṛtāvyākṛta`.** Undefiled-neutral /
 unobstructed-neutral. The latter is the prose's explicit
-classification of the knowledge made present. Ethical
+classification of the Cognition made present. Ethical
 neutrality is distinct from neutral feeling and from
-uncontaminated knowledge.
+uncontaminated Cognition.
 
 **`Vītarāgatva / hīnatva`.** Freedom from passion /
 lower or inferior status. These supply the two local
 reasons for excluding defiled and wholesome classifications.
 They do not imply that every higher-level being has
 abandoned all passion, or that every lower-level
-knowledge is universally unwholesome.
+Cognition is universally unwholesome.
 
 ## 8. Logical Determination
 
@@ -270,7 +267,7 @@ Inferior(k,l)`, so it is relative to this higher-level use and does not make
 wholesome first-dhyāna Cognition impossible for any being.
 
 **Scope cautions.**
-- The nirmāṇacitta comparison (“as with a mind for magical creation”) is the
+- The nirmāṇacitta comparison (“as with construction-Consciousness”) is the
   Bhāṣya's illustration. It is not a rule: nothing asserts that ordinary seeing
   or hearing is created.
 - The Defiled exclusion is by `FreeOfPassion`; the Wholesome exclusion is by
@@ -284,10 +281,8 @@ wholesome first-dhyāna Cognition impossible for any being.
 ## 9. Interpretive Note
 
 **The scope needs tightening from the earlier draft.**
-The research kārikā file speaks of “beings or attainments.”
-The commentary's rebirth question provides the narrower
-basis for this official study. Claims that a higher
-attainment remains uninterrupted during sensory activity,
+The commentary's rebirth question supplies the scope of this study.
+Claims that a higher attainment remains uninterrupted during sensory activity,
 or that functional descent necessarily preserves every
 aspect of attained status, exceed this short passage.
 
@@ -296,13 +291,12 @@ aspect of attained status, exceed this short passage.
 the introductory reply. Its question also has
 `cāvijñapti samutthāpayanti`. The repeated positive
 `vijñapti` and `vijñaptisamutthāpaka` in the verse and
-answer support the manifest-action reading here; the
-question's irregular spelling is not silently used
-to change the subject to avijñapti. Originals remain
-unchanged, and no critical reconstruction is claimed.
+answer support their manifest-action reading. The question's
+*avijñapti* may be intentional or damaged; this witness does
+not settle the difference. No critical reconstruction is claimed.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
-Yoga Vidyā articulates rebirth level, knowledge level,
+Yoga Vidyā articulates rebirth level, Cognition level,
 operation, and ethical quality as distinct but related
 determinations. Yoga Technē, its kriyā–karma companion,
 concerns the effective exercise of a capacity whose
@@ -316,7 +310,8 @@ of the higher level. This is a restrained project
 reconstruction; software modules and concurrent execution
 are not doctrines attributed to the Bhāṣya.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Complete [442|07–08]–[442|18] unit collated
+against the local witness; the Bhāṣya study translates each natural step.
 The rebirth scope, first-dhyāna affiliation, making-present
 verb, nirmāṇacitta comparison, ethical classification,
 two reasons, and local closure have been checked
@@ -326,26 +321,26 @@ against the local research and running source.
 
 ```text
 Class: DhyanaRebirthLevel
-Class: KnowledgeOperation
-Class: KnowledgeLevel
+Class: CognitionOperation
+Class: CognitionLevel
 Class: EthicalClassification
 
 ObjectProperty: rebornAtLevel
 ObjectProperty: bringsIntoOperation
-ObjectProperty: belongsToKnowledgeLevel
+ObjectProperty: belongsToCognitionLevel
 ObjectProperty: hasEthicalClassification
 
 HigherDhyanaRebornBeings:
     rebirthLevels: SecondDhyana, ThirdDhyana, FourthDhyana
-    operationsMadePresent: EyeKnowledge, EarKnowledge, BodyKnowledge,
-                           ManifestActionInitiatingKnowledge
+    operationsMadePresent: EyeCognition, EarCognition, BodyCognition,
+                           ManifestActionInitiatingCognition
 
-SpecifiedKnowledgeOperations:
-    knowledgeLevel: FirstDhyana
+SpecifiedCognitionOperations:
+    cognitionLevel: FirstDhyana
     ethicalClassification: UnobstructedNeutral
     proseComparison: NirmanaCitta
 
-ProjectConstraint: Rebirth level and operative knowledge level remain distinct.
+ProjectConstraint: Rebirth level and operative Cognition level remain distinct.
 ProjectConstraint: Not native to a level does not mean never operative.
 ProjectConstraint: Do not assert uninterrupted higher attainment during operation.
 ProjectConstraint: Ethical neutrality is distinct from neutral feeling.

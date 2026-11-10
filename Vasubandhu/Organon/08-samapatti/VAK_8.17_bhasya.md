@@ -5,11 +5,11 @@
 > caturdhā śuddhakaṃ hānabhāgīyādi yathākramam |
 > kleśotpattisvabhūmyūrdhvānāsravānuguṇaṃ hi tat || 8.17 ||
 
-> Pure attainment is of four kinds, beginning with the decline-conducive
-> and followed in order by the stability-conducive, the
-> distinction-conducive, and the penetration-conducive; for, in that
-> order, it is conducive to the arising of defilements, to its own
-> level, to a higher level, and to the uncontaminated.
+> Pure attainment is fourfold, beginning with the decline-conducive.
+> The verse says its kinds are conducive, respectively, to the arising
+> of defilements, their own level, a higher level, and the
+> uncontaminated; the prose explicitly assigns these functions to
+> decline, stability, distinction, and penetration.
 
 Successor counts among the four: 8.18.
 
@@ -17,26 +17,55 @@ Kārikā study: [`VAK_8.17.md`](./VAK_8.17.md).
 
 ## 2. Continuous Sanskrit
 
-> na hi sarvasmāc chuddhakād anāsravam utpadyate /
-> hānabhāgīyaṃ viśeṣabhāgīyaṃ sthitibhāgīyaṃ nirvedhabhāgīyam iti caturvidhaṃ śuddhakam /
-> bhavāgraṃ tu trividham anyatra viśeṣabhāgīyāt /
-> kleśotpattyanuguṇaṃ hānabhāgīyaṃ / svabhūmyanuguṇaṃ sthitibhāgīyam /
-> ūrdhvabhūmyanuguṇaṃ viśeṣabhāgīyam / anāsravānuguṇaṃ nirvedhabhāgīyam /
-> tasmād anāsravam utpadyate /
+```text
+[445|02-445|03]
+na ca sarvasmācchuddhakādanāśravaṃ samāpattidravyamutpadyate /
 
-**Witness.** Pradhan 445|02–10. First list order ≠ functional mapping; mapping
-governs. Voices: Vasubandhu.
+[445|03]
+kiṃ tarhi /
+
+[445|04]
+     caturdhā śuddhakaṃ hānabhāgīyādi
+
+[445|05]
+hānabhāgīyaṃ viśeṣabhāgīyaṃ sthitibhāgīyaṃ nirvedhabhāgīyamiti caturvidhaṃ śuddhakam /
+
+[445|06]
+bhavāgraṃ tu trividhamanyatra viśeṣabhāgīyāt /
+kimasya lakṣaṇam /
+
+[445|07-445|08]
+     yathākramam /
+     kleśotpattisvabhūmyūrdhvānāsravānuguṇaṃ hi tat // VAkK_8.17 //
+
+[445|09-445|10]
+kleśotpattyanuguṇaṃ hānabhāgīyaṃ svabhūmyanuguṇaṃ sthitibhāgīyamūrdhvabhūmyanuguṇaṃ viśeṣabhāgīyamanāsravānuguṇaṃ nirvedhabhāgīyam /
+
+[445|10]
+tasmādanāsravamutpadyate /
+```
+
+**Witness.** Pradhan [445|02–03]–[445|10], transcribed from
+`kosabhasya.txt`. The first list and later functional mapping have
+different middle-term orders; both are retained.
 
 ## 3. Continuous Translation
 
-> Not from every pure [item] does the uncontaminated arise. Pure is fourfold:
-> decline-conducive, distinction-conducive, stability-conducive, penetration-
-> conducive. The summit of existence is threefold — except distinction-conducive.
+> An uncontaminated attainment item does not arise immediately after
+> every pure one. What, then? “Pure attainment is fourfold, beginning
+> with the decline-conducive.” The four pure kinds are decline-conducive,
+> distinction-conducive, stability-conducive, and penetration-conducive
+> in the source's initial list. The summit of existence, however, has
+> three kinds, excluding the distinction-conducive. What are their
+> characteristics?
 >
-> What is the mark? Decline-conducive favors arising of defilements; stability-
-> conducive favors its own ground; distinction-conducive favors a higher ground;
-> penetration-conducive favors the uncontaminated. From that, the uncontaminated
-> arises.
+> “In order, it is conducive to the arising of defilements, to its own
+> ground, to a higher ground, and to the uncontaminated.” The prose
+> then specifies: decline-conducive favors the arising of defilements;
+> stability-conducive favors its own ground; distinction-conducive
+> favors a higher ground; penetration-conducive favors the
+> uncontaminated. From the last of these, an uncontaminated
+> attainment arises.
 
 ## 4. Movement of the Commentary
 
@@ -72,15 +101,21 @@ next (counts: 8.18).
 
 This section is reconstruction.
 
-Even śuddha is not empty shine. It has *content of orientation* — toward stain,
-stay, higher ground, or anāsrava. That is why “pure light” is a theft of the
-cell. Vidyā: the crown is not a lamp with the oil poured out. Sahasrāra, as we
-hold it, is full — paramārtha Knowledge in the species of a human language.
-Technē keeps the four vectors. We do not Mara the smile-vibe saints. We present
-the chakra as it is: Knowing with content.
+Pure attainment here has four distinct orientations: toward the arising
+of defilements, maintenance of its own ground, a higher ground, or the
+uncontaminated. The Organon reading keeps the present pure mode distinct
+from its favored successor. It also preserves the discrepancy between
+the source's initial list and its explicit functional mapping.
 
 ## 9. Review Status
 
-Pair with Organon `VAK_8.17.md` (Pradhan 445|02–10), upgraded to the
-current Method: kārikā translations and anchor standardized; terminology
-upgraded. `kosabhasya.txt` collation pending. Provisional.
+Complete natural unit [445|02–03]–[445|10] checked against
+`kosabhasya.txt`. [445|01–02] closes 8.16; [445|11] asks the
+successor-count question of 8.18. The earlier extract omitted the
+intervening question, split verse, and witness labels; these are
+restored and translated step by step. The initial list at [445|05]
+puts *viśeṣabhāgīya* before *sthitibhāgīya*, but the functional
+mapping at [445|09–10] puts stability before distinction. This
+remains an unresolved order discrepancy; the translation names
+both without silently transposing the witness. The paired kārikā
+anchor matches exactly.

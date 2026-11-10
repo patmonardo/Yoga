@@ -16,28 +16,66 @@ Kārikā study: [`VAK_8.08.md`](./VAK_8.08.md).
 
 ## 2. Continuous Sanskrit
 
-> tṛtīye tu dhyāne pañcāṅgāni / upekṣā smṛtiḥ saṃprajñānaṃ sukhaṃ samādhiś ca /
-> samādhiparyāyo hi sthitiḥ / "samyaksamādhiḥ katamaḥ / yā cittasya sthitiḥ" /
-> caturthaṃ dhyānam antyam / tatra catvāry aṅgāni /
-> aduḥkhāsukhā vedanā upekṣāpariśuddhiḥ smṛtipariśuddhiḥ samādhiś ca /
-> tāny etāny aṣṭādaśa dhyānāṅgāni bhavanti / nāmata evam /
+Local witness, retaining its page labels and damaged readings:
 
-**Witness.** Pradhan 438|04–12. Voices: Vasubandhu.
+```text
+[438|04]
+     tṛtīye pañca tūpekṣā smṛtiḥ prajñā sukhaṃ sthitiḥ /
+
+[438|05]
+tṛtīye tu dhyāne pañcāṅgāni /
+upekṣā smṛtiḥ saṃprajñānaṃ sukhaṃ smādhiśca /
+
+[438|06]
+samādhiparyāyo hi sthitiḥ /
+"samyaksamādhiḥ katamaḥ /
+
+[438|06-438|07]
+yā cittasya sthiti"riti sūtre vacanāt /
+
+[438|08]
+     catvāryante 'sukhāduḥkhopekṣāsmṛtisamādhayaḥ // VAkK_8.8 //
+
+[438|09]
+caturthaṃ dhyānamantyam /
+tatra catvāryaṅgāni /
+
+[438|09-438|10]
+aduḥkhāsukhā vedanā upekṣāpariśuddhiḥ smṛtipariśuddhiḥ samādhiśca /
+
+[438|10-438|11]
+tānyetānyaṣṭādaśa dhyānāṅgāni bhavanti /
+
+[438|11]
+prathamatṛtīyayoḥ pañcāṅgatvāt /
+dvitīyacaturthayoścaturaṅgatvāt /
+
+[438|12]
+nāmata evam /
+```
 
 ## 3. Continuous Translation
 
-> In the third dhyāna, five limbs: equanimity, mindfulness, clear comprehension,
-> ease, and samādhi. For stability is a synonym of samādhi — from the sūtra:
-> what is right concentration? That stability of mind.
+> [438|04–05] “In the third are five: equanimity, mindfulness, prajñā,
+> ease, and stability.” In the third dhyāna there are five factors:
+> equanimity, mindfulness, clear comprehension, ease, and samādhi.
 >
-> The last is the fourth dhyāna. There, four limbs: feeling that is neither pain
-> nor pleasure, purification of equanimity, purification of mindfulness, and
-> samādhi. These are eighteen dhyāna-limbs — by name.
+> [438|06–07] For “stability” is a synonym of samādhi, as the sūtra says:
+> “What is right samādhi? That which is the stability of Consciousness.”
+>
+> [438|08–10] “In the last are four: neither-pleasure-nor-pain,
+> equanimity, mindfulness, and samādhi.” The fourth dhyāna is the last;
+> in it are four factors: feeling that is neither painful nor pleasant,
+> purified equanimity, purified mindfulness, and samādhi.
+>
+> [438|10–12] These make eighteen dhyāna factors, since the first and
+> third each have five factors and the second and fourth each have four.
+> This is so by name.
 
 ## 4. Movement of the Commentary
 
 ```text
-3rd: five; prajñā = saṃprajñāna; sthiti = samādhi
+3rd: five; verse prajñā glossed saṃprajñāna; sthiti = samādhi
 4th: four; feeling remains (neutral); two factors purified
 5+4+5+4 = 18 nāmataḥ
 dravyataḥ postponed
@@ -77,7 +115,10 @@ verse's answer.
 
 ## 9. Review Status
 
-Organon pair `VAK_8.08.md` / `VAK_8.08_bhasya.md`, against Pradhan
-438|04–12. Kārikā translations and anchor standardized; terminology
-upgraded to the current Method. `kosabhasya.txt` collation pending.
-Provisional.
+Complete natural unit [438|04]–[438|12] compared with
+`kosabhasya.txt`. [438|02–03] closes 8.07; [438|13] opens
+8.09's count by distinct dharma. The running witness's
+`smādhiśca` remains visible in §2. The prose explicitly gives
+the five-plus-four-plus-five-plus-four tally and restricts the
+eighteen to a count by name; the recount by distinct dharma
+belongs to 8.09.

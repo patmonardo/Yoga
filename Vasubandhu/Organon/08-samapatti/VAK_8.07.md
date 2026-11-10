@@ -27,7 +27,7 @@ those expanded words to be substituted into the verse.
 | `ādye` | locative singular neuter adjective | in the first [dhyāna] |
 | `tarka-cārau` | nominative dual coordinated compound | vitarka and vicāra |
 | `ca` | conjunction | and |
-| `prīti-saukhya-samādhayaḥ` | nominative plural coordinated compound | joy, ease, and concentration |
+| `prīti-saukhya-samādhayaḥ` | nominative plural coordinated compound | joy, ease, and samādhi |
 | `prīti-ādayaḥ` | nominative plural compound (`prītyādayaḥ`) | those beginning with joy, the preceding three |
 | `prasādaḥ` | nominative singular masculine | clarity, expanded as inward serenity |
 | `ca` | conjunction | and |
@@ -63,7 +63,7 @@ N[CASE=nom,NUM=sg,GEN=n,COUNT=four] -> 'aṅgacatuṣṭayam'
 
 
 **Close construe.** In the first dhyāna are five factors:
-vitarka, vicāra, joy, ease, and concentration. In the
+vitarka, vicāra, joy, ease, and samādhi. In the
 second are the three beginning with joy plus inward
 clarity, forming a set of four factors.
 
@@ -72,13 +72,13 @@ clarity, forming a set of four factors.
 ### Literal Translation
 
 > In the first are five: vitarka and vicāra, joy, ease,
-> and concentration. In the second, the three beginning
+> and samādhi. In the second, the three beginning
 > with joy and clarity form the set of four factors.
 
 ### Bhāṣya-informed study translation
 
 > In the first dhyāna are five factors: vitarka and vicāra, joy,
-> ease, and concentration. In the second, the three beginning
+> ease, and samādhi. In the second, the three beginning
 > with joy, together with clarity, form the set of four factors.
 
 ## 6. Philosophical Translation
@@ -118,8 +118,8 @@ happiness.
 of the factor's nature is not settled merely by this
 lexical correspondence.
 
-**`Samādhi / cittaikāgratā`.** Concentration or one-pointedness
-of mind. The source counts it as one factor while
+**`Samādhi / cittaikāgratā`.** Samādhi, glossed as
+one-pointedness of Consciousness. The source counts it as one factor while
 also calling it dhyāna. Its role requires distinguishing
 the defining nature from the accompanied factor-constitution.
 
@@ -239,11 +239,11 @@ and the five-to-four count does not measure computational
 complexity. The doctrinal inventories remain the primary
 determination.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-first Bhāṣya-controlled study.
 The five- and four-member lists, expansions of tarka/cāra
 and prasāda, samādhi's double role, and army analogy
-have been checked against the local extract and running
-source. The scope-setting sentence and finer factor
+have been checked against the complete [437|13–14]–[438|02–03]
+unit in the running source. The scope-setting sentence and finer factor
 identifications remain explicitly bounded.
 
 ## 10. OWL++ Seed

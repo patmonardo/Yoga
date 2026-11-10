@@ -18,7 +18,7 @@ The Sanskrit follows the local kārikā witness. The
 Devanāgarī renders the same reading. The verse presupposes
 VAK 8.01's wholesome one-pointedness and distributes
 associated factors rather than defining four unrelated
-kinds of cognition.
+kinds of Consciousness.
 
 ## 3. Lexical Analysis
 
@@ -128,9 +128,9 @@ complete inventory of every factor present in each dhyāna.
 In particular, the fourth dhyāna is not a cognition
 without any associated factors.
 
-**`Ārūpya`.** Formless state or attainment. The birth
+**`Ārūpya`.** Formless state or attainment. The rebirth
 and attainment distinction remains in force. “Formless”
-does not mean absent consciousness or an independently
+does not mean absent Consciousness or an independently
 asserted immaterial self.
 
 **`Anuparivartirūpābhāva`.** Absence of accompanying
@@ -207,11 +207,11 @@ FactorOf(third,sukha)
 
 ## 9. Interpretive Note
 
-**Source boundary.** The local Bhāṣya file extends to
-435|21 and summarizes an extended argument against
-subtle form in the formless domain. The running source
-has already opened VAK 8.03 with the naming of the
-formless states and their access stages at 434|11.
+**Source boundary.** The running witness opens VAK 8.03
+with `ta eva cārupyāḥ` at [434|10], followed by its
+naming of the formless states and their access stages
+at [434|11]. That unit develops an extended argument
+against subtle form in the formless domain.
 That later argument is not silently treated as entirely
 belonging to 8.02. Here the four-Base claim is
 established with its immediate reason; its ensuing
@@ -254,12 +254,14 @@ The source here gives the controlled basis: wholesome
 one-pointedness, differentiated accompaniment, and release
 from the lower ground through dispassion.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-first Bhāṣya-controlled study.
 The inherited wholesome one-pointedness, first-dhyāna
 vitarka inclusion, selected factor progression, specified
 analogy with formless states, four Bases, fourfold
 sequence, and local definition of viveka have been
-checked against the local extract and running source.
+checked against the complete [433|15]–[434|09–10] unit
+in the running source. The witness's damaged readings
+remain visible in the paired Bhāṣya study.
 The extended form-absence debate remains for VAK 8.03.
 
 ## 10. OWL++ Seed

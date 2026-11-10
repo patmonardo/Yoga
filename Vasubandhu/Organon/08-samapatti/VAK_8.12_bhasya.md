@@ -11,36 +11,70 @@
 > pleasure and neutral feeling in the third; and neutral feeling alone
 > in the fourth.
 
-`Pravido` left unresolved. Knowledge operating at higher rebirth: 8.13.
+`Pravido` left unresolved. Cognition operating at higher rebirth: 8.13.
 
 Kārikā study: [`VAK_8.12.md`](./VAK_8.12.md).
 
 ## 2. Continuous Sanskrit
 
-> tat kiṃ yā dhyānasamāpattiṣu vedanās tā eva dhyānopapattiṣu / nety āha /
-> prathamadhyānopapattau tisro vedanāḥ /
-> sukhaṃ trivijñānakāyikaṃ saumanasyaṃ manobhūmikam / upekṣā caturvijñānakāyikī /
-> dvitīyadhyānopapattau dve vedane saumanasyopekṣe manobhūmike /
-> sukhaṃ nāsty asya vijñānakāyābhāvāt /
-> tṛtīyadhyānopapattau dve vedane / sukhopekṣe manobhūmike /
-> caturthadhyānopapattāv upekṣaiva /
+Local witness, retaining its page labels and damaged readings:
 
-**Witness.** Pradhan 441|19–442|06. Voices: Vasubandhu.
+```text
+[441|20]
+taskiṃ yā dhyānasamāpattiṣu vedanāstā eva dhyānopapattiṣu /
+
+[441|21]
+netyāha /
+kiṃ tarhi /
+
+[442|01-442|02]
+     saumanasyasukhopekṣā upekṣāsumanaskate /
+     sukhhopekṣe upekṣā pravido dhyānopapattiṣu // VAkK_8.12 //
+
+[442|03]
+prathamadhyānotpatto tisro vedanāḥ /
+
+[442|03-442|04]
+sukhaṃ trivijñānakāyikaṃ saumanasyaṃ manobhūmikam /
+
+[442|04]
+upekṣā caturvijñānakāyikī /
+
+[442|04-442|05]
+dvitīyadhyānopapattau dve vedane saumanasyopekṣe manobhūmike /
+
+[442|05]
+sukhaṃ nāstyasya vijñānakāyābhāvāt /
+
+[442|05-442|06]
+tṛtīyadhyānopapattī dve vedane /
+
+[442|06]
+sukhopekṣe manobhūmike /
+caturthadhyānopapattāvupekṣaiva /
+```
 
 ## 3. Continuous Translation
 
-> Are the feelings in dhyāna-attainment the same as those in dhyāna-rebirth?
-> No. What then?
+> [441|20–21] Are the feelings present in dhyāna attainments the same as
+> those in the corresponding dhyāna rebirths? No. What, then, are they?
 >
-> In first-dhyāna rebirth, three feelings: pleasure associated with three
-> knowledge-bodies; pleasant-mindedness of the mental level; neutral feeling
-> associated with four knowledge-bodies.
+> [442|01–03] “Pleasant-mindedness, pleasure, and neutral feeling;
+> neutral feeling and pleasant-mindedness; pleasure and neutral feeling;
+> and neutral feeling—in the dhyāna rebirths.” In the first-dhyāna
+> rebirth there are three feelings.
 >
-> In the second, two: pleasant-mindedness and neutral feeling, both mental.
-> There is no [that] pleasure — because its knowledge-body is absent.
+> [442|03–04] Pleasure is associated with three Cognition groups;
+> pleasant-mindedness belongs to the mental level; neutral feeling
+> is associated with four Cognition groups.
 >
-> In the third, two: pleasure and neutral feeling, both mental. In the fourth,
-> neutral feeling alone.
+> [442|04–05] In the second-dhyāna rebirth there are two feelings,
+> pleasant-mindedness and neutral feeling, both belonging to the
+> mental level. Pleasure is absent because its Cognition group is absent.
+>
+> [442|05–06] In the third-dhyāna rebirth there are two feelings,
+> pleasure and neutral feeling, both belonging to the mental level.
+> In the fourth-dhyāna rebirth there is only neutral feeling.
 
 ## 4. Movement of the Commentary
 
@@ -48,12 +82,12 @@ Kārikā study: [`VAK_8.12.md`](./VAK_8.12.md).
 samāpatti ≠ upapatti
 3 / 2 / 2 / 1 — middle two same count, different members
 sukha of 1st ≠ sukha of 3rd
-missing support → missing feeling
+missing Cognition group → missing feeling
 ```
 
 ## 5. Same Level-Name ≠ Same Constitution
 
-`Vijñānakāya` = class of knowledge, not a body of “consciousness.” Upekṣā here
+`Vijñānakāya` = Cognition group, not an anatomical body. Upekṣā here
 = feeling, not the aṅga. Neutral alone ≠ no experience ≠ liberation. Counts
 are types available, not simultaneous feelings in one kṣaṇa.
 
@@ -61,7 +95,7 @@ are types available, not simultaneous feelings in one kṣaṇa.
 
 | rebirth | feelings |
 |---|---|
-| 1st | sukha (3 knowledge-bodies), saumanasya (mental), upekṣā (4) |
+| 1st | sukha (3 Cognition groups), saumanasya (mental), upekṣā (4) |
 | 2nd | saumanasya, upekṣā (both mental) |
 | 3rd | sukha, upekṣā (both mental) |
 | 4th | upekṣā only |
@@ -77,13 +111,16 @@ are types available, not simultaneous feelings in one kṣaṇa.
 This section is reconstruction.
 
 Birth-dhyāna was already split from attainment at 8.01. Here the split is felt.
-Vidyā: feeling follows available Knowing-classes. Technē of sitting is not the
+Vidyā: feeling follows available Cognition groups. Technē of sitting is not the
 constitution of the world-level. Appearance would copy the sitting into the
 heaven and call them one.
 
 ## 9. Review Status
 
-Pair with Organon `VAK_8.12.md` (Pradhan 441|19–442|06), upgraded to the
-current Method: kārikā translations and anchor standardized; terminology
-upgraded. `Pravido` unresolved. `kosabhasya.txt` collation pending.
-Provisional.
+Complete natural unit [441|20]–[442|06] compared with
+`kosabhasya.txt`. [441|19] closes 8.11; the question at
+[442|07–08] opens 8.13. The running witness's `taskiṃ`,
+`sukhhopekṣe`, `prathamadhyānotpatto`, and
+`tṛtīyadhyānopapattī` remain visible in §2. `Pravido`
+remains unresolved; the prose secures the four distributions
+without requiring a conjectural reading of that word.

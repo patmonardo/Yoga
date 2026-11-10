@@ -5,10 +5,10 @@
 > kliṣṭeṣv asat prītisukhaṃ prasādaḥ saṃpradhīḥ smṛtiḥ |
 > upekṣāsmṛtiśuddhiś ca kecit prasrabdhyupekṣaṇe || 8.10 ||
 
-> In the defiled dhyānas, respectively, rapture and pleasure,
+> In the defiled dhyānas, respectively, separation-born rapture and pleasure,
 > inward clarity, clear comprehension and mindfulness, and the
-> purification of equanimity and mindfulness are absent. Some say
-> that pliancy and equanimity are what is absent.
+> purification of equanimity and mindfulness are absent. Others say
+> pliancy is absent in the first two and equanimity in the last two.
 
 Fourth dhyāna's immovability: 8.11.
 
@@ -16,33 +16,75 @@ Kārikā study: [`VAK_8.10.md`](./VAK_8.10.md).
 
 ## 2. Continuous Sanskrit
 
-> kiṃ punaḥ kliṣṭeṣv api dhyāneṣu yathāvihitāny aṅgāni bhavanti /
-> prathame dhyāne vivekajaṃ prītisukhaṃ nāsti / kleśāviviktatvāt /
-> dvitīye … 'dhyātmasaṃprasādo nāsti / kleśāvilatvāt /
-> tṛtīye smṛtisaṃprajanyaṃ nāsti / kliṣṭasukhasaṃbhramitatvāt /
-> caturthe upekṣāsmṛtipariśuddhir nāsti / kleśamalinatvāt /
-> evaṃ tāvat kecid āhuḥ /
-> kecit punaḥ prathamadvitīyayoḥ kliṣṭayoḥ prasrabdhir nāsti /
-> tṛtīyacaturthayor upekṣā nāsti / kuśalamahābhūmikatvād anayoḥ /
+Local witness, retaining its page labels and damaged readings:
 
-**Witness.** Pradhan 441|01–11. Voices: question; first account (`kecid`); second
-account (`kecit punaḥ`).
+```text
+[441|01-441|02]
+kiṃ punaḥ kliṣṭeṣvapi dhyāneṣu yathāvihitānyaṅgāni bhavanti /
+
+[441|02]
+na hi kiṃ teṣu na vidyate /
+
+[441|03]
+     kliṣṭeṣvasatprītisukhaṃ prasādaḥ saṃpradhīḥ smṛṭiḥ /
+
+[441|04]
+     upekṣāsmṛtiśuddhiśca
+
+[441|05]
+prathame dhyāne vivekajaṃ prītisukhaṃ nāsti /
+kleśāviviktatvāt /
+
+[441|05-441|06]
+dvitīye dhyāne 'dhyātmasaṃprasādo nāsti /
+
+[441|06]
+kleśāvilatvāt /
+tṛtīye smṛtisaṃprajanyaṃ nāsti /
+
+[441|07]
+kliṣṭasukhasaṃbrhamitatvāt /
+ccaturthe upekṣāsmṛtipariśuddhirnāsti /
+kleśamalinatvāt /
+
+[441|08]
+evaṃ tāvat kecidāhuḥ /
+
+[441|09]
+     kecit prasrabdhyupekṣaṇe // VAkK_8.10 //
+
+[441|10]
+kecitpunaḥ prathamadvitīyayoḥ kliṣṭayoḥ prasrabdhirnāsti /
+
+[441|10-441|11]
+tṛtīyacaturthayorupekṣā nāsti /
+
+[441|11]
+kuśalalmahābhūmikatvādanayoriti /
+```
 
 ## 3. Continuous Translation
 
-> Do the prescribed limbs also occur in defiled dhyānas? What is not found in
-> them?
+> [441|01–04] Do the factors specified above occur even in defiled dhyānas?
+> What, then, is absent from them? “In the defiled [dhyānas] there is no
+> rapture-and-pleasure, clarity, clear comprehension, mindfulness, or
+> purification of equanimity and mindfulness.”
 >
-> In the first: rapture and pleasure born of separation are absent — because
-> there is no separation from defilements. In the second: inward clarity is
-> absent — turbidity of defilements. In the third: mindfulness and clear
-> comprehension are absent — bewilderment by defiled pleasure. In the fourth:
-> purification of equanimity and mindfulness is absent — stain of defilements.
-> Thus some say.
+> [441|05] In the first dhyāna, rapture and pleasure born of separation
+> are absent, since there is no separation from defilements.
 >
-> Others: in the first two defiled, pliancy is absent; in the third and fourth,
-> equanimity is absent — because those two belong to the wholesome great-ground
-> class.
+> [441|05–06] In the second dhyāna, inward clarity is absent because it
+> is clouded by defilements.
+>
+> [441|06–07] In the third, mindfulness and clear comprehension are
+> absent because of bewilderment by defiled pleasure. In the fourth,
+> purification of equanimity and mindfulness is absent because of the
+> stain of defilements. So some authorities say.
+>
+> [441|09–11] “Some [instead] exclude pliancy and equanimity”: some
+> others say pliancy is absent in the first and second defiled dhyānas,
+> and equanimity in the third and fourth, because these two belong
+> to the class of factors common to wholesome states.
 
 ## 4. Movement of the Commentary
 
@@ -86,7 +128,11 @@ with the oil poured out. Neither.
 
 ## 9. Review Status
 
-Organon pair `VAK_8.10.md` / `VAK_8.10_bhasya.md`, against Pradhan
-441|01–11. Kārikā translations and anchor standardized; terminology
-upgraded to the current Method. `kosabhasya.txt` collation pending.
-Provisional.
+Complete natural unit [441|01–02]–[441|11] compared with
+`kosabhasya.txt`. [440|22] closes 8.09; the three-dhyāna
+statement at [441|11–12] opens 8.11. The running witness's
+`smṛṭiḥ`, `ccaturthe`, `saṃbrhamitatvāt`, and
+`kuśalalmahābhūmikatvāt` remain visible in §2.
+The two attributed accounts remain separate, and the first
+account's separation-born and purification qualifications
+are retained in translation.

@@ -5,7 +5,7 @@
 > atadvān labhate śuddhaṃ vairāgyeṇopapattitaḥ |
 > anāsravaṃ tu vairāgyāt kliṣṭaṃ hānyupapattitaḥ || 8.14 ||
 
-> One who does not yet possess an attainment acquires its pure form
+> One who does not possess an attainment acquires its pure form
 > through dispassion toward a lower level or through rebirth at a
 > lower level, except at the summit of existence; acquires its
 > uncontaminated form through dispassion; and acquires its defiled
@@ -18,38 +18,119 @@ Kārikā study: [`VAK_8.14.md`](./VAK_8.14.md).
 
 ## 2. Continuous Sanskrit
 
-> atha śuddhakādīnāṃ dhyānārūpyāṇāṃ kathaṃ lābhaḥ /
-> asamanvāgatas tena śuddhakaṃ dhyānam ārūpyaṃ vā pratilabhate /
-> adhobhūmivairāgyād vā / adhobhūmyupapattito vā / anyatra bhavāgrāt /
-> śuddhakena prayogato 'pi nirvedhabhāgīyaṃ śuddhakaṃ pratilabhate parihāṇito vā hānabhāgīyam /
-> atadvān labhate iti vartate /
-> tadvāṃs tu kṣayajñānato 'py aśaikṣaṃ labhate / indriyasaṃcārato 'pi śaikṣāśaikṣam /
-> nanu ca niyāmāvakrāntito 'py anāsravaṃ prathamato labhate /
-> nāvaśyam ānupūrvikeṇālābhāt /
-> parihāṇito yadi tadvairāgyāt parihīyate /
-> upapattito yady uparibhūmer adharāyām upapadyate /
+```text
+[442|19]
+atha śuddhakādīnāṃ dhyānārupyāṇāṃ kathaṃ lābhaḥ /
 
-**Witness.** Pradhan 442|19–443|12. Voices: Vasubandhu; objector (niyāma).
+[442|20]
+     atadvān labhate śuddhaṃ vairāgyeṇopapattitaḥ /
+
+[442|21]
+asamanvāgatastena śuddhakaṃ dhayanamārupyaṃ vā pratilabhate /
+adhobhūmivairāgyādvā /
+
+[442|22]
+adhobhūmyupapattito vā /
+anyatra bhavāgrāt /
+na hi tasyopapattito lābhaḥ /
+
+[442|23]
+atadvāniti kimartha samanvāgataḥ /
+
+[442|23-442|24]
+śuddhakena prayogato 'pi nirvedhabhāgīyaṃ śuddhakaṃ pratilabhate parihāṇito vā hānabhāgīyam /
+
+[442|24-443|01]
+ata evocyate "syācchuddhakaṃ dhyānaṃ vairāgyeṇa pratilabheta vairāgyeṇa vijahyāt /
+
+[443|01]
+evaṃ parihāṇyā copapattyā ca /
+
+[443|02]
+syāddhānabhāgīyaṃ prathamaṃ dhayānam /
+taddhi kāmavairāgyeṇa labhyate /
+
+[443|02-443|03]
+brahmalokavairāgyeṇa tyajyate /
+
+[443|03]
+brahmalokavairāgyaparihāṇyā labhyate /
+kāmavairāgyaprahāṇyā tyajyate /
+
+[443|04]
+upariṣṭādbrahmaloka utpadyamāno labhate /
+
+[443|04-443|05]
+tasmāt punaḥ kāmadhātāvupapapadyamāno vijahātīti /
+
+[443|06]
+     anāsravaṃ tu vairāgyāt
+
+[443|07]
+atadvān labhate iti vartate /
+
+[443|07-443|08]
+tadvāṃstu kṣayajñānato 'pyaśaikṣaṃ labhate indriyasaṃcārato 'pi śaikṣaśaikṣam /
+
+[443|08]
+nanu ca niyāmā vakrāntito 'pyanāsravaṃ prathamato labhate /
+
+[443|09]
+nāvaśyamānupūrvikeṇālābhāt /
+yathā tvavaśyaṃ labhate tathoktam /
+
+[443|10]
+     kliṣṭaṃ hānyupapattitaḥ // VAkK_8.14 //
+
+[443|11]
+atadvān labhata ityevānuvartate /
+
+[443|11-443|12]
+parihāṇito yadi tadvairāgyātparihīyate /
+
+[443|12]
+upapattito yadyuparibhūmeradharāyāmupapadyate /
+```
+
+**Witness.** Pradhan [442|19]–[443|12], transcribed from
+`kosabhasya.txt`. The gain-and-loss illustration belongs to this unit;
+[443|13] begins the next question.
 
 ## 3. Continuous Translation
 
 > How are the pure and other dhyānas and formless attainments acquired?
+> “One who does not possess it acquires the pure through dispassion or
+> rebirth.” One not endowed with it acquires a pure dhyāna or formless
+> attainment through dispassion toward a lower ground, or through rebirth
+> at a lower ground, except for the summit of existence: that is not
+> acquired through rebirth.
 >
-> One not endowed with that pure dhyāna or ārūpya obtains it — from dispassion
-> toward a lower ground, or from rebirth at a lower ground — except the summit
-> of existence: that is not obtained by rebirth.
+> Why say “one who does not possess it”? A person already endowed with a
+> pure attainment also acquires, through preparatory application, a pure
+> attainment conducive to penetration, or, through decline, a pure
+> attainment tending toward decline. Accordingly it is said: “One might
+> acquire a pure dhyāna through dispassion and abandon it through
+> dispassion.” Likewise through decline and through rebirth. There can be
+> a decline-tending first dhyāna: it is acquired through dispassion toward
+> the desire realm and abandoned through dispassion toward Brahmā's world;
+> acquired through decline from dispassion toward Brahmā's world and
+> abandoned through loss of dispassion toward the desire realm; acquired
+> on rebirth above in Brahmā's world and abandoned on rebirth from there
+> in the desire realm.
 >
-> Why say “one who does not possess it”? One already endowed with a pure [item]
-> also obtains, by practice, a penetration-tending pure; or by decline, a
-> decline-tending pure. For the uncontaminated, “one who does not possess it”
-> continues. One who already possesses it also obtains an adept's through
-> knowledge of destruction, and a trainee's or adept's through change of
-> faculties. Is uncontaminated not also first obtained at entry into certainty?
-> Not necessarily — the sequential practitioner may not obtain it that way. The
-> verse states how it is necessarily obtained.
+> “But the uncontaminated through dispassion.” “One who does not possess
+> it acquires” continues to govern this clause. One who does possess it
+> also acquires a nontrainee's attainment through Knowledge of exhaustion,
+> or a trainee's or nontrainee's through transformation of the faculties.
+> But is the uncontaminated not also first acquired upon entry into the
+> fixed course? Not necessarily, since it is not acquired by the sequential
+> practitioner [in that way]. The verse states the way in which it is
+> necessarily acquired.
 >
-> Defiled: if one declines from dispassion toward that [level]; or if one is
-> reborn from a higher ground into a lower.
+> “The defiled through decline or rebirth.” “One who does not possess it
+> acquires” continues here too. It is acquired through decline if one
+> declines from dispassion toward that [ground], or through rebirth if
+> one is reborn in a lower ground from a higher one.
 
 ## 4. Movement of the Commentary
 
@@ -62,8 +143,10 @@ kliṣṭa: decline, or higher-to-lower birth
 
 ## 5. Route ≠ Mode
 
-Rebirth for *pure* is lower-ground (`adhobhūmi`), not a free climb. Hānabhāgīya
-≠ kliṣṭa. Non-possession ≠ never had it. Bhavāgra still has no anāsrava form.
+The pure rebirth route is specified as lower-ground rebirth (`adhobhūmi`).
+*Hānabhāgīya* is a pure subtype, distinct from *kliṣṭa*. Non-possession
+does not mean never possessed. The summit exception concerns acquisition
+through rebirth, not the existence of an uncontaminated summit attainment.
 
 ## 6. Non-Possessor Routes
 
@@ -83,13 +166,25 @@ Rebirth for *pure* is lower-ground (`adhobhūmi`), not a free climb. Hānabhāg�
 
 This section is reconstruction.
 
-Possession has a genealogy. Vidyā: mode, level, prior possession, route. Technē
-of vairāgya is not a birth-ticket to anāsrava. Appearance would treat location
-as attainment. Bhavāgra already refused that.
+An acquisition requires its mode, level, prior possession, and route to
+be specified. The six-part first-dhyāna example shows that acquisition
+and abandonment may each occur through dispassion, decline, or rebirth.
+This is the Organon determination of the source relations, not a further
+claim that location alone constitutes attainment.
 
 ## 9. Review Status
 
-Pair with Organon `VAK_8.14.md` (Pradhan 442|19–443|12), upgraded to the
-current Method: kārikā translations and anchor standardized; terminology
-upgraded. Upward-birth paraphrase not followed. `kosabhasya.txt` collation
-pending. Provisional.
+The complete natural unit [442|19]–[443|12] was collated against
+`kosabhasya.txt`; [442|18] closes 8.13 and [443|13] opens 8.15.
+The earlier extract omitted the full quoted gain-and-loss question,
+its six-case decline-tending first-dhyāna example, the summit's
+rebirth exclusion, and the reply that the verse states a necessary
+route. All are restored in witness order. Local forms `dhayanam`,
+`dhayānam`, `śaikṣaśaikṣam`, and `upapapadyamāno` remain visible.
+The example's birth into Brahmā's world belongs to the supplemental
+discussion of an already possessed pure subtype; it should not be
+substituted for the initial non-possessor's `adhobhūmyupapattito` rule.
+The exact sense of the compressed question `atadvāniti kimartha
+samanvāgataḥ` and the scope of the sequential-practitioner reply
+remain interpretive uncertainties; no Sanskrit letters were repaired.
+The paired kārikā anchor is identical.

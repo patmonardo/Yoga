@@ -197,7 +197,7 @@ Role(second,priti,saumanasya)
 
 **Results (NLTK).** The checker parses the stated-account theory and confirms it in the finite model. It does not calculate eleven from an exhaustive census here; the roster illustrates the identifications and the sukha split.
 
-**Scope cautions.** `dvidhāgamāt` means two scriptural warrants, not two occurrences. The bodily-pleasure account (`apare`) is reported, debated, and left for examination; it is not merged with the stated role mapping. The prose's `vicāryam` keeps that dispute open, and the count is not a claim of simultaneous presence.
+**Scope cautions.** `dvidhāgamāt` means two scriptural warrants, not two occurrences. The bodily-pleasure account (`apare`) is reported and debated without being merged with the stated role mapping. The prose's `vicāryam` at [440|04] follows the question why these five are selected as factors; it should not be assigned exclusively to the bodily-pleasure dispute. The count is not a claim of simultaneous presence.
 
 ## 9. Interpretive Note
 
@@ -241,11 +241,11 @@ qualifications or suppressing competing analyses. It
 is a project reconstruction, not an attribution of
 Organon architecture to Vasubandhu.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-first Bhāṣya-controlled study.
 The elevenfold count, its cumulative construction,
 the three identifications, the major reported alternatives,
 and both scriptural warrants have been checked against
-the local research material and running source. Damaged
+the complete [438|13]–[440|22] running unit. Damaged
 wording has not been silently reconstructed.
 
 ## 10. OWL++ Seed

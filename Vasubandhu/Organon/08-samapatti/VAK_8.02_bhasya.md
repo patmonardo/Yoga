@@ -17,43 +17,128 @@ Kārikā study: [`VAK_8.02.md`](./VAK_8.02.md).
 
 ## 2. Continuous Sanskrit
 
-> vicāraprītisukhasaṃyuktaṃ kuśalaikāgryaṃ tat prathamaṃ dhyānam /
-> vicāravacanād vitarko 'py ukto bhavati / sāhacaryād dhūmāgnivat /
-> śeṣaṃ … śubhaikāgryam iti vartate /
-> vicāravivarjitaṃ prītisukhavat dvitīyaṃ / vicāraprītivarjitaṃ tṛtīyaṃ /
-> vicāraprītisukhavarjitaṃ caturtham /
-> ete 'pi hi dvidhā upapattisamāpattitaḥ /
-> … kuśalaikāgratāsvabhāvāḥ / saparivārāś catuḥskandhāḥ / anuparivartirūpābhāvāt /
-> caturthadhyānavivekajaṃ hy ākāśānantyāyatanam / … naivasaṃjñānāsaṃjñāyatanam /
-> ko 'yaṃ viveko nāma / yena mārgeṇādhastād vimucyate / vairāgyagamanāt /
+Local witness, retaining its page labels and damaged readings:
 
-**Witness.** Pradhan 433|15–434|10. Voices: Vasubandhu.
+```text
+[433|15]
+kīdṛśaṃ punaḥ kuśalamaikāgyraṃ prathamaṃ dhyānaṃ kīdṛśaṃ yāvaccaturtham /
+
+[433|15-433|16]
+prathamaṃ tāvat
+
+[433|17]
+     vicāraprītisukhavat
+
+[433|18]
+vicāraprītisukhasaṃyuktaṃ kuśalamaikāgyraṃ tat prathamaṃ dhyānam /
+
+[433|18-433|19]
+vicāravacanādvitarko 'pyukto bhavati /
+
+[433|19]
+sāhacaryāddhūmāgnivat /
+
+[433|19-433|20]
+na hi prītisukhavānvicāro vinā vitarkeṇāsti /
+
+[433|20]
+śeṣaṃ punrdhyānatrayaṃ
+
+[433|21]
+     pūrvapūrvāṅgavarjitam /
+
+[433|22]
+śubhaikāgryam iti vartate /
+
+[433|22-433|23]
+vicāravivarjitaṃ prītisukhavat dvitīyaṃ vicāraprītivarjitaṃ tṛtīyaṃ vicāraprītisukhavarjitaṃ caturthamiti /
+
+[433|23-433|24]
+yathā dhyānāni
+
+[433|25]
+     tathārūpyāḥ
+
+[434|01]
+kena prakāreṇa /
+ete 'pi hi dvidhā upapattisamāpattitaḥ /
+
+[434|01-434|02]
+catvāraśca eṣāmapi copapattaya uktāḥ /
+
+[434|02-434|03]
+samāpattyārupyāsvabhedena kuśalaikāgratāsvabhāvā ityanena prakāreṇa saparivārāḥ
+
+[434|04]
+     catuskandhāḥ
+
+[434|05]
+anuparivartirūpābhāvāt
+
+[434|06]
+     adhobhūmivivekajāḥ // VAkK_8.2 //
+
+[434|07]
+caturthadhyānavivekajaṃ hyākāśānantyāyatanam /
+
+[434|07-434|08]
+tadvivekajaṃ vijñānānantyāyatanam /
+
+[434|08]
+tadvivekajamākiñcanyāyatanam /
+
+[434|08-434|09]
+tadvivekajaṃ naivasaṃjñānāsamjñāyatanamityevaṃ catvāra ārupyāḥ /
+
+[434|09]
+ko 'yaṃ viveko nāma /
+yena mārgeṇādhastādvimucyate /
+
+[434|09-434|10]
+vairāgyagamanāt /
+```
 
 ## 3. Continuous Translation
 
-> First: wholesome one-pointedness joined with vicāra, joy, and ease. From saying
-> vicāra, vitarka too is stated — by concomitance, like smoke and fire.
+> [433|15–17] What, then, is the wholesome one-pointedness that is the first
+> dhyāna, and what is it up to the fourth? First of all, the first is
+> “possessed of vicāra, joy, and ease.”
 >
-> The remaining three dhyānas: wholesome one-pointedness continues. Second:
-> with joy and ease, without vicāra. Third: without vicāra and joy. Fourth:
-> without vicāra, joy, and ease.
+> [433|18–20] That first dhyāna is wholesome one-pointedness joined with
+> vicāra, joy, and ease. By mentioning vicāra, vitarka too is stated, through
+> their concomitance, like smoke and fire. For vicāra possessed of joy and
+> ease does not exist without vitarka.
 >
-> The formless too are twofold, birth and attainment. Births already stated. As
-> attainments, without distinction, wholesome one-pointedness. With retinue:
-> four Bases — because accompanying form is absent.
+> [433|20–24] The remaining three dhyānas are “deprived successively of the
+> preceding factors”; “wholesome one-pointedness” continues to apply. The
+> second, without vicāra, has joy and ease; the third lacks vicāra and joy;
+> the fourth lacks vicāra, joy, and ease.
 >
-> From separation from the fourth dhyāna: infinite space; from that: infinite
-> consciousness; from that: nothingness; from that: neither perception nor
-> non-perception. What is this viveka? The path by which one is freed from below
-> — from proceeding to dispassion.
+> [433|23–434|02] As with the dhyānas, so with the formless states. In what
+> respect? These too are twofold, as rebirth and attainment; they too are
+> four, and their corresponding rebirths have already been stated.
+>
+> [434|02–06] The formless attainments, taken without distinction, have
+> wholesome one-pointedness as their nature. With their accompaniment, they
+> have four Bases, because accompanying Form is absent. They are “born from
+> separation from the lower ground.”
+>
+> [434|07–10] The infinite-space sphere arises from separation from the
+> fourth dhyāna; the infinite-Cognition sphere from separation from that;
+> the nothingness sphere from separation from that; and the neither-perception-
+> nor-non-perception sphere from separation from that. Thus there are four
+> formless states. What is this “separation”? It is the Path by which one is
+> freed from what is below, through proceeding to dispassion.
 
 ## 4. Movement of the Commentary
 
 ```text
 one defining nature throughout
 first: vitarka implied with vicāra
+the concomitance premise is explicit and limited to vicāra with joy and ease
 2 / 3 / 4: successive subtraction of named factors
-ārūpya likewise two aspects; four Bases
+ārūpya likewise two aspects and four members; their rebirths already stated
+formless attainments: wholesome one-pointedness; with accompaniment four Bases
 viveka = release-path via vairāgya, not a Yoga import
 ```
 
@@ -98,7 +183,11 @@ this verse's inventory.
 
 ## 9. Review Status
 
-Organon pair `VAK_8.02.md` / `VAK_8.02_bhasya.md`, against Pradhan (stop
-434|10). Kārikā translations and anchor standardized; terminology upgraded to
-the current Method. `kosabhasya.txt`
-collation pending. Provisional.
+The complete natural unit [433|15]–[434|09–10] was compared with
+`kosabhasya.txt`. [433|14] closes 8.01; `ta eva cārupyāḥ` at [434|10]
+opens 8.03. The local witness's `kuśalamaikāgyraṃ`, `punrdhyānatrayaṃ`,
+`catuskandhāḥ`, and `naivasaṃjñānāsamjñāyatanam` remain visible in §2;
+their irregular spelling has not been silently replaced. The syntactic
+reach of `sāhacaryāt` is given by the following explicit premise, not
+extended into a universal vitarka–vicāra equivalence. The extended
+form-absence dispute remains for 8.03.

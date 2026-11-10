@@ -30,7 +30,7 @@ differences.
 | `aṣṭa-vidham` | nominative singular neuter adjective | eightfold |
 | `tridhā` | adverb | threefold in the classification that follows |
 | `sapta` | numeral | seven [principal attainments] |
-| `āsvādana-vat-śuddha-anāsravāṇi` | neuter plural coordinated expression; `vat + śuddha` → `vacchuddha`, `śuddha + anāsrava` → `śuddhānāsrava` | three alternatives, expanded by the prose as `āsvādanāsaṃprayuktāni`, `śuddhakāni`, `anāsravāṇi`: associated with savoring, pure, uncontaminated |
+| `āsvādana-vat-śuddha-anāsravāṇi` | neuter plural coordinated expression; `vat + śuddha` → `vacchuddha`, `śuddha + anāsrava` → `śuddhānāsrava` | three alternatives, expanded by the prose as `āsvādanāsaṃprayuktāni`, `śuddhakāni`, `anāsravāṇi`: associated with savoring, pure, without influx |
 | `aṣṭamam` | nominative singular neuter ordinal | the eighth [attainment] |
 | `dvidhā` | adverb | twofold |
 
@@ -68,7 +68,7 @@ The singular inventory is collective, not a permanent substance; access attainme
 
 **Close construe.** Thus the principal attainment inventory
 is eightfold. Seven are threefold—as savoring-associated,
-pure, and uncontaminated—while the eighth is twofold.
+pure, and without influx—while the eighth is twofold.
 
 ## 5. Translation
 
@@ -76,14 +76,14 @@ pure, and uncontaminated—while the eighth is twofold.
 
 > Thus the fundamental attainment inventory is eightfold.
 > Seven are threefold: savoring-associated, pure, and
-> uncontaminated. The eighth is twofold.
+> without influx. The eighth is twofold.
 
 ### Bhāṣya-informed study translation
 
 > The four dhyānas and four formless attainments constitute
 > the fundamental attainment inventory, which is thus eightfold.
 > Seven of them are threefold: associated with savoring, pure,
-> and uncontaminated. The eighth, the summit of existence, is
+> and without influx. The eighth, the summit of existence, is
 > twofold: savoring-associated and pure.
 
 ## 6. Philosophical Translation
@@ -119,10 +119,10 @@ its place in the classification.
 
 **`Śuddha / śuddhaka`.** Pure. It is a separate category
 from `anāsrava`, so “pure” must not be silently rendered
-as “uncontaminated” and collapse the threefold list.
+as “without influx” and collapse the threefold list.
 The next verse supplies its positive definition.
 
-**`Anāsrava`.** Without influxes or uncontaminated.
+**`Anāsrava`.** Without influx.
 Its exclusion from the eighth principal attainment
 is explicit. It does not mean an unconditioned entity
 merely because the translated word suggests purity.
@@ -254,12 +254,12 @@ in every system has the same relation to liberation.
 The doctrinal result is local and definite: bhavāgra
 has no uncontaminated form in this account.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-first Bhāṣya-controlled study.
 The eight principal kinds, seven threefold members,
 three prose-expanded modes, eighth-member identification,
 and explicit uncontaminated exclusion have been checked
-against the local extract and running source. Detailed
-mode definitions remain the next verse's task.
+against the complete [436|12]–[437|02] unit in the running
+source. Detailed mode definitions remain the next verse's task.
 
 ## 10. OWL++ Seed
 

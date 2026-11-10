@@ -87,10 +87,10 @@ in the first pair and the last pair.
 
 ### Bhāṣya-informed study translation
 
-> In the defiled dhyānas, respectively, rapture and pleasure,
+> In the defiled dhyānas, respectively, separation-born rapture and pleasure,
 > inward clarity, clear comprehension and mindfulness, and the
-> purification of equanimity and mindfulness are absent. Some say
-> that pliancy and equanimity are what is absent.
+> purification of equanimity and mindfulness are absent. Others say
+> pliancy is absent in the first two and equanimity in the last two.
 
 ## 6. Philosophical Translation
 
@@ -154,7 +154,7 @@ first => first
 second => second
 third => third
 fourth => fourth
-vivekajapriti => vivekajapriti
+vivekajapritisukha => vivekajapritisukha
 prasada => prasada
 smrtisamprajanya => smrtisamprajanya
 upeksasmrtipurification => upeksasmrtipurification
@@ -163,7 +163,7 @@ equanimity => equanimity
 accounta => accounta
 accountb => accountb
 Defiled => {first, second, third, fourth}
-AbsentA => {(first,vivekajapriti),(second,prasada),(third,smrtisamprajanya),(fourth,upeksasmrtipurification)}
+AbsentA => {(first,vivekajapritisukha),(second,prasada),(third,smrtisamprajanya),(fourth,upeksasmrtipurification)}
 AbsentB => {(first,pliancy),(second,pliancy),(third,equanimity),(fourth,equanimity)}
 ReportedTheory => {accounta, accountb}
 ```
@@ -173,7 +173,7 @@ ReportedTheory => {accounta, accountb}
 ```nltk-fol
 # THEORY first_account — [prose] kecid āhuḥ; reasons are level-specific
 ReportedTheory(accounta)
-AbsentA(first,vivekajapriti)
+AbsentA(first,vivekajapritisukha)
 AbsentA(second,prasada)
 AbsentA(third,smrtisamprajanya)
 AbsentA(fourth,upeksasmrtipurification)
@@ -225,11 +225,13 @@ the source's causal explanations to remain intelligible.
 This is a project reconstruction, not a source claim
 about Organon or a new contemplative instruction.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-first Bhāṣya-controlled study.
 The fourfold distribution, causal explanations, second
 account's paired exclusions, wholesome-class rationale,
 and attribution of both accounts have been checked
-against the local research and running source.
+against the complete [441|01–02]–[441|11] unit in the
+running source. The damaged readings remain visible in the
+paired Bhāṣya study.
 
 ## 10. OWL++ Seed
 

@@ -91,7 +91,7 @@ of the five Bases.
 
 > The four dhyānas are twofold, as corresponding rebirths
 > and as attainment; the rebirths have been explained.
-> Attainment-dhyāna is wholesome one-pointedness of mind;
+> Attainment-dhyāna is wholesome one-pointedness of Consciousness;
 > taken with its accompaniment, however, it has the
 > nature of the five Bases.
 
@@ -99,16 +99,16 @@ of the five Bases.
 
 > The attainment has a defining cognitive determination
 > and a fuller accompanied constitution. Its unity is
-> then examined: does collectedness name the minds
+> then examined: does collectedness name the Consciousnesses
 > themselves, or a distinct factor through which they
 > operate one-pointedly? The exposition preserves both
 > positions and tests the meaning of unity rather than
-> treating one object as a sufficient explanation of dhyāna.
+> treating one Support as a sufficient explanation of dhyāna.
 
 The excellence receiving the dhyāna designation is
 explained through its factors and through tranquillity
 and insight operating together. The passage connects
-collected mind with knowing things as they are.
+collected Consciousness with knowing things as they are.
 
 ## 7. Technical Vocabulary
 
@@ -119,23 +119,23 @@ the second is the present focus. Attaining dhyāna and
 being reborn in its corresponding domain are not identical.
 
 **`Kuśalacittaikāgratā`.** Wholesome one-pointedness of
-mind, the prose expansion of `śubhaikāgrya`. The ethical
+Consciousness, the prose expansion of `śubhaikāgrya`. The ethical
 qualification is part of the definition, not an optional
 adjective added after concentration has been defined.
 
-**`Ekālambanatā`.** Having one object-support. This
+**`Ekālambanatā`.** Having one Support. This
 explains `ekāgratā`, but immediately raises the question
-whether samādhi is distinct from the minds so supported.
+whether samādhi is distinct from the Consciousnesses so supported.
 The definition initiates argument rather than settling
 all questions of cognitive constitution.
 
 **`Caitasika dharmāntara`.** A distinct mental factor.
 The dispute asks whether samādhi is such a factor or
-the one-pointed minds themselves. It is not a dispute
+the one-pointed Consciousnesses themselves. It is not a dispute
 about whether collected cognition occurs at all.
 
 **`Mahābhūmika`.** A mental factor counted as occurring
-throughout minds in the position under discussion.
+throughout Consciousnesses in the position under discussion.
 The objection asks whether universal samādhi would imply
 universal developed collectedness; the reply invokes
 weakness of samādhi. Presence and strength are distinguished.
@@ -157,7 +157,7 @@ progress. Neither is silently replaced by a project
 faculty or an external philosophical category.
 
 **`Yathābhūtaprajñāna`.** Knowing things as they are.
-The prose uses the collected mind's capacity for such
+The prose uses the collected Consciousness's capacity for such
 knowing to explain `dhyāyanti` through `prajānanti`.
 This is an attributed lexical-doctrinal explanation,
 not a claim that every form of attention is liberating insight.
@@ -186,7 +186,7 @@ all x.(SamapattiDhyana(x) -> exists c.(Kusala(c) & Ekagra(c) & Constitutes(c,x))
 
 **Facts (extension of the Dataset).** The table of questions becomes a
 `Valuation`: rows in a frame, one relation per column. The model is a witness
-for `shared` plus the `vaibhāṣika` theory: one attainment-dhyāna `att1`, its
+for `shared` plus the `main_reply` theory: one attainment-dhyāna `att1`, its
 one-pointed wholesome mind `mind1`, and a distinct weak factor `sam1`. It
 makes the `apare` rule false (`mind1` is a `Citta` and `Ekagra` but not
 `Samadhi`), which is the dispute seen from the Dataset side.
@@ -238,10 +238,10 @@ all x.(SamapattiDhyana(x) -> exists c.(Kusala(c) & Ekagra(c) & Constitutes(c,x))
 all x.(SamapattiDhyana(x) -> exists p.(Retinue(p,x) & FiveBases(p)))
 ```
 
-**Theories (one per attributed position; never merged).**
+**Theories (one per reported position; never merged).**
 
 ```nltk-fol
-# THEORY vaibhāṣika — samādhi is the dharma by which minds are one-pointed
+# THEORY main_reply — samādhi is the factor by which Consciousnesses are one-pointed
 all c.(Citta(c) -> -Samadhi(c))
 all c.(Ekagra(c) -> exists s.(Samadhi(s) & Factor(s) & By(c,s)))
 all s.(Factor(s) -> -Citta(s))
@@ -250,7 +250,7 @@ all c.(Citta(c) -> exists s.(Samadhi(s) & Occurs(s,c)))
 exists s.(Samadhi(s) & Weak(s))
 all s.(Weak(s) -> -Developed(s))
 
-# THEORY apare — the one-pointed minds themselves are samādhi
+# THEORY apare — the one-pointed Consciousnesses themselves are samādhi
 all c.((Citta(c) & Ekagra(c)) -> Samadhi(c))
 ```
 
@@ -266,7 +266,7 @@ all a.((Afflicted(a) & Named(a,dhyana)) -> (Resembles(a,dhyana) & -SamapattiDhya
 ```
 
 **Consistency results (NLTK `ResolutionProver`).** The definition entails
-`exists c.(Kusala(c) & Ekagra(c))` from any attainment-dhyāna. The vaibhāṣika
+`exists c.(Kusala(c) & Ekagra(c))` from any attainment-dhyāna. The `main_reply`
 and `apare` theories are each consistent with a one-pointed mind `mind1`; their
 union is contradictory, because the first denies that any `Citta` is `Samadhi`
 and the second asserts it. This is the formal content of “not harmonized into
@@ -283,7 +283,7 @@ factor, not a difference of wording.
 - Afflicted naming does not remove `kusala` from the definition: the
   last rule leaves `SamapattiDhyana` untouched.
 - The `apare` appeal (higher-mind training, purification of mind) is
-  evidence offered by that position, not a premise of the vaibhāṣika theory.
+  evidence offered by that position, not a premise of the `main_reply` theory.
 
 ## 9. Interpretive Note
 

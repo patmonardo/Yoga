@@ -5,46 +5,64 @@
 > cetojñānaṃ tu tattredhā tarkavidyākṛtaṃ ca yat |
 > jānate nārakā ādau nṛṇāṃ notpattilabhikam || 7.56 ||
 
-> Birth-acquired knowledge of another's consciousness is threefold [wholesome,
+> Birth-acquired knowledge of another's Consciousness is threefold [wholesome,
 > unwholesome, or indeterminate], as is knowledge produced through inference or
 > vidyā. Hell-beings initially know through birth-acquired knowledge of
-> another's consciousness and former-abode recollection; the previously
+> another's Consciousness and former-abode recollection; the previously
 > described capacities are not acquired through birth by humans.
 
-`Tat` resumes 7.55's birth-acquired line. Colophon: seventh kośasthāna.
+`Tat` resumes 7.55's birth-acquired line. The chapter colophon follows the
+commentary as separate paratext.
 
 Kārikā study: [`VAK_7.56.md`](./VAK_7.56.md).
 
 ## 2. Continuous Sanskrit
 
-> upapattyāptam iti vartate /
+> cetojñānaṃ tu tattredhā
+> upapattyāptamiti vartate /
 > paracittajñānaṃ tūpapattipratilabdhaṃ trividhaṃ veditavyaṃ kuśalākuśalāvyākṛtam /
-> yac cāpi tārkikaṃ paracittajñānaṃ naimittikānāṃ yac ca vidyākṛtaṃ tad api trividham /
-> na yathā bhāvanāphalaṃ kuśalam eva /
-> … paracittajñānapūrvanivāsānusmṛtibhyāṃ jānate nārakā ādau /
-> yāvan na duḥkhavedanābhyāhatā bhavanti / anyagatisthā nityaṃ jānate /
-> mānuṣyāṇām etad yathoktam ṛiddhyādikaṃ nāsty upapattiprātilambhikam /
-> yat tarhi prakṛtijātismarā bhavanti / karmaviśeṣajā 'sau teṣām /
-> trividhā hi pūrvanivāsānusmṛtir bhāvanāphalam upapattilabdhā karmajā ceti //
+> tarkavidyākṛtaṃ ca yat /
+> yaccāpi tārkikaṃ paracittajñānaṃ naimittikānāṃ yacca vidyākṛtaṃ tadapi trividhaṃ veditavyam /
+> na yathā bhāvanāphalaṃ kuśalameva /
+> upapattipratilambhikābhyāṃ tu paracittajñānapūrvanivāsānusmṛtibhyāṃ
+> jānate nārakā ādau
+> yāvanna duḥkhavedanābhyāhatā bhavanti /
+> anyagatisthā nityaṃ jānate /
+> nṛṇāṃ notpattilābhikam // VAkK_7.56 //
+> mānuṣyāṇāmetadyathoktamṛddhacyādikaṃ nāstyupapattiprātilambhikam /
+> yattarhi prakṛtijātismarā bhavanti /
+> karmaviśeṣajā 'sau teṣām /
+> trividhā hi pūrvanivāsānusmṛtirbhāvanāphalamupapattilabdhā karmajā ceti //
 
-**Witness.** Pradhan 430|11–431|03; colophon 431|04. Voices: Vasubandhu;
-counterexample of natural former-life memory.
+**Witness.** All fifteen local lines of the natural unit, [430|11]–[431|02–03].
+The preceding `nopapattipratilabdhena` ends 7.55 at [430|10]. The colophon
+[431|04] and merit line [431|05] are separate paratext; Chapter 8 prose starts
+at [432|02–03]. The running verse's `notpattilābhikam` differs from the
+separate kārikā's `notpattilabhikam`; retain `ṛddhacyādikaṃ` and
+`upapattiprātilambhikam` as printed. Voice: Vasubandhu, including the
+counterexample concerning natural former-life memory.
 
 ## 3. Continuous Translation
 
-> “Birth-acquired” continues. Birth-acquired other-mind knowledge is threefold:
-> wholesome, unwholesome, indeterminate. Inferential other-mind knowledge of
-> sign-interpreters, and that produced by a vidyā, are also threefold — not like
-> the cultivation-result, which is wholesome only.
+> “Knowledge of Consciousness, however, is threefold”: “birth-acquired”
+> continues [from 7.55]. Birth-acquired Knowledge of another's Consciousness
+> is to be understood as threefold: wholesome, unwholesome, and indeterminate.
+> “And what is produced through inference or a vidyā”: the inferential
+> Knowledge of another's Consciousness of interpreters of signs, and what is
+> produced through a vidyā, are also to be understood as threefold. This is
+> unlike the result of cultivation, which is wholesome only.
 >
-> By birth-acquired other-mind knowledge and former-abode recollection, hell-
-> beings know at first, until struck by painful feeling. Those in other destinies
-> know continually.
+> Through the two birth-acquired capacities, Knowledge of another's
+> Consciousness and recollection of former abodes, “hell-beings know at the
+> beginning,” until they are struck by painful feeling. Those situated in
+> other destinies know continually.
 >
-> For humans the previously named capacities beginning with ṛiddhi are not
-> birth-acquired. What of those who naturally remember former births? That is
-> produced by a special karma. Former-abode recollection is threefold:
-> cultivation-result, birth-acquired, and karma-produced.
+> “For humans, [it is] not birth-acquired”: for humans, the previously
+> described [set of capacities] beginning with extraordinary efficacy is not
+> acquired through birth [the source has `ṛddhacyādikaṃ`]. But what of those
+> who naturally remember former births? Their [recollection] is produced by a
+> special karma. For recollection of former abodes is threefold: a result of
+> cultivation, birth-acquired, and karma-produced.
 
 ## 4. Movement of the Commentary
 
@@ -55,7 +73,7 @@ bhāvanā-phala paracitta: kuśala only
 hell: two capacities until pain
 humans: not by birth; apparent memory = special karma
 recollection inventory (provenance, not ethics)
-colophon
+separate colophon and merit line follow
 ```
 
 ## 5. Two Threefolds
@@ -91,6 +109,10 @@ first. Samāpatti next, on a further signal.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.56.md`
-(Pradhan 430|11–431|04).
-`kosabhasya.txt` collation pending. Sequence complete; status still provisional.
+Complete natural unit [430|11]–[431|02–03] checked line by line against
+`kosabhasya.txt`; all fifteen local lines and both adjacent boundaries are
+represented above. The commentary closes with the three provenances of
+former-abode recollection. The separate colophon at [431|04] names the
+seventh *kośasthāna*; the merit line is [431|05]. Chapter 8 prose begins at
+[432|02–03]. The source's `ṛddhacyādikaṃ`, `upapattiprātilambhikam`, and
+running `notpattilābhikam` remain open for exact Sanskrit collation.

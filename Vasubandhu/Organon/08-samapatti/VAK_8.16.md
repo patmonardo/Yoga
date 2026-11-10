@@ -120,8 +120,8 @@ why the successor occurs.
 
 ## 7. Technical Vocabulary
 
-**Source.** Pradhan 444|09–445|02, checked against the local Bhāṣya
-study and running source. The explanation by prior resolve belongs to
+**Source.** Pradhan [444|09]–[445|01–02], checked against the complete
+Bhāṣya unit and running source. The explanation by prior resolve belongs to
 the lower-pure transition and is developed in the Bhāṣya.
 
 **`Samāpattikāla`.** Attainment-time, the context to
@@ -238,7 +238,8 @@ A single unqualified arrow would conceal both distinctions.
 This is project reconstruction, not a further causal
 system attributed to Vasubandhu.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Complete [444|09]–[445|01–02] unit collated and
+translated in the paired Bhāṣya study. [445|02–03] opens 8.17.
 The same-level alternatives, lower-pure transition,
 objection and prior-resolve answer, sleeping analogy,
 uncontaminated exclusion, and qualified death-time rules

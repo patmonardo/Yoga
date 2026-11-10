@@ -47,7 +47,7 @@ The verse classifies pure attainment, while the Bhāṣya supplies the three nam
 
 ```nltk-fcfg
 % start S
-# tokens: caturdhā śuddhakaṃ hānabhāgīyādi yathākramam ∅-sthitibhāgīyam ∅-viśeṣabhāgīyam ∅-nirvedhabhāgīyam kleśotpattisvabhūmyūrdhvānāsravānuguṇaṃ hi tat
+# tokens: caturdhā śuddhakaṃ hānabhāgīyādi yathākramam ∅-viśeṣabhāgīyam ∅-sthitibhāgīyam ∅-nirvedhabhāgīyam kleśotpattisvabhūmyūrdhvānāsravānuguṇaṃ hi tat
 S -> CL[K=classification] CL[K=orientation]
 CL[K=classification] -> ADV[COUNT=four] N[CASE=nom,NUM=sg,GEN=n,KIND=pure] TYPE[ORDER=first] ADV[ORDER=respectively] TYPE[ORDER=second,SUPPLIED=prose] TYPE[ORDER=third,SUPPLIED=prose] TYPE[ORDER=fourth,SUPPLIED=prose]
 CL[K=orientation] -> PRED[REL=sequence,NUM=?n,GEN=?g] PTCL[EXPLAIN=yes] PRON[CASE=nom,NUM=?n,GEN=?g,REF=pure]
@@ -55,8 +55,8 @@ ADV[COUNT=four] -> 'caturdhā'
 N[CASE=nom,NUM=sg,GEN=n,KIND=pure] -> 'śuddhakaṃ'
 TYPE[ORDER=first] -> 'hānabhāgīyādi'
 ADV[ORDER=respectively] -> 'yathākramam'
-TYPE[ORDER=second,SUPPLIED=prose] -> '∅-sthitibhāgīyam'
-TYPE[ORDER=third,SUPPLIED=prose] -> '∅-viśeṣabhāgīyam'
+TYPE[ORDER=second,SUPPLIED=prose] -> '∅-viśeṣabhāgīyam'
+TYPE[ORDER=third,SUPPLIED=prose] -> '∅-sthitibhāgīyam'
 TYPE[ORDER=fourth,SUPPLIED=prose] -> '∅-nirvedhabhāgīyam'
 PRED[REL=sequence,NUM=sg,GEN=n] -> 'kleśotpattisvabhūmyūrdhvānāsravānuguṇaṃ'
 PTCL[EXPLAIN=yes] -> 'hi'
@@ -64,12 +64,13 @@ PRON[CASE=nom,NUM=sg,GEN=n,REF=pure] -> 'tat'
 ```
 
 ```nltk-dep
-'śuddhakaṃ' -> 'caturdhā' | 'hānabhāgīyādi' | '∅-sthitibhāgīyam' | '∅-viśeṣabhāgīyam' | '∅-nirvedhabhāgīyam'
+'śuddhakaṃ' -> 'caturdhā' | 'hānabhāgīyādi' | '∅-viśeṣabhāgīyam' | '∅-sthitibhāgīyam' | '∅-nirvedhabhāgīyam'
 'tat' -> 'kleśotpattisvabhūmyūrdhvānāsravānuguṇaṃ' | 'hi' | 'yathākramam'
 ```
 
-The functional mapping governs: stability favors its own level and distinction favors a
-higher one, despite their reversed order in the Bhāṣya's initial list. Hānabhāgīya
+The grammar block follows the Bhāṣya's initial list: distinction precedes stability.
+Its later functional mapping reverses those middle terms: stability favors
+its own level and distinction favors a higher one. Hānabhāgīya
 remains pure, not already defiled; conducive does not mean inevitable next.
 
 **Close construe.** Pure attainment is fourfold, beginning
@@ -89,11 +90,11 @@ uncontaminated attainment.
 
 ### Bhāṣya-informed study translation
 
-> Pure attainment is of four kinds, beginning with the decline-conducive
-> and followed in order by the stability-conducive, the
-> distinction-conducive, and the penetration-conducive; for, in that
-> order, it is conducive to the arising of defilements, to its own
-> level, to a higher level, and to the uncontaminated.
+> Pure attainment is fourfold, beginning with the decline-conducive.
+> The verse says its kinds are conducive, respectively, to the arising
+> of defilements, their own level, a higher level, and the
+> uncontaminated; the prose explicitly assigns these functions to
+> decline, stability, distinction, and penetration.
 
 ## 6. Philosophical Translation
 
@@ -116,9 +117,9 @@ the four pure types themselves.
 study and running source. The Bhāṣya's opening qualification (not every
 pure attainment is followed by an uncontaminated one) ties the verse to
 VAK 8.15; at the summit of existence only three types occur, the
-distinction-conducive being absent. The verse's `ādi` is filled by the
-three further names in the commentary's order, while the mapping to
-functions follows `yathākramam`.
+distinction-conducive being absent. The verse's `ādi` is filled by three
+names in the commentary's initial order. That order conflicts with
+the explicit middle-term mapping despite `yathākramam` in the verse.
 
 **`Śuddhaka`.** Pure attainment: wholesome but contaminated,
 kept distinct from anāsrava. Each of the four types
@@ -227,8 +228,8 @@ replacing the present definitions. This is a project
 reconstruction, not an additional doctrine attributed
 to Vasubandhu.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The introductory restriction, four explicit functional
+**Review status.** Complete [445|02–03]–[445|10] unit collated
+and translated in the paired Bhāṣya study. The introductory restriction, four explicit functional
 mappings, source-order discrepancy, summit exception,
 and final arising statement have been checked against
 the local research and running source.

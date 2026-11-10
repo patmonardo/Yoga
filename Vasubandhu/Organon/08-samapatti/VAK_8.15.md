@@ -117,8 +117,8 @@ state in a person's continuum.
 
 ## 7. Technical Vocabulary
 
-**Source.** Pradhan 443|13–444|08, checked against the local Bhāṣya
-study and running source. These are general mode-and-level rules: at the
+**Source.** Pradhan [443|13]–[444|07–08], checked against the complete
+local Bhāṣya unit and running source. These are general mode-and-level rules: at the
 summit of existence only the pure mode is available; entry into the
 formless attainments follows anvayajñāna; later analysis differentiates
 pure attainments by subtype.
@@ -223,8 +223,9 @@ and preserve later subtype refinements. This is a
 project reconstruction, not a software architecture
 attributed to the source.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The inclusive third-level limit, successor counts,
+**Review status.** Complete [443|13]–[444|07–08] unit collated and
+translated in the paired Bhāṣya study. The inclusive third-level limit,
+the explicit 6/7/8/9 counts and remaining ten-item instruction,
 śubha expansion, summit exception, knowledge-condition,
 and additional same-level defiled successor have been
 checked against the local research and running source.

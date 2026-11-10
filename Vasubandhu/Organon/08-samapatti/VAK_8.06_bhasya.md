@@ -8,7 +8,7 @@
 > Savoring-associated attainment is accompanied by craving.
 > Worldly wholesome attainment is pure; that pure attainment is
 > what the savoring-associated attainment savors. Supramundane
-> attainment is uncontaminated.
+> attainment is without influx.
 
 First- and second-dhyāna factors: 8.07.
 
@@ -16,29 +16,69 @@ Kārikā study: [`VAK_8.06.md`](./VAK_8.06.md).
 
 ## 2. Continuous Sanskrit
 
-> tṛṣṇā hy āsvādanā /
-> laukikaṃ kuśalaṃ samāpattidravyaṃ śuddhakam ucyate 'lobhādi śuddhadharmayogāt /
-> tac chuddhakaṃ samāpattidravyaṃ tenāsvādyate samanantarātītam /
-> yad āsvādayati tasmād vyutthito yenāsvādayati tat samāpannaḥ /
-> yal lokottaraṃ samāpattidravyaṃ tad anāsravam /
+Local witness, retaining its page labels and damaged readings; `tatra punaḥ` begins this unit within [437|02]:
 
-**Witness.** Pradhan 437|03–13. Transition at 437|13–14 belongs with 8.07.
-Voices: Vasubandhu.
+```text
+[437|02]
+tatra punaḥ
+
+[437|03]
+     āsvādanāsaṃprayuktaṃ satṛṣṇaṃ
+
+[437|04]
+tṛṣṇā hyāsvādanā /
+
+[437|05]
+     laukikaṃ śubham /
+
+[437|06]
+     śuddhakaṃ
+
+[437|07-437|08]
+laukikaṃ kuśalaṃ samāpattidravyaṃ śuddhakamuccayate 'lobhādi śuddhadharmayogāt /
+
+[437|08]
+kiṃ punastenāsvādanāsaṃprayuktenāsvādyate /
+
+[437|09]
+     tattadāsvādyaṃ
+
+[437|10]
+tacchuddhakaṃ samāpattidravyaṃ tenāsvādyate samanantarātītam /
+
+[437|10-437|11]
+yadāsvādayati tasmādvyutthito yenāsvādayati tatsamāpannaḥ /
+
+[437|12]
+     lokattaramanāsravam // VAkK_8.6 //
+
+[437|13]
+yallokottaraṃ samāpattidravyaṃ tadanāsravam /
+```
 
 ## 3. Continuous Translation
 
-> For savoring is craving. Worldly wholesome attainment is called pure because
-> of conjunction with pure dharmas beginning with non-greed. That pure attainment
-> is savored by this [savoring-associated one], immediately past. From what one
-> savors, one has emerged; that by which one savors, one has entered. What is
-> the supramundane attainment — that is without influxes.
+> [437|02–04] Among these, “associated with savoring” means accompanied by
+> craving, for craving is savoring.
+>
+> [437|05–08] “Worldly wholesome attainment is pure”: the worldly wholesome
+> attainment is called pure because it is conjoined with pure dharmas
+> beginning with non-greed.
+>
+> [437|08–11] What, then, is savored by that savoring-associated attainment?
+> “Each corresponding [pure attainment] is to be savored”: that pure
+> attainment, immediately past, is savored by it. One has emerged from the
+> attainment one savors; one has entered the attainment by which one savors.
+>
+> [437|12–13] “The supramundane is without influx”: whichever attainment
+> is supramundane is without influx.
 
 ## 4. Movement of the Commentary
 
 ```text
 āsvādanā = tṛṣṇā
 śuddhaka = worldly + wholesome + alobha &c.
-object of savoring = that pure item, just past
+object of savoring = the corresponding pure item, just past
 emerged from A / entered B
 lokottara = anāsrava
 ```
@@ -68,14 +108,18 @@ anāsrava-bhavāgra still stands.
 
 This section is reconstruction.
 
-A wholesome configuration can become the *object* of a later Knowing that is
-thirst. Content is not emptied: what is savored is that just-past attainment,
-not a blank glow. Vidyā keeps A and B apart. Technē of Path is the mode, not
-the altitude. Appearance would call the aftertaste “still dhyāna.”
+A wholesome attainment can become the *object* of a later
+savoring-associated attainment. What is savored is that just-past
+attainment. Vidyā keeps the two occurrences apart. Technē of Path
+concerns the mode and sequence, not merely the altitude.
 
 ## 9. Review Status
 
-Organon pair `VAK_8.06.md` / `VAK_8.06_bhasya.md`, against Pradhan
-437|03–13. Kārikā translations and anchor standardized; terminology
-upgraded to the current Method. `kosabhasya.txt` collation pending.
-Provisional.
+Complete natural unit from `tatra punaḥ` within [437|02] through
+[437|13] compared with `kosabhasya.txt`. The mode exclusion
+`anāsrava nāsti` immediately before `tatra punaḥ` closes 8.05;
+[437|13–14] opens the factor analysis of 8.07. The witness's
+`śuddhakamuccayate` and `lokattaram` remain visible in §2.
+The prose secures the immediately past pure attainment as the
+object of savoring and keeps emergence from it distinct from entry
+into the savoring-associated attainment.

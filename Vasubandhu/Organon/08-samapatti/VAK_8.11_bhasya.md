@@ -16,27 +16,57 @@ Kārikā study: [`VAK_8.11.md`](./VAK_8.11.md).
 
 ## 2. Continuous Sanskrit
 
-> trīṇi ca dhyānāni … sāpakṣālatvāt /
-> ke punas te 'pakṣālāḥ /
-> vitarkavicārau sukhaduḥkhe saumanasyadaurmanasye śvāsapraśvāsāś ca /
-> eṣām aṣṭānām eko 'py apakṣālaś caturthe nāsty atas tad āneñjyam uktam /
-> vitarkavicāraprītisukhair akampanīyatvād … nirvātapradīpanidarśanād ity apare /
-> dvayor dhyānayoḥ saumanasyam uktaṃ prītivacanāt / tṛtīye sukhaṃ caturthe upekṣā /
+Local witness, retaining its page labels and damaged readings:
 
-**Witness.** Pradhan 441|11–19. Voices: Vasubandhu; `apare`.
+```text
+[441|11-441|12]
+trīṇi ca dhyānāni señjitāni uktāni bhagavatā /
+
+[441|12]
+sāpakṣālatvāt /
+
+[441|13]
+     aṣṭāpakṣālamuktatvādāniñjaṃ tu caturthakam /
+
+[441|14]
+ke punaste 'pakṣālāḥ /
+
+[441|15]
+     vitarkacārau śvāsau ca sukhādi ca catuṣṭayam // VAkK_8.11 //
+
+[441|16]
+vitarkavicārau sukhaduḥkhe saumanasyadaurmanasye śvāsapraśvāsāśca /
+
+[441|16-441|17]
+eṣāmaṣṭānāmeko'pyapakṣālaścaturthe nāstyatastadāneñjyamuktam /
+
+[441|17-441|18]
+vitarkavicāraprītisukhairakampanīyatvādāneñjyaṃ caturthaṃ dhyānaṃ sūtre nirvāta pradīpanidarśanādityapare /
+
+[441|19]
+dvayordhyānayoḥ saumanasyamuktaṃ prītivacanāt /
+tṛtīye sukhaṃ caturthe upekṣā /
+```
 
 ## 3. Continuous Translation
 
-> The Blessed One called the three dhyānas subject to movement — because they
-> still have disturbances. What are those disturbances? Vitarka and vicāra;
-> pleasure and pain; pleasant-mindedness and displeasure; in-breath and out-breath.
-> Not even one of these eight is in the fourth; hence it is called immovable.
+> [441|11–13] The Blessed One called the first three dhyānas subject to
+> movement because they still have disturbances. “The fourth, however,
+> is immovable because it is free from eight disturbances.”
 >
-> Others: immovable because it cannot be shaken by vitarka, vicāra, rapture, or
-> pleasure — the sūtra's lamp in a windless place.
+> [441|14–17] What are those disturbances? “Vitarka and vicāra, the two
+> breaths, and the four beginning with pleasure”: vitarka and vicāra;
+> pleasure and pain; pleasant-mindedness and displeasure; and inhalation
+> and exhalation. Not even one of these eight disturbances is present in
+> the fourth dhyāna. Hence it is called immovable.
 >
-> In the first two, pleasant-mindedness is stated through the word prīti; in the
-> third, pleasure; in the fourth, equanimity.
+> [441|17–18] Others (*apare*) say that the fourth dhyāna is immovable
+> because vitarka, vicāra, joy, and pleasure cannot shake it, as the
+> sūtra illustrates with a lamp in a windless place.
+>
+> [441|19] Pleasant-mindedness is stated for the first two dhyānas by
+> the mention of joy; pleasure is stated for the third, and equanimity
+> for the fourth.
 
 ## 4. Movement of the Commentary
 
@@ -79,7 +109,9 @@ It is an image for unshaken attainment.
 
 ## 9. Review Status
 
-Organon pair `VAK_8.11.md` / `VAK_8.11_bhasya.md`, against Pradhan
-441|11–19. Kārikā translations and anchor standardized; terminology
-upgraded to the current Method. `kosabhasya.txt` collation pending.
-Provisional.
+Complete natural unit [441|11–12]–[441|19] compared with
+`kosabhasya.txt`. [441|11] closes 8.10; the attainment-versus-
+rebirth-feeling question at [441|20] opens 8.12. The witness's
+`señjitāni`, `āneñjyam`, and other local forms remain visible in §2.
+The eight-item explanation and the attributed *apare* account are
+translated separately; neither gives a physiological procedure.

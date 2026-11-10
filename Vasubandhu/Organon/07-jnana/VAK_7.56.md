@@ -1,4 +1,4 @@
-# VAK_7.56 — knowledge of another's consciousness, Provenance, and Chapter Closure
+# VAK_7.56 — Knowledge of Another's Consciousness, Provenance, and Chapter Closure
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -87,10 +87,10 @@ capacities are not acquired through birth.
 
 ### Bhāṣya-informed study translation
 
-> Birth-acquired knowledge of another's consciousness is threefold [wholesome,
+> Birth-acquired knowledge of another's Consciousness is threefold [wholesome,
 > unwholesome, or indeterminate], as is knowledge produced through inference or
 > vidyā. Hell-beings initially know through birth-acquired knowledge of
-> another's consciousness and former-abode recollection; the previously
+> another's Consciousness and former-abode recollection; the previously
 > described capacities are not acquired through birth by humans.
 
 
@@ -253,23 +253,27 @@ our reconstruction is to keep object, acquisition,
 ethical class, bearer, and conditions of exercise related
 without collapsing them.
 
-**Verified chapter endpoint.** The running source closes
-at Pradhan 431|04 with:
+**Verified chapter endpoint.** The 7.56 commentary ends at [431|02–03]
+with the three provenances of former-abode recollection. The separate
+colophon at [431|04] reads:
 
 > abhidharmakośabhāṣye jñānanirdeśo nāma saptamaṃ kośasthānam
 
-This identifies Jñānanirdeśa as the seventh Kośa section.
-The source then marks the eighth section. VAK 7.56 is
-therefore the final numbered kārikā of Chapter 7, not
-a transition verse to be counted within Chapter 8.
+This identifies Jñānanirdeśa as the seventh Kośa section. A separate
+merit line follows at [431|05], and Chapter 8 prose begins at
+[432|02–03]. VAK 7.56 is the final numbered kārikā of Chapter 7.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Complete source-first review of this natural unit,
+[430|11]–[431|02–03].
 The ethical table, inherited birth-acquisition scope,
 paired capacities of hell-beings, pain condition, human
 restriction, karmic counterexample, final recollection
-inventory, and chapter colophon have been checked against
-the local extract and running source. Completion of the
-study sequence does not remove its provisional review status.
+inventory, and chapter colophon have been checked against all fifteen
+local source lines and both adjacent boundaries. The running verse has
+`notpattilābhikam` against the separate kārikā's `notpattilabhikam`;
+`ṛddhacyādikaṃ` and `upapattiprātilambhikam` remain visibly damaged.
+Their exact restoration is open. Structural checks do not establish
+Sanskrit coverage beyond the directly reviewed units.
 
 ## 10. OWL++ Seed
 
@@ -318,7 +322,7 @@ ProjectConstraint: Ethical threefoldness differs from provenance threefoldness.
 ProjectConstraint: Cultivation-result ethical class depends on the cognition named.
 ProjectConstraint: Natural occurrence does not prove birth-acquisition provenance.
 ProjectConstraint: Do not infer automatic recovery after pain from this passage.
-ProjectConstraint: Completed sequence remains provisionally reviewed scholarship.
+ProjectConstraint: Source-first review of this unit leaves damaged Sanskrit open.
 ```
 
 This is a declarative project seed, not executable OWL.

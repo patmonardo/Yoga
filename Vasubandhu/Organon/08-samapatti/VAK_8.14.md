@@ -89,7 +89,7 @@ The commentary determines the scope of each route.
 
 ### Bhāṣya-informed study translation
 
-> One who does not yet possess an attainment acquires its pure form
+> One who does not possess an attainment acquires its pure form
 > through dispassion toward a lower level or through rebirth at a
 > lower level, except at the summit of existence; acquires its
 > uncontaminated form through dispassion; and acquires its defiled
@@ -148,7 +148,7 @@ penetration / tending toward decline. Both qualify
 pure attainment in the supplemental discussion.
 Hānabhāgīya must not be silently replaced with kliṣṭa.
 
-**`Kṣayajñāna / indriyasaṃcāra`.** Knowledge of destruction /
+**`Kṣayajñāna / indriyasaṃcāra`.** Knowledge of exhaustion /
 change or transformation of faculties. These furnish
 additional acquisitions for one already possessing
 uncontaminated attainment: respectively, an adept's
@@ -206,17 +206,17 @@ research exposition describes the pure rebirth route
 as birth into a corresponding higher sphere. The
 running text instead specifies lower-level rebirth.
 Its first-dhyāna example concerns hānabhāgīya, a qualification
-needed throughout the gain-and-loss illustration.
+needed throughout the gain-and-loss illustration. That supplemental
+example includes birth into Brahmā's world; it does not rewrite the
+initial non-possessor rule's `adhobhūmyupapattito`.
 Both points are retained here without editing the
 research witnesses.
 
-**Witness cautions.** The running text has forms such
-as `dhayanam`, `dhayānam`, and `śaikṣaśaikṣam`.
-The local extract supplies the intelligible trainee/adept
-pair `śaikṣāśaikṣam`. The verse, repeated prose subjects,
-and contextual contrast control the exposition. This
-study does not claim a critical reconstruction of
-every irregular form.
+**Witness cautions.** The running text has `dhayanam`,
+`dhayānam`, `śaikṣaśaikṣam`, and `upapapadyamāno`.
+The Bhāṣya study preserves these forms. Context supports
+the trainee/nontrainee pairing but does not repair the
+local Sanskrit.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā articulates the mode, level, subtype, and
@@ -233,7 +233,8 @@ for an existing possessor distinct from acquisition
 by a non-possessor. This is project reconstruction,
 not an additional theory attributed to the Bhāṣya.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Complete [442|19]–[443|12] Bhāṣya unit
+collated against the local witness and translated in the paired study.
 The non-possession restriction, rebirth direction,
 bhavāgra exception, possessor supplements, qualified
 first-dhyāna illustration, and niyāma objection have

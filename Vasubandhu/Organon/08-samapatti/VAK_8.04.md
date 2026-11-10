@@ -27,7 +27,7 @@ presented as one uniform witness.
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ākāśa-ānantya` | compound member (`ākāśānantya`) | infinity of space |
-| `vijñāna-ānantya` | compound member (`vijñānānantya`) | infinity of consciousness; `vijñāna` is consciousness here, consistent with the preceding formless series |
+| `vijñāna-ānantya` | compound member (`vijñānānantya`) | infinity of Cognition; `vijñāna` is Cognition here, consistent with the preceding formless series |
 | `ākiṃcanya` | abstract noun in compound | nothingness |
 | `saṃjñakāḥ` | nominative plural masculine adjective | bearing the specified names |
 | `tathā-prayogāt` | ablative singular masculine compound; final `t` assimilated before `m` in local `prayogān māndyāt` | because of application in those respective ways; not an accusative plural “those practices” |
@@ -64,10 +64,10 @@ N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose,SEM=<\x.Perception(x)>] -> '∅-saṃjñ�
 
 The supplied fourth-attainment subject and perception preserve the Bhāṣya's
 scope; the first three's corresponding applications do not imply exclusive
-objects. Attenuation is not absence of perception.
+Supports. Attenuation is not absence of perception.
 
 **Close construe.** The first three are named infinity
-of space, infinity of consciousness, and nothingness
+of space, infinity of Cognition, and nothingness
 because of corresponding application. The fourth,
 however, is called neither-perception-nor-non-perception
 because perception is attenuated.
@@ -77,7 +77,7 @@ because perception is attenuated.
 ### Literal Translation
 
 > The first three are designated infinity of space,
-> infinity of consciousness, and nothingness because
+> infinity of Cognition, and nothingness because
 > of application in those ways. The fourth, however,
 > is designated neither-perception-nor-non-perception
 > because perception is attenuated.
@@ -85,7 +85,7 @@ because perception is attenuated.
 ### Bhāṣya-informed study translation
 
 > The first three are designated infinity of space, infinity of
-> consciousness, and nothingness, according to the way they are
+> Cognition, and nothingness, according to the way they are
 > applied; the fourth, however, is designated
 > neither-perception-nor-non-perception because perception in
 > it is attenuated.
@@ -94,10 +94,10 @@ because perception is attenuated.
 
 > A name can record the mode of application through
 > which an attainment is approached rather than exhaustively
-> identify everything it can take as object. A different
+> identify everything it can take as Support. A different
 > name can be explained through the condition of a
 > remaining factor. The formless series therefore requires
-> more than a uniform rule of naming from an object.
+> more than a uniform rule of naming from a Support.
 
 The fourth attainment also has a preparatory valuation.
 The distinction is between the explanatory reasons
@@ -117,9 +117,8 @@ practitioners. The formulations are modes of attention
 in this meditative context, not assertions that the
 study must adopt as unrestricted metaphysical propositions.
 
-**`Vijñāna`.** Consciousness in the second attainment's
-name. The research vocabulary also uses “knowledge.”
-The controlled referent remains vijñāna; it should not
+**`Vijñāna`.** Cognition in the second attainment's
+name. The controlled referent remains vijñāna; it should not
 be silently equated with omniscience, unlimited factual
 knowledge, or every category of jñāna in Chapter 7.
 
@@ -150,11 +149,11 @@ attainment's defining nature.
 
 ## 8. Logical Determination
 
-The naming explanation is not a uniform object rule: the first three names track corresponding modes of attention, while the fourth is explained by perception's attenuated condition [verse; prose]. The Bhāṣya rejects exclusive-object entailment and keeps attenuation distinct from total absence.
+The naming explanation is not a uniform Support rule: the first three names track corresponding modes of attention, while the fourth is explained by perception's attenuated condition [verse; prose]. The Bhāṣya rejects exclusive-Support entailment and keeps attenuation distinct from total absence.
 
 **Signature.** `NamedAs(x,n)`; `AppliedAs(x,m)`; `Perception(x)`; `Attenuated(x)`; `Sharp(x)`; `PerceptionAbsent(x)`; `Fourth(x)`.
 
-**Finite data.** The formulas of attention are recorded as the respective applications reported in the prose; they are not an exhaustive inventory of possible objects.
+**Finite data.** The formulas of attention are recorded as the respective applications reported in the prose; they are not an exhaustive inventory of possible Supports.
 
 ```nltk-valuation
 spaceattainment => spaceattainment
@@ -205,17 +204,17 @@ Attenuated(fourthatta)
 - PerceptionAbsent(fourthatta)
 ```
 
-**Results (NLTK).** The checker parses the rules and finds the shared theory true against this finite valuation. This records the source's stated naming grounds; it does not infer an object restriction from a name.
+**Results (NLTK).** The checker parses the rules and finds the shared theory true against this finite valuation. This records the source's stated naming grounds; it does not infer a Support restriction from a name.
 
 **Scope cautions.** “There is nothing” reports the third mode of attention, not a universal denial that anything exists. The fourth is not cessation: perception remains, though not sharp. Preparatory valuations about perception as disease or non-perception as delusion are acknowledged in the Bhāṣya but are not its final naming ground.
 
 ## 9. Interpretive Note
 
-**Restraint in the object claim.** The local research
+**Restraint in the Support claim.** The local research
 analysis says the fourth cannot be defined through
-a comparable new object-support. The source gives
+a comparable new Support. The source gives
 attenuation as its naming explanation but does not
-present a complete negative theory of its objects.
+present a complete negative theory of its Supports.
 The official study therefore records the positive
 explanation without claiming more than the passage establishes.
 
@@ -254,13 +253,13 @@ remain first: saṃjñā is attenuated and still present.
 The passage supplies no measured perceptual threshold
 or computational definition of a state boundary.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The exclusive-object question, three preparatory formulations,
+**Review status.** Source-first Bhāṣya-controlled study.
+The exclusive-Support question, three preparatory formulations,
 contrastive fourth naming reason, continued presence
 of saṃjñā, and evaluative-practice explanation have been
-checked against the local extract and running source.
-Variant Sanskrit and the limits of the object inference
-remain explicit.
+checked against the complete [436|01–02]–[436|11]
+unit in the running source. Variant Sanskrit and the limits
+of the Support inference remain explicit.
 
 ## 10. OWL++ Seed
 
@@ -277,8 +276,8 @@ ObjectProperty: hasPerceptionCondition
 InfinityOfSpace:
     namingApplication: SpaceIsInfinite
 
-InfinityOfConsciousness:
-    namingApplication: ConsciousnessIsInfinite
+InfinityOfCognition:
+    namingApplication: CognitionIsInfinite
 
 Nothingness:
     namingApplication: ThereIsNothing
@@ -289,7 +288,7 @@ NeitherPerceptionNorNonPerception:
     perceptionStronglyOperative: No
     preparatoryValuation: PeacefulAndExcellent
 
-ProjectConstraint: Preparatory naming does not establish exclusive object-range.
+ProjectConstraint: Preparatory naming does not establish exclusive Support range.
 ProjectConstraint: Fourth attainment also has preparatory application.
 ProjectConstraint: Attenuation does not mean complete cessation of perception.
 ProjectConstraint: Nothingness formulation is not a universal denial of dharmas.

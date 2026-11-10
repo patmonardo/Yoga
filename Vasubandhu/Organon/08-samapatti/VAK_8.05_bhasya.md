@@ -8,7 +8,7 @@
 > The four dhyānas and four formless attainments constitute
 > the fundamental attainment inventory, which is thus eightfold.
 > Seven of them are threefold: associated with savoring, pure,
-> and uncontaminated. The eighth, the summit of existence, is
+> and without influx. The eighth, the summit of existence, is
 > twofold: savoring-associated and pure.
 
 Definitions of the three modes: 8.06. Do not pull them back into this file.
@@ -17,19 +17,53 @@ Kārikā study: [`VAK_8.05.md`](./VAK_8.05.md).
 
 ## 2. Continuous Sanskrit
 
-> ity etāny aṣṭau maulāni samāpattidravyāṇi yaduta catvāri dhyānāni catvāra ārūpyā iti /
-> bhavāgrād anyāni sapta trividhāni /
-> āsvādanāsaṃprayuktāni śuddhakāny anāsravāṇi ca /
-> bhavāgram āsvādanāsaṃprayuktaṃ śuddhakaṃ ca / anāsrava nāsti /
+Local witness, retaining its page labels and damaged readings; the unit stops before `tatra punaḥ` within [437|02]:
 
-**Witness.** Pradhan 436|12–437|02. Voices: Vasubandhu.
+```text
+[436|12]
+     iti maulaṃ samāpattidravyamaṣṭavidhaṃ
+
+[436|13-436|14]
+ityetānyaṣṭau maulāni samāpattidravyāṇi yaduta catvāri dhyānāni catvāra ārupyā iti /
+
+[436|14]
+teṣāṃ punaḥ
+
+[436|15]
+     tridhā /
+
+[436|16]
+     sapta
+
+[436|17]
+bhavāgrādanyāni sapta trividhāni /
+
+[436|18]
+     āsvādanāvacchūddhānāsravāṇi
+
+[436|19]
+āsvādanāsaṃprayuktāni śuddhakānyanāsravāṇi ca /
+
+[437|01]
+     aṣṭamaṃ dvidhā // VAkK_8.5 //
+
+[437|02]
+bhavāgramāsvādanāsaṃprayuktaṃ śuddhakaṃ ca /
+anāsrava nāsti /
+```
 
 ## 3. Continuous Translation
 
-> Thus these eight principal attainment-items: the four dhyānas and the four
-> formless. Other than the summit of existence, seven are threefold: associated
-> with savoring, pure, and without influxes. The eighth is twofold: the summit
-> is savoring-associated and pure. There is no uncontaminated [form of it].
+> [436|12–14] Thus the principal attainment inventory is eightfold: these
+> are the eight principal attainments, namely the four dhyānas and the four
+> formless attainments.
+>
+> [436|14–19] Of them, “seven are threefold”: the seven other than the
+> summit of existence are threefold, being associated with savoring,
+> pure, and without influx.
+>
+> [437|01–02] “The eighth is twofold”: the summit of existence is associated
+> with savoring or pure. There is no [attainment there] without influx.
 
 ## 4. Movement of the Commentary
 
@@ -68,14 +102,11 @@ Level and mode are two coordinates with a real exclusion. Appearance would climb
 the ladder and call the top vidyā. Vidyā: the summit of existence is still
 existence. Technē of anāsrava is not minted by altitude.
 
-On vijñāna: Organon reads it as pure knowledge/cognition — not English
-"consciousness," and not Chapter-7 jñāna as Idea. The second formless name is
-that vijñāna attended as infinite. Conventional line keeps the Sanskrit item;
-the overlay does not rewrite śuddha/anāsrava as that "pure."
-
 ## 9. Review Status
 
-Organon pair `VAK_8.05.md` / `VAK_8.05_bhasya.md`, against Pradhan
-436|12–437|02. Kārikā translations and anchor standardized; terminology
-upgraded to the current Method. `kosabhasya.txt` collation pending.
-Provisional.
+Complete natural unit [436|12]–[437|02] compared with
+`kosabhasya.txt`. [436|11] closes 8.04; `tatra punaḥ`
+within [437|02] opens 8.06. The running witness's
+`āsvādanāvacchūddhānāsravāṇi` and compressed `anāsrava nāsti`
+remain visible in §2. This verse states the summit's lack of an
+attainment without influx; it gives no cause for that exclusion.

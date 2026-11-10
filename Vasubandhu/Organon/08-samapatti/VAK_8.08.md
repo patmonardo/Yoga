@@ -35,7 +35,7 @@ mindfulness.
 | `catvāri` | nominative plural neuter numeral (`catvāry ante`) | four [factors] |
 | `ante` | locative singular (`ante 'sukha-`) | in the last, the fourth dhyāna |
 | `asukha-aduḥkha` | compound member | neither pleasure nor pain; the prose reverses the order to `aduḥkhāsukhā vedanā` without changing the determination |
-| `upekṣā-smṛti-samādhayaḥ` | ending of the coordinated compound | equanimity, mindfulness, and concentration |
+| `upekṣā-smṛti-samādhayaḥ` | ending of the coordinated compound | equanimity, mindfulness, and samādhi |
 
 ## 4. Grammar
 
@@ -80,7 +80,7 @@ and samādhi.
 > In the third are five: equanimity, mindfulness,
 > discriminative knowing, ease, and stability. In the
 > last are four: neither pleasure nor pain, equanimity,
-> mindfulness, and concentration.
+> mindfulness, and samādhi.
 
 ### Bhāṣya-informed study translation
 
@@ -156,7 +156,6 @@ fourth => fourth
 vitarka => vitarka
 vicara => vicara
 priti => priti
-pliancy => pliancy
 clarity => clarity
 upeksa => upeksa
 smrti => smrti
@@ -170,7 +169,7 @@ samadhi => samadhi
 five => five
 four => four
 eighteen => eighteen
-FactorOf => {(first,vitarka),(first,vicara),(first,priti),(first,pliancy),(first,samadhi),(second,priti),(second,sukha),(second,samadhi),(second,clarity),(third,upeksa),(third,smrti),(third,comprehension),(third,sukha),(third,sthiti),(fourth,neutralfeeling),(fourth,upeksapurified),(fourth,smrtipurified),(fourth,samadhi)}
+FactorOf => {(first,vitarka),(first,vicara),(first,priti),(first,sukha),(first,samadhi),(second,priti),(second,sukha),(second,samadhi),(second,clarity),(third,upeksa),(third,smrti),(third,comprehension),(third,sukha),(third,sthiti),(fourth,neutralfeeling),(fourth,upeksapurified),(fourth,smrtipurified),(fourth,samadhi)}
 Count => {(third,five),(fourth,four)}
 Purified => {(fourth,upeksa),(fourth,smrti)}
 SameRole => {(sthiti,samadhi)}
@@ -251,11 +250,12 @@ counting distinction. It does not turn the dhyānas
 into a software type system or substitute a quantitative
 complexity measure for their contemplative determination.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-first Bhāṣya-controlled study.
 The two factor inventories, prajñā/saṃprajñāna expansion,
 sthiti/samādhi synonym, purification qualifiers, neutral
 feeling, and eighteenfold name-count have been checked
-against the local extract and running source. The
+against the complete [438|04]–[438|12] unit in the
+running source. The
 count by distinct dharmas remains for VAK 8.09.
 
 ## 10. OWL++ Seed

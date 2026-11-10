@@ -6,7 +6,7 @@
 > prītyādayaḥ prasādaś ca dvitīye 'ṅgacatuṣṭayam || 8.07 ||
 
 > In the first dhyāna are five factors: vitarka and vicāra, joy,
-> ease, and concentration. In the second, the three beginning
+> ease, and samādhi. In the second, the three beginning
 > with joy, together with clarity, form the set of four factors.
 
 Third and fourth dhyāna factors: 8.08.
@@ -15,23 +15,58 @@ Kārikā study: [`VAK_8.07.md`](./VAK_8.07.md).
 
 ## 2. Continuous Sanskrit
 
-> eṣāṃ ca samāpattidravyāṇāṃ dhyānāny eva bhavanti nārūpyāḥ /
-> vitarko vicāraḥ prītiḥ sukhaṃ cittaikāgratā cety etāni pañcāṅgāni /
-> samādhiḥ kilāṅgaṃ dhyānaṃ ca / śeṣāṇy aṅgānīti /
-> yathā caturaṅgā senā evaṃ pañcāṅgaṃ dhyānam /
-> dvitīye dhyāne catvāry aṅgāni / adhyātmasaṃprasādaḥ prītiḥ sukhaṃ cittekāgratā ca /
+Local witness, retaining its page labels and damaged readings:
 
-**Witness.** Pradhan 437|13–438|03. Voices: Vasubandhu.
+```text
+[437|13-437|14]
+eṣāṃ ca samāpattidravyāṇāṃ dhyānānyeva bhavanti nārupyāḥ /
+
+[437|14]
+tatra
+
+[437|15]
+     pañcādye
+
+[437|16]
+prathame bhāge pañcāṅgāni /
+
+[437|17]
+     tarkacārau ca prītisaukhyasamādhayaḥ /
+
+[437|18-437|19]
+vitarko vicāraḥ prītiḥ sukhaṃ cittaikāgratā cetyetāni pañcāṅgāni samādhiḥ kilāṅgaṃ dhyānaṃ ca /
+
+[437|19]
+śeṣāṇyaṅgānīti /
+
+[437|19-437|20]
+yathā caturaṅgā senā evaṃ pañcāṅgaṃ dhyānam /
+
+[438|01]
+     prītyādayaḥ prasādaśca dvitīye 'ṅgacatuṣṭayam // VAkK_8.7 //
+
+[438|02]
+dvitīye dhyāne catvāryaṅgāni /
+
+[438|02-438|03]
+adhyātmasaṃprasādaḥ prītiḥ sukhaṃ cittekāgratā ca /
+```
 
 ## 3. Continuous Translation
 
-> Of these attainments, it is the dhyānas that [have these factors], not the
-> formless. In the first there are five limbs: vitarka, vicāra, joy, ease, and
-> one-pointedness of mind. Samādhi, it is said, is a limb and also dhyāna; the
-> rest are limbs. As an army is four-limbed, so this dhyāna is five-limbed.
+> [437|13–16] Among these attainment items, it is the dhyānas alone, not
+> the formless states, [whose factors are now counted]. “Five in the first”:
+> in the first portion [that is, the first dhyāna], there are five factors.
 >
-> In the second dhyāna, four limbs: inward clarity, joy, ease, and one-pointedness
-> of mind.
+> [437|17–20] “Vitarka and vicāra, joy, ease, and samādhi”: these five
+> factors are vitarka, vicāra, joy, ease, and one-pointedness of
+> Consciousness. Samādhi, it is said, is both a factor and dhyāna; the
+> remaining [members] are factors. Just as an army has four limbs, so a
+> dhyāna has five factors.
+>
+> [438|01–03] “The [three] beginning with joy and clarity make the set of
+> four factors in the second”: in the second dhyāna there are four factors,
+> namely inward clarity, joy, ease, and one-pointedness of Consciousness.
 
 ## 4. Movement of the Commentary
 
@@ -77,7 +112,10 @@ Technē of ascent is not mere deletion: a positive limb is selected.
 
 ## 9. Review Status
 
-Organon pair `VAK_8.07.md` / `VAK_8.07_bhasya.md`, against Pradhan
-437|13–438|03. Kārikā translations and anchor standardized; terminology
-upgraded to the current Method. `kosabhasya.txt` collation pending.
-Provisional.
+Complete natural unit [437|13–14]–[438|02–03] compared with
+`kosabhasya.txt`. [437|13] closes 8.06; [438|04] opens the
+third-dhyāna factor list of 8.08. The witness's compressed opening
+`dhyānānyeva bhavanti nārupyāḥ`, `prathame bhāge`, and
+`cittekāgratā` remain visible in §2. The bracketed translation
+of “first portion” and the factor restriction are contextual supplies;
+their exact surface syntax remains uncertain.

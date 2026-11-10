@@ -96,7 +96,7 @@ and neutral feeling; and neutral feeling alone.
 > The shared name of a dhyāna level does not give
 > attainment and rebirth an identical constitution.
 > Feeling must be determined according to the mode
-> under discussion and its knowledge supports. Even
+> under discussion and its associated Cognition groups. Even
 > pleasure changes its contextual determination: first-level
 > pleasure and third-level mental pleasure cannot be
 > treated as an undifferentiated item merely because
@@ -118,11 +118,10 @@ Its feeling inventory is the present subject. Rebirth
 at a level does not mean continuous occurrence of
 that level's meditative attainment.
 
-**Source.** Pradhan 441|19–442|06, checked against the local
+**Source.** Pradhan [441|20]–[442|06], checked against the local
 Bhāṣya study and running source.
 
-**`Vijñānakāya`.** Knowledge-body or class of knowledge; it is not an
-anatomical body.
+**`Vijñānakāya`.** Cognition group; it is not an anatomical body.
 The compounds with three and four enumerate classes
 with which a feeling is associated. They do not count
 three or four simultaneous feelings.
@@ -133,10 +132,10 @@ in each of the second and third rebirths. In particular,
 third-level sukha is explicitly mental in this account.
 
 **`Trivijñānakāyika / caturvijñānakāyikī`.** Associated
-with three / four knowledge-bodies. The first qualifies
+with three / four Cognition groups. The first qualifies
 first-level sukha, the second its neutral feeling.
 The present sentence gives their counts; the following
-verse explicitly discusses eye-, ear-, and body-knowledge.
+verse explicitly discusses eye-, ear-, and body-Cognition.
 
 **`Upekṣā`.** Neutral feeling in this vedanā inventory.
 It should not be rendered as if it were simply the
@@ -146,11 +145,11 @@ setting.
 
 ## 8. Logical Determination
 
-The verse's ordered feeling groups concern rebirths corresponding to four dhyānas, not feelings in meditative attainment [verse; prose]. The Bhāṣya supplies the four level assignments and explains one absence through its missing support; `pravido` remains unresolved.
+The verse's ordered feeling groups concern rebirths corresponding to four dhyānas, not feelings in meditative attainment [verse; prose]. The Bhāṣya supplies the four level assignments and explains one absence through its missing Cognition group; `pravido` remains unresolved.
 
-**Signature.** `Rebirth(x)`; `FeelingAt(x,f)`; `Support(x,f,s)`; `SupportAbsent(x,s)`.
+**Signature.** `Rebirth(x)`; `FeelingAt(x,f)`; `Association(x,f,s)`; `CognitionGroupAbsent(x,s)`.
 
-**Finite data.** The prose roster has 3/2/2/1 feeling types. First-level support distinctions and the second-level lack are represented without making the count a universal claim about simultaneous feelings.
+**Finite data.** The prose roster has 3/2/2/1 feeling types. First-level association distinctions and the second-level lack are represented without making the count a universal claim about simultaneous feelings.
 
 ```nltk-valuation
 firstrebirth => firstrebirth
@@ -160,30 +159,30 @@ fourthrebirth => fourthrebirth
 saumanasya => saumanasya
 sukha => sukha
 upeksa => upeksa
-threebodies => threebodies
-fourbodies => fourbodies
+threegroups => threegroups
+fourgroups => fourgroups
 mental => mental
-sukhakaya => sukhakaya
+sukhagroup => sukhagroup
 Rebirth => {firstrebirth, secondrebirth, thirdrebirth, fourthrebirth}
 FeelingAt => {(firstrebirth,saumanasya),(firstrebirth,sukha),(firstrebirth,upeksa),(secondrebirth,upeksa),(secondrebirth,saumanasya),(thirdrebirth,sukha),(thirdrebirth,upeksa),(fourthrebirth,upeksa)}
-Support => {(firstrebirth,sukha,threebodies),(firstrebirth,saumanasya,mental),(firstrebirth,upeksa,fourbodies),(secondrebirth,saumanasya,mental),(secondrebirth,upeksa,mental),(thirdrebirth,sukha,mental),(thirdrebirth,upeksa,mental)}
-SupportAbsent => {(secondrebirth,sukhakaya)}
+Association => {(firstrebirth,sukha,threegroups),(firstrebirth,saumanasya,mental),(firstrebirth,upeksa,fourgroups),(secondrebirth,saumanasya,mental),(secondrebirth,upeksa,mental),(thirdrebirth,sukha,mental),(thirdrebirth,upeksa,mental)}
+CognitionGroupAbsent => {(secondrebirth,sukhagroup)}
 ```
 
 **Rules (verse and prose).**
 
 ```nltk-fol
 # THEORY shared
-# [prose] first rebirth: three feelings and their specified supports
+# [prose] first rebirth: three feelings and their specified associations
 FeelingAt(firstrebirth,saumanasya)
 FeelingAt(firstrebirth,sukha)
-Support(firstrebirth,sukha,threebodies)
-Support(firstrebirth,upeksa,fourbodies)
-# [prose] second: two mental feelings; sukha absent with its support
+Association(firstrebirth,sukha,threegroups)
+Association(firstrebirth,upeksa,fourgroups)
+# [prose] second: two mental feelings; sukha absent with its Cognition group
 FeelingAt(secondrebirth,saumanasya)
 FeelingAt(secondrebirth,upeksa)
 -FeelingAt(secondrebirth,sukha)
-SupportAbsent(secondrebirth,sukhakaya)
+CognitionGroupAbsent(secondrebirth,sukhagroup)
 # [verse] third: pleasure and neutral feeling; fourth: neutral alone
 FeelingAt(thirdrebirth,sukha)
 FeelingAt(thirdrebirth,upeksa)
@@ -192,7 +191,7 @@ FeelingAt(fourthrebirth,upeksa)
 
 **Results (NLTK).** The checker confirms the listed positive and negative assignments in the finite valuation. The 3/2/2/1 tally is read from this roster; the model check does not establish that feelings co-occur in one moment.
 
-**Scope cautions.** `Upapatti` means rebirth, not sitting in attainment; `upekṣā` here is neutral feeling, not the equanimity factor. The absent support explains the second rebirth's sukha in the prose, not every sensory operation of higher beings. No gloss is assigned to `pravido`.
+**Scope cautions.** `Upapatti` means rebirth, not sitting in attainment; `upekṣā` here is neutral feeling, not the equanimity factor. The absent Cognition group explains the second rebirth's sukha in the prose, not every sensory operation of higher beings. No gloss is assigned to `pravido`.
 
 ## 9. Interpretive Note
 
@@ -200,8 +199,8 @@ FeelingAt(fourthrebirth,upeksa)
 makes the allocation intelligible even though `pravido`
 remains philologically unresolved. Confidence in the
 inventory should not be confused with confidence in
-every transmitted syllable. The literal translation
-marks the gap; the study translation gives the secure
+every transmitted syllable. The Sanskrit and grammar
+mark the gap; the study translation gives the secure
 prose determination.
 
 **Witness cautions.** The running text has `taskiṃ`,
@@ -216,28 +215,28 @@ Its exclusive place in the fourth rebirth does not
 establish absence of experience or identify that rebirth
 with liberation. Nor does this short passage establish
 a general theory of progressive purification; it
-specifies the feeling distribution and selected supports.
+specifies the feeling distribution and selected associations.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā articulates level, mode of occurrence,
-feeling type, and knowledge support together. Yoga
+feeling type, and Cognition association together. Yoga
 Technē, its kriyā–karma companion, concerns effective
 exercise; it must distinguish an attainment's operation
 from the constitution of rebirth at its corresponding level.
 
 For Organon representation, attach each feeling assertion
-to its mode and level. Preserve the different support
+to its mode and level. Preserve the different association
 determinations of sukha and the feeling sense of upekṣā.
 A shared name or equal inventory size cannot substitute
 for this relational specification. This is project
 reconstruction, not a further doctrine attributed to
 the Bhāṣya.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-first Bhāṣya-controlled study.
 The attainment/rebirth distinction, four inventories,
-three-/four-knowledge-body specifications, mental qualifiers,
-and relevant transition to VAK 8.13 have been checked
-against the local research and running source. `Pravido`
+three-/four-Cognition-group specifications, mental qualifiers,
+and the boundary with VAK 8.13 have been checked
+against the complete [441|20]–[442|06] unit. `Pravido`
 remains unresolved.
 
 ## 10. OWL++ Seed
@@ -247,28 +246,28 @@ Class: DhyanaLevel
 Class: DhyanaAttainment
 Class: DhyanaRebirth
 Class: FeelingType
-Class: KnowledgeSupportSpecification
+Class: CognitionAssociationSpecification
 
 ObjectProperty: belongsToLevel
 ObjectProperty: hasAvailableFeelingType
-ObjectProperty: hasKnowledgeSupportSpecification
+ObjectProperty: hasCognitionAssociationSpecification
 
 FirstDhyanaRebirth:
     feelings: Saumanasya, Sukha, NeutralFeeling
     feelingTypeCount: 3
-    sukhaSupport: ThreeKnowledgeBodies
-    saumanasyaSupport: Mental
-    neutralFeelingSupport: FourKnowledgeBodies
+    sukhaAssociation: ThreeCognitionGroups
+    saumanasyaAssociation: Mental
+    neutralFeelingAssociation: FourCognitionGroups
 
 SecondDhyanaRebirth:
     feelings: Saumanasya, NeutralFeeling
     feelingTypeCount: 2
-    listedFeelingSupports: Mental
+    listedFeelingAssociations: Mental
 
 ThirdDhyanaRebirth:
     feelings: Sukha, NeutralFeeling
     feelingTypeCount: 2
-    listedFeelingSupports: Mental
+    listedFeelingAssociations: Mental
 
 FourthDhyanaRebirth:
     feelings: NeutralFeelingOnly
@@ -276,7 +275,7 @@ FourthDhyanaRebirth:
 
 ProjectConstraint: Keep attainment and rebirth inventories distinct.
 ProjectConstraint: Feeling-type counts do not assert simultaneous feelings.
-ProjectConstraint: Determine sukha by level and knowledge support.
+ProjectConstraint: Determine sukha by level and Cognition association.
 ProjectConstraint: Upeksha here designates feeling, not the equanimity factor.
 ProjectConstraint: Equal counts do not imply equal inventory membership.
 ProjectConstraint: Reserve higher-level sensory operation for VAK 8.13.
@@ -284,6 +283,6 @@ ProjectConstraint: Preserve pravido as an unresolved witness reading.
 ```
 
 This is a declarative project seed, not executable OWL.
-VAK 8.13 next explains the knowledge operating in beings
+VAK 8.13 next explains the Cognition operating in beings
 reborn in the second and higher dhyānas, including the
-first-dhyāna knowledge they bring into activity.
+first-dhyāna Cognition they bring into activity.

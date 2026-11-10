@@ -33,7 +33,7 @@ explicit.
 | `rūpa-sadbhāvaḥ` | nominative singular masculine compound | presence or existence of Form |
 | `rūpa-utpattiḥ` | nominative singular feminine compound (`rūpotpattiḥ`) | arising of Form |
 | `tu` | contrastive particle | however |
-| `cittataḥ` | ablatival adverb | from citta, consciousness |
+| `cittataḥ` | ablatival adverb | from Consciousness |
 
 ## 4. Grammar
 
@@ -75,7 +75,7 @@ access stages. `cittataḥ` retains the Bhāṣya's maturation-cause qualificati
 **Close construe.** The formless attainments, together with three access
 attainments, receive the designation that form-perception has disappeared.
 Form is not present in the formless domain; its renewed arising, however, is
-from causally conditioned citta.
+from causally conditioned Consciousness.
 
 ## 5. Translation
 
@@ -84,7 +84,7 @@ from causally conditioned citta.
 > They are designated as having form-perception passed
 > away, together with three access attainments. There
 > is no presence of Form in the formless domain; the
-> arising of Form, however, is from consciousness.
+> arising of Form, however, is from Consciousness.
 
 ### Bhāṣya-informed study translation
 
@@ -92,15 +92,15 @@ from causally conditioned citta.
 > stages of the latter three, are designated as having
 > form-perception passed away. There is no presence of Form
 > in the formless domain; the arising of Form, however, is
-> from consciousness conditioned by the cause whose maturation
+> from Consciousness conditioned by the cause whose maturation
 > that Form is.
 
 ## 6. Philosophical Translation
 
 > Absence of a constituent does not by itself establish
 > impossibility of its later arising. The account denies
-> form in the formless domain while locating the conditions
-> for renewed form in a causally determined citta. Naming,
+> Form in the formless domain while locating the conditions
+> for renewed Form in a causally determined Consciousness. Naming,
 > present constitution, and future genesis remain distinct.
 
 The renewed form need not be numerically the same form
@@ -134,7 +134,7 @@ derivative materiality cannot stand without its Elemental
 basis.
 
 **`Tadvipākahetuparibhāvita`.** Conditioned by the cause
-whose maturation is that form. This qualifies the mind
+whose maturation is that Form. This qualifies the Consciousness
 from which form later arises. It does not describe
 arbitrary creation by a present wish.
 
@@ -205,12 +205,10 @@ all x.(NamedAccess(x) -> NameGone(x))
 
 ## 9. Interpretive Note
 
-**Complete passage control.** The local Bhāṣya excerpt
-omits portions of the material-basis and scriptural-scope
-debates. The running source supplies those portions,
-including the smallness, transparency, heat, external
-form, and food examples. The study therefore treats
-the excerpt as a selection, not a complete transcription.
+**Complete passage control.** The paired Bhāṣya study now
+transcribes and translates the complete [434|10]–[435|26]
+unit in the local witness, including the smallness,
+transparency, heat, external Form, and food examples.
 
 **Witness cautions.** The running text contains forms
 such as `smāpattāvapi`, `hyaṣmaṇa`, `binā`, `kutsnām`,
@@ -250,12 +248,12 @@ A project model must preserve that attribution instead
 of presenting an unrestricted idealism or a software
 storage theory as Vasubandhu's doctrine.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-first Bhāṣya-controlled study.
 The seven included principal/access states, first-access
 exclusion, subtle-form challenge, scriptural-scope debate,
 Base argument, and qualified renewed-form account
-have been checked against the local excerpt and complete
-running passage. Compressed causal wording and source
+have been checked against the complete running passage.
+Compressed causal wording and source
 defects remain explicit.
 
 ## 10. OWL++ Seed

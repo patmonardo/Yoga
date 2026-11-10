@@ -118,8 +118,8 @@ ordered dhyāna and formless levels under two modes.
 
 ## 7. Technical Vocabulary
 
-**Source.** Pradhan 445|11–446|06, checked against the local Bhāṣya
-study and running source. The ellipsis closing the translations marks the
+**Source.** Pradhan [445|11]–[446|06], checked against the complete
+Bhāṣya unit and running source. The ellipsis closing the translations marks the
 verse-boundary continuation into VAK 8.19, not missing witness text; the
 source quotes the opening of VAK 8.19 within this span. The numerals
 two, three, three, one are the Bhāṣya's neighbor-sets among the four
@@ -217,9 +217,9 @@ that continuation rather than inventing a final clause.
 
 **Witness cautions.** The running source separates
 `hāna bhāgādyanantaram` and has the damaged
-`ākṃicanyāvatanam` in the skipping example. The local
-extract supplies the recognizable nothingness-sphere
-reading. The research kārikā also reports a spacing
+`ākṃicanyāvatanam` in the skipping example. The complete
+Bhāṣya witness retains that damaged form while translating
+the context as the sphere of nothingness. The research kārikā also reports a spacing
 problem in śliṣṭaikalaṅghitāḥ, although the running
 witness inspected here prints that compound continuously.
 The official verse follows the local study; originals
@@ -241,7 +241,10 @@ and the difference between preparation and completion.
 This is project reconstruction, not an additional
 formal system attributed to the Bhāṣya.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Complete [445|11]–[446|06] unit collated and
+translated in the paired Bhāṣya study. The opening line of 8.19
+at [445|18] belongs to the shared preparatory exposition here;
+its completed-form explanation begins at [446|06–07].
 The four successor sets, restricted counting domain,
 eight/seven distinction, forward/reverse sequence, explicit
 skip example, and preparation endpoint have been

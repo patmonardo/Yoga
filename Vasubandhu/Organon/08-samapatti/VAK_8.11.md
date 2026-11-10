@@ -229,12 +229,12 @@ unrestricted claim of invulnerability. This is a
 project use of the source's distinctions, not a
 claim that Vasubandhu is proposing Organon architecture.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-first Bhāṣya-controlled study.
 The eight members, their absence in the fourth dhyāna,
 the alternative four-factor explanation and lamp image,
-and the transition from attainment feelings to rebirth
-feelings have been checked against the local research
-and running source.
+and the attainment-feeling summary have been checked
+against the complete [441|11–12]–[441|19] unit in the
+running source. The rebirth-feeling question begins 8.12.
 
 ## 10. OWL++ Seed
 
