@@ -17,40 +17,52 @@ Kārikā study: [`VAK_7.45.md`](./VAK_7.45.md).
 
 ## 2. Continuous Sanskrit
 
+> avyākṛte śrotracakṣurabhijñe itarāḥ śubhāḥ /
 > divyacakṣuḥśrotrābhijñe avyākṛte /
-> te punaś cakṣuḥśrotravijñānasaṃprayuktaprajñe /
+> te punaścakṣuḥśrotravijñānasaṃprayuktaprajñe /
 > kathaṃ tarhi te caturdhyānabhūmike sidhyataḥ /
 > āśrayavaśena tadbhūminirdeśāt /
+> tadāśraye hi cakṣuḥśrotre caturdhyānabhūmike /
 > ānantaryamārgavaśena vā /
-> anyāś catasraḥ kuśalāḥ /
-> yattarhi prakaraṇeṣūktam "abhijñā katamā / kuśalā prajñe"ti /
+> anyāścatasraḥ kuśalāḥ /
+> yattarhi prakaraṇeṣūktam "abhijñā katamā /
+> kuśalā prajñe"ti /
 > pradhānika eṣa nirdeśo vāhuliko vā /
-> pūrvanivāsacyutyupapādāsravakṣayajñānasākṣātkriyās tisraḥ … vidyā ucyante /
+> āsāṃ cābhijñānāṃ
+> tisro vidyāḥ
+> pūrvanivāsacyutyupapādāsravakṣayajñānasākṣātkriyāstisraḥ aśaikṣyo vidyā ucyante /
+> kasmādetā eva nānyāḥ /
+> avidyāyāḥ pūrvāntādau nivarttanāt // VAkK_7.45 //
 > etā hi pūrvāparāntamadhyasaṃmohaṃ vyāvartayanti yathākramam /
 
-**Witness.** Pradhan 423|10–20. `Vāhuliko` kept. Voice: Vasubandhu; objection
-from a general definition.
+**Witness.** Complete local `kosabhasya.txt` unit [423|10]–[423|20], through `yathākramam /`: 17 substantive lines. [423|09] closes 7.44; `āsāṃ paramārthena` in the same [423|20] printed label opens 7.46. The source retains `vāhuliko`, `kuśalā prajñe`, and the irregular `aśaikṣyo vidyā ucyante`; their letters are not silently repaired. Voice: Vasubandhu, with a cited treatise definition.
 
 ## 3. Continuous Translation
 
-> Divine sight and hearing are indeterminate. They are discriminative knowing
-> associated with visual and auditory consciousness. How then are they established
-> as four-dhyāna-grounded? Designation according to the basis: their supporting
-> eye and ear belong to the four dhyānas. Or according to the uninterrupted path.
+> “The higher knowledges of hearing and sight are indeterminate; the others
+> are wholesome.” Divine sight and hearing are ethically indeterminate.
+> They are Prajñā associated with visual and auditory Cognition. How, then,
+> are these two established as belonging to the four dhyāna levels? Their
+> level is designated according to their Basis: the eye and ear that are
+> their Bases belong to the four dhyānas. Alternatively, the designation
+> follows the uninterrupted Path.
 >
-> The other four are wholesome. What of the treatise-statement “What is abhijñā?
-> Wholesome prajñā”? That designation is principal, or according to the majority.
+> The other four are wholesome. Then what of the statement in the treatises,
+> “What is a higher knowledge? Wholesome Prajñā”? That designation gives
+> the principal case, or the majority case.
 >
-> Direct realizations of former abodes, death-and-rebirth, and influx-exhaustion
-> are called the three vidyās. Why these and not others? Because they turn back,
-> respectively, delusion concerning the prior limit, the future limit, and the
-> middle.
+> “Of these higher knowledges, three are vidyās.” The direct realizations
+> by Knowledge of former abodes, death and reappearance, and exhaustion of
+> the influxes are called the three beyond-training vidyās. Why these alone,
+> and not the others? “Because they turn back ignorance concerning the
+> prior limit and so on.” Respectively, they turn back delusion concerning
+> the prior limit, the future limit, and the middle.
 
 ## 4. Movement of the Commentary
 
 ```text
 ethical cut: 2 indeterminate / 4 wholesome
-four-dhyāna designation: basis or ānantarya-mārga
+four-dhyāna designation: Basis or ānantarya-mārga
 general “kuśala prajñā” = predominant case
 three vidyās by which avidyā they reverse
 ```
@@ -59,7 +71,7 @@ three vidyās by which avidyā they reverse
 
 Divine sight is *both* indeterminate *and* a vidyā (as death-and-rebirth).
 No ladder “perception → wholesome → vidyā.” Avyākṛta ≠ “sometimes good
-later.” Basis-level ≠ consciousness-level. Predominant-case definition does
+later.” Basis level ≠ sensory Cognition level. Predominant-case definition does
 not reclassify the two. Past / future / middle ≠ origin / process / termination
 as a replacement map. Range limits of 7.44 still bind these three.
 
@@ -69,7 +81,7 @@ as a replacement map. Range limits of 7.44 still bind these three.
 |---|---|---|
 | ṛiddhi | wholesome | — |
 | hearing | indeterminate | — |
-| other-mind | wholesome | — |
+| Knowledge of another's Consciousness | wholesome | — |
 | former abodes | wholesome | pūrvānta |
 | sight / death-rebirth | indeterminate | aparānta |
 | exhaustion | wholesome | madhya |
@@ -91,6 +103,8 @@ Technē of aśaikṣa-status waits one verse.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.45.md`
-(stop at 423|20). `kosabhasya.txt`
-collation pending. Provisional.
+Complete [423|10]–[423|20] unit checked against `kosabhasya.txt`,
+stopping after `yathākramam /`. [423|09] closes 7.44; `āsāṃ
+paramārthena` opens 7.46 in the shared [423|20] label. All 17 substantive
+source lines appear above. The irregular readings named in the witness
+note remain open.

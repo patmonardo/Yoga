@@ -14,18 +14,21 @@ svādhobhūviṣayāḥ labhyā ucitās tu virāgataḥ |
 tṛtīyā trīṇy upasthānāni ādyaṃ śrotrarddhir cakṣuṣi || 7.44 ||
 ```
 
-These scripts reproduce the local kārikā reading, including
-its irregular final expression. The running source has
-further damaged forms. The prose supplies a clear semantic
-expansion of the last pāda; that expansion controls the
-translation without being presented as a restored verse.
+These scripts give an editorially segmented working kārikā,
+not a verbatim local witness. The separate verse source reads
+`trīpyupasthānāni ādyaṃ śrotrddhircakṣuṣi`; the running
+Bhāṣya has `trīpyupasthānāni` and `śrotrardvivakṣuṣi`.
+The running source also inserts damaged `atucittāḥ prayogataḥ`
+before the acquisition line, absent from the separate verse
+source. The prose controls the working interpretation without
+restoring those Sanskrit forms.
 
 ## 3. Lexical Analysis
 
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `svādhobhūviṣayāḥ` | nominative plural feminine compound adjective | having their own and lower grounds as object-range |
+| `svādhobhūviṣayāḥ` | nominative plural feminine compound adjective | having their own and lower levels as cognitive Conditions |
 | `sva` | compound member | own, relative to the ground of the capacity |
 | `adho` | compound form of `adhas` | below; lower |
 | `bhū` | compound member | ground, expanded as `bhūmi` in prose |
@@ -52,7 +55,7 @@ prose, while their verse-level syntax remains uncertain.
 **Scope of the first predicate.** The running source
 introduces this verse with “these five higher knowledges.”
 Thus `svādhobhūviṣayāḥ` resumes the five non-exhaustion
-capacities from VAK 7.43. The rule is relative to the
+capacities from VAK 7.43. The Condition-range rule is relative to the
 ground of the particular capacity, not simply to the
 highest attainment its bearer has ever possessed.
 
@@ -80,7 +83,7 @@ identifies feeling, consciousness, and dharma mindfulness through
 the consciousness-and-mental-factor object-field.
 
 **Close construe.** [The five] have their own and lower
-grounds as object-range. The previously cultivated ones,
+levels as cognitive Conditions. The previously cultivated ones,
 however, are obtainable through detachment. The third
 [is constituted by] three mindfulness-applications;
 [extraordinary efficacy, divine hearing, and divine sight
@@ -91,14 +94,14 @@ is the Bhāṣya's expansion of the uncertain verse wording.
 
 ### Literal Translation
 
-> They have their own and lower grounds as their objects. The previously
+> They have their own and lower levels as their Conditions. The previously
 > cultivated ones, however, are obtainable through detachment. The third is
 > three applications of mindfulness. [Extraordinary efficacy, divine hearing,
 > and divine sight are] the first application.
 
 ### Bhāṣya-informed study translation
 
-> The five [higher knowledges] take their own and lower grounds as objects.
+> The five [higher knowledges] have their own and lower levels as Conditions.
 > Those cultivated in previous lives, however, are acquired through detachment.
 > The third [higher knowledge comprises] three applications of mindfulness;
 > [extraordinary efficacy, divine hearing, and divine sight comprise] the first
@@ -122,8 +125,8 @@ and functions.
 
 ## 7. Technical Vocabulary
 
-**`Svādhobhūviṣaya`.** Having one's own and lower grounds
-as object-range. The Bhāṣya applies this to going and
+**`Svādhobhūviṣaya`.** Having one's own and lower levels
+as cognitive **Conditions** (*viṣaya*). The Bhāṣya applies this to going and
 creating through ṛddhi, hearing sound, knowing another
 consciousness, recollecting former existence, and seeing death
 and rebirth. The rule determines vertical range; it is
@@ -157,19 +160,19 @@ body, feeling, consciousness, and dharmas. It does not prescribe
 three successive diagnostic questions for every instance
 of knowledge of another's consciousness.
 
-**`Rūpālambana`.** Having material form as object. In the
+**`Rūpālambana`.** Having material form as **Support**. In the
 body-mindfulness classification this includes sound and
 other material Essences; it is wider than visible
 form alone.
 
-**`Abhijñāparivārajñāna`.** Knowledge accompanying a
+**`Abhijñāparivārajñāna`.** **Knowledge** accompanying a
 higher knowledge. The Bhāṣya specifies a distinct cognition
 arising in noble persons through which the relevant
 judgment about conduct is known.
 
 ## 8. Logical Determination
 
-**Range relative to ground.**
+**Condition range relative to level.**
 
 | Capacity | Application of the own-or-lower rule |
 |---|---|
@@ -182,7 +185,7 @@ judgment about conduct is known.
 The source expressly derives the exclusion of formless-
 level consciousness from knowledge of another's consciousness and former-abode
 recollection: those levels lie above their dhyāna grounds.
-This supplies an object-range limit in addition to the
+This supplies a Condition-range limit in addition to the
 acquisition account of VAK 7.43. It does not deny every
 kind of knowledge concerning the formless domains.
 
@@ -205,7 +208,7 @@ requires both prior-life cultivation and detachment.
 
 **Mindfulness constitution and material fields.**
 
-| Higher knowledge | Mindfulness constitution | Object determination here |
+| Higher knowledge | Mindfulness constitution | Support determination here |
 |---|---|---|
 | Knowledge of another's consciousness | Feeling, consciousness, dharmas | Consciousness and mental factors |
 | Extraordinary efficacy | Body | Four external material Essences, excluding sound |
@@ -261,18 +264,22 @@ range; it does not provide that explanation of hierarchy.
 Likewise, the three mindfulness classes are an object-
 based constitution, not an explicit teaching protocol.
 
-**Witness cautions.** The local kārikā prints
-`śrotrarddhir cakṣuṣi`; the running source prints a
-different damaged final string. Neither is silently
-converted into a conjecturally restored Sanskrit line.
+**Witness cautions.** The study's `śrotrarddhir cakṣuṣi`
+is an editorially segmented working form; the separate
+kārikā source prints `śrotrddhircakṣuṣi`, and the running
+source prints `śrotrardvivakṣuṣi`. The study also
+normalizes witnessed `trīpyupasthānāni` to `trīṇy upasthānāni`.
+Neither working reading is a restored witness.
 The prose's explicit enumeration of ṛddhi, divine hearing,
 and divine sight secures the intended group.
 
-The running source also contains `trīpyupasthānāni`,
-`noktarām`, and `gṛhlāti`, alongside a damaged fragment
-between the acquisition question and the quoted kārikā.
-The local Bhāṣya file regularizes some running-source
-forms and omits that fragment. The continuous prose
+The running source also contains `ṛddhacyabhhijñā`, `noktarām`,
+and `cittacaittālamlbanatvāt`,
+alongside damaged `atucittāḥ prayogataḥ` between the
+acquisition question and the quoted kārikā. [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7027)
+confirms the contrast between previously unfamiliar exceptional powers
+acquired by application and familiarized kinds acquired by detachment,
+without restoring the local Sanskrit fragment. The continuous prose
 secures the range, previous-birth qualification, and
 application requirement; the exact damaged readings
 remain for collation.
@@ -300,12 +307,12 @@ it does not identify the Bhāṣya's cognitive powers with
 a software implementation or establish an empirical model
 of their operation.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The fivefold range scope, prior-birth qualification,
-application requirement, sixfold mindfulness distribution,
-and distinct accompanying knowledge have been checked
-against the local Bhāṣya and running source. The final
-pāda and other damaged witness forms remain marked.
+**Review status.** Complete [422|14]–[423|09] unit reviewed
+against `kosabhasya.txt`, with [422|13–14] and [423|10]
+boundaries checked. All 27 substantive lines, the fivefold
+Condition range, acquisition alternatives, mindfulness
+distribution, and distinct accompanying Knowledge are covered.
+The application fragment and final pāda remain damaged.
 
 ## 10. OWL++ Seed
 

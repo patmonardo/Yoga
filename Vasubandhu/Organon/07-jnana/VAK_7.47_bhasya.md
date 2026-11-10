@@ -16,34 +16,53 @@ Kārikā study: [`VAK_7.47.md`](./VAK_7.47.md).
 
 ## 2. Continuous Sanskrit
 
-> ṛiddhicetaḥparyāyāsravakṣayābhijñās trīṇi prātihāryāṇi yathākramam ṛiddhyādeśanānuśāsanaprātihāryāṇi /
-> vineyamanasām ādito 'tyarthaṃ haraṇāt … /
-> pratihatamadhyasthānāṃ manāṃsy ebhiḥ pratiharantīti … vā /
-> anuśāsanaṃ prātihāryam agryam /
-> ṛiddhyādeśane hi vidyayā vikriyete /
-> asti hi gāndhārī nāma vidyā yayākāśena gacchati īkṣaṇikā ca … yayā paracittaṃ jānāti /
-> na tu yathābhūtānuśāsanam anyathā śakyaṃ kartum /
-> … āvarjanamātraṃ ca tābhyām / anuśāsanaprātihāryeṇa tu hitena iṣṭena phalena yogo bhavaty upāyopadeśāt /
+> āsāṃ cābhijñānām
+> ādyā tṛtīyā ṣaṣṭhī ca prātihāryāṇi
+> ṛddhicetaḥparyāyāsravakṣayābhijñāstrīṇi prātihāryāṇi yathākramam ṛddhacyādeśanānuśāsanaprātihāryāṇi /
+> vineyamanasāmādito 'tyartha haraṇāt prātihāryāṇi prātiśabdayorādikarmabṛśārthatvāt /
+> pratihatamadhyasthānāṃ manāṃsyebhiḥ pratiharantīti prātihāryāṇi vā /
+> eṣāṃ punaḥ
+> śāsanam /
+> agcryam
+> anuśāsanaṃ pratihāryamagcya m /
+> avyabhicāritvāddhiteṣṭaphalayojanāt // VAkK_7.47 //
+> ṛddhacyādeśane hi vidyayā vikeiyete /
+> asti hi ca gāndhārī nāma vidyā yayāphāśena gacchati īkṣaṇikā ca nāma vidyā yayā paracittaṃ jānāti /
+> na tu yathābhūtānuśāsanam anyathā śakyaṃ kartumavybhicāritvāt /
+> pradhānamāvarjanamātraṃ ca tābhyāmanuśāsanaprātihāryeṇa tu hitena iṣṭenaphalena yogo bhavatyupāyopadeśādityevāvaśyam ṛddhirityucyate /
 
-**Witness.** Pradhan 424|08–425|03. Running forms damaged; extract regularized
-— disclosed. Voices: Vasubandhu.
+**Witness.** Complete local unit [424|08]–[425|03], fourteen substantive lines,
+transcribed without normalizing damaged forms. [424|07] closes 7.46;
+`keyamṛddhiḥ /` at [425|04] opens 7.48. The separate kārikā witness above
+has `agryam`; the running lemma has `agcryam` and `agcya m`. Other damaged
+forms include `ṛddhacyādeśane`, `vikeiyete`, `yayāphāśena`, and
+`avybhicāritvāt`. The final clause after `upāyopadeśāt` is syntactically
+awkward and remains unresolved. Voice: Vasubandhu.
 
 ## 3. Continuous Translation
 
-> The higher knowledges of extraordinary efficacy, another mind, and influx-
-> exhaustion are, respectively, the wonders of extraordinary efficacy, indication,
-> and instruction. They are so called from powerfully drawing the minds of those
-> to be trained at the outset; or: they turn the minds of the resistant and the
-> indifferent.
+> Of these higher knowledges, the first, third, and sixth are the prātihāryas.
+> The higher knowledges of extraordinary efficacy, another's Consciousness,
+> and influx-exhaustion are respectively the three prātihāryas of extraordinary
+> efficacy, indication, and instruction. They are called prātihāryas because
+> they draw the minds of those to be trained powerfully from the outset;
+> the words [*pra* and *ati*] signify beginning and intensity. Or they are
+> called prātihāryas because by these [three] they turn the minds of the
+> resistant and the indifferent.
 >
-> Of these, the wonder of instruction is foremost. The first two can be produced
-> by [other] vidyās: Gāndhārī, by which one goes through the sky; Īkṣaṇikā, by
-> which one knows another's mind. Instruction according to things as they are
-> cannot be done otherwise.
+> Among these, instruction is foremost: the prātihārya of instruction is
+> foremost because it does not deviate and connects [the instructed] with
+> beneficial and desired fruit. For extraordinary efficacy and indication can
+> be produced by [other] arts. There is an art called Gāndhārī, by which one
+> goes [through the sky?], and an art called Īkṣaṇikā, by which one knows
+> another's Consciousness. But instruction according to things as they are
+> cannot be produced in another way, because it does not deviate.
 >
-> Those two principally attract. Through the wonder of instruction there is
-> conjunction with a fruit that is beneficial and desired — from teaching the
-> means.
+> Through those two there is principally mere attraction; through the
+> prātihārya of instruction, however, there is connection with a fruit that
+> is beneficial and desired, because the means are taught. The source then
+> reads, awkwardly, “thus indeed, necessarily, it is called ṛddhi”; the
+> referent and syntax of that closing clause remain uncertain.
 
 ## 4. Movement of the Commentary
 
@@ -66,7 +85,7 @@ fruits. Teaching means ≠ guaranteeing every listener's attainment.
 | abhijñā | prātihārya |
 |---|---|
 | 1 ṛiddhi | ṛiddhi |
-| 3 other-mind | ādeśanā |
+| 3 another’s Consciousness | ādeśanā |
 | 6 exhaustion | anuśāsana |
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
@@ -87,6 +106,9 @@ miracle stacked on the first two.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.47.md`
-(Pradhan 424|08–425|03). Closing
-phrase compressed. `kosabhasya.txt` collation pending. Provisional.
+The complete fourteen-line local unit [424|08]–[425|03] has been checked
+against `kosabhasya.txt`, with the preceding close [424|07] and next question
+[425|04] checked. The earlier abbreviated, normalized Sanskrit extract and
+its missing verse fragments, derivational explanation, and closing clause
+have been repaired. The last clause and damaged words named in the witness
+note remain open for collation; the present translation flags those limits.

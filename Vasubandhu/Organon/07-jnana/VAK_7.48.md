@@ -15,9 +15,10 @@
 ```
 
 The Sanskrit follows the local kārikā witness, retaining
-its separation `samādhiḥ gamanam`. The Bhāṣya file's
-anchor instead applies external sandhi, `samādhir gamanam`.
-The Devanāgarī renders the kārikā-file reading.
+its separation `samādhiḥ gamanam`. The Bhāṣya anchor
+uses the same reading. The Devanāgarī renders the
+kārikā-file reading; the embedded Bhāṣya quotation
+separates the opening pādas across prose questions.
 
 ## 3. Lexical Analysis
 
@@ -231,17 +232,24 @@ cognition made operative” is a project philosophical
 rendering, while the literal account identifies samādhi
 as that by which the accomplishments occur.
 
-**Witness cautions.** The prose prints `manasa ivāsyā
-rava iti` in explaining `manojavā`. The expected sense
-of speed is secured by the compound and the following
-travel explanation, but the printed `rava` is a textual
-problem, not an entirely straightforward etymology.
-The running source additionally has `cittotpādakālelna`,
-regularized to `cittotpādakālena` in the local extract.
-The intrusive quotation marks in the running scriptural
-citation are also transcription noise. The witnesses
-remain unchanged; no speculative restoration is displayed
-as transmitted Sanskrit.
+**Witness cautions.** The Bhāṣya study now transcribes all twenty
+substantive lines of [425|04]–[425|18] exactly from the local source.
+The speed gloss `manasa ivāsyā rava iti` remains damaged; the compound
+*manojavā* and the following distant-travel explanation secure the
+working sense of mind-swift movement without fixing its letters.
+The local `cittotpādakālelna` is also retained, with “in the time
+of an arising of Consciousness” as the contextual translation.
+The citation's quotation marks interrupt `ata e"vācintyo
+buddhānāṃ buddhaviṣaya"`; the translation marks its wording as
+damaged. In that cited expression, *viṣaya* names the Buddha-domain
+under discussion; it is not used as a technical cognitive Condition
+opposed to *ālambana* here.
+
+The closing `nirmāṇaṃ punardvividham / kāmāvacaraṃ rūpāvacaraṃ
+ca /` belongs to 7.48. The following `tatra tāvat` at [425|18]
+begins 7.49's construction analysis and needs to be restored in
+that next study. This boundary shares a printed label but not a
+sentence in the present translation.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā articulates the distinctions among the means,
@@ -262,13 +270,14 @@ nor make samādhi a generic computational engine. The
 positive gain is a more precise account of the relations
 that a capability description must preserve.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The Vaibhāṣika attribution, accomplishing-means definition,
-two operation families, three movement modes, Buddha-only
-mind-swift restriction, and admission of the other two
-for the Buddha have been checked against the local
-extract and running source. The speed-gloss irregularity
-remains marked for textual review.
+**Review status.** Complete source-first review of the twenty-line
+unit [425|04]–[425|18]. [425|01–03] ends 7.47; `tatra tāvat`
+within [425|18] begins 7.49. The Bhāṣya study restores the question,
+all quoted verse fragments, the speed explanation, scriptural citation,
+other-two-for-Buddha statement, body and resolve explanations, and
+construction lead-in. Damaged `rava`, `cittotpādakālelna`, and citation
+punctuation remain open. The paired anchor is exactly the
+Bhāṣya-informed study translation above.
 
 ## 10. OWL++ Seed
 

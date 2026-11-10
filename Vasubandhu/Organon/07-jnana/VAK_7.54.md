@@ -1,4 +1,4 @@
-# VAK_7.54 — Divine Eye and Ear: Form faculties and Operative Range
+# VAK_7.54 — Divine Eye and Ear: Form Faculties and Operative Range
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -58,7 +58,7 @@ existence of an unchanging faculty. The same passage
 explicitly describes how these faculties arise.
 
 **Object-range remains differentiated.** `Dūrasūkṣmādigocare`
-qualifies both faculties. The prose names visible fForms
+qualifies both faculties. The prose names visible Forms
 and sounds as their objects, preserving the respective
 visual and auditory relations rather than giving both
 faculties an unrestricted common field.
@@ -138,11 +138,14 @@ of the indicated ocular or sensory defects and compares
 Form Realm beings. It does not thereby establish omniscience
 or freedom from every possible error of judgment.
 
-**`Gocara`.** Object-range. The eye remains related to
-visible Form and the ear to sound. Distance and subtlety
-qualify objects within these modalities; they do not
-make thought, intention, and every other dharma direct
-objects of the same faculty.
+**`Gocara / viṣaya`.** Range / cognitive Condition in this local
+use. The verse gives the faculties a distant-and-subtle *gocara*;
+the damaged closing prose calls visible Forms and sounds their
+*viṣaya*, their respective Conditions. The eye remains related to
+visible Form and the ear to sound. Expanded range does not make
+thought, intention, and every other dharma direct Conditions of
+these faculties; *viṣaya* is not silently replaced by *ālambana*
+(**Support**).
 
 ## 8. Logical Determination
 
@@ -192,29 +195,26 @@ not anticipate an unrestricted quantitative conclusion.
 
 ## 9. Interpretive Note
 
-**Source boundary.** The local Bhāṣya file extends through
-430|04 and includes material belonging to VAK 7.55.
-The local 7.55 kārikā file also displays the preceding
-quoted verse contrasting fleshly and divine sight.
-The running source introduces that verse with `āha
-cātra`, “and it is said here,” before moving to the
-range question. This study preserves the distinction
-between the numbered 7.54 verse and the subsequent
-quoted and numbered material.
+**Source boundary.** The full 7.54 natural unit runs from
+[429|04] through the unnumbered quoted sight verse at [429|16–17].
+The new range question `kiyaddūraṃ punardivyena cakṣuṣā paśyati /`
+at [429|18] opens 7.55. The local 7.55 study currently repeats the
+quoted verse as context, but its Sanskrit and translation belong to
+7.54's continuous Bhāṣya. That duplication should be checked when
+7.55 is reviewed; it does not move the question boundary.
 
-**Witness cautions.** The opening running-source question
-contains the repeated wording `divye eva ... divye eva
-divye`, making its exact contrast uncertain. The subsequent
-answer clearly grounds “divine” in dhyāna-level constitution;
-a polished restoration of the damaged question is not
-presented as transmitted wording.
-
-Further defects include `rūpaśabdyoḥ`, `śabdhāḥ`, and
-`tayiorviṣyaḥ` in the local source text. The expression
-`kāṇavibrāntābhāvāt` warrants caution in assigning exact
-English names to each impairment. The broad determination
-of unimpaired functioning is explicit in the verse and
-prose; finer lexical restoration remains for collation.
+**Witness cautions.** The opening running-source question repeats
+`divye eva ... divye eva divye`, so its exact contrast remains
+uncertain. [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7027)
+distinguishes cultivated, birth-acquired, and heaven-like faculties;
+that helps frame the question but does not restore its letters.
+The complete Bhāṣya study retains `rūpaśabdyor`, `śabdhāśca`, and
+`tayiorviṣyaḥ`. The last phrase supports the working translation
+**Condition** for *viṣaya*, though the letters are damaged.
+`Kāṇavibrāntābhāvāt` warrants caution in naming the precise
+impairments; the verse and prose securely say the faculties are
+unimpaired. The quoted sight verse is translated in full without
+turning its rhetorical contrast into a quantitative range claim.
 
 **Control of the research interpretation.** The research
 kārikā contrasts these faculties with a “bodiless field
@@ -244,12 +244,14 @@ or establish a scientific model of the claimed faculties.
 The source supplies the relations; implementation and
 empirical validation are separate undertakings.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The dual faculties, material derivation, dhyāna attribution,
-operative `sabhāga` criterion, unimpaired condition, and
-modality-specific range have been checked against the
-local extract and running source. The damaged opening
-question and detailed impairment wording remain marked.
+**Review status.** Complete source-first review of fifteen
+substantive lines [429|04]–[429|16–17]. [429|03] closes 7.53;
+`kiyaddūraṃ punardivyena cakṣuṣā paśyati /` [429|18] opens 7.55.
+The Bhāṣya study restores the opening question, all embedded verse
+parts, the faculty-generation account, and the closing quoted verse.
+The repeated `divye eva`, `rūpaśabdyor`, `śabdhāśca`,
+`tayiorviṣyaḥ`, and impairment wording remain open. The paired
+anchor matches the Bhāṣya-informed study translation exactly.
 
 ## 10. OWL++ Seed
 

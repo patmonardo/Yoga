@@ -242,22 +242,24 @@ from attention capture through hidden-state knowledge
 to reliable guidance. The Sanskrit ranks instruction
 first; it does not rank the other two against one another.
 
-**Witness cautions.** The running source prints damaged
-forms including `agcryam`, `agcya m`, `ṛddhacyādeśane`,
-`vikeiyete`, and `yayāphāśena`. The local Bhāṣya extract
-regularizes these to intelligible readings including
-`agryam`, `ṛddhyādeśane`, `vikriyete`, and `yayā ākāśena`.
-Thus the extract is not a mechanically identical copy
-of the running witness. The interpretation uses the
-regularized extract with these differences disclosed.
+**Witness cautions.** The Bhāṣya study now transcribes all fourteen
+substantive lines of [424|08]–[425|03] exactly from the local running witness.
+Its `agcryam`, `agcya m`, `ṛddhacyādeśane`, `vikeiyete`,
+`yayāphāśena`, and `avybhicāritvāt` remain visibly damaged. The
+separate kārikā witness's `agryam` and the Bhāṣya's working
+interpretation should not be mistaken for repairs to those letters.
+The named Gāndhārī and Īkṣaṇikā arts are distinct from the three
+*vidyās* classified in 7.45–7.46. [Xuanzang's Chinese parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7027)
+corroborates the two named arts and the teaching-of-means contrast,
+without fixing the Sanskrit letters.
 
-The final phrase after `upāyopadeśāt`, ending in
-`ṛddhir ity ucyate`, is compressed and awkward in the
-transmission. The relation between instruction, means,
-and fruit is clear before it. A stronger paraphrase
-that this closing phrase independently defines instruction
-as “supreme accomplishment” remains provisional; the
-verse itself already establishes instruction's primacy.
+The final clause after `upāyopadeśāt`, ending in
+`ṛddhirityucyate`, is compressed and awkward. Its referent and
+syntax remain open; the next question, `keyamṛddhiḥ /`, begins 7.48
+at [425|04]. The secure argument here is instruction's primacy through
+non-deviation and through teaching means to beneficial and desired fruit.
+A stronger paraphrase that the closing phrase independently defines
+instruction as “supreme accomplishment” remains provisional.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā articulates the truth of the condition and
@@ -279,12 +281,13 @@ be our reconstruction; the passage does not itself specify
 software agents, validation protocols, or a complete
 pedagogical architecture.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The three ordinal referents, respective prātihārya names,
-two explanations of the name, two reasons for instruction's
-primacy, and means-to-fruit relation have been checked
-against the local extract and running source. Corrupted
-forms and the compressed closing phrase remain marked.
+**Review status.** Complete source-first review of [424|08]–[425|03],
+with [424|07] closing 7.46 and `keyamṛddhiḥ /` [425|04] opening 7.48.
+The Bhāṣya study restores the fourteen exact source lines, embedded verse
+fragments, both derivations of *prātihārya*, named arts, and the damaged
+closing clause. The Sanskrit damage listed above and the final clause's
+syntax remain open for a later collation. The paired anchor is identical
+to the Bhāṣya-informed study translation above.
 
 ## 10. OWL++ Seed
 

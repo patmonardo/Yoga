@@ -221,9 +221,13 @@ no insight, or nothing elsewhere called vidyā. Its positive
 point is that the two abhijñās are admitted while the
 specific designation is withheld.
 
-**Witness cautions.** The kārikā file prints
+**Witness and boundary cautions.** The complete local Bhāṣya
+unit starts with `āsāṃ paramārthena` inside [423|20], after
+7.45's closing `yathākramam /`, and ends at [424|07].
+`Āsāṃ cābhijñānām` at [424|08] opens 7.47. The separate
+kārikā witness prints
 `tadākhye dve tatsaṃtānamudbhavāt`; the running source
-and Bhāṣya extract instead print the damaged
+and exact Bhāṣya source block instead print the damaged
 `tadāsye dve tatsaṃtānasudbhavāt`. Their prose explicitly
 states arising in an aśaikṣa continuum, securing the
 meaning without securing an exact restored pāda.
@@ -255,12 +259,13 @@ determination is narrower and exact: intrinsic status,
 continuum-based designation, admitted learner capacities,
 and the possibility of renewed ignorance.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The threefold referents, strict versus derivative designation,
-neither-learner-nor-beyond-training status of the first two,
-and the learner objection and reply have been checked
-against the local extract and running source. The damaged
-continuum-arising phrase remains for textual collation.
+**Review status.** Complete [423|20]–[424|07] unit
+reviewed against `kosabhasya.txt`, starting at `āsāṃ
+paramārthena` and checking [424|08] as the next boundary.
+All 11 substantive lines, strict versus derivative designation,
+intrinsic status of the first two, and the learner objection
+and reply are covered. The damaged continuum-arising phrase
+remains for textual collation.
 
 ## 10. OWL++ Seed
 

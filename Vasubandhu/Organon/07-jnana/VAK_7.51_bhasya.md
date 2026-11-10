@@ -5,8 +5,8 @@
 > svabhūmikena nirmāṇaṃ bhāṣaṇaṃ tvadhareṇa ca |
 > nirmātraiva sahāśāstuḥ adhiṣṭhāyānyavarttanāt || 7.51 ||
 
-> A construction is produced by a construction-consciousness of its own ground;
-> speech, however, may also be produced by a lower-ground consciousness. For
+> A construction is produced by a construction-Consciousness of its own ground;
+> speech, however, may also be produced by a lower-ground Consciousness. For
 > one other than the Teacher, [a manifestation speaks] only with its
 > constructor. Once it is sustained, another mind initiates speech.
 
@@ -16,38 +16,65 @@ Kārikā study: [`VAK_7.51.md`](./VAK_7.51.md).
 
 ## 2. Continuous Sanskrit
 
+> sarvasya ca nirmitasya
+> svabhūmikena nirmāṇaṃ
 > nānyabhūmikena nirmāṇacittenānyabhūmikaṃ nirmāṇaṃ nirmīyate /
+> bhāṣaṇaṃ tvadhareṇa ca /
 > svabhūmikena ceti ca-śabdaḥ /
 > kāmadhātuprathamadhyānabhūmiko hi nirmitaḥ svabhūmikenaiva cittena bhāṣyate /
-> ūrdhvabhūmikas tu prathamadhyānabhūmikena / ūrdhvaṃ vijñaptisamutthāpakābhāvāt /
-> buddhād anyasya nirmāṇaṃ nirmātrā saha bhāṣate /
-> yadā ca bahavo nirmitā bhavanti tadā yugapat bhāṣante /
-> buddhasya pūrvaṃ paścād vā yathecchaṃ nirmitā bhāṣante /
-> nirmāṇam adhiṣṭhāyāvasthānakāmatayānyena manasā vācaṃ pravartayanti /
+> ūrdhvabhūmikastu prathamadhyānabhūmikena /
+> ūrdhvaṃ vijñaptisamutthāpakābhāvāt /
+> vahūnāṃ nirmitānāṃ bhāṣaṇaṃ
+> nirmātraiva sahāśāstuḥ
+> buddhādanyasya nirmāṇaṃ nirmātrā saha bhāṣate /
+> yadā ca vahavo nirmitā bhavanti tadā yugapat bhāṣante /
+> ekasya bhāṣamāṇasya bhāṣante saha nirmitāḥ /
+> ekasya tūṣṇīṃbhūtasya sarvetūṣṇīṃ bhavanti ta" iti gāthā /
+> buddhasya pūrva paścādvā yathecchaṃ nirmitā bhāṣante /
+> yadā bhāṣaṇacittaṃ tadā nirmāṇacittābhāvo nirmāṇacittābhāvānnirmitābhāva iti kathamenaṃ bhāṣayanti /
+> adhiṣṭhāyānyavarttanāt // VAkK_7.51 //
+> nirmāṇamadhiṣṭhāyāvasthānakāmatayā 'nyena manasā vācaṃ pravartayanti /
 
-**Witness.** Pradhan 427|05–428|01. `Vahūnāṃ` unrestored. Voices: Vasubandhu;
-objection (no construction-mind ⇒ no manifestation?).
+**Witness.** Complete eighteen-line local unit [427|05–06]–[428|01].
+[427|04–05] closes 7.50; the new question `kiṃ jīvita
+evādhiṣṭhānamanuvartate atha mṛtaścāpi /` at [428|01–02]
+opens 7.52. The running `vahūnāṃ`, `vahavo`, `pūrva`, and damaged
+gāthā close `ta" iti gāthā` remain unchanged. The separate kārikā
+retains `varttanāt`. Voice: Vasubandhu; an unattributed gāthā is
+quoted before the Buddha contrast and objection.
 
 ## 3. Continuous Translation
 
-> A construction of one ground is not produced by a construction-mind of another
-> ground. `Ca` means also by a same-ground mind. A desire-domain or first-dhyāna
-> constructed form speaks by a mind of its own ground; a higher-ground one, by
-> a first-dhyāna mind — because above there is no initiator of manifest expression.
+> And for every constructed manifestation, construction is by a
+> construction-Consciousness of its own ground: a manifestation of one
+> ground is not produced by a construction-Consciousness of another.
+> Speech, however, may also be by a lower-ground [Consciousness]; the
+> word “also” includes [speech] by a Consciousness of its own ground.
+> Thus a desire-domain or first-dhyāna manifestation speaks by a
+> Consciousness of its own ground; a higher-ground one speaks by a
+> first-dhyāna-ground [Consciousness], because above that there is
+> no initiator of manifest expression.
 >
-> For someone other than a Buddha the construction speaks with the constructor.
-> When there are many, they speak simultaneously. When he speaks, they speak with
-> him; when silent, all are silent. A Buddha's constructed forms speak before or
-> after, as he wishes.
+> As for the speech of many constructed manifestations: for one other
+> than the Teacher, [they speak] only with their constructor. A
+> manifestation of someone other than the Buddha speaks together with
+> its constructor. When there are many manifestations, they speak
+> simultaneously. A gāthā says: “When the one speaks, the constructed
+> manifestations speak with him; when the one is silent, all are
+> silent.” [The local close of the quotation is damaged.] The Buddha's
+> manifestations speak before or after [him], as he wishes.
 >
-> [Objection:] When speech-mind is present, construction-mind is absent; from that
-> absence, absence of the constructed? They sustain the construction with the wish
-> that it remain, and set speech going with another mind.
+> [Objection:] When speech-Consciousness is present, construction-
+> Consciousness is absent; if construction-Consciousness is absent,
+> would the constructed manifestation not also be absent? How, then,
+> do they make it speak? [Answer:] Because, having sustained [it],
+> another [mind] operates. They sustain the construction with the wish
+> that it remain, then initiate speech with another mind.
 
 ## 4. Movement of the Commentary
 
 ```text
-product-ground = construction-mind ground
+product ground = construction-Consciousness ground
 speech: own-ground if speech lives there; else first dhyāna
 non-Buddha: lockstep with constructor
 Buddha: before or after as wished
@@ -85,6 +112,11 @@ Technē.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.51.md`
-(Pradhan 427|05–428|01).
-`kosabhasya.txt` collation pending. Provisional.
+Complete eighteen-line unit [427|05–06]–[428|01] checked against
+`kosabhasya.txt`, with the 7.50 close [427|04–05] and 7.52 opening
+question [428|01–02] checked. The abbreviated extract was replaced
+with every embedded verse part, both lines of the cited gāthā, the
+full objection, and the sustaining answer. `Vahūnāṃ`, `vahavo`,
+`pūrva`, and the damaged quotation close remain visible; their
+exact forms or punctuation stay open. The paired anchor matches
+the Bhāṣya-informed study translation.

@@ -1,4 +1,4 @@
-# VAK_7.50 Bhāṣya — Construction-Minds: Dhyāna Results and Immediate Succession
+# VAK_7.50 Bhāṣya — Construction-Consciousnesses: Dhyāna Results and Immediate Succession
 
 ## 1. Kārikā Anchor
 
@@ -6,10 +6,10 @@
 > tallābho dhyānavat śuddhāttatsvataśca tato 'pi te || 7.50 ||
 
 > In order, the first through fourth dhyānas produce two, three, four, and five
-> construction-consciousnesses, respectively; no lower dhyāna produces one of a
+> construction-Consciousnesses, respectively; no lower dhyāna produces one of a
 > higher ground. Their acquisition is like that of dhyāna. A construction-
-> consciousness arises immediately after pure dhyāna or another construction-
-> consciousness, and after it, in turn, either of those two arises.
+> Consciousness arises immediately after pure dhyāna or another construction-
+> Consciousness, and after it, in turn, either of those two arises.
 
 Product-matching and speech: 7.51.
 
@@ -17,39 +17,67 @@ Kārikā study: [`VAK_7.50.md`](./VAK_7.50.md).
 
 ## 2. Continuous Sanskrit
 
+> tāni punaścaturdaśa nirmāṇacittāni
+> yathākramaṃ dhyānaphalaṃ dve yāvat pañca /
 > prathamadhyānaphalaṃ dve kāmadhātuprathamadhyānabhūmike nirmāṇacitte /
 > dvitīyadhyānaphalaṃ trīṇi kāmadhātuprathamadvitīyadhyānabhūmikāni /
 > evaṃ tṛtīyacaturthadhyānabhūmikāni catvāri pañca ca yojyāni /
 > svabhūmikādharabhūmikaṃ nirmāṇacittaṃ dhyānaphalaṃ veditavyam /
-> nordhvabhūmikaṃ nirmāṇacittam adharadhyānaphalam asti /
-> teṣāṃ ca nirmāṇacittānāṃ dhyānaval lābhaḥ /
-> śuddhakād … anantaraṃ nirmāṇacittam utpadyate nirmāṇacittād vā nānyataḥ /
-> nirmāṇacittād api śuddhakaṃ dhyānaṃ nirmāṇacittaṃ cotpadyate nānyat /
-> na hi samādhiphalasthaḥ … punaḥ samādhiṃ … vyutthānam asti /
+> nordhvajam /
+> nordhvabhūmikaṃ nirmāṇacittamadharadhyānaphalamasti /
+> dvitīyādidhyānaphalaṃ kāmāvacaraṃ nirmāṇaṃ prathamadhyānabhūmikādgatito viśiṣyate /
+> tallabho dhyānavat
+> teṣāṃ ca nirmāṇacittānāṃ dhyānavallābhaḥ /
+> ki khalu nirmāṇacittādeva syāt vyutthānam /
+> nāstyetat /
+> yasmādutpadyate /
+> śuddhāttatsvataśca
+> śuddhakāddhacyānādantaraṃ nirmāṇacittamutpadyate nirmāṇacittadvā nānyataḥ /
+> tato 'pi te // VAkK_7.50 //
+> nirmāṇacittādapi śuddhakaṃ dhyānaṃ nirmāṇacittaṃ cotpadyate nānyat /
+> na hi samādhiphalasthitasvāpraviśya punaḥ samādhiṃ tasmāt vyutthānamasti /
 
-**Witness.** Pradhan 426|11–427|05. `Śuddhakāddhacyānād`, `gatitaḥ` unrestored.
-Voices: Vasubandhu; question on direct emergence.
+**Witness.** Complete nineteen-line local unit [426|11]–[427|04–05].
+The 7.49 verse closes at [426|10]; `sarvasya ca nirmitasya` at
+[427|05–06] begins 7.51. The comparative
+`prathamadhyānabhūmikādgatito` remains compressed. The running
+`śuddhakāddhacyānād`, `nirmāṇacittadvā`, and
+`samādhiphalasthitasvāpraviśya` remain visibly damaged; the
+separate kārikā supplies a reading of its own. Voice: Vasubandhu,
+including the question and answer about emergence.
 
 ## 3. Continuous Translation
 
-> First-dhyāna results: two construction-minds — desire-domain and first-dhyāna.
-> Second: three — desire, first, second. Likewise four and five for the third and
-> fourth. A construction-mind of own ground or lower is a dhyāna-result. There
-> is no higher-ground construction-mind as the result of a lower dhyāna.
+> Those construction-Consciousnesses are fourteen. In order, two through
+> five are results of [the four] dhyānas. The first dhyāna yields two:
+> construction-Consciousnesses on the desire-domain and first-dhyāna
+> grounds. The second yields three: on the desire-domain, first-dhyāna,
+> and second-dhyāna grounds. Likewise, four and five are to be assigned
+> to the third and fourth dhyānas. A construction-Consciousness is to be
+> understood as a result of a dhyāna when it belongs to that dhyāna's
+> own ground or a lower one. None belonging to a higher ground is a
+> result of a lower dhyāna. A desire-domain construction resulting from
+> the second and later dhyānas excels [one] on the first-dhyāna ground
+> in *gati* [the precise comparison is compressed in the local witness].
 >
-> Their acquisition is like that of dhyāna.
->
-> Could one emerge from a construction-mind itself? No. Immediately after pure
-> dhyāna a construction-mind arises, or after a construction-mind — not from
-> elsewhere. From a construction-mind also: pure dhyāna or a construction-mind,
-> nothing else. One established in a result of samādhi does not emerge from it
-> without entering samādhi again.
+> Their acquisition is like that of dhyāna: the acquisition of those
+> construction-Consciousnesses is like the acquisition of dhyāna.
+> Could one emerge directly from a construction-Consciousness? No.
+> Why? That [Consciousness] arises from pure [dhyāna] and from its own
+> kind. Immediately after a pure dhyāna, a construction-Consciousness
+> arises; or [it arises] from a construction-Consciousness, and from no
+> other [class]—the local compound for these sources is damaged.
+> From it, in turn, those two [classes arise]: from a construction-
+> Consciousness, either pure dhyāna or a construction-Consciousness
+> arises, and no other [class]. For one established in a result of
+> samādhi cannot emerge from it without entering samādhi again;
+> the local syntax of this final sentence is damaged.
 
 ## 4. Movement of the Commentary
 
 ```text
 2+3+4+5 = 14 (source × own-or-lower result)
-no lower source → higher-ground mind
+no lower source → higher-ground construction-Consciousness
 lābha as dhyāna
 predecessors / successors: śuddhaka-dhyāna | nirmāṇa-citta only
 emerge only after re-entry
@@ -59,9 +87,9 @@ emerge only after re-entry
 
 Fourteen are source–result pairs, not five result-grounds counted once. Class
 restriction ≠ complete pairwise matrix of all fourteen. `Svataḥ` = another
-construction-mind, not a cognition causing itself. `Gatitaḥ` distinction of
-desire-domain products from higher dhyānas left provisional. Product-matching
-waits.
+construction-Consciousness, not a cognition causing itself. The local
+`prathamadhyānabhūmikādgatito` comparison remains provisional;
+product-matching waits.
 
 ## 6. Counts
 
@@ -83,12 +111,17 @@ waits.
 This section is reconstruction.
 
 Technē now has a lawful graph: provenance, own-or-lower, and immediate context.
-The Idea does not let a result-mind float free of samādhi. Appearance would
+The Idea does not let a result-Consciousness float free of samādhi. Appearance would
 treat construction as a detachable gadget. Re-entry before emergence is the
 meta-nirodha hint we do not yet name as nirodha.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.50.md`
-(Pradhan 426|11–427|05). Damaged
-strings and `gatitaḥ` open. `kosabhasya.txt` collation pending. Provisional.
+Complete nineteen-line local unit [426|11]–[427|04–05] checked against
+`kosabhasya.txt`, including the 7.49 close [426|10] and 7.51 opening
+[427|05–06]. The abbreviated extract was replaced with every quoted
+verse part, the comparative sentence, acquisition restatement, and full
+emergence exchange. `Prathamadhyānabhūmikādgatito`,
+`śuddhakāddhacyānād`, `nirmāṇacittadvā`, and
+`samādhiphalasthitasvāpraviśya` remain uncertain in their exact
+letters or syntax. The paired anchor matches the study translation.

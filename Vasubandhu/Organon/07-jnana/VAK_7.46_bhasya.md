@@ -17,26 +17,34 @@ Kārikā study: [`VAK_7.46.md`](./VAK_7.46.md).
 
 ## 2. Continuous Sanskrit
 
-> āsāṃ paramārthena āsravakṣayajñānasākṣātkriyaivāśaikṣī vidyā /
-> anye dve aśaikṣyasaṃtānasaṃbhūtatvād aśaikṣyāv ucyete /
+> āsāṃ paramārthena
+> aśaikṣyantyā
+> āsravakṣayajñānasākṣātkriyaivāśaikṣī vidyā /
+> tadāsye dve tatsaṃtānasudbhavāt /
+> anye dve aśaikṣyasaṃtānasaṃbhūtatvādaśaikṣyāvucyete /
 > naiva tu te śaikṣyo nāśaikṣyau /
-> kiṃ punar ete abhijñe śaikṣasya nocyete / yataḥ śaikṣyau vidye nocyete /
-> na hi sāvidyasaṃtāne vidyāvyavasthānaṃ yujyate / punar apy avidyābhibhavāt /
+> kiṃ punarete abhijñe śaikṣyasya nocyete /
+> yataḥ śaikṣyau vidye nocyete /
+> iṣṭe śaikṣsya nokte tu vidye sāvidyasaṃtateḥ // VAkK_7.46 //
+> na hi sāvidyasaṃtāne vidyāvyavasthānaṃ yujyate /
+> punarapyavidyābhibhavāt /
 
-**Witness.** Pradhan 423|20–424|07. `Tadāsye`, `śaikṣsya` unrestored. Voices:
-Vasubandhu; objector (why not learner-vidyās?).
+**Witness.** Complete local `kosabhasya.txt` unit from `āsāṃ paramārthena` in the shared [423|20] label through [424|07], 11 substantive lines. The preceding sentence `etā hi ... yathākramam /` closes 7.45 in [423|20]; `āsāṃ cābhijñānām` at [424|08] opens 7.47. The local `tadāsye`, `tatsaṃtānasudbhavāt`, and `śaikṣsya` remain visible beside the separate kārikā readings. Voice: Vasubandhu, including a learner-status objection.
 
 ## 3. Continuous Translation
 
-> Of these, in the strict sense, only direct realization of influx-exhaustion
-> is the beyond-training vidyā. The other two are called beyond-training because
-> they arise in a beyond-training continuum. In themselves they are neither
-> learner nor beyond-training.
+> “Of these, in the strict sense, the last is beyond training”: only direct
+> realization by Knowledge of influx-exhaustion is a beyond-training vidyā
+> in that sense. “The other two are called that because they arise in that
+> continuum”—the local verse wording is damaged. The other two are called
+> beyond-training because they arise in the continuum of one beyond training.
+> In themselves they are neither learner nor beyond-training.
 >
-> Then are these two higher knowledges not admitted for the learner, since they
-> are not called learner vidyās? They are admitted for the learner, but not
-> called vidyās. Establishment as vidyā is not fitting in a continuum accompanied
-> by ignorance — because ignorance can overpower again.
+> Are these two higher knowledges, then, not stated for a learner, since they
+> are not called learner vidyās? “They are admitted for a learner, but are
+> not called vidyās, because of a continuum accompanied by ignorance.”
+> Establishment as vidyā does not fit a continuum accompanied by ignorance,
+> because ignorance can overpower again.
 
 ## 4. Movement of the Commentary
 
@@ -81,6 +89,7 @@ cut is designation, not contempt for the learner.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.46.md`
-(Pradhan 423|20–424|07).
-Junction unrestored. `kosabhasya.txt` collation pending. Provisional.
+Complete [423|20]–[424|07] unit checked against `kosabhasya.txt`,
+starting at `āsāṃ paramārthena`. The preceding [423|20] sentence closes
+7.45; [424|08] opens 7.47. All 11 substantive source lines appear above.
+The damaged verse forms named in the witness note remain unresolved.

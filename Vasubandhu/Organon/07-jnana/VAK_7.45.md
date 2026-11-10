@@ -51,7 +51,7 @@ changing membership.
 **The remaining four.** `Itarāḥ śubhāḥ` supplies
 `abhijñāḥ` from context. The prose explicitly says
 `anyāś catasraḥ kuśalāḥ`: extraordinary efficacy,
-knowledge of another's consciousness, former-abode recollection, and
+Knowledge of another's Consciousness, former-abode recollection, and
 influx-exhaustion knowledge are wholesome.
 
 **Three receive another classification.** `Tisro vidyāḥ`
@@ -124,16 +124,18 @@ associated with Cognition. The two indeterminate
 higher knowledges are discriminative comprehension associated with visual or
 auditory Cognition. The source identifies a cognitive
 constitution; it does not derive neutrality merely from
-having material objects.
+having material objects. **Principle** remains the Organon
+determination of *prajñā*, distinguished from this local
+Bhāṣya explanation.
 
-**`Āśrayavaśena`.** According to the basis. The four-dhyāna
+**`Āśrayavaśena`.** According to the **Basis**. The four-dhyāna
 assignment is explained through the eye and ear faculties
-that support the respective cognitions. A statement about
-the ground of the basis must not be transferred without
+that serve as the Bases of the respective Cognitions. A statement about
+the level of the Basis must not be transferred without
 qualification to the associated sensory Cognition.
 
-**`Ānantaryamārga`.** Uninterrupted path. This supplies
-the alternative basis for the four-dhyāna designation.
+**`Ānantaryamārga`.** Uninterrupted Path. This supplies
+the alternative ground for the four-dhyāna designation.
 It is a technical path-function, not simply a synonym
 for any mental event that happened immediately before.
 
@@ -164,7 +166,7 @@ object of the corresponding higher knowledge.
 |---|---|---|
 | Extraordinary efficacy | Wholesome | No |
 | Divine hearing | Indeterminate | No |
-| Knowledge of another's consciousness | Wholesome | No |
+| Knowledge of another's Consciousness | Wholesome | No |
 | Former-abode recollection | Wholesome | Yes |
 | Divine sight / death and rebirth | Indeterminate | Yes |
 | Influx-exhaustion | Wholesome | Yes |
@@ -177,20 +179,20 @@ the following verse's further distinction.
 
 **First objection: the four dhyānas.** The Bhāṣya identifies
 the eye and ear higher knowledges with discriminative comprehension associated
-with the corresponding sensory consciousnesses. It then
+with the corresponding sensory Cognitions. It then
 asks how their assignment to four dhyānas is established.
 
 The first answer makes the designation according to the
 basis: their supporting eye and ear faculties belong to
 the four dhyānas. The alternative makes it according to
-the uninterrupted path. These are alternative accounts
+the uninterrupted Path. These are alternative accounts
 of the designation, not two stages which the text requires
 to be combined into one procedure.
 
 ```text
 Four-dhyāna designation:
-    explanation A: according to supporting eye/ear faculties
-    explanation B: according to uninterrupted path
+    explanation A: according to eye/ear Basis faculties
+    explanation B: according to uninterrupted Path
 
 Do not infer:
     every associated sensory Cognition belongs to all four dhyānas
@@ -244,11 +246,12 @@ becoming an exclusive division. Likewise, “origin, process,
 termination” must remain a reconstruction rather than
 replace the explicit past–future–middle correspondence.
 
-**Source boundary and witness cautions.** The local
-Bhāṣya file extends through Pradhan 424|04. Its discussion
-beginning with `aśaikṣyantyā` belongs to VAK 7.46. This
-study stops at 7.45's explanation of the threefold naming;
-it does not use the file boundary as the verse boundary.
+**Source boundary and witness cautions.** The complete
+7.45 unit runs [423|10] through `yathākramam /` in [423|20].
+[423|09] closes 7.44; `āsāṃ paramārthena` in that same
+[423|20] printed label opens 7.46. The 7.45 prose calls
+the three beyond-training vidyās; 7.46 qualifies that
+designation by intrinsic nature and continuum.
 
 The running source and local extract preserve `vāhuliko`
 and the doubled consonant in `nivarttanāt`. These readings
@@ -280,13 +283,13 @@ classification and its vidyā designation must both survive
 the representation. One broad label such as “advanced”
 or “good” would lose the source's determination.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The two indeterminate and four wholesome members, the
-two explanations of ground-designation, the predominant-
-case reply, and the ordered vidyā correspondence are
-checked against the local extract and running source.
-The strict and derivative senses of “beyond training”
-remain the next verse's task.
+**Review status.** Complete [423|10]–[423|20] local unit
+reviewed against `kosabhasya.txt`, ending before `āsāṃ
+paramārthena`. All 17 substantive lines, the two
+indeterminate and four wholesome members, the Basis/Path
+alternatives, the predominant-case reply, and the ordered
+vidyā correspondence are covered. Strict and derivative
+“beyond training” remain 7.46's task.
 
 ## 10. OWL++ Seed
 

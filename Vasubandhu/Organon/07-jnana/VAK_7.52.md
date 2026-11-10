@@ -18,7 +18,7 @@ The Sanskrit follows the local kārikā witness. The
 Devanāgarī renders that reading. The first half records
 a position, its restriction, and an explicit dissent;
 the second half changes to the number of constructions
-produced through construction-consciousnesses.
+produced through construction-Consciousnesses.
 
 ## 3. Lexical Analysis
 
@@ -35,7 +35,7 @@ produced through construction-consciousnesses.
 | `na` | negation | not; the second occurrence denies the post-mortem claim |
 | `ādau` | locative singular of `ādi` | at the beginning |
 | `ekam` | accusative singular neuter here | one [constructed manifestation] |
-| `anekena` | instrumental singular neuter adjective | by many [construction-consciousnesses, collectively expressed] |
+| `anekena` | instrumental singular neuter adjective | by many [construction-Consciousnesses, collectively expressed] |
 | `jitāyām` | locative singular feminine participle of √ji | when mastered, qualifying the understood higher knowledge |
 | `viparyayāt` | ablative singular masculine | by reversal; with the relation reversed |
 
@@ -44,7 +44,7 @@ produced through construction-consciousnesses.
 `nāsthirasya`. `Ādau + ekam` yields `ādāv ekam`.
 The prose repeats the singular instrumental construction
 `anekena nirmāṇacittena` while giving the sense of
-multiple construction-consciousnesses.
+multiple construction-Consciousnesses.
 
 ## 4. Grammar
 
@@ -66,21 +66,21 @@ they deny the post-mortem explanation itself.
 
 **One produced through many.** `Ādau ekam anekena`
 supplies a verb of constructing. The prose identifies
-one constructed manifestation and many construction-consciousnesses.
-The topic is production, not how many construction-consciousnesses must continually
+one constructed manifestation and many construction-Consciousnesses.
+The topic is production, not how many construction-Consciousnesses must continually
 sustain one already produced object.
 
 **When the capacity is mastered.** `Jitāyām` supplies
 `abhijñāyām`, forming the locative condition “when the
 higher knowledge has been mastered.” `Viparyayāt` reverses
-the numerical relation: one consciousness produces many manifestations.
+the numerical relation: one Consciousness produces many manifestations.
 It does not reverse the causal direction from product
 to producer.
 
 **Close construe.** Sustaining determination remains even
 of one who has died, but not with respect to an unstable
 thing; others, however, deny this. At first one manifestation
-is constructed through many construction-consciousnesses; when the higher knowledge
+is constructed through many construction-Consciousnesses; when the higher knowledge
 is mastered, the relation is reversed.
 
 ## 5. Translation
@@ -95,9 +95,9 @@ is mastered, the relation is reversed.
 
 > According to one account, sustaining determination may remain after a
 > person's death, but not for an unstable thing; other teachers deny post-
-> mortem sustaining determination. At first, many construction-consciousnesses
+> mortem sustaining determination. At first, many construction-Consciousnesses
 > produce one manifestation; when the higher knowledge is mastered, one
-> consciousness produces many, as many as desired.
+> Consciousness produces many, as many as desired.
 
 
 ## 6. Philosophical Translation
@@ -145,8 +145,8 @@ is the prose expansion of the verse's feminine locative.
 The passage does not identify this mastery by itself
 with exhaustion of the influxes or final liberation.
 
-**`Viparyaya`.** Reversal. Here the many-consciousnesses/one-product
-relation becomes one-consciousness/many-products. Neither sustaining
+**`Viparyaya`.** Reversal. Here the many-Consciousnesses/one-product
+relation becomes one-Consciousness/many-products. Neither sustaining
 conditions nor the ground rules established earlier are
 thereby reversed or removed.
 
@@ -180,13 +180,13 @@ someone wishes it to remain.
 
 **Production before and after mastery.**
 
-| Condition | construction-consciousnesses | Constructed manifestations |
+| Condition | construction-Consciousnesses | Constructed manifestations |
 |---|---|---|
 | At the beginning | Many | One |
 | Higher knowledge mastered | One | Many, as desired |
 
-The text's verbs are forms of `nirmimīte / nirmiṇoti`
-in the transmitted construction discussion: producing
+The text uses `nirmiṇoti` in the transmitted production
+discussion: producing
 the manifestation is the issue. The research kārikā's
 phrase “many operations are required to sustain one
 result” changes that issue and should not govern the
@@ -198,7 +198,7 @@ Persistence question:
     Two competing explanations are recorded.
 
 Production question:
-    How many construction-consciousnesses produce how many manifestations?
+    How many construction-Consciousnesses produce how many manifestations?
     Initial: many → one
     Mastered: one → many
 ```
@@ -220,20 +220,20 @@ attributes persistence to the practitioner's determination;
 the second denies that post-mortem cause and substitutes
 divine efficacy.
 
-**Witness caution in the flesh example.** The source
-prints `āryakāśyapena māṃsādīnāmadhhiṣṭhānāt`. Its
-last expression is defective and, on the surface, does
-not clearly express the negative force expected after
-the exclusion of unstable things. The surrounding sentence
-secures that exclusion, but the exact construal of the
-flesh example remains for collation. It is not enough
-to remove the doubled `h` and declare the passage repaired.
+**Witness caution in the flesh example.** The Bhāṣya study now
+retains all fourteen substantive lines exactly. The local sentence
+`āryakāśyapena māṃsādīnāmadhhiṣṭhānāt` is damaged: it has a doubled
+`h` and no negation, although the preceding sentence denies sustaining
+of an unstable thing. [Xuanzang's parallel](https://zh.wikisource.org/zh-hant/%E9%98%BF%E6%AF%98%E9%81%94%E7%A3%A8%E4%BF%B1%E8%88%8D%E8%AB%96/%E5%8D%B7027)
+explicitly says Kāśyapa did not preserve flesh and similar material.
+That supports the contextual sense but does not restore the Sanskrit
+or justify silently adding a negative to the quoted witness.
 
-The running question also has `nirmita` where the intended
-constructed object is clear from the following answer.
-Variant skeletal-framework spellings remain in the witness.
-The official Sanskrit verse is unaffected by these prose
-issues; the underlying files are unchanged.
+The running question has `nirmita` where the intended constructed
+object is clear from the following answer. The prose's `anekena
+nirmāṇacittena` uses singular instrumental forms while expressing
+the many-to-one relation. Variant skeletal-framework spellings
+`asthisaṃkalā` and `asthiśaṅkalā` remain in the witness.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā distinguishes a continuing result from the
@@ -255,12 +255,14 @@ count into a general efficiency metric. The source's
 positive determination is the explicit numerical reversal,
 not an unrestricted claim of reduced cost in every sense.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The two post-mortem explanations, object-level stability
-restriction, mastered-abhijñā referent, and production-count
-reversal have been checked against the local extract and
-running source. The damaged flesh-example wording remains
-explicitly unresolved.
+**Review status.** Complete source-first review of fourteen
+substantive lines [428|01–02]–[428|11–12]. The 7.51 close at
+[428|01] and the 7.53 question at [428|12–13] were checked.
+The Bhāṣya study restores the verse fragments, flesh sentence,
+production question, and the full numerical reversal. The missing
+negative in the flesh example, `nirmita`, singular instrumental
+forms, and skeletal spellings remain open. The paired anchor
+matches the Bhāṣya-informed study translation exactly.
 
 ## 10. OWL++ Seed
 

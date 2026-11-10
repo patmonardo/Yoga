@@ -2,41 +2,23 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-**Numbered kārikā.**
-
 ```sanskrit
 द्वित्रिसाहस्रकासंख्यदृशो ऽर्हत्खड्गदैशिकाः ।
 अन्यदप्युपपत्त्याप्तं तद्दृश्यो नान्तरीभवः ॥ ७.५५ ॥
 ```
 
-**Preceding quoted verse, displayed with 7.55 in the local research file.**
-
-```sanskrit
-दूरस्थमावृतं सूक्ष्मं सर्वतश्च न पश्यति ।
-मांसचक्षुर्यतो रूपमतो दिव्यं दृगिष्यते ॥
-```
-
 ## 2. Sanskrit (IAST)
-
-**Numbered kārikā.**
 
 ```text
 dvitrisāhasrakāsaṃkhyadṛśo 'rhatkhaḍgadaiśikāḥ |
 anyadapyupapattyāptaṃ taddṛśyo nāntarībhavaḥ || 7.55 ||
 ```
 
-**Preceding quoted verse.**
-
-```text
-dūrasthamāvṛtaṃ sūkṣmaṃ sarvataśca na paśyati |
-māṃsacakṣuryato rūpamato divyaṃ dṛgiṣyate ||
-```
-
-The Sanskrit follows the local kārikā file, with the
-two units distinguished editorially. The running source
-introduces the first quotation with `āha cātra` at
-429|15; the numbered 7.55 begins at 430|01. Its first
-pāda differs in the running witness, as noted below.
+The Sanskrit follows the local 7.55 kārikā witness. The
+unnumbered sight verse closes 7.54's Bhāṣya unit at [429|16–17];
+`kiyaddūraṃ punardivyena cakṣuṣā paśyati /` at [429|18]
+starts this unit. The numbered 7.55 verse appears at [430|01],
+with a damaged first-pāda variant in the running witness.
 
 ## 3. Lexical Analysis
 
@@ -57,17 +39,6 @@ pāda differs in the running witness, as noted below.
 The compressed range compound shares `sāhasraka` across
 the first two numerical members. The prose controls
 their respective assignment.
-
-**Quoted-verse vocabulary.** `Dūrastham`, `āvṛtam`, and
-`sūkṣmam` are accusative singular neuter qualifications
-of `rūpam`: distant, covered, and subtle visible Form.
-`Sarvataḥ` is adverbial, “from every direction.”
-`Māṃsacakṣuḥ` is the fleshly eye, the subject of
-`na paśyati`. `Yataḥ ... ataḥ` connects the ordinary
-limitation to the admission of divine sight. The printed
-`divyaṃ dṛgiṣyate` has an irregular agreement or junction;
-the broad contrast is clear, but its exact restoration
-is not supplied here.
 
 ## 4. Grammar
 
@@ -225,31 +196,20 @@ a complete theory of perception in intermediate existence.
 
 ## 9. Interpretive Note
 
-**Numbered verse versus preceding quotation.** The local
-research file groups the fleshly-eye quotation with 7.55.
-The running source distinguishes that quotation from
-the numbered kārikā. The quotation says that the fleshly
-eye does not see distant, covered, or subtle Forms, nor
-see from every direction; therefore divine sight is
-admitted. Both units remain distinct in the Sanskrit
-stages. The quotation explains a contrast of vision;
-it does not by itself constitute an empirical proof of
-the extraordinary faculty.
+**Boundary and witness cautions.** The preceding quoted verse
+belongs to 7.54's complete Bhāṣya unit and is now transcribed and
+translated there. The present unit begins with the range question
+at [429|18] and ends with the birth-acquired-eye exclusion at
+[430|10]; `cetojñānaṃ tu tattredhā` [430|11] opens 7.56.
 
-**Witness cautions.** The local kārikā prints
-`arhatkhaḍgadaiśikāḥ`, while the running source has
-`arhatkhaṅgavaiśikāḥ`. The prose's śrāvaka, solitary
-Buddha, and Buddha references secure the three referents;
-the variation is not silently suppressed. The local
-Bhāṣya extract abbreviates part of the range passage
-with an ellipsis, so the complete running source controls
-that part of the study.
-
-The running text also has `anabhhisaṃskāreṇa`,
-`sarvābhhisaṃskāreṇa`, and `lokahātūn`; the extract
-regularizes some of these. The quoted `divyaṃ dṛgiṣyate`
-remains a separate textual issue. Original files are
-unchanged.
+The separate kārikā prints `arhatkhaḍgadaiśikāḥ`, while the running
+source has `arhatkhaṅgavaiśikāḥ`. The prose's śrāvaka,
+rhinoceros-like solitary Buddha, and Buddha references secure the
+three bearers without fixing the verse letters. The Bhāṣya study
+retains the local `anabhhisaṃskāreṇa`, `sarvābhhisaṃskāreṇa`,
+`lokahātūn`, and compressed `bhavatyarhānyadapi` exactly. The
+range and birth-acquisition relations are intelligible despite
+these defects; no clean Sanskrit is substituted.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā articulates the relation between faculty,
@@ -271,12 +231,14 @@ measured or that software provenance reproduces Buddhist
 attainment. The study preserves what the source classifies
 and what its specific restrictions exclude.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The quotation boundary, two range conditions, bearer
-mapping, four further birth-acquired capacities, withheld
-abhijñā designation, and intermediate-being restriction
-have been checked against the local extract and running
-source. Variant Sanskrit remains marked for review.
+**Review status.** Complete source-first review of sixteen
+substantive lines [429|18]–[430|10]. The 7.54 quoted-verse close
+[429|16–17] and 7.56 opening [430|11] were checked. The Bhāṣya
+study restores the full range comparison, all embedded verse parts,
+the birth-acquisition question and answer, the withheld *abhijñā*
+designation, and the intermediate-being restriction. Damaged forms
+listed above remain open. The paired anchor matches the
+Bhāṣya-informed study translation exactly.
 
 ## 10. OWL++ Seed
 

@@ -15,24 +15,54 @@ Kārikā study: [`VAK_7.54.md`](./VAK_7.54.md).
 
 ## 2. Continuous Sanskrit
 
-> dhyānasamāpannasya śabdālokābhogaprayogeṇa dhyānabhūmikāni bhūtāny upādāya rūpaprasādau nirvartete cakṣuḥśrotrasāmantake rūpaśabdayor darśanaśravaṇahetū /
-> nāsti divyaṃ cakṣuḥ śrotraṃ ca tatsabhāgaṃ nityaṃ vijñānasahitatvāt / nāpi vikalaṃ … /
+> yadidaṃ divyaśrotramuktaṃ cakṣuśca /
+> kimete divye eva āhosvit divye eva divye /
+> yathā bodhisattvacakravartigṛhapatiratnānām /
+> divyaśrotrākṣiṇī
+> yasmātte
+> rūpaprasādau dhyānabhūmikau /
+> dhyānasamāpannasya śabdālokābhogaprayogeṇa dhyānabhūmikāni bhūtānyupādāya rūpaprasādau nirvartete cakṣuḥśrotrasāmantake rūpaśabdyordarśanaśravaṇahetū iti dhyānabhūmikatvāt divye eva te cakṣuḥśrotre /
+> te ca punaḥ
+> sabhāgāvikale nityaṃ dūrasūkṣmādigocare // VAkK_7.54 //
+> nāsti divyaṃ cakṣuḥ śrotraṃ ca tatsabhāgaṃ nityaṃ vijñānasahitatvāt nāpi vikalaṃ kāṇavibrāntābhāvāt /
 > rūpāvacarasattvavat /
-> dūrasūkṣmavatāny api rūpāṇi śabdāś ca … /
+> dūrasūkṣmavatānyapi rūpāṇi śabdhāśca tayiorviṣyaḥ /
+> āha cātra
+> dūrasthamāvṛtaṃ sūkṣmaṃ sarvataśca na paśyati /
+> māṃsacakṣuryato rūpamato divyaṃ dṛgiṣyate //
 
-**Witness.** Pradhan 429|04–15 for this verse. Opening question damaged. Voices:
-Vasubandhu.
+**Witness.** Complete fifteen-line local unit [429|04]–[429|16–17],
+including the closing, unnumbered quoted verse. [429|03] closes 7.53;
+`kiyaddūraṃ punardivyena cakṣuṣā paśyati /` at [429|18]
+opens 7.55. The opening question repeats `divye eva`, leaving its
+exact contrast uncertain. The source's `rūpaśabdyor`, `śabdhāśca`,
+`tayiorviṣyaḥ`, and `kāṇavibrāntābhāvāt` remain visibly irregular.
+Voice: Vasubandhu, with a closing cited verse.
 
 ## 3. Continuous Translation
 
-> For one entered into dhyāna, by application directed to sound and light, two
-> refined Form faculties come about from dhyāna-ground Great Elements, near the eye
-> and ear, as causes of seeing visible form and hearing sound. From belonging to
-> the dhyāna ground they are divine.
+> What has been called the divine ear and eye—are these truly divine,
+> or divine [in another sense?], as [the faculties] of bodhisattvas,
+> wheel-turning kings, and householder jewels? [The question's repeated
+> Sanskrit wording is damaged.] The divine ear and eye are two refined
+> Form faculties on dhyāna grounds. For one entered into dhyāna, through
+> application directed to sound and light, two refined Form faculties
+> arise in the vicinity of the eye and ear, depending on dhyāna-ground
+> material Elements. They are the causes of seeing visible Form and
+> hearing sound. They are divine precisely because they belong to a
+> dhyāna ground.
 >
-> There is no divine eye or ear that is merely tatsabhāga — always accompanied by
-> consciousness. Nor impaired. Like Form Realm beings. Distant and subtle visible
-> forms and sounds also are their objects.
+> Moreover, they are always operative and unimpaired, with distant,
+> subtle, and similar things in their range. There is no divine eye or
+> ear that is merely *tatsabhāga*, since it is always accompanied by
+> Cognition; nor is it impaired, since [the specified defects] are
+> absent, as with beings of the form domain. Even distant and subtle
+> visible Forms and sounds are Conditions (*viṣaya*) of the two faculties
+> [the local Condition phrase is damaged].
+>
+> A verse is also cited here: “The fleshly eye does not see visible
+> Form that is distant, obstructed, subtle, or from every direction;
+> therefore the divine eye is accepted.”
 
 ## 4. Movement of the Commentary
 
@@ -73,6 +103,10 @@ How far: next verse.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.54.md`
-(stop before range-numbers).
-`kosabhasya.txt` collation pending. Provisional.
+Complete fifteen-line local unit [429|04]–[429|16–17] checked against
+`kosabhasya.txt`, including the 7.53 close [429|03] and 7.55 opening
+question [429|18]. The abbreviated extract was replaced with the full
+opening question, all verse fragments, the faculty-generation account,
+and the closing quoted verse. The repeated opening `divye eva`,
+`rūpaśabdyor`, `śabdhāśca`, `tayiorviṣyaḥ`, and exact impairment
+wording remain uncertain. The paired anchor matches the study translation.

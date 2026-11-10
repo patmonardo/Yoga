@@ -5,7 +5,7 @@
 > svādhobhūviṣayāḥ labhyā ucitās tu virāgataḥ |
 > tṛtīyā trīṇy upasthānāni ādyaṃ śrotrarddhir cakṣuṣi || 7.44 ||
 
-> The five [higher knowledges] take their own and lower grounds as objects.
+> The five [higher knowledges] have their own and lower levels as Conditions.
 > Those cultivated in previous lives, however, are acquired through detachment.
 > The third [higher knowledge comprises] three applications of mindfulness;
 > [extraordinary efficacy, divine hearing, and divine sight comprise] the first
@@ -18,46 +18,84 @@ Kārikā study: [`VAK_7.44.md`](./VAK_7.44.md).
 
 ## 2. Continuous Sanskrit
 
-> yadbhūmikā ṛiddhyabhijñā bhavati tāṃ bhūmiṃ tayā gacchati / nirmiṇoti vā adharām / noktarām /
-> … nordhvabhūmikam /
-> ata evārūpyabhūmikaṃ cittaṃ … na gṛhṇāty ūrdhvabhūmikatvāt /
-> janmāntarābhyastā abhijñā vairāgyato labhyante / vaiśeṣikyaḥ prayogataḥ /
+> tāḥ punaretāḥ pañcābhijñāḥ
+> svādhobhūviṣayāḥ
+> yadbhūmikā ṛddhacyabhhijñā bhavati tāṃ bhūmi tayā gacchati /
+> nirmiṇoti vā adharāṃ noktarām /
+> evaṃ divyaśrotrābhijñayā svabhūmikameva śabdaṃ śṛṇotyadharabhūmikaṃ vā nordhvabhūmikam /
+> cetaḥ paryāyābhijñayā nordhvabhūmikaṃ cittaṃ jānāti /
+> pūrvanivāsānusmṛtyā na smarati /
+> cyutopapādābhijñayā na paśyati /
+> ata evārupyabhumikaṃ cittaṃ cetaḥparyāyapūrvanivāsabhijñābhyāṃ na gṛhlātyurdhvabhūmikatvāt /
+> kathametā labhyante /
+> atucittāḥ prayogataḥ
+> labhyā ucitāstu virāgataḥ /
+> janmāntarābhyastā abhijñā vairāgyato labhyante vaiśeṣikyaḥ prayogataḥ /
 > sarvāsāṃ tu prayogeṇotpādanam /
+> tṛtīyā trīpyupasthānāni
 > cetaḥparyāyābhijñā trīṇi vedanācittadharmasmṛtyupasthānāni /
-> ṛiddhidivyaśrotradivyacakṣurabhijñā ādyaṃ smṛtyupasthānam /
-> na tat tena jānāti / abhijñāparivārajñānaṃ tu tad anyad āryāṇām utpadyate /
+> cittacaittālamlbanatvāt /
+> ādyaṃ śrotrardvivakṣuṣi // VAkK_7.44 //
+> abhijñeti vartate /
+> ṛddhidivyaśrotradivyacakṣurabhijñā ādyaṃ smṛtyupasthānamityarthaḥ /
+> rūpālambanatvāt /
+> ṛddhiścaturbāhyāyatanālambanā 'nyatra śabdāt /
+> divyaśrotracakṣurabhijñe śabdarūpāyatanālambane /
+> kathaṃ tarhi "cyutopapādajñānenaiva jānāti amī bhavantaḥ sattvāḥ kāyaduścaritena samanvāgatāḥ" ityevamādi /
+> na tattena jānāti /
+> abhijñāparivārajñānaṃ tu tadanyadāryāṇāmutpadyate yenaivaṃ jānanti /
+> anirdhāraṇāccheṣe catuḥsmṛtyupasthānasvabhāve iti siddham /
 
-**Witness.** Pradhan 422|15–423|09. Final pāda unrestored. Voices: Vasubandhu;
-objection from sūtra wording.
+**Witness.** Complete local `kosabhasya.txt` unit [422|14]–[423|09],
+27 substantive lines. [422|13–14] closes 7.43; `avyākṛte
+śrotracakṣurabhijñe` at [423|10] opens 7.45. The fragment
+`atucittāḥ prayogataḥ` is damaged; the separate kārikā witness omits it.
+The final pāda also differs between witnesses. Voice: Vasubandhu, with a
+cited sūtra objection.
 
 ## 3. Continuous Translation
 
-> The ground on which the ṛiddhi-abhijñā is: to that ground one goes by it,
-> or creates, or a lower — not a higher. So divine hearing: own-ground or lower
-> sound, not higher. Other-mind: not a higher-ground mind. Former-abode: does
-> not recollect [higher]. Death-and-rebirth: does not see [higher]. Hence a
-> formless-level mind is not grasped by other-mind and former-abode abhijñās,
-> because it is higher-ground.
+> “These five higher knowledges have their own and lower levels as Conditions.”
+> One goes by extraordinary efficacy to the level on which that higher
+> knowledge occurs, or creates at that level or a lower one, not at a higher
+> one. Likewise divine hearing hears sound on its own or a lower level, not a
+> higher one. The higher knowledge of another's Consciousness does not know
+> Consciousness on a higher level. Former-abode recollection does not recall
+> [a higher level], nor does death-and-reappearance knowledge see [one].
+> Hence neither Knowledge of another's Consciousness nor former-abode
+> recollection apprehends formless-level Consciousness: that level is higher.
 >
-> How acquired? Those cultivated in other births are obtained through detachment;
-> special ones through application. Production of all of them is by application.
+> How are these acquired? “[Those not previously cultivated?] through
+> application”—the local fragment `atucittāḥ prayogataḥ` is damaged.
+> “Those previously cultivated, however, are acquired through dispassion.”
+> Higher knowledges practiced in another birth are acquired through
+> detachment; exceptional ones through application. All of them are brought
+> forth through application.
 >
-> The third is three mindfulness-applications: feeling, mind, dharmas — because
-> it takes mind and mental factors. Ṛiddhi, divine hearing, divine sight: the
-> first application, because they take form. Ṛiddhi: four external fields except
-> sound. Hearing and sight: sound and visible-form fields.
+> “The third has three applications of mindfulness.” The higher knowledge of
+> another's Consciousness falls under mindfulness of feeling, Consciousness,
+> and dharmas, because it takes Consciousness and mental factors as Supports.
+> “The first [application] belongs to hearing, efficacy, and sight”—the
+> local verse words are damaged. The word “higher knowledge” carries over:
+> extraordinary efficacy, divine hearing, and divine sight belong to the
+> first, body-mindfulness application because they take form as Support.
+> Extraordinary efficacy takes four external Essences as Supports, excluding
+> Sound. Divine hearing and divine sight respectively take Sound and Visible
+> Form Essences as Supports.
 >
-> How then “he knows by death-and-rebirth knowledge that these beings are
-> endowed with bodily misconduct”? He does not know that by *that*. A different
-> accompanying knowledge arises in noble persons, by which they know thus. The
-> remaining two: all four applications.
+> How then does one say, “By Knowledge of death and reappearance he knows
+> that these beings are endowed with bodily misconduct,” and so forth?
+> He does not know that by that higher knowledge. A distinct accompanying
+> Knowledge arises for noble persons, by which they know this. Because the
+> remaining two are not specified more narrowly, it follows that they have
+> the nature of all four applications of mindfulness.
 
 ## 4. Movement of the Commentary
 
 ```text
 five: own + lower, not higher
 labha: prior-life + virāga; vaiśeṣikya by prayoga; all produced by prayoga
-mindfulness by object-type
+mindfulness by Support and Condition type
 objection → companion cognition, not expanded divine-sight field
 ```
 
@@ -96,6 +134,7 @@ glance.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.44.md`
-(Pradhan 422|15–423|09). Final
-pāda open. `kosabhasya.txt` collation pending. Provisional.
+Complete [422|14]–[423|09] unit checked against `kosabhasya.txt`;
+[422|13–14] and [423|10] delimit its adjacent units. All 27 substantive
+source lines appear above. The damaged application fragment and final
+pāda remain open.
