@@ -6,9 +6,9 @@
 > svādhobhūmyāśrayā eva dhyānārūpyāḥ vṛthādharam || 8.19 ||
 
 > Skipping attainment is accomplished by going to the third item in a
-> dissimilar mode. Dhyānas and formless attainments are made present
-> only on bases belonging to their own or a lower level; for one
-> reborn above, a lower attainment is without use.
+> dissimilar mode. Dhyānas and formless attainments can be made present
+> with beings of their own or a lower ground as Basis; for one reborn
+> above, a lower attainment is without use.
 
 Exception to the basis rule: 8.20.
 
@@ -17,6 +17,44 @@ Kārikā study: [`VAK_8.19.md`](./VAK_8.19.md).
 ## 2. Continuous Sanskrit
 
 ```text
+[445|16]
+kathaṃ vyutkrāntakasamāpattirutpadyate /
+
+[445|17]
+     gatvāgamya dvidhā bhūmīraṣṭau śliṣṭaikalaṅghitāḥ // VAkK_8.18 //
+
+[445|18]
+     vyutkrāntakasamāpattirvisabhāgatṛtīyagā /
+
+[445|19]
+gatvetyanulomaṃ samāpadya /
+āgamyeti pratilomaṃ samāpadya /
+
+[445|19-446|01]
+dvidheti sāsravānāsravā bhūmīḥ /
+
+[446|01]
+aṣṭāviti dhyānārupyasamāpattīḥ /
+śliṣṭā ityanukrameṇa /
+
+[446|01-446|02]
+ekalaṅghitā ityekāmekāmutkramya /
+
+[446|02-446|03]
+sāsravā aṣṭau bhūmiranulomapratilomasamāpattito nirjitya anāsravāśca sapta /
+
+[446|03-446|04]
+paścātsāsravāt prathamāddhyānāt sāsravaṃ tṛtīyaṃ samāpadyate /
+
+[446|04]
+tasmādākāśānantyāyatanaṃ tasmādākṃicanyāvatanam /
+
+[446|04-446|05]
+evaṃ punaḥ pratilomaṃ nirjitya anāsravā apyekalaṅghitā anulomapratilomaṃ ca samāpadyate /
+
+[446|06]
+ayaṃ prayogo vyutkrāntakasamāpatteḥ /
+
 [446|06-446|07]
 yadā tu prathamātsāsravāt tṛtīyamanāsravaṃ dhyānaṃ samāpadyate tasmātsāsravamākāśānantyāyatanaṃ tasmādanāsravamākiñcanyāyatanam /
 
@@ -72,54 +110,75 @@ nahi tasyādhareṇa samāpattidravyeṇa kiñcit prayojanaṃ vidhīyate /
 nihīnatvāt /
 ```
 
-**Witness.** Pradhan [446|06–07]–[445|21–446|21], transcribed
-from `kosabhasya.txt`. The final page label is malformed and remains
-so in the source block; [446|22] introduces the exception assigned
-to 8.20.
+**Witness.** The complete shared skipping account and 8.19 Basis
+question run [445|16]–[445|21–446|21] in `kosabhasya.txt`.
+[445|15] closes the pure-subtype counts; [446|22] introduces
+8.20's exception. The preparatory portion through [446|06]
+is also present in 8.18 because that verse opens it. The final
+page label is malformed and remains unchanged here.
 
 ## 3. Continuous Translation
 
-> When one enters the uncontaminated third dhyāna after the
+> How does skipping attainment arise? “Having gone and returned, in
+> two ways, through eight grounds, contiguously and with one skipped”;
+> “skipping attainment goes to the third [item] of a different kind.”
+> “Having gone” means entering in forward order, “having returned”
+> entering in reverse order. “In two ways” means contaminated and
+> uncontaminated grounds; “eight” means the dhyāna and formless
+> attainments; “contiguously” means in sequence; and “with one
+> skipped” means passing over one at a time.
+>
+> After mastering the eight contaminated grounds in forward and
+> reverse order, and the seven uncontaminated grounds likewise, one
+> next enters the contaminated third dhyāna after the contaminated
+> first, the sphere of infinite space after that, and the sphere of
+> nothingness after that. Having mastered the reverse order in the
+> same way, one also enters uncontaminated grounds with one skipped,
+> forward and reverse. This is the preparatory practice for skipping
+> attainment.
+>
+> But when one enters the uncontaminated third dhyāna after the
 > contaminated first, then the contaminated sphere of infinite
 > space, then the uncontaminated sphere of nothingness, and likewise
-> in reverse, skipping attainment is accomplished by going to the
-> third item of a different mode. One does not enter a fourth
-> [relative item], because it is too far away.
+> in reverse, the attainment is accomplished by going to the third
+> item of a different mode. One does not enter a fourth [relative
+> item], because it is too far away.
 >
-> In the three continents, only an arhat liberated independently
-> of occasion produces this attainment, because that arhat is free
-> from defilements and has mastery of samādhi. One attained through
-> Seeing has mastery of samādhi owing to sharp faculties, but is not
-> free from defilements. One liberated in dependence on occasion is
-> free from defilements, but lacks that mastery of samādhi.
+> In the three continents, only an arhat liberated independently of
+> occasion produces it, being free from defilements and having mastery
+> of samādhi. One attained through Seeing has mastery of samādhi owing
+> to sharp faculties, but is not free from defilements. One liberated
+> in dependence on occasion is free from defilements, but lacks that
+> mastery of samādhi.
 >
-> On which Basis are how many dhyānas and formless attainments made
-> present? “Only on a Basis belonging to their own or a lower ground.”
-> The text adds, “only with a dhyāna Basis,” before continuing the
-> quoted “dhyānas and formless attainments”; the exact connection of
-> this isolated phrase is uncertain. The summit of existence is made
-> present on the summit, and also below down to the desire realm.
-> The remaining attainments are made present on their own ground or
-> below.
+> With which Basis can how many dhyānas and formless attainments be
+> made present? “Only [beings] of their own or a lower ground as
+> Basis.” “Only dhyāna-Bases.” “Dhyānas and formless attainments.”
+> The summit attainment is made present by a being at the summit
+> and by beings below, down to the desire realm. The
+> remaining attainments are made present by beings on their own
+> ground or below.
 >
 > Why does one reborn above not make a lower attainment present?
-> “For that person, the lower is without use.” A lower attainment
-> item accomplishes no purpose for that person, because it is
+> “For that being, the lower is without use.” A lower attainment
+> item accomplishes no purpose for that being, because it is
 > inferior.
 
 ## 4. Movement of the Commentary
 
 ```text
-prayoga (8.18) → abhiniṣpanna here
-skip one + change mode
-Basis rule general; exception announced next
+shared 8.18–8.19 question: preparation → completed skip
+skip one ground + alternate contaminated/uncontaminated
+new 8.19 question: beings on own/lower grounds as Basis
+8.20 begins an exception to the general Basis rule
 ```
 
 ## 5. Three Distinctions
 
-The rebirth Basis differs from the preceding attainment in skip practice.
-Reverse traversal is not rebirth above. The excluded “fourth” is a fourth
-relative item in the skip, not the fourth dhyāna. The lower sensory
+The being who serves as Basis differs from the preceding attainment
+in skip practice. Reverse traversal is not rebirth above. The excluded
+“fourth” is a fourth relative item in the skip, not the fourth dhyāna.
+The lower sensory
 Cognition of 8.13 does not by itself constitute entering a lower samāpatti.
 
 ## 6. Perfected Pattern
@@ -145,19 +204,21 @@ This section is reconstruction.
 
 The completed pattern combines a skipped ground and a change between
 contaminated and uncontaminated modes. The Organon reading keeps that
-traversal distinct from the rebirth Basis on which an attainment is
-made present. The source also requires both freedom from defilements
-and mastery of samādhi for the stated practitioner.
+traversal distinct from the being who can serve as an attainment
+Basis. The source also requires both freedom from defilements and
+mastery of samādhi for the stated practitioner.
 
 ## 9. Review Status
 
-Complete natural unit [446|06–07]–[445|21–446|21] checked against
-`kosabhasya.txt`. [446|06] closes 8.18's preparatory account;
-[446|22] opens 8.20's exception to the general Basis rule. The
-previous extract omitted the two contrasting practitioner cases,
-the split verse, the summit and other-ground examples, and the
-full no-purpose explanation. These are restored and translated
-step by step. The isolated `dhyānāśrayā eva` at [446|15] and the
-malformed final page label remain visible. Its precise syntactic
-connection remains uncertain. The paired kārikā anchor matches
-exactly; the *āśraya* terminology is corrected to Basis throughout.
+Restarted from the complete shared unit [445|16]–[445|21–446|21]
+in `kosabhasya.txt`. [445|15] closes 8.18's pure-subtype counts;
+8.18's skipping preparation overlaps this unit through [446|06].
+[446|22] opens 8.20's explicitly announced exception. The
+preparation, completed alternating-mode sequence, practitioner
+contrasts, and Basis question are translated in witness order.
+The first 8.19 pāda at [445|18], isolated `dhyānāśrayā eva` at
+[446|15], and malformed final page label remain visible. The
+isolated phrase's syntactic force is unresolved. Independent
+comparison supports taking the *āśraya* here as a being at the
+attainment's own or a lower ground; it does not repair the local
+phrase. The paired kārikā anchor matches exactly.

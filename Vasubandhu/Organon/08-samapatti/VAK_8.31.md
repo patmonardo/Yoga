@@ -14,10 +14,11 @@ dhyānayor muditā anyāni ṣaṭsu kecit tu pañcasu |
 na taiḥ prahāṇaṃ nṛṣv eva janyante tryanvito dhruvam || 8.31 ||
 ```
 
-The Sanskrit follows the local kārikā witness. The
-Bhāṣya supplies the identities behind the level
-counts, an additional ten-level account, and the
-subject of the final possession statement.
+The Sanskrit follows the local kārikā witness. The complete Bhāṣya unit
+[453|11–12]–[454|22–23] supplies the identities behind the level counts, an
+attributed ten-level account, the suppression and abandonment distinction,
+the full beginner's practice, and the subject of the final possession
+statement. [453|11] closes 8.30; [454|24] opens 8.32.
 
 ## 3. Lexical Analysis
 
@@ -140,7 +141,7 @@ make them identical with those paths.
 
 **`Adhimuktimanaskāra`.** Attention through resolve or
 imaginative determination. Together with principal-dhyāna
-status and beings as object, it appears among
+status and beings as Supports (*sattvālambana*), it appears among
 the reasons given for denying abandonment by the
 principal immeasurables.
 
@@ -162,7 +163,7 @@ not a claim of simultaneous entry into three immeasurables.
 
 Sympathetic joy belongs to the first two dhyānas; the other three immeasurables receive attributed six-, five-, and ten-level accounts. The verse denies that these immeasurables themselves effect abandonment, restricts their generation to humans, and says their attainer is endowed with three. `[verse]`; counts and scope are `[prose]`.
 
-**Signature.** `OnLevel(x,l)`; `SixLevel(l)`; `FiveLevel(l)`; `SixAccount(g,l)` and `FiveAccount(g,l)` (attributed scopes); `Immeasurable(x)`; `Abandonment(x)`; `GeneratedOnlyHuman(x)`; `AttainerOfFour(a)`; `EndowedWithThree(a)`.
+**Signature.** `OnLevel(x,l)`; `SixLevel(l)`; `FiveLevel(l)`; `SixAccount(g,l)` and `FiveAccount(g,l)` (attributed scopes); `Immeasurable(x)`; `Abandonment(x)`; `GeneratedOnlyHuman(x)`; `AttainerOfImmeasurables(a)`; `EndowedWithThree(a)`.
 
 ```nltk-sem
 # derived by the section 4 parse, not typed by hand
@@ -190,7 +191,7 @@ FiveAccount => {(otherThree,intermediateDhyana),(otherThree,firstDhyana),(otherT
 Abandonment => {}
 Immeasurable => {friendliness,compassion,joy,equanimity}
 GeneratedOnlyHuman => {friendliness,compassion,joy,equanimity}
-AttainerOfFour => {attainerOne}
+AttainerOfImmeasurables => {attainerOne}
 EndowedWithThree => {attainerOne}
 ```
 
@@ -202,7 +203,7 @@ OnLevel(joy,secondDhyana)
 # [derived by the section 4 parse, not typed by hand] the instrumental pronoun scopes negation over the four
 all x.(Immeasurable(x) -> -Abandonment(x))
 all x.(Immeasurable(x) -> GeneratedOnlyHuman(x))
-all a.(AttainerOfFour(a) -> EndowedWithThree(a))
+all a.(AttainerOfImmeasurables(a) -> EndowedWithThree(a))
 # THEORY six_level
 # [prose, attributed account] exactly the reported six-level range
 all l.(SixLevel(l) -> SixAccount(otherThree,l))
@@ -238,7 +239,7 @@ reconstruct every damaged compound or the full
 alternative ten-level inventory. Originals remain unchanged.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
-Yoga Vidyā articulates level, object, function,
+Yoga Vidyā articulates level, Support, function,
 and possession; Yoga Technē, its kriyā–karma companion,
 concerns the graduated equalization and extension
 described in the training. Equal friendliness across
@@ -254,12 +255,13 @@ preserve those operations and their order without
 turning a graded cultivation account into a universal
 metaphysical theory.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-collated, Bhāṣya-controlled study.
 The level alternatives, muditā restriction, suppression/path
 abandonment distinction, beginner sequence, equanimity's
 neutral starting point, human generation, and possession
-guarantee have been checked against the local
-research and running source.
+guarantee have been checked against the complete local running source,
+[453|11–12]–[454|22–23]. The damaged ten-ground compound and the
+good-quality example's syntax remain open.
 
 ## 10. OWL++ Seed
 
@@ -270,7 +272,7 @@ Class: AbandonmentPath
 Class: PossessionCondition
 Class: ReportedLevelAccount
 
-ObjectProperty: supportedAtLevel
+ObjectProperty: availableAtGround
 ObjectProperty: suppressesTendency
 ObjectProperty: abandonsDefilement
 ObjectProperty: initiallyGeneratedAmong

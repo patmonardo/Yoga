@@ -14,7 +14,9 @@ nirodhas tu samāpattiḥ sūkṣmasūkṣmād anantaram |
 svaśuddhakādharāryeṇa vyutthānaṃ cetasā tataḥ || 8.33 ||
 ```
 
-The Sanskrit follows the local kārikā witness. A
+The Sanskrit follows the local kārikā witness. The complete Bhāṣya
+unit runs [455|20]–[456|08–09]. [455|18–19] closes 8.32;
+`eṣāṃ ca vimokṣāṇāṃ` at [456|09] opens 8.34. A
 material conflict occurs in the emergence explanation:
 the verse specifies adhara-ārya, lower noble,
 while the running prose prints sāsraveṇa for
@@ -170,13 +172,13 @@ bhavagra => bhavagra
 nothingness => nothingness
 pure => pure
 noble => noble
-contaminated => contaminated
+withInflux => withInflux
 Attainment => {cessationAttainment}
 Cessation => {cessationAttainment}
 ImmediatelyBefore => {(subtlePerception,subtlerPerception),(subtlerPerception,entryMoment)}
 ExitLevel => {(ownLevelExit,bhavagra),(lowerLevelExit,nothingness)}
 VerseExitMode => {(ownLevelExit,pure),(lowerLevelExit,noble)}
-ProseExitMode => {(ownLevelExit,pure),(lowerLevelExit,contaminated)}
+ProseExitMode => {(ownLevelExit,pure),(lowerLevelExit,withInflux)}
 ```
 
 ```nltk-fol
@@ -197,12 +199,12 @@ VerseExitMode(lowerLevelExit,noble)
 # THEORY prose_exit
 # [prose, conflicting witness] lower-level exit is called sāsrava
 ExitLevel(lowerLevelExit,nothingness)
-ProseExitMode(lowerLevelExit,contaminated)
+ProseExitMode(lowerLevelExit,withInflux)
 ```
 
 **Results (NLTK).** The checker reports `shared: T`, `verse_exit: T`, and `prose_exit: T` in the finite model because the witness-specific mode predicates preserve the disagreement instead of identifying them as one value.
 
-**Scope cautions.** This is an attributed witness conflict, not a harmonized mode claim. Entry/emergence do not assert cognition during cessation or a complete itinerary through every formless attainment. The prose's damaged final summary remains outside this formalization.
+**Scope cautions.** This is a witness conflict, not a harmonized mode claim. Entry/emergence do not assert cognition during cessation or a complete itinerary through every formless attainment. The prose's compressed final summary remains outside this formalization.
 
 ## 9. Interpretive Note
 
@@ -239,12 +241,13 @@ problem. A model of the passage should preserve
 uncertainty where the textual determination remains incomplete.
 
 **Review status.** Provisional, source-controlled study
-with a material unresolved witness conflict. The
+with a material unresolved witness conflict. The complete
+Bhāṣya unit [455|20]–[456|08–09] and its adjacent
+boundaries have been checked against the running source. The
 eighth-release identity, naming explanations, subtle-perception
 refinement, and two emergence levels have been
-checked against the local research and running
-source. The second emergence mode and final
-prose summary remain textually qualified.
+checked. The second emergence mode and final prose summary
+remain textually qualified.
 
 ## 10. OWL++ Seed
 
@@ -271,7 +274,7 @@ OwnLevelEmergence:
 LowerLevelEmergence:
     level: Nothingness
     verseMode: Noble
-    transmittedProseMode: Contaminated
+    transmittedProseMode: WithInflux
     status: UnresolvedWitnessConflict
 
 ProjectConstraint: The emergence compound gives two paired alternatives, not four.

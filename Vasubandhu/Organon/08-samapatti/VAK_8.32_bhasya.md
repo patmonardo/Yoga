@@ -13,77 +13,178 @@ Kārikā study: [`VAK_8.32.md`](./VAK_8.32.md).
 
 ## 2. Continuous Sanskrit
 
-> rūpī rūpāṇi paśyatīti prathamo vimokṣaḥ /
-> adhyātmarūpasaṃjñī bahirdhā rūpāṇi paśyatīti dvitīyaḥ /
-> śubhaṃ vimokṣaṃ kāyena sākṣātkṛtvopasaṃpadya viharatīti tṛtīyaḥ /
-> catvāra ārūpyāḥ / saṃjñāveditanirodhaś cāṣṭamaḥ /
-> prathamau dvau vimokṣāv aśubhāsvabhāvau / vinīlakādyākāratvāt /
-> prathamadvitīyayor dhyānayor nānyasyāṃ bhūmau /
-> śubho vimokṣaś caturthadhyāne / so 'py alobhasvabhāvo na tv aśubhāsvabhāvaḥ /
-> kuśalāḥ samāhitā eva cārūpyavimokṣākhyāṃ labhante /
-> vaimukhyārtho hi vimokṣārthaḥ /
+```text
+[454|24]
+     aṣṭau vimokṣāḥ
 
-**Witness.** Pradhan 454|24–455|19. Voices: Vasubandhu; apare. Second canonical
-formula flagged: running text does not securely negate internal form-perception.
+[455|01]
+rūpī rūpāṇi paśyatīti prathamo vimokṣaḥ /
+
+[455|01-455|02]
+adhyātmarūpasaṃjñī bahirdhā rūpāṇi paśyatīti dvitīyaḥ /
+
+[455|02-455|03]
+śubhaṃ vimokṣaṃ kāyena sākṣātkṛtvopasaṃpadya viharatīti tṛtīyaḥ /
+
+[455|03]
+catvāra ārupyāḥ /
+saṃjñāveditanirodhaścāṣṭamaḥ /
+teṣāṃ
+
+[455|04]
+     prathamāvaśubhā
+
+[455|05]
+prathamau dvau vimokṣāvaśubhāsvabhāvau /
+
+[455|05-455|06]
+vinīlakādyākāratvāt /
+
+[455|06]
+ata etayoraśubhāvannayo veditavyaḥ /
+etau ca
+
+[455|07]
+     dhyānayordvayoḥ /
+
+[455|08]
+prathamadvitīyayordhyānayornānyasyāṃ bhūmau /
+
+[455|08-455|09]
+kāmāvacaraprathamadhyānabhūmikayorvarṇarāgayoḥ pratipakṣeṇa yathāsaṃkhyam /
+
+[455|10]
+     tṛtīyo 'ntye
+
+[455|11]
+śubho vimokṣaścaturthadhyāne /
+
+[455|12]
+     sa cālobhaḥ
+
+[455|13]
+so 'pyalobhasvabhāvo natvaśūbhāsvabhāvaḥ /
+śubhākāratvāt /
+
+[455|13-455|14]
+saparivārāstvete pañcaskandhasvabhāvāḥ /
+
+[455|14]
+ārupyavimokṣāstu
+
+[455|15]
+     śubhārupyāḥ samāhitāḥ // VAkK_8.32 //
+
+[455|16-455|17]
+kuśalāḥ samāhitā eva cārūpyavimokṣākhyāṃ labhante na kliṣṭā nāpyasamāhitāstadyathāmaraṇabhave /
+
+[455|17]
+anyadāpyasamāhitāḥ santītyapare /
+
+[455|17-455|18]
+sāmantakavimukti mārgā api vimokṣākhyāṃ labhante /
+
+[455|18]
+nānantaryamārgā adharālambanatvāt /
+
+[455|18-455|19]
+vaimukhyārtho hi vimokṣārtha iti /
+```
+
+**Witness.** Pradhan [454|24]–[455|18–19], copied exactly from
+`kosabhasya.txt`. [454|22–23] closes 8.31; `nirodhas tu samāpattiḥ`
+at [455|20] opens 8.33. The second release's `adhyātmarūpasaṃjñī`
+and other irregular readings remain as transmitted.
 
 ## 3. Continuous Translation
 
-> First: possessed of form, one sees forms. Second: internally perceiving form,
-> one sees forms outside — formula under review. Third: having realized the
-> beautiful release with the body, one dwells in it. Four formless. Eighth:
-> cessation of perception and feeling.
+> “There are eight releases.” The first: “Possessed of form, one sees
+> forms.” The second: “Internally perceiving form, one sees forms
+> externally” [the running formula reads `adhyātmarūpasaṃjñī`]. The
+> third: “Having directly realized the beautiful release with the body,
+> one enters and dwells in it.” Four are formless; cessation of
+> perception and feeling is the eighth.
 >
-> The first two have the nature of unattractive contemplation — bluish and related
-> aspects — in first and second dhyāna only. They counter, in order, attachment to
-> appearance of the desire domain and of first dhyāna. The third is in fourth
-> dhyāna. Non-greed as nature, *not* unattractive — its aspect is beautiful. With
-> accompaniment: five Bases.
+> Of these, “the first two are unattractive contemplation”: the first
+> two releases have unattractive contemplation as their nature because
+> their aspects include the bluish and the rest. Thus their manner of
+> unattractive contemplation is to be understood [the local
+> `aśubhāvannayo` is damaged]. “In the two dhyānas”: these occur in
+> the first and second dhyānas, on no other ground, as counteragents,
+> respectively, to attachment to color belonging to the desire domain
+> and to the first-dhyāna ground.
 >
-> Formless releases: wholesome and collected only — not defiled, not uncollected
-> (e.g. at death). Others say uncollected occur at other times too. Access
-> liberation-paths may take the name; uninterrupted paths may not — they take the
-> lower ground as object. Vimokṣa here means turning away.
+> “The third is in the last”: the beautiful release is in the fourth
+> dhyāna. “And it is non-greed”: it too has non-greed as its nature,
+> but does not have unattractive contemplation as its nature, since
+> its aspect is beautiful. With their accompaniments, these [first
+> three releases] have the five Bases as their nature.
+>
+> As for the formless releases, “the formless are wholesome and
+> collected”: only wholesome and collected [formless states] receive
+> the name of formless release, neither afflicted nor uncollected,
+> as, for instance, in the state of dying. Others say that uncollected
+> [formless states] also occur at other times. Even liberation Paths
+> of the access levels receive the name of release. Uninterrupted
+> Paths do not, because they take a lower [ground] as Support.
+> For the meaning of “release” is turning away.
 
 ## 4. Movement of the Commentary
 
-```text
-eight named → first two aśubhā → third śubha+alobha → formless under two conditions
-name ≠ outflow-destruction
-```
+The opening identifies the eight: three form-related releases, four
+formless releases, and cessation of perception and feeling. The first
+two are explained by their unattractive aspects, grounds, and ordered
+counteractive targets. The third occupies the fourth dhyāna and has
+a beautiful aspect, although its factor-nature is non-greed. The first
+three, taken together with accompaniments, have a five-Base constitution.
+The formless designation requires both wholesomeness and collectedness.
+The text then reports an *apare* qualification about uncollected states,
+includes access-level liberation Paths in the release name, and excludes
+uninterrupted Paths because of their lower-ground Support. It closes by
+glossing release as turning away.
 
-## 5. Beautiful ≠ Greedy
+## 5. Bhāṣya Explanation
 
-Joint location in two dhyānas ≠ exclusive 1:1 lock. Śubha as aspect ≠ śaubha as
-kuśala. This inventory ≠ 8.25's gates.
+The verse's `aśubhā` names unattractive contemplation; the prose assigns
+that nature to the first two releases through bluish and related aspects.
+It jointly locates both in the first and second dhyānas, then gives the
+desire-domain and first-dhyāna attachments to color as their respective
+counteractive targets. The source does not assign each release exclusively
+to one dhyāna. `Antye` is the fourth dhyāna. The third release's beautiful
+aspect differs from its non-greed nature; *śubha* in `śubhārūpyāḥ` instead
+receives the explicit gloss *kuśalāḥ*, “wholesome.”
 
-## 6. Groups
+The access-path clause concerns entitlement to the *vimokṣa* name.
+Uninterrupted Paths take a lower ground as Support (*ālambana*) and are
+excluded from that designation here. This exclusion does not revoke their
+separate abandonment function. The *apare* position concerns occasions on
+which uncollected formless states occur, not a rejection of the stated
+wholesome and collected criteria for the formless release name.
 
-| | |
-|---|---|
-| 1–2 | aśubhā; 1st–2nd dhyāna |
-| 3 | beautiful; 4th dhyāna; alobha |
-| 4–7 | wholesome collected ārūpya |
-| 8 | nirodha — next |
+## 6. Organon Determination
 
-## 7. The Bhāṣya's Decisions for the Kārikā
+Represent aspect, factor-nature, meditative ground, accompanied Base
+constitution, and eligibility for the release name as separate relations.
+The first three's five-Base constitution applies with accompaniments; it
+does not erase the factor-level non-greed determination. The formless
+release name requires the two stated conditions, and access liberation
+Paths require their own naming rule.
 
-- `antye` = fourth dhyāna;
-- `śubhārūpyāḥ` = wholesome formless;
-- `vimokṣa` glossed vaimukhya.
+## 7. Comparative Synthesis
 
-## 8. Interpretation
+The passage supports a comparison between a contemplated beautiful aspect
+and non-greed without making beauty itself a release. Its closing
+*vaimukhya* supplies a local sense of turning away; the passage does not
+by that gloss assert final destruction of all outflows. These are limits
+on the Yoga Vidyā and Yoga Technē comparison, not claims added to the
+Bhāṣya.
 
-This section is reconstruction.
+## 8. Review Status
 
-Turning away is still content: blue-black, then beauty without grab. Vidyā: aspect,
-nature, level, naming-conditions. Technē of the third is freedom *in* appearance,
-not emptied light. Appearance would call every higher sitting a release. The text
-requires wholesome and collected. Yama does not Mara this taxonomy. He asks whether
-the sitting was raised to Pure Reason. The verse does not answer him. It names eight.
-
-## 9. Review Status
-
-Kārikā translations and anchor standardized; terminology upgraded to the
-current Method. Organon pair `VAK_8.32.md` / this Bhāṣya (Pradhan
-454|24–455|19). Second formula pending witness work. `kosabhasya.txt`
-collation pending. Provisional.
+The complete natural unit [454|24]–[455|18–19] was collated against the
+local running witness. [454|22–23] closes 8.31; [455|20] opens 8.33.
+The atypical second formula `adhyātmarūpasaṃjñī` and damaged
+`aśubhāvannayo` remain visible. The former differs from the expected
+second-release formula; its critical reading remains open. The latter's
+precise construal remains uncertain. The source's `aśūbhā` in the
+third-release contrast is also preserved.

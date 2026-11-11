@@ -44,7 +44,7 @@ as contaminated.
 
 ## 4. Grammar
 
-Three cultivation bases are stated with distinct purposes; the last relative clause identifies a samādhi in the fourth dhyāna. The Bhāṣya supplies the divine-eye and qualities heads and forces the final sandhi break at feminine `sā`.
+Three cultivation means are stated with distinct purposes; the last relative clause identifies a samādhi in the fourth dhyāna. The Bhāṣya supplies the divine-eye and qualities heads and forces the final sandhi break at feminine `sā`.
 
 ```nltk-fcfg
 % start S
@@ -108,10 +108,10 @@ of the outflows.
 > The four cultivations are distinguished by purpose:
 > present pleasant abiding, knowledge-and-seeing, differentiation
 > of prajñā, and destruction of the outflows.
-> The third has a broad basis in application-born
+> The third has broad scope in application-born
 > qualities; the fourth names a specific vajra-like
 > samādhi. The text then moves from samādhis to
-> the qualities supported by them.
+> the qualities dependent on them.
 
 The four purposes do not themselves establish four
 mandatory consecutive steps. In particular, the verse
@@ -123,7 +123,7 @@ an obligatory predecessor of liberation for every practitioner.
 **`Akṣyabhijñā / divyacakṣurabhijñā`.** Eye-superknowledge /
 divine-eye superknowledge. The prose supplies the
 full technical designation. Ordinary visual perception
-is not the operative basis named here.
+is not the operative means named here.
 
 **`Jñānadarśana`.** Knowledge-and-seeing, the commentary's
 expansion of darśana. Its pairing must remain
@@ -132,7 +132,9 @@ visible rather than being reduced to generic vision.
 **`Dhībheda / prajñāprabheda`.** Differentiation of
 understanding / differentiation of prajñā. The latter
 is the explicit prose gloss and controls the
-technical study translation.
+technical study translation. **Principle** remains the
+Organon determination of Prajñā, distinct from this
+local Bhāṣya explanation.
 
 **`Prayogaja guṇa`.** Quality born from application.
 The source says all such qualities, including
@@ -154,14 +156,14 @@ be omitted when assessing the specificity of the
 fourth-dhyāna designation.
 
 **`Samādhisaṃniśrita guṇa`.** Quality dependent upon
-samādhi. This phrase announces the next section;
-it does not terminate Chapter 8.
+samādhi. This phrase begins 8.29 at [452|04], after the
+closing sentence of the present unit; Chapter 8 continues.
 
 ## 8. Logical Determination
 
-The verse completes the fourfold cultivation list with three further purposes and their bases: knowledge-and-seeing, prajñā-differentiation, and outflow-destruction. The Bhāṣya resolves divine-eye superknowledge, all application-born qualities, and vajra-like samādhi in fourth dhyāna; its final sandhi is `sā āsravakṣayabhāvanā`. `[verse]` / `[prose]`.
+The verse completes the fourfold cultivation list with three further purposes and their means: knowledge-and-seeing, prajñā-differentiation, and outflow-destruction. The Bhāṣya resolves divine-eye superknowledge, all application-born qualities, and vajra-like samādhi in fourth dhyāna; its final sandhi is `sā āsravakṣayabhāvanā`. `[verse]` / `[prose]`.
 
-**Signature.** `Purpose(p)`; `Basis(b)`; `Serves(b,p)`; `ApplicationBorn(b)`; `FourthDhyana(b)`.
+**Signature.** `Purpose(p)`; `Means(m)`; `Serves(m,p)`; `ApplicationBorn(m)`; `FourthDhyana(m)`.
 
 ```nltk-valuation
 firstDhyana => firstDhyana
@@ -173,7 +175,7 @@ knowledgeSeeing => knowledgeSeeing
 prajnaDifferentiation => prajnaDifferentiation
 outflowDestruction => outflowDestruction
 Purpose => {presentAbiding, knowledgeSeeing, prajnaDifferentiation, outflowDestruction}
-Basis => {firstDhyana, divineEyeSuperknowledge, applicationBornQualities, vajraSamadhiFourth}
+Means => {firstDhyana, divineEyeSuperknowledge, applicationBornQualities, vajraSamadhiFourth}
 Serves => {(firstDhyana,presentAbiding),(divineEyeSuperknowledge,knowledgeSeeing),(applicationBornQualities,prajnaDifferentiation),(vajraSamadhiFourth,outflowDestruction)}
 ApplicationBorn => {applicationBornQualities}
 FourthDhyana => {vajraSamadhiFourth}
@@ -183,7 +185,7 @@ FourthDhyana => {vajraSamadhiFourth}
 # THEORY shared
 # [verse 8.27, prose] first wholesome dhyāna is for present-life pleasant abiding
 Serves(firstDhyana,presentAbiding)
-# [prose] darśana = knowledge-and-seeing; divine-eye superknowledge is its basis
+# [prose] darśana = knowledge-and-seeing; divine-eye superknowledge is its means
 Serves(divineEyeSuperknowledge,knowledgeSeeing)
 # [verse, prose] all application-born qualities serve prajñā-differentiation
 Serves(applicationBornQualities,prajnaDifferentiation)
@@ -206,9 +208,8 @@ construction and the purpose āsravakṣayāya. The
 official segmentation retains the demonstrative separately;
 the continuous Sanskrit remains unchanged.
 
-**Witness cautions.** The explanatory phrase following
-the reported self-reference is retained as an unresolved
-compressed reading. The main identifications are
+**Witness cautions.** The `ataścaturbhya evāha` clause following
+the reported self-reference remains compressed. The main identifications are
 explicit in the preceding prose. No uncertain
 wording is used to create a restriction stronger
 than the stated account, and originals remain untouched.
@@ -216,7 +217,7 @@ than the stated account, and originals remain untouched.
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 The project's Recognition vocabulary can articulate
 the distinct purposes of cultivation. Yoga Vidyā
-specifies those purposes and their operative bases;
+specifies those purposes and their operative means;
 Yoga Technē, its kriyā–karma companion, concerns
 the application and cultivation through which the
 named functions are exercised.
@@ -230,12 +231,12 @@ samādhi with the Organon determinate Concept. Keeping
 those registers distinct preserves both the source
 and the comparative work.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The knowledge-and-seeing gloss, broad application-born
-scope, prajñā determination, fourth-dhyāna identification,
-final-clause segmentation, reported self-reference, and
-section transition have been checked against the
-local research and running source.
+**Review status.** Complete [451|14]–[452|02–03] unit collated
+with `kosabhasya.txt`; [451|12–13] closes 8.27 and `idānīṃ` at
+[452|04] opens 8.29. The split verse, three purpose explanations,
+reported own-case remark, compressed “therefore four” clause, and
+closing sentence are restored in the paired Bhāṣya study. The scope
+of the own-case explanation remains uncertain.
 
 ## 10. OWL++ Seed
 
@@ -246,20 +247,20 @@ Class: ApplicationBornQuality
 Class: SamadhiDependentQuality
 
 ObjectProperty: cultivatedFor
-ObjectProperty: hasSpecifiedBasis
+ObjectProperty: hasSpecifiedMeans
 ObjectProperty: interpretedWithinReportedContext
 
 KnowledgeAndSeeingCultivation:
-    basis: DivineEyeSuperknowledge
+    means: DivineEyeSuperknowledge
     purpose: JnanaDarsana
 
 PrajnaDifferentiationCultivation:
-    basis: AllApplicationBornQualities
+    means: AllApplicationBornQualities
     scope: ThreeDomainsAndUncontaminated
     purpose: PrajnaPrabheda
 
 OutflowDestructionCultivation:
-    specifiedBasis: VajraLikeSamadhiInFourthDhyana
+    specifiedMeans: VajraLikeSamadhiInFourthDhyana
     purpose: AsravaKsaya
     reportedContext: TeachingRelatedToBuddhasOwnCase
 

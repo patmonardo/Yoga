@@ -26,7 +26,7 @@ exception in the following verse.
 |---|---|---|
 | `vyutkrāntakasamāpattiḥ` | nominative singular feminine compound | skipping attainment |
 | `visabhāgatṛtīyagā` | nominative singular feminine compound adjective | going to the third attainment in a dissimilar mode |
-| `svādhobhūmyāśrayāḥ` | nominative plural compound adjective | having bases at their own or lower levels |
+| `svādhobhūmyāśrayāḥ` | nominative plural compound adjective | taking beings at their own or lower grounds as Basis |
 | `eva` | restrictive particle | only, in the stated general rule |
 | `dhyānārūpyāḥ` | transmitted nominative plural collective designation | dhyānas and formless attainments |
 | `vṛthā` | indeclinable | without use; to no purpose |
@@ -46,10 +46,10 @@ The verse completes the previous preparation, then states a general basis rule a
 ```nltk-fcfg
 % start S
 # tokens: vyutkrāntakasamāpattir visabhāgatṛtīyagā svādhobhūmyāśrayā eva dhyānārūpyāḥ ∅-ūrdhvopapannaḥ vṛthādharam
-S[SEM=?sem] -> CL[K=accomplishment] CL[K=basis,SEM=?sem] CL[K=exception]
+S[SEM=?sem] -> CL[K=accomplishment] CL[K=basis,SEM=?sem] CL[K=upper_born_case]
 CL[K=accomplishment] -> N[CASE=nom,NUM=sg,GEN=f,KIND=skip] ADJ[CASE=nom,NUM=sg,GEN=f,MODE=dissimilar,DEST=third]
 CL[K=basis,SEM=<?q(?noun)>] -> ADJ[CASE=nom,NUM=?n,GEN=?g,BASIS=own_or_lower,SEM=?q] PTCL[RESTRICT=yes] N[CASE=nom,NUM=?n,GEN=?g,KIND=attainment,SEM=?noun]
-CL[K=exception] -> N[CASE=nom,NUM=sg,GEN=m,STATUS=reborn_above,SUPPLIED=prose] ADJ[CASE=nom,NUM=sg,GEN=n,UTILITY=none]
+CL[K=upper_born_case] -> N[CASE=nom,NUM=sg,GEN=m,STATUS=reborn_above,SUPPLIED=prose] ADJ[CASE=nom,NUM=sg,GEN=n,UTILITY=none]
 N[CASE=nom,NUM=sg,GEN=f,KIND=skip] -> 'vyutkrāntakasamāpattir'
 ADJ[CASE=nom,NUM=sg,GEN=f,MODE=dissimilar,DEST=third] -> 'visabhāgatṛtīyagā'
 ADJ[CASE=nom,NUM=pl,GEN=m,BASIS=own_or_lower,SEM=<\P.all a.(P(a) -> BasedOwnOrLower(a))>] -> 'svādhobhūmyāśrayā'
@@ -71,8 +71,8 @@ case, not every lower attainment.
 
 **Close construe.** Skipping attainment goes to the
 third attainment in a dissimilar mode. Dhyānas and
-formless attainments generally have bases at their
-own or lower levels; for one reborn above, a
+formless attainments have beings of their own or
+lower grounds as Basis; for one reborn above, a
 lower attainment serves no purpose in the stated account.
 
 ## 5. Translation
@@ -81,15 +81,15 @@ lower attainment serves no purpose in the stated account.
 
 > Skipping attainment goes to the third in a dissimilar
 > mode. The dhyānas and formless attainments have
-> bases only at their own or lower levels.
+> as Basis only beings of their own or lower grounds.
 > The lower is without use.
 
 ### Bhāṣya-informed study translation
 
 > Skipping attainment is accomplished by going to the third item in a
-> dissimilar mode. Dhyānas and formless attainments are made present
-> only on bases belonging to their own or a lower level; for one
-> reborn above, a lower attainment is without use.
+> dissimilar mode. Dhyānas and formless attainments can be made present
+> with beings of their own or a lower ground as Basis; for one reborn
+> above, a lower attainment is without use.
 
 ## 6. Philosophical Translation
 
@@ -97,10 +97,10 @@ lower attainment serves no purpose in the stated account.
 > and difference of mode. The commentary also distinguishes
 > freedom from affliction from mastery of samādhi:
 > neither qualification alone suffices for this accomplishment.
-> A separate inquiry then concerns the existential
-> basis upon which an attainment can be made present.
+> A separate inquiry then asks which beings can serve
+> as Basis for an attainment.
 
-Rebirth-basis and a currently entered attainment must
+A being serving as Basis and a currently entered attainment must
 remain distinct. The basis rule cannot be generalized
 into a prohibition on descending in practice after
 having mastered a higher attainment, since reverse
@@ -108,8 +108,10 @@ traversal is explicitly part of this very account.
 
 ## 7. Technical Vocabulary
 
-**Source.** Pradhan 446|06–446|21, checked against the local Bhāṣya
-study and running source. The Bhāṣya's example runs from contaminated
+**Source.** The shared skipping account begins at [445|16];
+the 8.19 Basis discussion ends at the malformed [445|21–446|21]
+label. The complete span is checked against the local witness.
+The Bhāṣya's example runs from contaminated
 first dhyāna to uncontaminated third dhyāna, to contaminated infinite
 space, to uncontaminated nothingness, and likewise in reverse; a fourth
 relative station is too distant. In the three continents only an arhat
@@ -140,9 +142,9 @@ is lacking.
 In the present contrast, freedom from defilements
 is present but the required mastery of samādhi is lacking.
 
-**`Āśraya`.** Basis, here determined through the
-level of rebirth. It must not be equated with
-the immediately preceding attainment in a traversal.
+**`Āśraya`.** Basis: here the bearer is a being
+reborn at the attainment's own or a lower ground. It must not be
+equated with the immediately preceding attainment in a traversal.
 
 **`Saṃmukhīkaroti`.** Makes present, brings into operation.
 The question concerns actual manifestation of the
@@ -158,7 +160,7 @@ purpose, and immediately proceeds to an exception.
 
 The verse completes the skipping sequence and states the general level of basis for dhyāna and formless attainments. The Bhāṣya also gives the qualified practitioner who accomplishes the skip. Provenance: `[verse]`, `[prose]`.
 
-**Signature.** `SkipStep/2(a,b)`—one step in the skipping sequence; `InThreeContinents/1(p)`—practitioner in the Bhāṣya’s stated scope; `FreeOfDefilement/1`, `MasteryOfSamadhi/1`, `ProducesSkip/1`—eligibility and capacity; `RebornAbove/1(p)`—rebirth above the lower attainment; `LowerAttainment/1(a)`—attainment below that basis; `Useful/2(p,a)`—a is useful to p there; `DhyanaArupya/1(a)` and `BasedOwnOrLower/1(a)`—the derived general basis relation.
+**Signature.** `SkipStep/2(a,b)`—one step in the skipping sequence; `InThreeContinents/1(p)`—practitioner in the Bhāṣya’s stated scope; `FreeOfDefilement/1`, `MasteryOfSamadhi/1`, `ProducesSkip/1`—eligibility and capacity; `MayManifest/2(p,a)`—a being can make an attainment present; `OwnOrLowerBasis/2(p,a)`—that being is on the attainment's own or a lower ground; `BasedOwnOrLower/1(a)`—the verse's compressed eligibility condition; `OrdinaryCase/2(p,a)`—the case before 8.20's exception; `RebornAbove/1(p)`, `LowerAttainment/1(a)`, and `Useful/2(p,a)`—the no-purpose explanation.
 
 ```nltk-sem
 # derived by the section 4 parse, not typed by hand
@@ -172,10 +174,14 @@ spaceContaminated => spaceContaminated
 nothingnessUncontaminated => nothingnessUncontaminated
 adept => adept
 upperBorn => upperBorn
+desireBeing => desireBeing
 lowerDhyana => lowerDhyana
+summitAttainment => summitAttainment
 representativeAttainment => representativeAttainment
-DhyanaArupya => {representativeAttainment}
-BasedOwnOrLower => {representativeAttainment}
+DhyanaArupya => {representativeAttainment,summitAttainment,lowerDhyana}
+BasedOwnOrLower => {representativeAttainment,summitAttainment,lowerDhyana}
+OwnOrLowerBasis => {(upperBorn,summitAttainment),(desireBeing,summitAttainment),(desireBeing,lowerDhyana)}
+MayManifest => {(upperBorn,summitAttainment),(desireBeing,summitAttainment),(desireBeing,lowerDhyana)}
 SkipStep => {(firstContaminated,thirdUncontaminated),(thirdUncontaminated,spaceContaminated),(spaceContaminated,nothingnessUncontaminated),(nothingnessUncontaminated,spaceContaminated),(spaceContaminated,thirdUncontaminated),(thirdUncontaminated,firstContaminated)}
 InThreeContinents => {adept}
 FreeOfDefilement => {adept}
@@ -183,6 +189,7 @@ MasteryOfSamadhi => {adept}
 ProducesSkip => {adept}
 RebornAbove => {upperBorn}
 LowerAttainment => {lowerDhyana}
+OrdinaryCase => {(upperBorn,lowerDhyana)}
 Useful => {}
 ```
 
@@ -190,6 +197,8 @@ Useful => {}
 # THEORY shared
 # [verse] derived own-or-lower basis restriction from the section 4 parse
 all a.(DhyanaArupya(a) -> BasedOwnOrLower(a))
+# [prose] the Basis is a being on the attainment's own or a lower ground
+all p.all a.((MayManifest(p,a) & DhyanaArupya(a)) -> OwnOrLowerBasis(p,a))
 # [verse] third-in-a-dissimilar-mode pattern; the list records the Bhāṣya's example and reverse
 SkipStep(firstContaminated,thirdUncontaminated)
 SkipStep(thirdUncontaminated,spaceContaminated)
@@ -199,13 +208,13 @@ SkipStep(spaceContaminated,thirdUncontaminated)
 SkipStep(thirdUncontaminated,firstContaminated)
 # [prose] within the three continents, both qualifications are stated for the producer
 all p.((InThreeContinents(p) & FreeOfDefilement(p) & MasteryOfSamadhi(p)) -> ProducesSkip(p))
-# [verse, prose] general basis rule's upper-born lower-attainment case
-all p.all a.((RebornAbove(p) & LowerAttainment(a)) -> -Useful(p,a))
+# [verse, prose] the ordinary upper-born case, before the announced exception
+all p.all a.((OrdinaryCase(p,a) & RebornAbove(p) & LowerAttainment(a)) -> -Useful(p,a))
 ```
 
-**Results (NLTK).** `Model.satisfy` checks the skip-step facts, the derived own-or-lower basis rule, and both general rules in the finite example. The basis example encodes the lower attainment as useless for the one reborn above, not as impossible to enter in every context.
+**Results (NLTK).** `Model.satisfy` checks the skip-step facts, the derived verse condition, the being–attainment Basis pairs, and the scoped no-purpose rule. The model does not turn the ordinary case into an exceptionless prohibition.
 
-**Scope cautions.** The three-continent eligibility is Bhāṣya-only. `vṛthā` is limited to the upper-born case; reverse practice traversal is not rebirth above. The exception is the next verse and is deliberately not folded into the general basis rule.
+**Scope cautions.** The three-continent eligibility is Bhāṣya-only. `vṛthā` is stated for the ordinary upper-born case; reverse practice traversal is not rebirth above. `BasedOwnOrLower` abbreviates the verse, while `OwnOrLowerBasis` records the bearer relation. The exception is the next verse and is deliberately not folded into the general Basis rule.
 
 ## 9. Interpretive Note
 
@@ -218,7 +227,11 @@ Neither should silently replace the other.
 
 **Witness cautions.** The running source contains the
 isolated `dhyānāśrayā eva` between quoted verse fragments,
-and its final reference marker reverses page numbers.
+and its final reference marker reverses page numbers. The
+phrase's syntax remains open. [Pruden's parallel](https://dhamma-library.cdn.winmetta.org/13.%20Rear-Buddhist-Books-1/Abhidharmakosa%20Bhasyam%20IV%20%28Leo%20M.%20Pruden%29.pdf)
+identifies beings of the attainment's own or lower ground
+as its Basis; this corroborates the bearer reading without
+repairing the local phrase.
 The following explicit bhavāgra example and generalization
 to the remaining attainments control the basis reading.
 The verse's vṛthādharam and the running vṛthā'dharam
@@ -240,8 +253,10 @@ with its announced exception, rather than turning
 the next sentence. This is project reconstruction,
 not a further system attributed to the Bhāṣya.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The alternating-mode example, skip limit, practitioner
+**Review status.** Complete shared [445|16]–[445|21–446|21]
+unit collated and translated in the paired Bhāṣya study. The first
+8.19 pāda at [445|18] overlaps 8.18's preparatory unit; [446|22]
+opens 8.20. The alternating-mode example, skip limit, practitioner
 contrasts, three-continent restriction, basis examples,
 rebirth scope, and announced exception have been checked
 against the local research and running source.
@@ -251,7 +266,7 @@ against the local research and running source.
 ```text
 Class: CompletedSkippingAttainment
 Class: PractitionerQualification
-Class: RebirthBasis
+Class: BeingAsBasis
 Class: GeneralBasisRule
 
 ObjectProperty: changesModeBetweenEntries
@@ -276,7 +291,7 @@ LowerAttainmentForHigherBornBasis:
 
 ProjectConstraint: Third counts the starting level as first.
 ProjectConstraint: Fourth-relative-station exclusion is not fourth-dhyana exclusion.
-ProjectConstraint: Rebirth-basis is not the preceding attainment in practice.
+ProjectConstraint: A being serving as Basis is not the preceding attainment in practice.
 ProjectConstraint: Higher attainment mastery does not prohibit reverse traversal.
 ProjectConstraint: Preserve both qualifications for completed skipping attainment.
 ProjectConstraint: Lower Cognition operation is not necessarily lower samapatti.

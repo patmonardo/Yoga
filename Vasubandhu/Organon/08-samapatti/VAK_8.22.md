@@ -61,7 +61,7 @@ N[CASE=nom,NUM=pl,GEN=n,KIND=access,SEM=<\x.Access(x)>] -> 'sāmantakāny'
 PRON[CASE=gen,NUM=pl,GEN=n,REF=principal,SEM=<\P.\Q.all x.(P(x) -> Q(x))>] -> 'eṣām'
 COV[CASE=gen,NUM=sg,SUPPLIED=prose] -> '∅-ekaikasy'
 COV[ONE=each,SUPPLIED=prose] -> '∅-aikaikam'
-ADJ[CASE=nom,NUM=pl,GEN=n,QUALITY=pure_and_neutral,SEM=<\x.(Pure(x) & NeutralFeeling(x))>] -> 'śuddhāduḥkhāsukhāni'
+ADJ[CASE=nom,NUM=pl,GEN=n,QUALITY=pure_and_neutral,SEM=<\x.(HasPureMode(x) & NeutralFeeling(x))>] -> 'śuddhāduḥkhāsukhāni'
 PTCL[EXPLAIN=yes] -> 'hi'
 ADJ[CASE=nom,NUM=sg,GEN=n,MODE=uncontaminated] -> 'āryaṃ'
 ADJ[CASE=nom,NUM=sg,GEN=n,ORDER=first] -> 'cādyaṃ'
@@ -122,8 +122,9 @@ kind of meditative state.
 
 ## 7. Technical Vocabulary
 
-**Source.** Pradhan 447|18–448|11, checked against the local Bhāṣya
-study and running source. The Bhāṣya resolves “neither painful nor
+**Source.** Complete [447|18]–[448|10–11] unit checked against
+`kosabhasya.txt`; [447|17] closes 8.21 and `tatpunardhyānāntaraṃ`
+at [448|11] opens 8.23. The Bhāṣya resolves “neither painful nor
 pleasant” as association with the faculty of neutral feeling; in the
 principal account, access is not savoring-associated, being a path of
 dispassion. The first access, anāgamya, is both pure and uncontaminated
@@ -168,15 +169,15 @@ in the next study.
 
 ## 8. Logical Determination
 
-The verse counts one access attainment for each principal attainment and gives the principal account of its mode and feeling. The Bhāṣya attributes a competing savoring-associated first-access view to `kecit`; keep it separate. Provenance: `[verse]`, `[prose]`, `[kecit]`.
+The verse counts one access attainment for each principal attainment and gives the principal account of available modes and feeling. The Bhāṣya attributes a competing savoring-associated first-access view to `kecit`; keep it separate. Provenance: `[verse]`, `[prose]`, `[kecit]`.
 
-**Signature.** `Access/1(a)`, `Principal/1(p)`—access and principal attainment; `ForAccess/2(a,p)`—a corresponds to p; `Pure/1(a)`, `Uncontaminated/1(a)`, `Savoring/1(a)`—mode; `NeutralFeeling/1(a)`—feeling faculty; `IntermediateDhyana/1(a)`—intermediate dhyāna; `Vitarka/1(a)`—vitarka is present.
+**Signature.** `Access/1(a)`, `Principal/1(p)`—access and principal attainment; `ForAccess/2(a,p)`—a corresponds to p; `HasPureMode/1(a)`, `HasUncontaminatedMode/1(a)`, `HasSavoringMode/1(a)`—available modes of an attainment kind; `NeutralFeeling/1(a)`—feeling faculty; `IntermediateDhyana/1(a)`—intermediate dhyāna; `Vitarka/1(a)`—vitarka is present.
 
-**Dataset.** Eight access-to-principal pairs; the listed first access is also uncontaminated. Neutral feeling is not ethical neutrality.
+**Dataset.** Eight access-to-principal pairs; the first access also admits an uncontaminated mode. The predicates describe available modes of an attainment kind, not simultaneous mental events. Neutral feeling is not ethical neutrality.
 
 ```nltk-sem
 # derived by the section 4 parse, not typed by hand
-all x.(Access(x) -> (Pure(x) & NeutralFeeling(x)))
+all x.(Access(x) -> (HasPureMode(x) & NeutralFeeling(x)))
 ```
 
 ```nltk-valuation
@@ -200,10 +201,10 @@ intermediateDhyana => intermediateDhyana
 Access => {firstAccess,secondAccess,thirdAccess,fourthAccess,spaceAccess,consciousnessAccess,nothingnessAccess,summitAccess}
 Principal => {firstPrincipal,secondPrincipal,thirdPrincipal,fourthPrincipal,spacePrincipal,consciousnessPrincipal,nothingnessPrincipal,summitPrincipal}
 ForAccess => {(firstAccess,firstPrincipal),(secondAccess,secondPrincipal),(thirdAccess,thirdPrincipal),(fourthAccess,fourthPrincipal),(spaceAccess,spacePrincipal),(consciousnessAccess,consciousnessPrincipal),(nothingnessAccess,nothingnessPrincipal),(summitAccess,summitPrincipal)}
-Pure => {firstAccess,secondAccess,thirdAccess,fourthAccess,spaceAccess,consciousnessAccess,nothingnessAccess,summitAccess}
+HasPureMode => {firstAccess,secondAccess,thirdAccess,fourthAccess,spaceAccess,consciousnessAccess,nothingnessAccess,summitAccess}
 NeutralFeeling => {firstAccess,secondAccess,thirdAccess,fourthAccess,spaceAccess,consciousnessAccess,nothingnessAccess,summitAccess}
-Uncontaminated => {firstAccess}
-Savoring => {}
+HasUncontaminatedMode => {firstAccess}
+HasSavoringMode => {}
 IntermediateDhyana => {intermediateDhyana}
 Vitarka => {}
 ```
@@ -213,18 +214,18 @@ Vitarka => {}
 # [verse, prose] eight accesses, each corresponding to a principal attainment
 all a.(Access(a) -> exists p.(Principal(p) & ForAccess(a,p)))
 # [verse, prose] principal account: pure and associated with neutral feeling
-all x.(Access(x) -> (Pure(x) & NeutralFeeling(x)))
-all a.(Access(a) -> -Savoring(a))
+all x.(Access(x) -> (HasPureMode(x) & NeutralFeeling(x)))
+all a.(Access(a) -> -HasSavoringMode(a))
 # [verse, prose] first access is also uncontaminated; intermediate dhyāna lacks vitarka
-Uncontaminated(firstAccess)
+HasUncontaminatedMode(firstAccess)
 all a.(IntermediateDhyana(a) -> -Vitarka(a))
 
 # THEORY kecit
 # [prose, kecit] some authorities add savoring at anāgamya
-Savoring(firstAccess)
+HasSavoringMode(firstAccess)
 ```
 
-**Results (NLTK).** The principal theory satisfies the displayed finite model; the `kecit` claim satisfies a separate finite model with `Savoring(firstAccess)` added. `ResolutionProver` proves the union contradictory when `Access(firstAccess)` is included.
+**Results (NLTK).** The principal theory satisfies the displayed finite model; the `kecit` claim satisfies a separate finite model with `HasSavoringMode(firstAccess)` added. `ResolutionProver` proves the union contradictory when `Access(firstAccess)` is included.
 
 **Scope cautions.** “Threefold” is the reported alternative for first access, not the three modes of intermediate dhyāna in 8.23. The intermediate-dhyāna statement opens a distinct topic. Neutral feeling does not imply ethical indeterminacy, and rebirth-linking mind is not modeled as the collected access attainment.
 
@@ -261,12 +262,12 @@ from the principal classification. This is project
 reconstruction, not an additional doctrine attributed
 to the Bhāṣya.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The eightfold count, neutral feeling, first-access
-exception, alternative threefold account, rebirth-linking
-qualification, and access/intermediate distinction have
-been checked against the local research and running
-source. The damaged causal expression remains unresolved.
+**Review status.** Complete [447|18]–[448|10–11] unit collated
+with `kosabhasya.txt`; [447|17] closes 8.21 and the question at
+[448|11] opens 8.23. The opening questions, two previously omitted
+causal grounds, and explicit access/intermediate question are restored
+in the Bhāṣya study. `yantabāhyatvāt` remains damaged and its force
+unresolved; the source verse `atarka` remains visible there.
 
 ## 10. OWL++ Seed
 

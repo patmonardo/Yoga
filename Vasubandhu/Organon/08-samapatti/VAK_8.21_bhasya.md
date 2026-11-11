@@ -5,8 +5,8 @@
 > na maulāḥ kuśalārūpyāḥ sāsravādharagocarāḥ |
 > anāsraveṇa hīyante kleśāḥ sāmantakena ca || 8.21 ||
 
-> The principal wholesome formless attainments do not take
-> contaminated lower-level objects as their range. Defilements are
+> The principal wholesome formless attainments do not range
+> over contaminated Things of a lower ground. Defilements are
 > abandoned by uncontaminated attainment and also by access attainment,
 > even when it is pure.
 
@@ -16,69 +16,127 @@ Kārikā study: [`VAK_8.21.md`](./VAK_8.21.md).
 
 ## 2. Continuous Sanskrit
 
-> maulānāṃ kuśalārūpyāṇām adhobhūmikaṃ sāsravaṃ vastu nālambanam /
-> svordhvabhūmyālambanatvāt /
-> anāsravaṃ tv ālambanam / sarvānvayajñānapakṣyo na dharmajñānapakṣo nādhobhūminirodhaḥ /
-> sāmantakānantaryamārgāṇāṃ tv adharā bhūmir ālambanam /
-> anāsraveṇa hīyante kleśāḥ / na śuddhakena / kuta eva kliṣṭena /
-> vītarāgatvān nādhaḥ / tasyaiva tadapratipakṣatvān na svabhūmau / viśiṣṭataratvān nordhvam /
-> dhyānārūpyasāmantakena ca kleśāḥ prahīyante śuddhakenāpi / adhobhūmipratipakṣatvāt /
+```text
+[447|08]
+     na maulāḥ kuśalārūpyāḥ sāsravādharagocarāḥ /
 
-**Witness.** Pradhan 447|08–17. Voices: Vasubandhu.
+[447|09-447|10]
+maulānāṃ kuśalārūpyāṇāmadhobhūmikaṃ sāsravaṃ vastu nālambanaṃ svordhvabhūmyālambanatvāt /
+
+[447|10]
+anāsravaṃ tvālambanam /
+
+[447|10-447|11]
+sarvānvayajñānapakṣyo na dharmajñānapakṣo nādhobhūminirodhaḥ /
+
+[447|11]
+sāmantakānantaryamārgāṇāṃ tvadharā bhūmirālambanam /
+
+[447|11-447|12]
+eṣāṃ ca punastrividhānāṃ dhyānānāṃ rūpyārūpyāṇām
+
+[447|13]
+     anāsraveṇa hīyante kleśāḥ
+
+[447|14]
+na śuddhakena /
+kuta eva kliṣṭena /
+vītarāgatvānnādhaḥ /
+
+[447|14-447|15]
+tasyaiva tadapratipakṣatvānna svabhūmau /
+
+[447|15]
+viśiṣṭataratvānnordhvamiti /
+
+[447|16]
+     samantakena ca // VAkK_8.21 //
+
+[447|17]
+dhyānārūpyasāmantakena ca kleśāḥ prahīyante śuddhakenāpi /
+adhobhūmipratipakṣatvāt /
+```
+
+**Witness.** Pradhan [447|08]–[447|17], transcribed from
+`kosabhasya.txt`. [447|07] closes 8.20; the access-count question
+at [447|18] begins 8.22.
 
 ## 3. Continuous Translation
 
-> For principal wholesome formless [items], a contaminated entity of a lower
-> ground is not the object — they take their own or higher ground. Uncontaminated
-> *is* an object: the anvayajñāna side, not the dharmajñāna side, and not lower-
-> ground cessation. For the uninterrupted paths of the access [stages], the lower
-> ground *is* the object.
+> “The principal wholesome formless attainments do not range over
+> contaminated [Things] of a lower ground.” For principal wholesome
+> formless attainments, a contaminated Thing of a lower ground is not
+> a Support, since their Supports belong to their own or higher ground.
+> The uncontaminated, however, is a Support: [what belongs to] every
+> *anvayajñāna* side, not the *dharmajñāna* side and not the cessation
+> of a lower ground. For the uninterrupted Paths of access attainments,
+> by contrast, the lower ground is a Support.
 >
-> Defilements are abandoned by the uncontaminated — not by the principal pure,
-> still less by the defiled. Not lower (dispassion already); not own ground (not
-> its antidote); not higher (that is superior). Also by the access of dhyāna and
-> ārūpya: even when pure — because it is the antidote to the lower ground.
+> Now, among these threefold dhyānas, of the form and formless
+> [attainments]: “Defilements are abandoned by the uncontaminated.”
+> They are not [abandoned] by the pure, much less by the afflicted.
+> [The principal pure attainment does not counteract] below, because
+> it is free from passion for that [ground]; not on its own ground,
+> because it is not the counteragent to that very [ground]; and not
+> above, because the higher [ground] is more excellent.
+>
+> “And by access.” Defilements are also abandoned by access attainments
+> of dhyāna and the formless, even when these are pure, because they
+> are counteragents to the lower ground.
 
 ## 4. Movement of the Commentary
 
 ```text
-8.20 full field was śubha *dhyāna*
-ārūpya principal: no lower sāsrava object
-abandonment: anāsrava, and pure *access*
+8.20: wholesome dhyāna has broad eligible Supports
+8.21: principal wholesome formless attainment excludes lower contaminated Supports
+access uninterrupted Path: lower ground as Support
+threefold form and formless attainments: uncontaminated abandons
+pure access: lower-ground counteragent also abandons
 ```
 
-## 5. Pure ≠ Antidote
+## 5. Support and Abandonment
 
-Maula vs sāmantaka carries both halves. Object-taking ≠ abandonment. No forced
-“access then finish in anāsrava” itinerary. Anvayajñāna remains the ūrdhva-side
-Path-form — not English “inference.”
+The opening restriction concerns principal (*maula*) wholesome formless
+attainments. It does not govern the access uninterrupted Paths, which
+can take the lower ground as Support. The abandonment clause first
+identifies the uncontaminated mode and excludes the principal pure
+and afflicted modes. The final access clause then admits even a pure
+access attainment as a lower-ground counteragent. Taking a Support
+and effecting abandonment are distinct relations.
 
 ## 6. Function
 
-| | lower sāsrava object | abandons kleśa |
+| mode | lower-ground contaminated Support | abandons defilements |
 |---|---|---|
-| principal anāsrava | — (qualified anāsrava objects) | yes |
-| principal śuddha | no | no |
-| kliṣṭa | — | no |
-| pure access (anantaryamārga) | yes | lower-ground yes |
+| principal wholesome formless | excluded | uncontaminated mode: yes; pure mode: no |
+| afflicted | not determined here | no |
+| access uninterrupted Path | lower ground admitted | pure access: lower-ground defilements |
+
+The qualified uncontaminated Supports of principal formless attainments
+belong to the *anvayajñāna* side, excluding the *dharmajñāna* side and
+lower-ground cessation. The local grammar of this qualification remains
+compressed.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
-- `na` binds principal ārūpya + lower contaminated range;
-- second half includes dhyāna;
-- `śuddhakenāpi` is the access exception.
+- `na` restricts principal wholesome formless attainments and lower contaminated Things;
+- the threefold form and formless transition prepares the abandonment clause;
+- pure access can abandon lower-ground defilements because it counteracts that ground.
 
 ## 8. Interpretation
 
-This section is reconstruction.
-
-Same adjective, different work. Vidyā: place in the transition. Technē of
-access looks *down* because that is the content of the work — not a emptied
-shine. Appearance would call every śuddha a counteragent. The principal pure
-item is wholesome and still not the pratipakṣa of its own ground.
+This section is Organon reconstruction. The same wholesome classification
+can contain modes with different antidotal work. Access and principal
+attainment have different Support ranges and counteractive roles.
+The Bhāṣya does not require a universal sequence in which access begins
+an abandonment that uncontaminated principal attainment must finish.
 
 ## 9. Review Status
 
-Pair with Organon `VAK_8.21.md` (Pradhan 447|08–17), upgraded to the
-current Method: kārikā translations and anchor standardized; terminology
-upgraded. `kosabhasya.txt` collation pending. Provisional.
+Complete natural unit [447|08]–[447|17] checked against
+`kosabhasya.txt`. [447|07] closes 8.20; the question at [447|18]
+opens 8.22. The previously omitted threefold-attainment transition
+and split verse are now present in witness order. The compressed
+`sarvānvayajñānapakṣyo` remains visible and grammatically uncertain;
+the source's short `samantakena` and the prose's long `sāmantakena`
+are both preserved. The paired kārikā translation is identical.

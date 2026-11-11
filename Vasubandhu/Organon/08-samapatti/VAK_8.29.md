@@ -1,4 +1,4 @@
-# VAK_8.29 — Four Immeasurables: Objects, Counterforces, and Mental Natures
+# VAK_8.29 — Four Immeasurables: Supports, Counterforces, and Mental Natures
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -91,23 +91,21 @@ compassion likewise; sympathetic joy is gladness.
 
 ## 6. Philosophical Translation
 
-> The group is determined through both its object
-> scope and its counteractive functions. A common
+> The group is determined through its Support
+> range and its counteractive functions. A common
 > underlying mental nature does not make friendliness
 > and compassion interchangeable: the commentary assigns
 > them distinct counteractive roles, and their particular
 > contemplative forms are developed next.
 
-Immeasurability here has the explicit basis of
-immeasurable beings as object. It is not a
-claim of omniscience, nor a denial that beings
-are the objects of these cultivations.
+Immeasurability here is explained by immeasurable beings
+as Supports. It is not a claim of omniscience.
 
 ## 7. Technical Vocabulary
 
 **`Apramāṇa`.** Immeasurable. The source explains the
 name through apramāṇasattvālambanatva, taking immeasurable
-beings as object-support. The explanation should
+beings as Support. The explanation should
 not be replaced with an abstract theory of infinity.
 
 **`Vipakṣa / pratipakṣa`.** Opposing factor / antidote.
@@ -209,7 +207,7 @@ in the running text does not change the sexual-desire
 reference in this comparison.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
-Yoga Vidyā articulates object scope, counteractive
+Yoga Vidyā articulates Support range, counteractive
 relation, and mental nature. Yoga Technē, its
 kriyā–karma companion, concerns the cultivation of
 those relations toward beings. The shared adveṣa
@@ -225,12 +223,12 @@ function, and nature separate, and preserve the
 reported disagreement. This is project reconstruction,
 not an additional doctrine attributed to Vasubandhu.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The four names, immeasurable-object explanation,
-ordered counterforces, two attributed accounts, and
-three mental-nature assignments have been checked
-against the local research and running source.
-Original files remain untouched.
+**Review status.** Complete [452|04]–[452|17] unit collated
+with `kosabhasya.txt`; [452|02–03] closes 8.28 and `upekṣā 'lobhaḥ`
+at [452|18] opens 8.30. The omitted questions, split verse, two
+attributed answers, and three mental-nature identifications are
+restored in the paired Bhāṣya study. The compact affliction compound
+is preserved without expanding its practitioner distribution.
 
 ## 10. OWL++ Seed
 
@@ -240,14 +238,14 @@ Class: MentalNature
 Class: CounteractiveRelation
 Class: ReportedAccount
 
-ObjectProperty: takesBeingsAsObject
+ObjectProperty: takesBeingsAsSupport
 ObjectProperty: counteracts
 ObjectProperty: hasMentalNature
 ObjectProperty: attributedToAccount
 
 FourImmeasurables:
     members: Maitri, Karuna, Mudita, Upeksa
-    nameExplanation: ImmeasurableBeingsAsObjects
+    nameExplanation: ImmeasurableBeingsAsSupports
 
 Maitri:
     mentalNature: NonHatred
@@ -269,7 +267,7 @@ ProjectConstraint: Compassion is not assigned gladness as its nature here.
 ProjectConstraint: Shared mental nature does not erase distinct counteractive roles.
 ProjectConstraint: Preserve both impurity-equanimity accounts with attribution.
 ProjectConstraint: Familial attachment is not identical with compassionate care.
-ProjectConstraint: Immeasurable object scope does not imply omniscience.
+ProjectConstraint: Immeasurable Support range does not imply omniscience.
 ProjectConstraint: Do not infer irreversible liberation from the opening counterforce list.
 ```
 

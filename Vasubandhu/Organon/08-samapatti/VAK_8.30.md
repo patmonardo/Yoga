@@ -1,4 +1,4 @@
-# VAK_8.30 — Equanimity, Aspiration, and the Immeasurables' Object-Field
+# VAK_8.30 — Equanimity, Aspiration, and the Immeasurables' Range
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -34,7 +34,7 @@ attention simply to beings.
 | `iti` | quotation marker | thus |
 | `sattvāḥ` | nominative plural masculine | beings |
 | `kāmasattvāḥ` | nominative plural masculine compound | beings of the desire domain |
-| `gocaraḥ` | nominative singular masculine | object-field or range |
+| `gocaraḥ` | nominative singular masculine | range, here of the immeasurables |
 
 `Upekṣā + alobhaḥ` yields `upekṣālobhaḥ`;
 `sattvāḥ + ca` yields `sattvāś ca`; `kāmasattvāḥ
@@ -44,18 +44,18 @@ prose's later santu supplies the aspirational construe.
 
 ## 4. Grammar
 
-The opening nominal clause names equanimity's nature; the subsequent quoted forms distribute across the four immeasurables. The surface adjective “happy” is interpreted aspirationally from the Bhāṣya, and the final clause restricts the object-field to desire-domain beings.
+The opening nominal clause names equanimity's nature; the subsequent quoted forms distribute across the four immeasurables. The surface adjective “happy” is interpreted aspirationally from the Bhāṣya, and the final clause restricts the range to desire-domain beings.
 
 ```nltk-fcfg
 % start S
 # tokens: upekṣā alobhaḥ ākāraḥ ∅-maitrī sukhitāḥ vata ∅-santu ∅-karuṇā duḥkhitāḥ vata ∅-muditā modantām iti sattvāḥ ca kāmasattvāḥ tu gocaraḥ
-S[SEM=?formula] -> CL[K=nature,SEM=?formula] CL[K=friendliness] CL[K=compassion] CL[K=joy] CL[K=equanimity_form] CL[K=field]
+S[SEM=?formula] -> CL[K=nature,SEM=?formula] CL[K=friendliness] CL[K=compassion] CL[K=joy] CL[K=equanimity_form] CL[K=range]
 CL[K=nature,SEM=<?q(?p)>] -> N[CASE=nom,NUM=sg,GEN=f,SEM=?q] N[CASE=nom,NUM=sg,GEN=m,SEM=?p] N[CASE=nom,NUM=sg,GEN=m,ROLE=aspect]
 CL[K=friendliness] -> N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] ADJ[CASE=nom,NUM=pl,GEN=m] PTCL[EXCL=yes] V[CASE=none,NUM=pl,GEN=none,PERS=3,TENSE=pres,MOOD=subj,SUPPLIED=prose]
 CL[K=compassion] -> N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] ADJ[CASE=nom,NUM=pl,GEN=m] PTCL[EXCL=yes]
 CL[K=joy] -> N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] V[CASE=none,NUM=pl,GEN=none,PERS=3,TENSE=pres,MOOD=imper,VOICE=mid] PTCL[QUOTE=yes]
 CL[K=equanimity_form] -> N[CASE=nom,NUM=pl,GEN=m] PTCL[ADD=yes]
-CL[K=field] -> N[CASE=nom,NUM=pl,GEN=m] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=m]
+CL[K=range] -> N[CASE=nom,NUM=pl,GEN=m] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=m]
 N[CASE=nom,NUM=sg,GEN=f,SEM=<\P.P(equanimity)>] -> 'upekṣā'
 N[CASE=nom,NUM=sg,GEN=m,SEM=<\x.Nature(x,nonGreed)>] -> 'alobhaḥ'
 N[CASE=nom,NUM=sg,GEN=m] -> 'ākāraḥ'
@@ -81,12 +81,12 @@ N[CASE=nom,NUM=sg,GEN=m] -> 'gocaraḥ'
 
 `Sukhitāḥ` itself is not imperative; `∅-santu` records the Bhāṣya's wish-reading.
 “Beings” is the fourth form, not a second description of the first three; the
-object-field is not the practitioner's level.
+range is not the practitioner's level.
 
 
 **Close construe.** Equanimity is non-greed. The
 forms concern beings as happy, suffering, rejoicing,
-and simply beings. Their object-field consists of
+and simply beings. Their range consists of
 beings of the desire domain.
 
 ## 5. Translation
@@ -95,23 +95,23 @@ beings of the desire domain.
 
 > [The nature of] equanimity is non-greed. The forms are “happy,”
 > “alas, suffering,” “may they rejoice,” and “beings.”
-> Beings of the desire domain are their object-field.
+> Beings of the desire domain are their range.
 
 ### Bhāṣya-informed study translation
 
 > Equanimity has non-greed as its nature. The aspects of the immeasurables
 > are: “How happy beings are!”, “Alas, beings suffer!”, “May beings
-> rejoice!”, and simply “beings.” Their object-field is beings of the desire
+> rejoice!”, and simply “beings.” Their range is beings of the desire
 > domain.
 
 ## 6. Philosophical Translation
 
 > The cultivation's mental nature, contemplated form,
-> intention, and object-field are distinct determinations.
+> intention, range, and Support are distinct determinations.
 > Wishing beings happiness does not require asserting
 > that they already possess it. Equanimity's minimal
-> form, simply beings, expresses impartiality within
-> the specified field rather than absence of an object.
+> form, simply beings, expresses impartiality toward
+> the specified beings rather than lack of a Support.
 
 The source's own account distinguishes aspiration
 from factual description. Its further replies concern
@@ -159,9 +159,9 @@ reference to the field containing them.
 
 ## 8. Logical Determination
 
-The verse and Bhāṣya distinguish mental nature, contemplative form, and object-field. Three forms concern desire-domain beings—two wishes and a lament—while equanimity attends simply to beings. The prose's replies to the apparent-error objection remain alternatives, not a single factual assertion about present happiness. `[verse]` / `[prose]`.
+The verse and Bhāṣya distinguish mental nature, contemplative form, range, and Support. Three forms concern desire-domain beings—two wishes and a lament—while equanimity attends simply to beings. The prose's replies to the apparent-error objection remain alternatives, not a single factual assertion about present happiness. `[verse]` / `[prose]`.
 
-**Signature.** `Form(m,f)`; `Field(m,o)`; `Nature(m,n)`; `RefinedNature(m,n1,n2)`; `HappyWish(m,o)`; `HappyNow(o)`; `RejoiceWish(m,o)`; `ResolveReading(m)`; `WholesomeRoot(m)`; `CountersIllWill(m)`.
+**Signature.** `Form(m,f)`; `HasRange(m,o)`; `Nature(m,n)`; `RefinedNature(m,n1,n2)`; `HappyWish(m,o)`; `HappyNow(o)`; `RejoiceWish(m,o)`; `ResolveReading(m)`; `WholesomeRoot(m)`; `CountersIllWill(m)`.
 
 ```nltk-sem
 # derived by the section 4 parse, not typed by hand
@@ -181,7 +181,7 @@ beingsForm => beingsForm
 nonGreed => nonGreed
 nonHatred => nonHatred
 Form => {(friendliness,happyForm),(compassion,sufferingForm),(joy,rejoiceForm),(equanimity,beingsForm)}
-Field => {(friendliness,desireBeings),(compassion,desireBeings),(joy,desireBeings),(equanimity,desireBeings)}
+HasRange => {(friendliness,desireBeings),(compassion,desireBeings),(joy,desireBeings),(equanimity,desireBeings)}
 HappyWish => {(friendliness,desireBeings)}
 RejoiceWish => {(joy,desireBeings)}
 HappyNow => {}
@@ -201,10 +201,10 @@ Form(joy,rejoiceForm)
 Form(equanimity,beingsForm)
 # [derived by the section 4 parse, not typed by hand] equanimity is alobha
 Nature(equanimity,nonGreed)
-all m.(Form(m,happyForm) -> Field(m,desireBeings))
-all m.(Form(m,sufferingForm) -> Field(m,desireBeings))
-all m.(Form(m,rejoiceForm) -> Field(m,desireBeings))
-all m.(Form(m,beingsForm) -> Field(m,desireBeings))
+all m.(Form(m,happyForm) -> HasRange(m,desireBeings))
+all m.(Form(m,sufferingForm) -> HasRange(m,desireBeings))
+all m.(Form(m,rejoiceForm) -> HasRange(m,desireBeings))
+all m.(Form(m,beingsForm) -> HasRange(m,desireBeings))
 # THEORY aspirational
 # [prose] santu supplies the wished-happiness construal
 HappyWish(friendliness,desireBeings)
@@ -223,7 +223,7 @@ RefinedNature(equanimity,nonGreed,nonHatred)
 
 **Results (NLTK).** The checker reports `shared: T`, `aspirational: T`, `resolve_reply: T`, `conditional_reply: T`, and `preferred_nature: T`. The supplied model satisfies these theories while `HappyNow(desireBeings)` is false, a finite countermodel to inferring present happiness from the wish.
 
-**Scope cautions.** The absent `HappyNow` fact is a countermodel device, not a claim that beings are unhappy. The source also offers resolve-based and conditional wholesome-root replies; no reply licenses arbitrary false descriptions. “Beings” is equanimity's form, and the field is not the practitioner's level.
+**Scope cautions.** The absent `HappyNow` fact is a countermodel device, not a claim that beings are unhappy. The source also offers resolve-based and conditional wholesome-root replies; no reply licenses arbitrary false descriptions. “Beings” is equanimity's form, and the range is not the practitioner's level.
 
 ## 9. Interpretive Note
 
@@ -245,28 +245,29 @@ critical reconstruction. Originals remain unchanged.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā distinguishes mental nature, aspect,
-> intention, and object-field. Yoga Technē, its
+intention, range, and Support. Yoga Technē, its
 kriyā–karma companion, concerns the cultivation of
 those specific attitudes toward beings. The distinction
 between wishing and asserting is especially useful:
 a practical orientation can have a determinate
-object without representing the desired condition
+Support without representing the desired condition
 as already actual.
 
 The research's “Buddha-Mind” and universal Recognition
 language belongs to project interpretation. The
 source here supplies four contemplative forms and
-a qualified object-field; it does not itself
+a qualified range; it does not itself
 identify these with an unrestricted metaphysical
 subject. For Organon representation, keep aspiration
 separate from factual assertion and preserve each
 attributed explanatory step.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The alobha assignment and combined-nature refinement,
-four forms, aspiration objection and replies,
-desire-domain objects, and direction gloss have
-been checked against the local research and running source.
+**Review status.** Complete [452|18]–[453|11] unit collated
+with `kosabhasya.txt`; [452|17] closes 8.29 and the question at
+[453|11–12] opens 8.31. The four attention formulas, objection,
+three replies, Support rationale, and container gloss are restored
+in the paired Bhāṣya study. The compressed resolve clause remains
+visible without settling its exact internal attachment.
 
 ## 10. OWL++ Seed
 
@@ -274,11 +275,11 @@ been checked against the local research and running source.
 Class: ImmeasurableCultivation
 Class: ContemplativeForm
 Class: AspirationalIntention
-Class: ObjectField
+Class: CognitiveRange
 
 ObjectProperty: attendsUnderForm
 ObjectProperty: hasMentalNatureUnderAccount
-ObjectProperty: hasObjectField
+ObjectProperty: hasRange
 
 Maitri:
     form: MayBeingsBeHappy
@@ -297,7 +298,7 @@ Upeksa:
     preferredProseRefinement: NonGreedAndNonHatred
 
 Immeasurables:
-    objectField: DesireDomainBeings
+    range: DesireDomainBeings
     directionalFormula: ContainerIndicatesContainedBeings
 
 ProjectConstraint: Preserve all four contemplative forms.
@@ -305,7 +306,7 @@ ProjectConstraint: Sukhita is adjectival; the prose supplies the wish interpreta
 ProjectConstraint: Aspiration does not assert present fulfillment.
 ProjectConstraint: Impartiality is not automatically the neutral-feeling faculty.
 ProjectConstraint: Wholesome-root defense is not a universal license for false assertion.
-ProjectConstraint: Object domain and practitioner attainment level remain distinct.
+ProjectConstraint: Cognitive range and practitioner attainment level remain distinct.
 ```
 
 This is a declarative project seed, not executable OWL.

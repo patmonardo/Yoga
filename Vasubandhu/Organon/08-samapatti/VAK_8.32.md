@@ -15,10 +15,11 @@ tṛtīyo 'ntye sa cālobhaḥ śubhārūpyāḥ samāhitāḥ || 8.32 ||
 ```
 
 The Sanskrit follows the local kārikā witness. Its
-aśubhā is retained as the designation of unattractive
+`aśubhā` is retained as the designation of unattractive
 contemplation, not silently changed to the adjective
-aśubhau. The commentary explains the first two
-as having aśubhā as their nature.
+`aśubhau`. The complete Bhāṣya unit [454|24]–[455|18–19]
+explains the first two as having *aśubhā* as their nature.
+[454|22–23] closes 8.31; [455|20] opens 8.33.
 
 ## 3. Lexical Analysis
 
@@ -149,7 +150,7 @@ the release name. They are not interchangeable
 with wholesome / defiled, which supply another condition.
 
 **`Vimuktimārga / ānantaryamārga`.** Liberation path /
-uninterrupted path. Their distinct object relations
+uninterrupted path. Their distinct Support relations
 matter to the access-stage release designation.
 Exclusion from this particular designation does not
 deny the uninterrupted path's abandonment function.
@@ -163,7 +164,7 @@ remain distinguishable from the short source gloss.
 
 The verse states an eightfold release inventory and gives conditions for its groups: first two as unattractive contemplation in the first two dhyānas, third in fourth dhyāna with non-greed nature, and formless releases only when wholesome and collected. The prose also grants the designation to some access liberation paths, not uninterrupted paths. `[verse]` / `[prose]`.
 
-**Signature.** `Release(x)`; `Unattractive(x)`; `InFirstTwo(x)`; `ThirdRelease(x)`; `InFourth(x)`; `Nature(x,n)`; `Formless(x)`; `Wholesome(x)`; `Collected(x)`; `EighthRelease(x)`; `AccessPath(x)`; `UninterruptedPath(x)`; `NamedRelease(x)`.
+**Signature.** `Release(x)`; `Unattractive(x)`; `InFirstTwo(x)`; `ThirdRelease(x)`; `InFourth(x)`; `Nature(x,n)`; `FormlessRelease(x)`; `Wholesome(x)`; `Collected(x)`; `EighthRelease(x)`; `AccessLiberationPath(x)`; `AccessUninterruptedPath(x)`; `NamedRelease(x)`.
 
 ```nltk-valuation
 release1 => release1
@@ -183,26 +184,26 @@ InFirstTwo => {release1, release2}
 ThirdRelease => {release3}
 InFourth => {release3}
 Nature => {(release3,nonGreed)}
-Formless => {release4, release5, release6, release7}
+FormlessRelease => {release4, release5, release6, release7}
 Wholesome => {release4, release5, release6, release7}
 Collected => {release4, release5, release6, release7}
 EighthRelease => {release8}
-AccessPath => {accessLiberationPath}
-UninterruptedPath => {uninterruptedPath}
+AccessLiberationPath => {accessLiberationPath}
+AccessUninterruptedPath => {uninterruptedPath}
 NamedRelease => {accessLiberationPath}
 ```
 
 ```nltk-fol
 # THEORY shared
 # [verse, prose] inventory groups and eighth release
-all x.(Release(x) -> (Unattractive(x) | ThirdRelease(x) | Formless(x) | EighthRelease(x)))
+all x.(Release(x) -> (Unattractive(x) | ThirdRelease(x) | FormlessRelease(x) | EighthRelease(x)))
 all x.(Unattractive(x) -> InFirstTwo(x))
 all x.(ThirdRelease(x) -> (InFourth(x) & Nature(x,nonGreed)))
 # [verse, prose] formless releases require both conditions
-all x.(Formless(x) -> (Wholesome(x) & Collected(x)))
+all x.(FormlessRelease(x) -> (Wholesome(x) & Collected(x)))
 # [prose] access liberation paths may be releases; uninterrupted paths are excluded
-all x.(AccessPath(x) -> NamedRelease(x))
-all x.(UninterruptedPath(x) -> -NamedRelease(x))
+all x.(AccessLiberationPath(x) -> NamedRelease(x))
+all x.(AccessUninterruptedPath(x) -> -NamedRelease(x))
 ```
 
 **Results (NLTK).** `check_logic.py` reports `shared: T` for the finite valuation and its group-eligibility rules.
@@ -245,13 +246,16 @@ marked rather than converted into a definitive
 axiom. This is project reconstruction, not additional
 doctrine attributed to Vasubandhu.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-collated, Bhāṣya-controlled study.
 The eightfold outline, first-two method and levels,
 third-release distinctions, five-Base accompaniment,
 formless eligibility, reported uncollected extension,
-and access-path distinction have been checked against
-the local research and running source. The second
-release's introductory formula remains unresolved.
+and access-path distinction have been checked against the
+complete running source [454|24]–[455|18–19]. The second
+release's `adhyātmarūpasaṃjñī`, `aśubhāvannayo`, and
+the third-release contrast's `aśūbhā` remain visibly
+unrepaired. The second formula's critical reading and
+the damaged `aśubhāvannayo` construal remain unresolved.
 
 ## 10. OWL++ Seed
 
@@ -288,7 +292,7 @@ FormlessReleaseEligibility:
 
 AccessPaths:
     liberationPath: ReleaseDesignationAdmitted
-    uninterruptedPath: ExcludedBecauseLowerLevelObject
+    uninterruptedPath: ExcludedBecauseLowerGroundSupport
 
 ProjectConstraint: Beautiful aspect and wholesome mode are contextual senses of subha.
 ProjectConstraint: Preserve the uncertain second-release introductory formula.

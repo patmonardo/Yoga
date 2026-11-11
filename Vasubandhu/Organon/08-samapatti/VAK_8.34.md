@@ -19,28 +19,30 @@ analytical hyphens removed. Its Devanāgarī prints
 त्वारूपिणः while the IAST and running source
 have tv arūpiṇaḥ; that script difference is
 retained and disclosed rather than treated as
-a distinct doctrinal reading.
+a distinct doctrinal reading. The complete Bhāṣya unit is
+[456|09]–[456|23–24]; [456|08–09] closes 8.33 and
+[457|01] opens 8.35.
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `kāmāptadṛśyaviṣayāḥ` | nominative plural masculine compound adjective | having desire-domain visible form as object |
+| `kāmāptadṛśyaviṣayāḥ` | nominative plural masculine compound adjective | having desire-domain visible Form as Condition |
 | `prathamāḥ` | nominative plural masculine ordinal | the first releases, here the first three |
 | `ye … te` | relative-correlative pronouns | those which … those |
 | `arūpiṇaḥ` | nominative plural masculine | formless [releases] |
 | `anvayajñānapakṣa` | compound member | the anvayajñāna side, specified as path in prose |
 | `ūrdhva / svabhū` | compound members | higher / own level |
 | `duḥkhādi` | compound member | suffering and the associated following items |
-| `gocarāḥ` | nominative plural compound ending | having as their object-field |
+| `gocarāḥ` | nominative plural compound ending | ranging over |
 
 Sandhi: `kāma + āpta` > `kāmāpta`; `pakṣa + ūrdhva` > `pakṣordhva`;
 `duḥkha + ādi` > `duḥkhādi`. The prose unpacks the final compound into distinct
-object categories rather than one unrestricted truth-field.
+Support categories rather than one unrestricted truth-field.
 
 ## 4. Grammar
 
-The relative-correlative pair separates the first three form-object releases from the four formless releases. The Bhāṣya restricts the knowledge-side qualifier to the path and explicitly expands the remaining object list.
+The relative-correlative pair separates the first three visible-Form releases from the four formless releases. The Bhāṣya restricts the knowledge-side qualifier to the Path and explicitly expands the Support inventory. The verse's *viṣaya* gives Condition, its *gocara* range, and the prose's *ālambana* Support.
 
 ```nltk-fcfg
 % start S
@@ -76,34 +78,34 @@ OBJ[K=space,SUPPLIED=prose] -> '∅-ākāśam'
 ```
 
 `Prathamāḥ` means the first three; the correlates select the four formless releases, not cessation-release.
-`Anvayajñānapakṣa` qualifies the path alone; *ādi* also includes non-analytical cessation and space for one release.
+`Anvayajñānapakṣa` qualifies the Path alone; *ādi* also includes non-analytical cessation and space for one release.
 **Close construe.** The first three releases have
-visible desire-domain form as object. The formless
-releases have own-/higher-level suffering, its cause
-and cessation, and the anvayajñāna-side path as
-their field, with the further objects specified
-in the commentary.
+visible desire-domain Form as Condition. The formless
+releases range over own- and higher-ground suffering,
+its cause and cessation, and the *anvayajñāna*-side
+Path; the commentary specifies the Supports.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The first releases have desire-domain visible
-> objects. Those that are formless have as
-> their field the anvayajñāna side and suffering
-> and the following items of higher and own levels.
+> The first releases have desire-domain visible Form
+> as Condition. Those that are formless range over
+> suffering and the following items of higher and
+> their own grounds on the *anvayajñāna* side.
 
 ### Bhāṣya-informed study translation
 
-> The first three releases have as their object visible form of the
-> desire domain, unpleasant or pleasant as the case may be. The formless
-> releases have as their field suffering of their own and higher levels
-> and its cause and cessation, together with the whole path on the
-> anvayajñāna side, and also non-analytical cessation and, for one of them, space.
+> The first three releases have desire-domain visible Form as their Condition,
+> taking the visible Form Essence as Support in its unpleasant or pleasant
+> aspect as appropriate. The formless releases range over suffering on their
+> own and higher grounds, its cause and cessation, and the whole Path on the
+> *anvayajñāna* side. Their Supports also include non-analytical cessation
+> and, for one release, space.
 
 ## 6. Philosophical Translation
 
-> The release classification includes the object
+> The release classification includes Condition and Support
 > as well as the attainment's level and mode.
 > Its practical explanation also supplies a test:
 > accomplishment of the unattractive releases is

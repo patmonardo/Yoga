@@ -96,8 +96,8 @@ is cultivation of samādhi for present-life pleasant abiding.
 ## 6. Philosophical Translation
 
 > The status of a further samādhi is not inherited
-> from its uncontaminated object. Its mode, practitioner,
-> and supporting level receive their own determinations.
+> from its uncontaminated Support. Its mode, practitioner,
+> and attainment ground receive their own determinations.
 > The exposition then changes question: repeated cultivation
 > of samādhi is classified by what it accomplishes,
 > beginning with pleasant abiding in the present life.
@@ -213,9 +213,9 @@ reading. Original witnesses remain untouched.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 The project's Recognition vocabulary can distinguish
-an object's status from that of the further
-act taking it as object. Yoga Vidyā articulates
-mode, practitioner, support level, and purpose;
+a Support's status from that of the further
+act taking it as Support. Yoga Vidyā articulates
+mode, practitioner, attainment ground, and purpose;
 Yoga Technē, its kriyā–karma companion, concerns
 the repeated cultivation that realizes the specified function.
 
@@ -228,13 +228,13 @@ restrictions, and the new cultivation subject separate,
 rather than deriving them from a general ranking
 of reflective and non-reflective knowing.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The mode rationale, human/akopya restrictions, eleven
-levels, first cultivation, two wholesome modes,
-extension to other dhyānas, and present/later-life
-distinction have been checked against the local
-research and running source. The compressed final
-counterexample remains textually qualified.
+**Review status.** Complete [450|20–21]–[451|12–13] unit collated
+with `kosabhasya.txt`; [450|19–20] closes 8.26 and the divine-eye
+clause at [451|14] opens 8.28. The omitted questions, eleven-ground
+list, quoted cultivation formula, and split verse are restored in the
+paired Bhāṣya study. `vahulīkṛtā` and the compressed
+`aparihiṇordhvopapannaparinirvṛtānāṃ` remain visible there;
+the latter's exact syntax and referents remain uncertain.
 
 ## 10. OWL++ Seed
 
@@ -261,7 +261,7 @@ FurtherTriad:
     excludedLevels: SevenOtherAccessStages
 
 FirstSamadhiCultivation:
-    namedBasis: WholesomeFirstDhyana
+    namedAttainment: WholesomeFirstDhyana
     allowedModes: Pure, Uncontaminated
     proseExtension: OtherDhyanasAlsoUnderstood
     purpose: PresentLifePleasantAbiding

@@ -16,64 +16,112 @@ Kārikā study: [`VAK_8.28.md`](./VAK_8.28.md).
 
 ## 2. Continuous Sanskrit
 
-> divyacakṣurabhijñā jñānadarśanāya samādhibhāvanā /
-> prayogajāḥ sarve guṇās traidhātukā anāsravāḥ prajñāprabhedāya /
-> yaś caturthadhyāne vajropamaḥ samādhiḥ sa āsravakṣayāya samādhibhāvanā /
-> ātmopanāyikī kilaiṣā bhagavato dharmadeśanā /
-> kṛtaḥ samādhīnāṃ … nirdeśaḥ / idānīṃ samādhisaṃniśritānāṃ guṇānām /
+```text
+[451|14]
+     darśanāyākṣyabhijñeṣṭā
 
-**Witness.** Pradhan 451|14–452|04. Voices: Vasubandhu. `Ataś caturbhya evāha`
-left compressed.
+[451|15]
+divyacakṣurabhijñā jñānadarśanāya samādhibhāvanā /
+
+[451|16]
+     dhībhedāya prayogajāḥ /
+
+[451|17]
+prayogajāḥ sarve guṇāstraidhātukā anāsravāḥ prajñāprabhedāya samādhibhāvanā /
+
+[451|18]
+     vajropamo'ntye yo dhyāne sāsravakṣayabhāvanā // VAkK_8.28 //
+
+[452|01]
+yaścaturthadhyāne vajropamaḥ samādhiḥ sa āsravakṣayāya samādhibhāvanā /
+
+[452|01-452|02]
+ātmopanāyikī kilaiṣā bhagavato dharmadeśanā /
+
+[452|02]
+ataścaturbhya evāha /
+
+[452|02-452|03]
+kṛtaḥ samādhīnāṃ kālagato nirdeśaḥ /
+```
+
+**Witness.** Pradhan [451|14]–[452|02–03], transcribed exactly
+from `kosabhasya.txt`. [451|12–13] closes 8.27; `idānīṃ` at
+[452|04] opens 8.29's samādhi-dependent qualities.
 
 ## 3. Continuous Translation
 
-> Divine-eye superknowledge is cultivation for knowledge-and-seeing. All
-> application-born qualities — of the three domains and uncontaminated — are
-> cultivation for differentiation of prajñā. The vajra-like samādhi in the
-> *fourth* dhyāna is cultivation for destruction of the outflows. This teaching
-> of the Blessed One is reported as related to his own case.
+> “For seeing, the eye-superknowledge is intended.” Divine-eye
+> superknowledge is cultivation of samādhi for Knowledge-and-Seeing.
+> “For the differentiation of understanding, those born of
+> application.” All qualities born of application, whether belonging
+> to the three domains or uncontaminated, are cultivation of samādhi
+> for differentiation of Prajñā.
 >
-> The exposition of samādhis is done. Now the qualities that rest on samādhi.
+> “The vajra-like [samādhi] in the last dhyāna is cultivation for the
+> destruction of outflows.” The vajra-like samādhi in the fourth
+> dhyāna is cultivation of samādhi for destruction of the outflows.
+> This teaching of the Blessed One is, they say, brought to bear on
+> his own case. For this reason he spoke of precisely four
+> [cultivations]. The exposition of the samādhis appropriate to this
+> occasion has been completed.
 
 ## 4. Movement of the Commentary
 
 ```text
-four purposes, four bases
-third is broad: all prayogaja guṇas
-fourth named in fourth dhyāna; kila marks reported self-reference
+8.27 first purpose: present-life pleasant abiding
+8.28 second: divine eye for Knowledge-and-Seeing
+third: all application-born qualities for differentiating Prajñā
+fourth: vajra-like samādhi in fourth dhyāna for outflow destruction
+reported own-case teaching; fourfold count; samādhi exposition closes
 ```
 
-## 5. Purpose ≠ Mandatory Ladder
+## 5. Purpose and Means
 
-`Antya` here = fourth dhyāna, not bhavāgra. Divine eye is not required for every
-liberation. Reported own-case ≠ universal lock. Four functions ≠ four lives.
+The four cultivations are classified by purpose. The third includes
+all application-born qualities, whether pertaining to the three
+domains or uncontaminated. The fourth names a specific vajra-like
+samādhi in the fourth dhyāna. The prose's `sa āsravakṣayāya` confirms
+the purpose reading of the verse's `sā āsravakṣayabhāvanā`, rather than
+a compound beginning with “contaminated.” No mandatory sequence
+among the four purposes is stated.
 
-## 6. The Four
+## 6. Four Cultivations
 
-| for | basis |
+| purpose | specified cultivation or means |
 |---|---|
-| present-life pleasant abiding | wholesome first dhyāna (and the series) |
-| knowledge-and-seeing | divine-eye superknowledge |
-| prajñā-differentiation | all application-born qualities |
-| outflow-destruction | vajra-like samādhi, fourth dhyāna |
+| pleasant abiding in the present life | wholesome first dhyāna, extended by 8.27's prose |
+| Knowledge-and-Seeing | divine-eye superknowledge |
+| differentiation of Prajñā | all application-born qualities |
+| destruction of outflows | vajra-like samādhi in fourth dhyāna |
+
+The *kila* remark attributes the teaching to the Blessed One's own
+case and is followed by the compressed “therefore four” clause.
+Neither clause states that divine-eye superknowledge is universally
+required before outflow destruction.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
-- `darśana` = jñānadarśana;
-- `dhī` = prajñā;
-- last sandhi split after `sā`.
+- `darśana` is expanded as *jñānadarśana*, Knowledge-and-Seeing;
+- `dhī` is expanded as *prajñā*, here differentiation of Prajñā;
+- `prayogajāḥ` includes all application-born qualities named in the prose;
+- `antye dhyāne` is specified as the fourth dhyāna;
+- final `sā āsrava-` is a demonstrative plus outflow-destruction purpose.
 
 ## 8. Interpretation
 
-This section is reconstruction.
-
-Four works, not four empties. Vidyā keeps purpose off constitution. Technē of
-vajra-like is Path-named, still content — not a shine that eats the outflows in
-the dark. Appearance would force the four into one itinerary or identify vajra
-with the Idea. The text lists functions, then turns to qualities that *depend*.
+This section is Organon reconstruction. Purpose, means, and scope are
+separate determinations. The reported own-case context constrains
+how far one may generalize the fourth-dhyāna example. The source
+closes its samādhi exposition here and opens the dependent qualities
+at the next sentence.
 
 ## 9. Review Status
 
-Kārikā translations and anchor standardized; terminology upgraded to the
-current Method. Organon pair `VAK_8.28.md` / this Bhāṣya (Pradhan
-451|14–452|04). `kosabhasya.txt` collation pending. Provisional.
+Complete natural unit [451|14]–[452|02–03] checked against
+`kosabhasya.txt`. [451|12–13] closes 8.27; `idānīṃ` at [452|04]
+opens 8.29. The split verse, three purpose explanations,
+`ātmopanāyikī kila`, `ataścaturbhya evāha`, and the closing sentence
+are restored in witness order. The “therefore four” clause remains
+compressed, and the scope of the reported own-case explanation is
+uncertain. The paired kārikā anchor matches exactly.

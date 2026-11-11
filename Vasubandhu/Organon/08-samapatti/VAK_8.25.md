@@ -15,7 +15,7 @@
 ```
 
 The Sanskrit follows the local kārikā witness. The
-second half introduces names whose precise objects
+second half introduces names whose precise Supports
 and aspects are determined in VAK 8.26. Its brief
 naming explanation must be read with that continuation.
 
@@ -41,7 +41,7 @@ replaced with the two-word apare samādhayaḥ.
 
 ## 4. Grammar
 
-The first clause continues the three-samādhi subject and restricts its modes, bearer, and grounds; the second begins a distinct cultivation list. The human locative and practitioner genitive remain separate, as does present-life purpose from later rebirth.
+The first clause continues the three-samādhi subject and gives its two modes; the gate clause restricts the designation to the uncontaminated forms. The last clause introduces three further named samādhis.
 
 ```nltk-fcfg
 % start S
@@ -68,7 +68,7 @@ N[CASE=nom,NUM=pl,GEN=m] -> 'aparasamādhayaḥ'
 
 The prose specifies śuddha/amala as worldly-pure/uncontaminated, and `nirmalās tu te`
 limits the gate designation to uncontaminated forms. `Ādi` supplies the two other doubled
-names; their exact objects are deferred to 8.26.
+names; their exact Supports are deferred to 8.26.
 
 
 **Close construe.** The preceding three samādhis have
@@ -97,7 +97,7 @@ the one named emptiness-of-emptiness.
 > or supramundane mode are distinct determinations.
 > The gate designation belongs to the uncontaminated
 > forms. The further triad then introduces another
-> object relation associated with the preceding samādhis,
+> Support relation associated with the preceding samādhis,
 > whose doubled names require the next verse's
 > detailed explanation.
 
@@ -130,7 +130,7 @@ function, not a physical location or a fourth
 samādhi added to the three.
 
 **`Śūnyatāśūnyatā`.** Emptiness-of-emptiness, the first
-further samādhi. Its precise object and aspect
+further samādhi. Its precise Support and aspect
 are reserved for VAK 8.26 rather than inferred
 from the doubled name alone.
 
@@ -139,14 +139,14 @@ the second further samādhi. “Non-directed” retains
 the established study rendering of apraṇihita.
 
 **`Ānimittānimitta`.** Signlessness-of-signlessness, the
-third further samādhi. Its object specification
+third further samādhi. Its Support specification
 in the following verse requires special care;
 it is not adequately represented by copying the
-same direct-object rule from the first two.
+same direct-Support rule from the first two.
 
 ## 8. Logical Determination
 
-The verse distinguishes mode from designation: the three earlier samādhis can be worldly-pure or uncontaminated, while the liberation-gate name belongs to the uncontaminated forms. It also names a further triad without yet fixing its full object relation. `[verse]`; the mode gloss and gate restriction are `[prose]`.
+The verse distinguishes mode from designation: the three earlier samādhis can be worldly-pure or uncontaminated, while the liberation-gate name belongs to the uncontaminated forms. It also names a further triad without yet fixing its full Support relation. `[verse]`; the mode gloss and gate restriction are `[prose]`.
 
 **Signature.** `Triad(x)`; `WorldlyPure(x)`; `Uncontaminated(x)`; `Gate(x)`; `Further(x)`; `Named(x,n)`.
 
@@ -182,6 +182,8 @@ Named => {(emptyOfEmpty,emptiness),(nonDirectedOfNonDirected,nondirected),(signl
 all x.(Triad(x) -> (WorldlyPure(x) | Uncontaminated(x)))
 # [derived by the section 4 parse, not typed by hand] nirmalās tu te, scoped to the uncontaminated forms of the preceding triad
 all x.((Triad(x) & Uncontaminated(x)) -> Gate(x))
+# [verse, prose] gate designation is restricted to uncontaminated forms
+all x.((Triad(x) & Gate(x)) -> Uncontaminated(x))
 # [verse] three names, filled out as the further triad by the prose
 all x.(Further(x) -> exists n.Named(x,n))
 ```
@@ -195,17 +197,17 @@ all x.(Further(x) -> exists n.Named(x,n))
 **Refinement of the research interpretation.** The
 local study calls the further triad “reflexive
 Recognition” and depicts the preceding samādhi becoming
-an object. This is useful as an introductory
+a Support. This is useful as an introductory
 project interpretation, but the next verse's third
 case prevents treating the diagram as an exact
 uniform source rule. The official study leaves
-the object relations open to their explicit qualifications.
+the Support relations open to their explicit qualifications.
 
 **Source boundaries.** The eleven-level statement,
 path-location statement, gate explanation, three names,
-and compact object-based naming explanation are all
+and compact Support-based naming explanation are all
 present in this unit. The exact aspects, qualifications
-of the object samādhis, and further triad's own
+of the Support samādhis, and further triad's own
 modes are not settled merely by its introduction.
 Original research and running-source files remain unchanged.
 
@@ -213,7 +215,7 @@ Original research and running-source files remain unchanged.
 The project's “Recognition” vocabulary can articulate
 a further relation to an already determined samādhi.
 Yoga Vidyā specifies the mode, aspect-structure,
-and object relation; Yoga Technē, its kriyā–karma
+and Support relation; Yoga Technē, its kriyā–karma
 companion, concerns the effective operation through
 which the source distinguishes worldly cultivation
 from the uncontaminated gates.
@@ -222,18 +224,17 @@ The research's Yoga Sūtra III.3 and determinate-Concept
 comparison remains a comparative project layer rather
 than a gloss supplied by this Bhāṣya passage.
 For Organon representation, keep a naming relation
-separate from the exact object specification, and
+separate from the exact Support specification, and
 avoid treating “further” as an automatic increase
 in liberative rank. This preserves the source's
 own next step of determination.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The two modes, level statements, restricted gate
-designation, names of the further triad, and
-object-based naming explanation have been checked
-against the local research and running source.
-The next verse was checked to prevent an overgeneralized
-object rule for the third further samādhi.
+**Review status.** Complete [450|01–02]–[450|10–11] unit collated
+with `kosabhasya.txt`; [450|01] closes 8.24 and `teṣāṃ punaḥ` at
+[450|11] opens 8.26. The split verse, gate recital, and all three
+doubled names are restored in the paired Bhāṣya study. The compressed
+recital and naming syntax remain visible without reconstruction.
+The next unit differentiates the further triad's Supports.
 
 ## 10. OWL++ Seed
 
@@ -242,7 +243,7 @@ Class: FirstTriadSamadhi
 Class: SamadhiMode
 Class: LiberationGate
 Class: FurtherSamadhi
-Class: ObjectBasedNamingRelation
+Class: SupportBasedNamingRelation
 
 ObjectProperty: hasAvailableMode
 ObjectProperty: designatedGateWhen
@@ -261,18 +262,18 @@ GateDesignation:
 
 FurtherTriad:
     members: SunyataSunyata, ApranihitaApranihita, AnimittaAnimitta
-    namingGround: ObjectRelationToSunyataAndCorrespondingCases
-    exactObjectSpecifications: ContinueInVAK8_26
+    namingGround: SupportRelationBeginningWithSunyata
+    exactSupportSpecifications: ContinueInVAK8_26
 
 ProjectConstraint: Pure and uncontaminated are alternative modes.
 ProjectConstraint: Amala and nirmala do not introduce additional modes.
 ProjectConstraint: The technical gate designation requires uncontaminated mode.
 ProjectConstraint: Further does not imply a higher uncontaminated grade.
-ProjectConstraint: Do not impose one identical direct-object rule on all three.
+ProjectConstraint: Do not impose one identical direct-Support rule on all three.
 ProjectConstraint: Reflexive Recognition is a qualified project interpretation.
 ProjectConstraint: Naming does not establish simultaneous self-apprehension.
 ```
 
 This is a declarative project seed, not executable OWL.
-VAK 8.26 next specifies the objects and aspects
+VAK 8.26 next specifies the Supports and aspects
 of the three further samādhis.

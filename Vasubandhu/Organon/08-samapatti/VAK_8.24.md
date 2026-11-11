@@ -75,7 +75,7 @@ V[CASE=none,NUM=sg,GEN=none,PERS=3,TENSE=pres,VOICE=mid] -> 'pravartate'
 The supplied head makes the feminine designation local; it does not
 change the masculine subjects ānimitta and apraṇihita. The commentary
 resolves the first group as four cessation aspects and `ataḥ paraiḥ` as
-the other ten, while the object relation to nirvāṇa remains separate.
+the other ten, while the Support relation to nirvāṇa remains separate.
 
 
 **Close construe.** Signless samādhi proceeds through
@@ -102,7 +102,7 @@ truth-aspects.
 
 > The three samādhis are distinguished through their
 > determinate relation to truth-aspects. Signlessness
-> takes cessation as its object under four aspects;
+> takes nirvāṇa as Support under four cessation-aspects;
 > emptiness proceeds under its two specified aspects;
 > non-direction concerns the remaining aspects, including
 > the path as something serving passage beyond itself.
@@ -122,12 +122,12 @@ not introduce sixteen new objects or techniques.
 
 **`Ānimitta / animitta`.** Signless samādhi / signless
 nirvāṇa. The prose explains the former by its
-object, the latter by absence of the ten signs.
+Support, the latter by absence of the ten signs.
 The two grammatical forms should not obscure that
-object-based explanation.
+Support-based explanation.
 
-**`Daśanimitta`.** Ten signs: five sensory object
-fields, female and male signs, and the three
+**`Daśanimitta`.** Ten signs: five sensory Conditions,
+female and male signs, and the three
 marks of the conditioned. The local prose names
 these groups without separately spelling out every
 conditioned mark; their group-count is sufficient
@@ -162,11 +162,11 @@ with nirvāṇa.
 
 ## 8. Logical Determination
 
-The verse partitions sixteen truth-aspects among three samādhis: four for signless, two for emptiness, and the remainder for non-directed. `[verse]` supplies the partition; `[prose]` resolves the first instrumental as cessation-aspects and explains signlessness through its object, nirvāṇa.
+The verse partitions sixteen truth-aspects among three samādhis: four for signless, two for emptiness, and the remainder for non-directed. `[verse]` supplies the partition; `[prose]` resolves the first instrumental as cessation-aspects and explains signlessness through its Support, nirvāṇa.
 
 **Signature.** `Samadhi(x)`; `Aspect(x)`; `Assign(s,a)` (samādhi `s` is assigned aspect `a`).
 
-**Dataset (the sixteen assignments).** The extension records the prose's four/two/ten split; cessation and peace are individual aspects, while nirvāṇa is not treated as one of the sixteen aspect labels.
+**Dataset (the sixteen assignments).** The extension records the prose's four/two/ten split; the four cessation aspects are represented individually, while nirvāṇa as Support is not treated as one of the sixteen aspect labels.
 
 ```nltk-valuation
 signless => signless
@@ -221,9 +221,8 @@ the adopted form.
 
 **Other witness cautions.** The running source has
 `śunyataḥ`, a damaged `samādhidvarcyākāraḥ`, and
-`samādhipraṇihito`. The local extract regularizes
-the two-aspected emptiness statement and the apraṇihita
-name. The explicit dual aspect expression and
+`samādhipraṇihito`. The paired Bhāṣya extract now retains these forms in the
+running witness. The explicit dual-aspect expression and
 subsequent daśākāra statement secure the counts.
 Original witnesses remain unchanged.
 
@@ -234,45 +233,47 @@ project vocabulary can articulate how an already
 specified field of meaning is comprehended without
 reducing samādhi to a bare list of features.
 It remains distinguished from the source's own
-explanation through aspects, objects, and the named samādhis.
+explanation through aspects, Supports, and the named samādhis.
 
 Yoga Vidyā articulates the sixteen-aspect field and
 its threefold distribution. Yoga Technē, its kriyā–karma
-companion, concerns the operation and relinquishment
+companion, concerns the operation and eventual relinquishment
 described in the commentary. The raft analogy
 links the means to its purpose without erasing
 the work performed by the means.
 
 For Organon representation, preserve aspect membership,
-object relation, and explanatory rationale separately.
+Support relation, and explanatory rationale separately.
 No external logical triad is needed to supply
 the three names: the Bhāṣya provides their local
 determinations. This is a controlled project reconstruction,
 not an attribution of the Organon Concept to Vasubandhu.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The 4–2–10 partition, ten-sign grouping, nirvāṇa
-object relation, non-direction rationale, raft analogy,
-and commonality-with-nirvāṇa clause have been checked
-against the local research and running source.
-The śamākāraiḥ reading remains provisional.
+**Review status.** Complete [449|07]–[450|01] natural unit collated
+with `kosabhasya.txt`; [449|06–07] closes 8.23 and the twofold-mode
+question at [450|01–02] opens 8.25. The introductory triad, split
+verse, ten-sign inventory, and passing-beyond clause are restored
+in the paired Bhāṣya study. The adopted `śamākāraiḥ` remains
+provisional against the running `samākāraiḥ`; the damaged
+`śunyataḥ`, `samādhidvarcyākāraḥ`, and `samādhipraṇihito`
+remain visible in the source extract.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: SamadhiType
 Class: TruthAspect
-Class: ObjectRelation
+Class: SupportRelation
 Class: ExplanatoryRationale
 
 ObjectProperty: operatesThroughAspect
-ObjectProperty: takesAsObject
+ObjectProperty: takesAsSupport
 ObjectProperty: explainedBy
 
 AnimittaSamadhi:
     aspects: FourCessationAspects
     aspectCount: 4
-    object: Nirvana
+    support: Nirvana
     nameExplanation: ObjectFreeFromTenSigns
 
 SunyataSamadhi:
@@ -286,12 +287,12 @@ ApranihitaSamadhi:
                EventualRelinquishmentOfPathLikeRaft
 
 TenSigns:
-    groups: FiveSensoryObjectFields, FemaleAndMaleSigns, ThreeConditionedMarks
+    groups: FiveSensoryConditions, FemaleAndMaleSigns, ThreeConditionedMarks
     count: 10
 
 ProjectConstraint: Truth-aspect total is 4 plus 2 plus 10 equals 16.
 ProjectConstraint: Ten signs and ten non-directed aspects are different inventories.
-ProjectConstraint: Signlessness retains a specified object and four aspects.
+ProjectConstraint: Signlessness retains a specified Support and four aspects.
 ProjectConstraint: Eventual path relinquishment does not negate its present use.
 ProjectConstraint: Preserve the provisional verse reading explicitly.
 ProjectConstraint: Recognition vocabulary belongs to the labeled Organon layer.

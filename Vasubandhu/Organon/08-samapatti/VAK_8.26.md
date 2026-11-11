@@ -1,4 +1,4 @@
-# VAK_8.26 — Objects and Aspects of the Further Samādhis
+# VAK_8.26 — Supports and Aspects of the Further Samādhis
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -24,7 +24,7 @@ is resolved explicitly as apratisaṃkhyānirodha.
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `ālambete` | third-person dual present middle of ā-√lamb | the two take as object |
+| `ālambete` | third-person dual present middle of ā-√lamb | the two take as Support |
 | `aśaikṣam` | accusative singular masculine, qualifying understood samādhim | an adept's [samādhi], belonging to one beyond training |
 | `dvau` | nominative dual masculine | the two further samādhis |
 | `śūnyataḥ` | adverbial form with -tas | under the aspect of emptiness |
@@ -42,7 +42,7 @@ yields `śāntato 'saṃkhyayā`.
 
 ## 4. Grammar
 
-The dual subject selects the first two further samādhis and one shared adept-object; emptiness and impermanence are distributed to them. `Tu` marks a different object construction for signlessness-of-signlessness, whose cessation type is supplied by the Bhāṣya.
+The dual subject selects the first two further samādhis and an adept samādhi as Support; emptiness and impermanence are distributed to them. `Tu` marks a different Support construction for signlessness-of-signlessness, whose cessation type is supplied by the Bhāṣya.
 
 ```nltk-fcfg
 % start S
@@ -72,13 +72,13 @@ N[CASE=acc,NUM=sg,GEN=m,TYPE=cessation] -> 'kṣayam'
 'kṣayam' -> 'aśaikṣam'
 ```
 
-The first two objects are corresponding adept samādhis, not one undifferentiated object
+The first two Supports are corresponding adept samādhis, not one undifferentiated Support
 relation; `asaṃkhyayā` is resolved as non-analytical cessation. The third clause must not
-inherit either aspect/object pairing.
+inherit either aspect/Support pairing.
 
 
 **Close construe.** The first two take corresponding
-adept samādhis as objects under emptiness and impermanence,
+adept samādhis as Supports under emptiness and impermanence,
 respectively. The third takes the non-analytical cessation
 of an adept's signless samādhi under peace.
 
@@ -86,22 +86,22 @@ of an adept's signless samādhi under peace.
 
 ### Literal Translation
 
-> The two take an adept's [samādhi] as object,
+> The two take an adept's [samādhi] as Support,
 > under emptiness and under impermanence. Signlessness-of-signlessness,
 > however, [takes] cessation without analysis under
 > the aspect of peace.
 
 ### Bhāṣya-informed study translation
 
-> The two [further samādhis] take an adept's samādhi as object, under emptiness
+> The two [further samādhis] take an adept's samādhi as Support, under emptiness
 > and under impermanence respectively; but signlessness-of-signlessness takes
-> non-analytical cessation as its object, under the aspect of peace.
+> non-analytical cessation as Support, under the aspect of peace.
 
 ## 6. Philosophical Translation
 
 > The further samādhis do not simply repeat the
 > first triad's aspects. Each selects an aspect
-> appropriate to its specified object. The first
+> appropriate to its specified Support. The first
 > two take adept samādhis directly; the third takes
 > a particular cessation associated with the adept's
 > signless samādhi. That difference prevents a uniform
@@ -116,7 +116,7 @@ from a contaminated dharma.
 ## 7. Technical Vocabulary
 
 **`Aśaikṣa`.** Belonging to an adept, one beyond
-training. It qualifies the samādhi taken as object
+training. It qualifies the samādhi taken as Support
 or specified in the cessation relation. It does
 not, merely by grammatical transfer, establish that
 the further samādhi itself is uncontaminated.
@@ -128,7 +128,7 @@ the second case. It does not assert that the
 uncontaminated path has become an unwholesome dharma.
 
 **`Atallakṣaṇatva`.** Not having those characteristics.
-The uncontaminated object does not bear suffering
+The uncontaminated Support does not bear suffering
 and origin characteristics in the relevant truth-aspect
 classification, so those aspects are excluded.
 
@@ -141,7 +141,7 @@ of stopping thought.
 **`Pratisaṃkhyānirodha`.** Analytical cessation, disjunction
 attained through discriminative knowing. The prose
 excludes it for the uncontaminated samādhi concerned;
-the object is not a contaminant from which liberating
+the Support is not a contaminant from which liberating
 disjunction must be achieved.
 
 **`Śānta`.** Peaceful. This is the selected aspect
@@ -156,9 +156,9 @@ indeterminacy here is not neutral feeling.
 
 ## 8. Logical Determination
 
-The first two further samādhis have corresponding adept samādhis as objects, with emptiness and impermanence respectively; signlessness-of-signlessness instead takes non-analytical cessation under peace. The prose supplies the object identities and resolves `asaṃkhyayā kṣayam` as *apratisaṃkhyānirodha*. `[verse]` / `[prose]`.
+The first two further samādhis have corresponding adept samādhis as Supports, with emptiness and impermanence respectively; signlessness-of-signlessness instead takes non-analytical cessation under peace. The prose supplies the Support identities and resolves `asaṃkhyayā kṣayam` as *apratisaṃkhyānirodha*. `[verse]` / `[prose]`.
 
-**Signature.** `Takes(s,o)`; `AspectOf(s,a)`; `AdeptSamadhi(o)`; `NonAnalyticalCessation(o)`; `Aspect(a)`.
+**Signature.** `TakesAsSupport(s,o)`; `AspectOf(s,a)`; `AdeptSamadhi(o)`; `NonAnalyticalCessation(o)`; `Aspect(a)`.
 
 ```nltk-valuation
 emptyFurther => emptyFurther
@@ -170,7 +170,7 @@ cessationOfAdeptSignless => cessationOfAdeptSignless
 emptinessAspect => emptinessAspect
 impermanence => impermanence
 peace => peace
-Takes => {(emptyFurther,adeptEmpty),(nonDirectedFurther,adeptNonDirected),(signlessFurther,cessationOfAdeptSignless)}
+TakesAsSupport => {(emptyFurther,adeptEmpty),(nonDirectedFurther,adeptNonDirected),(signlessFurther,cessationOfAdeptSignless)}
 AspectOf => {(emptyFurther,emptinessAspect),(nonDirectedFurther,impermanence),(signlessFurther,peace)}
 AdeptSamadhi => {adeptEmpty, adeptNonDirected}
 NonAnalyticalCessation => {cessationOfAdeptSignless}
@@ -180,21 +180,21 @@ Aspect => {emptinessAspect, impermanence, peace}
 ```nltk-fol
 # THEORY shared
 # [verse, prose] first further samādhi: adept emptiness samādhi under emptiness
-Takes(emptyFurther,adeptEmpty)
+TakesAsSupport(emptyFurther,adeptEmpty)
 AspectOf(emptyFurther,emptinessAspect)
 # [verse, prose] second: adept non-directed samādhi under impermanence
-Takes(nonDirectedFurther,adeptNonDirected)
+TakesAsSupport(nonDirectedFurther,adeptNonDirected)
 AspectOf(nonDirectedFurther,impermanence)
-# [verse, prose] tu marks the distinct third object construction
-Takes(signlessFurther,cessationOfAdeptSignless)
+# [verse, prose] tu marks the distinct third Support construction
+TakesAsSupport(signlessFurther,cessationOfAdeptSignless)
 AspectOf(signlessFurther,peace)
 all x.(AdeptSamadhi(x) -> -NonAnalyticalCessation(x))
 all x.(NonAnalyticalCessation(x) -> -AdeptSamadhi(x))
 ```
 
-**Results (NLTK).** The checker reports `shared: T` in the supplied finite model. The six ground object/aspect assertions and the stated object-kind distinction are satisfied there.
+**Results (NLTK).** The checker reports `shared: T` in the supplied finite model. The six Support/aspect assertions and the stated Support-kind distinction are satisfied there.
 
-**Scope cautions.** The third object is cessation associated with an adept's signless samādhi, not that samādhi itself. These assignments do not copy the earlier four/two/ten distribution; the absence of analytical cessation is not a denial of impermanence.
+**Scope cautions.** The third Support is cessation associated with an adept's signless samādhi, not that samādhi itself. These assignments do not copy the earlier four/two/ten distribution; the absence of analytical cessation is not a denial of impermanence.
 
 ## 9. Interpretive Note
 
@@ -203,7 +203,7 @@ all x.(NonAnalyticalCessation(x) -> -AdeptSamadhi(x))
 without the technical identification. The Bhāṣya
 expressly names apratisaṃkhyānirodha and attaches it
 to an adept's signless samādhi. That complete
-object relation belongs in the study translation.
+Support relation belongs in the study translation.
 
 **Witness cautions.** The running verse's akṣaikṣaṃ
 is controlled by the repeated aśaikṣa in prose.
@@ -216,26 +216,28 @@ with these differences disclosed; originals remain untouched.
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 The project's “reflexive Recognition” vocabulary can
 express the further relation to an attained samādhi,
-provided the third member's cessation object remains
-explicit. Yoga Vidyā articulates object status and
+provided the third member's cessation Support remains
+explicit. Yoga Vidyā articulates Support status and
 admissible aspect; Yoga Technē, its kriyā–karma companion,
 concerns the operative orientation described in the
 commentary, including the second case's depreciation.
 
 The research comparison with Yoga's artha-mātra-nirbhāsa
 and the determinate Concept belongs to comparative
-interpretation. This Kośa passage supplies object–aspect
+interpretation. This Kośa passage supplies Support–aspect
 constraints; it does not itself rank Yoga above
 the further samādhis. For Organon representation,
 retain those constraints rather than treating reflection
 as unrestricted application of any predicate to any
 prior attainment.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The two direct objects, third cessation object,
-three selected aspects, exclusions and their reasons,
-and aśaikṣa witness correction have been checked
-against the local research and running source.
+**Review status.** Complete [450|11]–[450|19–20] unit collated
+with `kosabhasya.txt`; [450|10–11] closes 8.25 and `ekāntena
+caite parasamādhayaḥ` at [450|20–21] opens 8.27. The distinct
+third Support and all aspect exclusions are restored in the paired
+Bhāṣya study. Running `akṣaikṣaṃ`, `pratisaṃkhayānirodha`, and
+the split causal compound remain visible. The referent of
+`dūṣaṇīyatvāt` and syntax of the final compound remain uncertain.
 
 ## 10. OWL++ Seed
 
@@ -245,29 +247,29 @@ Class: AdeptSamadhi
 Class: NonAnalyticalCessation
 Class: SelectedAspect
 
-ObjectProperty: takesAsObject
+ObjectProperty: takesAsSupport
 ObjectProperty: apprehendsUnderAspect
 ObjectProperty: cessationAssociatedWith
 
 SunyataSunyata:
-    object: AdeptSunyataSamadhi
+    support: AdeptSunyataSamadhi
     aspect: Emptiness
 
 ApranihitaApranihita:
-    object: AdeptApranihitaSamadhi
+    support: AdeptApranihitaSamadhi
     aspect: Impermanence
     excludedAspects: Suffering, OriginAspects, PathAspects
 
 AnimittaAnimitta:
-    object: ApratisamkhyaNirodhaOfAdeptAnimittaSamadhi
+    support: ApratisamkhyaNirodhaOfAdeptAnimittaSamadhi
     aspect: Peace
-    excludedAspects: Cessation, Excellence, Emergence
+    excludedAspects: Cessation, Excellence, Escape
 
-ProjectConstraint: Preserve the third member's cessation object.
+ProjectConstraint: Preserve the third member's cessation Support.
 ProjectConstraint: Non-analytical cessation is not momentary conditioned perishing.
 ProjectConstraint: Uncontaminated samadhi remains impermanent.
-ProjectConstraint: Path-aspect exclusion does not deny the object's path status.
-ProjectConstraint: Object mode does not automatically transfer to the further samadhi.
+ProjectConstraint: Path-aspect exclusion does not deny the Support's path status.
+ProjectConstraint: Support mode does not automatically transfer to the further samadhi.
 ProjectConstraint: Keep the three cessation-aspect exclusions and reasons distinct.
 ProjectConstraint: Further-samadhi mode and practitioner rules continue in VAK 8.27.
 ```

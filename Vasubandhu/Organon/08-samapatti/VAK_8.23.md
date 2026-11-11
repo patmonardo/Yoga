@@ -135,7 +135,7 @@ pratipad answer different questions.
 The prose says that through cultivation of intermediate
 dhyāna one becomes Mahābrahmā. This is a cosmological
 result, not a synonym for liberation or knowledge
-of destruction. Source: Pradhan 448|11–449|07. The result statement
+of destruction. Source: complete [448|11]–[449|06–07] unit in `kosabhasya.txt`. The result statement
 is preserved as the source's cultivation claim, not as an assertion
 that every mode or occurrence produces rebirth as Mahābrahmā.
 
@@ -156,7 +156,7 @@ principal second dhyāna.
 
 The verse characterizes intermediate dhyāna and orders samādhis by the presence of vitarka and vicāra. The Bhāṣya interprets `advaya` as absence of that pair, not metaphysical nonduality. Provenance: `[verse]`, `[prose]`.
 
-**Signature.** `Intermediate/1(x)`—intermediate dhyāna; `ModeOf/2(x,m)`—x has mode m; `NeutralFeeling/1(x)`—associated with neutral feeling; `MahabrahmaResult/1(x)`—has Mahābrahmā as result; `Samadhi/1(x)`—samādhi instance; `Below/1(x)`, `Above/1(x)`—position relative to the intermediate; `Vitarka/1(x)`, `Vicara/1(x)`—presence of the named factor.
+**Signature.** `Intermediate/1(x)`—intermediate dhyāna kind; `ModeOf/2(x,m)`—m is an available mode of x; `NeutralFeeling/1(x)`—associated with neutral feeling; `MahabrahmaResult/1(x)`—has Mahābrahmā as result; `Samadhi/1(x)`—samādhi kind in the classified range; `Below/1(x)`, `Above/1(x)`—position relative to the intermediate; `Vitarka/1(x)`, `Vicara/1(x)`—presence of the named factor.
 
 ```nltk-valuation
 intermediateDhyana => intermediateDhyana
@@ -190,7 +190,7 @@ all s.((Samadhi(s) & Intermediate(s)) -> (-Vitarka(s) & Vicara(s)))
 all s.((Samadhi(s) & Above(s)) -> (-Vitarka(s) & -Vicara(s)))
 ```
 
-**Results (NLTK).** `Model.satisfy` checks the finite vitarka–vicāra model and the listed intermediate-dhyāna properties. The four factors are not treated as a claim that intermediate dhyāna lacks every mental factor.
+**Results (NLTK).** `Model.satisfy` checks the finite vitarka–vicāra model and the listed intermediate-dhyāna properties. The two named factors are not treated as a claim that intermediate dhyāna lacks every mental factor.
 
 **Scope cautions.** The three modes concern intermediate dhyāna, not the `kecit` first-access view of 8.22. The Mahābrahmā result is a Bhāṣya cultivation claim; the model does not assert that every occurrence or every mode causes that rebirth. Difficult progress and neutral feeling answer different questions.
 
@@ -234,12 +234,13 @@ combination for formal symmetry. This is project
 reconstruction, not a further theory attributed to
 the Bhāṣya.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The three modes, neutral feeling, absence of prīti,
-effort explanation, difficult progress, Mahābrahmā result,
-and exact ranges of the three samādhi categories
-have been checked against the local research and
-running source.
+**Review status.** Complete [448|11]–[449|06–07] unit collated
+with `kosabhasya.txt`; [448|10–11] closes 8.22 and `punastrayaḥ
+uktāḥ` at [449|07] opens 8.24. The sūtra list, middle-member
+explanation, and split verse are restored in the paired Bhāṣya study.
+The local `samādhhir` and `vyayasthāpyate` remain visible there.
+The source does not specify how the Mahābrahmā result is distributed
+across the three intermediate-dhyāna modes.
 
 ## 10. OWL++ Seed
 
