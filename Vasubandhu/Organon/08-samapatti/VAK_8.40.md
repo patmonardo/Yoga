@@ -14,11 +14,13 @@ kāśmīravaibhāṣikanītisiddhaḥ prāyo mayāyaṃ kathito 'bhidharmaḥ |
 yad durgṛhītaṃ tad ihāsmadāgaḥ saddharmanītau munayaḥ pramāṇam || 8.40 ||
 ```
 
-The local kārikā supplies munayaḥ, “sages,” in
-both scripts. The running verse prints manayaḥ;
+The local kārikā supplies `munayaḥ`, “sages,” in
+both scripts. The running verse at [459|16–19] prints `manayaḥ`;
 its commentary explicitly names Buddhas and Buddha-sons.
-The local reading is therefore retained with the
-running-source discrepancy disclosed.
+The local reading is retained with the running-source
+discrepancy disclosed. The complete Bhāṣya unit is
+[459|15]–[460|02–03]; [459|14] closes 8.39 and
+[460|04–07] opens 8.41.
 
 ## 3. Lexical Analysis
 
@@ -241,13 +243,14 @@ its own later architecture. The source's named
 criterion remains the Buddhas and Buddha-sons concerning
 saddharmanīti; the comparison remains separately labeled.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** The complete natural unit
+[459|15]–[460|02–03] has been collated with the running source.
 The predominant school-method attribution, conditional responsibility
-for error, and prose specification of the
-sages have been checked against the local
-witnesses and running source. The opening question's
-compressed wording remains a philological review point.
-Research originals remain untouched.
+for error, and prose specification of the sages have been checked.
+The running `manayaḥ`, `nītyādisiddha`, and `abidharma`
+remain visible in the paired Bhāṣya study. The opening
+`śāstrābhidharma` and prose `nītyādisiddha` construals remain
+philological review points. Research originals remain untouched.
 
 ## 10. OWL++ Seed
 

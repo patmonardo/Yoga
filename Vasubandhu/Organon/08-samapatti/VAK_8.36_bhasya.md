@@ -5,88 +5,163 @@
 > daśa kṛtsnāni alobhāṣṭau dhyāne 'ntye gocaraḥ punaḥ |
 > kāmāḥ dve śuddhākārūpye svacatuḥskandhagocare || 8.36 ||
 
-> There are ten totalities, called Essences from their uninterrupted
-> complete pervasion: earth, water, fire, wind, blue, yellow, red, white,
-> and the totalities of infinite space and infinite knowledge. The first
-> eight have non-greed as their nature and belong to the last, the fourth,
-> dhyāna; their object-field is desire-domain visible form. The last two,
-> pure formless attainments, have as their object-field the four Bases
-> of their own level.
+> There are ten totality-Essences, so named for uninterrupted complete
+> pervasion: earth, water, fire, wind, blue, yellow, red, white, infinite
+> space, and infinite Cognition. The first eight have non-greed as their
+> nature and occur only in the fourth dhyāna. Their range is the desire
+> domain, with the visible Form Essence as Support; some assign wind the
+> tangible Essence instead. The final two are pure formless attainments,
+> each taking the four Bases of its own ground as Support.
 
-Acquisition and supports: 8.37. `Vijñāna` in the tenth = knowledge, not emptied
-consciousness.
+Acquisition and Bases: 8.37. `Vijñāna` in the tenth is Cognition.
 
 Kārikā study: [`VAK_8.36.md`](./VAK_8.36.md).
 
 ## 2. Continuous Sanskrit
 
-> daśa kṛtsnāyatanāni nirantarakṛtsnaspharaṇāt /
-> pṛthivyaptejovāyunīlapītalohitāvadātakṛtsnāni / ākāśavijñānānantyāyatanakṛtsne ca /
-> prathamāny aṣṭāv alobhasvabhāvāni / caturtha eva dhyāne /
-> kāmāvacararūpāyatanam eṣām ālambanam / vāyoḥ spraṣṭavyāyatanam ity eke /
-> dve paścime kṛtsne śuddhakārūpyasvabhāve / svabhūmikāś catvāraḥ skandhā anyor ālambanam /
-> vimokṣaprāveśikāny abhibhvāyatanāni / abhibhvāyatanaprāveśikāni kṛtsnāyatanāni / uttarottaraviśiṣṭatvāt /
-> sarvāṇi caitāni vimokṣādīni pṛthagjanāryasāṃtānikāni sthāpayitvā nirodhavimokṣam /
+```text
+[457|13]
+     daśa kṛtsnāni
 
-**Witness.** Pradhan 457|13–458|10. Voices: Vasubandhu; eke (wind).
+[457|14]
+daśa kṛtsnāyatanāni nirantarakṛtsnaspharaṇāt /
+
+[457|14-457|15]
+pṛthivyaptejovāyunīlapītalohitāvadātakṛtsnāni /
+
+[457|15]
+ākāśavijñānānantyāyatanakṛtsne ca /
+teṣām
+
+[457|16]
+     alobhāṣṭau
+
+[457|17]
+prathamānyaṣṭāvalobhasvabhāvāni
+
+[457|18]
+     dhyāne 'ntye
+
+[457|19]
+caturtha eva dhyāne /
+
+[458|01]
+     gocaraḥ punaḥ /
+
+[458|02]
+     kāmāḥ
+
+[458|03]
+kāmāvacararūpāyatanameṣā mālambanam /
+vāyoḥ spraṣṭavyāyatana mityeke /
+
+[458|04]
+     dve śuddhakārupye
+
+[458|05]
+dve paścime kṛtsne śuddhakārūpyasvabhāve /
+
+[458|06]
+     svacatuḥskandhagocare // VAkK_8.36 //
+
+[458|07]
+svabhūmikāścatvāraḥ skandhā anyorālambanam /
+
+[458|07-458|08]
+vimokṣaprāveśikānyabhibhvāyatanāni /
+
+[458|08]
+abhibhvāyatanaprāveśikāni kṛtsnāyatanāni /
+uttarottaraviśiṣṭatvāt /
+
+[458|09-458|10]
+sarvāṇi caitāni vimokṣādīni pṛthagjanāryasāṃtānikāni sthāpayitvā nirodhavimokṣam /
+```
+
+**Witness.** Pradhan [457|13]–[458|09–10], copied exactly from
+`kosabhasya.txt`. [457|12] closes 8.35; `nirodha uktaḥ` at
+[458|11] opens 8.37. The source's `śuddhakārupye`, separated
+`spraṣṭavyāyatana mityeke`, and `anyorālambanam` remain visible.
 
 ## 3. Continuous Translation
 
-> Ten totality-Essences — from uninterrupted complete pervasion. Earth, water,
-> fire, wind, blue, yellow, red, white; and the totalities of infinite space and
-> infinite knowledge.
+> “There are ten totalities”: ten totality-Essences, because of
+> uninterrupted complete pervasion. There are the earth, water, fire,
+> wind, blue, yellow, red, and white totalities, and the totalities of
+> the Essences of infinite space and infinite Cognition. Of these,
+> “the first eight are non-greed”: the first eight have non-greed as
+> their nature. “In the last dhyāna”: only in the fourth dhyāna.
+> “Their range, moreover, is the desire domain”: the visible Form
+> Essence of the desire domain is their Support. Some [*eke*] say
+> that the wind [totality] takes the tangible Essence as Support.
 >
-> The first eight have the nature of non-greed, in the fourth dhyāna only.
-> Object: desire-domain visible form. Some: wind takes the tangible field.
+> “The two are pure formless attainments”: the two final totalities
+> have the nature of pure formless attainments. “Ranging over their
+> own four Bases”: the four Bases belonging to their own ground are
+> the Supports of the two [the local `anyorālambanam` is irregular].
 >
-> The last two have the nature of pure formless attainments. Object: the four
-> Bases of their own ground.
->
-> Essences of mastery are entry-related to the releases; totalities to the Essences of mastery
-> — each later more distinguished. All these, from the releases on, can belong to
-> ordinary or noble continuities — except cessation-release.
+> The Essences of mastery are *vimokṣa-prāveśika*, and the totality-
+> Essences are *abhibhvāyatana-prāveśika*, because each succeeding
+> [group] is superior [the exact direction of the *prāveśika* relation
+> is not settled by the local compounds]. All these, beginning with
+> the releases, can belong to the continuities of ordinary persons
+> and noble persons, except the cessation-release.
 
 ## 4. Movement of the Commentary
 
-```text
-ten named → 8 + 2 split by nature/level/object
-graded distinction of three complexes
-bearer: pṛthagjana or ārya, minus nirodha-release
-```
+The Bhāṣya first names all ten totalities and explains their name by
+uninterrupted complete pervasion. It divides them into eight with
+non-greed nature in the fourth dhyāna and two pure formless totalities.
+For the first eight it gives desire-domain visible Form as Support,
+then reports an *eke* exception assigning wind the tangible Essence.
+For the final two, the Supports are the four Bases of their own
+respective grounds. The closing prose relates releases, Essences of
+mastery, and totality-Essences through two *prāveśika* compounds and
+successive superiority. It then permits both ordinary and noble
+continuities as bearers of these practices, except the
+cessation-release.
 
-## 5. Pervasion ≠ Omniscience
+## 5. Bhāṣya Explanation
 
-Śuddhaka ≠ anāsrava. Attainment-level ≠ object-level. Prāveśika compounds ≠ a
-mandatory itinerary for every person. Vijñāna-totality is not emptied Cit.
+`Kṛtsna` names a totality through the pervasion of a selected field;
+it does not claim simultaneous knowledge of all dharmas. The first
+eight's nature, attainment ground, range, and Support are separate
+relations. The source's `gocaraḥ` marks range, while `ālambana` marks
+Support. The wind exception is explicitly attributed to some, not
+absorbed into the principal visible-Form account.
 
-## 6. Split
+The last two are the infinite-space and infinite-Cognition totalities.
+`Śuddhaka` marks their pure formless mode and does not by itself mean
+without influx. The four own-ground Bases are their Supports; Form is
+absent in the formless constitution. `Vijñāna` is Cognition here, not
+Knowledge (*jñāna*) or Prajñā. The directional force of
+`vimokṣaprāveśikāni` and `abhibhvāyatanaprāveśikāni` remains open.
+The prose's stated reason, `uttarottaraviśiṣṭatvāt`, establishes
+successive superiority without specifying a mandatory acquisition
+order for every practitioner.
 
-| | nature / level | object |
-|---|---|---|
-| 1–8 | alobha; 4th dhyāna | kāma visible form (eke: wind = tangible) |
-| 9–10 | śuddhaka ārūpya | four own-level skandhas |
+## 6. Organon Determination
 
-## 7. The Bhāṣya's Decisions for the Kārikā
+Represent the ten as an eight-and-two partition. For each group,
+record its nature, attainment ground, range, Support, and possible
+bearer separately. Keep the attributed wind Support as an alternative
+assertion. Record the *prāveśika* relation with its source wording
+until its direction is settled. The cessation-release exception
+qualifies the shared ordinary/noble bearer statement; it does not
+remove cessation from the eight releases.
 
-- `antye` = fourth dhyāna only;
-- `kāmāḥ` = rūpāyatana;
-- `sva` = svabhūmika.
+## 7. Comparative Synthesis
 
-## 8. Interpretation
+For Yoga Vidyā and Yoga Technē, the selected totality and its complete
+pervasion concern a delimited contemplative field. The fact that an
+ordinary person's continuum can bear these practices keeps the
+attainment classification separate from noble status. The comparison
+does not turn infinite Cognition into an assertion of omniscience.
 
-This section is reconstruction.
+## 8. Review Status
 
-One determination fills the field. That is still a selected content — earth, blue,
-knowledge — not a lamp with the oil out. Vidyā: nature, level, object, bearer.
-Technē of pervasion is command made coextensive. Appearance would call the tenth
-empty spiritual light. We present vijñāna as Knowing. Ordinary persons can do this
-work. The gate is not the totality. Yama waits outside for Pure Reason.
-
-## 9. Review Status
-
-Organon pair `VAK_8.36.md` / `VAK_8.36_bhasya.md`, upgraded to the current
-Method: kārikā translations and anchor standardized; terminology upgraded
-(Pradhan 457|13–458|10 witness reference). The verse's Devanāgarī and IAST
-spellings of śuddhākārūpye differ; the anchor follows the kārikā study's
-IAST. Prāveśika direction still a review point. `kosabhasya.txt` collation
-pending. Provisional.
+The complete natural unit [457|13]–[458|09–10] was collated with the
+local running source. [457|12] closes 8.35; [458|11] opens 8.37.
+The local `śuddhakārupye`, `spraṣṭavyāyatana mityeke`, and
+`anyorālambanam` are preserved; the *prāveśika* direction remains
+uncertain. The project translation of `vijñāna` is Cognition.

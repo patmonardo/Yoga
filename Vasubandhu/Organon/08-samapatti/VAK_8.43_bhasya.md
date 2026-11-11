@@ -9,69 +9,68 @@
 > life-breath at the throat, and this to be a time of strength for the
 > defilements, those who wish for liberation must not be negligent.
 
-No separate prose. Colophon closes the eighth Kośasthāna. Next work, as planned:
-Chapter 6 Marga redo.
-
-Kārikā study: [`VAK_8.43.md`](./VAK_8.43.md).
+No separate prose gloss follows the verse. Kārikā study:
+[`VAK_8.43.md`](./VAK_8.43.md).
 
 ## 2. Continuous Sanskrit
 
-> iti kaṇṭhagataprāṇaṃ viditvā śāsanaṃ muneḥ /
-> balakālaṃ malānāṃ ca na pramādyaṃ mumukṣubhiḥ /
->
-> abhidharmakośabhāṣye samāpattīnirdeśo nāmāṣṭamakośasthānam iti
+```text
+[460|12-460|13]
+     iti kaṇṭhagataprāṇaṃ viditvā śāsanaṃ muneḥ /
+     balakālaṃ malānāṃ ca na pramādyaṃ mumukṣubhiḥ // VAkK_8.43 //
+```
 
-**Witness.** Pradhan 460|12–14. Voice: Vasubandhu. Verse + colophon.
+**Witness.** This is the complete natural verse unit at [460|12–13]
+in `kosabhasya.txt`. Verse 8.42 ends at [460|07–11]. The chapter
+colophon at [460|14] is separate paratext, not Bhāṣya prose.
 
 ## 3. Continuous Translation
 
-> Knowing thus that the Sage's teaching has its breath at the throat, and that
-> this is the season of strength for the stains, those who desire liberation must
-> not be heedless.
->
-> Thus, in the Abhidharmakośabhāṣya, the eighth Kośasthāna, named Exposition of
-> Attainments.
+> Having thus understood that the Sage's teaching has its life-breath
+> at the throat, and that this is a time when the defilements are
+> strong, those who desire liberation must not be negligent.
 
-## 4. Movement of the Commentary
+The Sanskrit unit is verse alone. “At the throat” retains the
+source's near-death image without declaring the teaching extinct.
 
-```text
-iti takes 8.39–8.42
-know the two conditions
-then: na pramādyam
-```
+## 4. Movement of the Verse
 
-## 5. Near Death ≠ Already Dead
+`Iti` gathers the preceding lament. The liberation-seekers are to
+recognize two circumstances: the precarious condition of the Sage's
+teaching and a time of strength for the defilements. The negative
+impersonal gerundive then addresses those seekers with an obligation
+against negligence. `Viditvā` links recognition to that obligation;
+it does not itself assert that the seekers have fulfilled it.
 
-Mumukṣu ≠ already free. Vigilance ≠ a replacement for the path just analyzed.
-Finishing these files ≠ realization. The ninth Kośasthāna follows in the running source.
+## 5. Source Explanation
 
-## 6. The Injunction
+`Kaṇṭhagataprāṇaṃ` describes the teaching through a life-breath
+image. `Malānām` specifies whose time of strength it is, without
+naming a particular defilement or calendrical period. `Mumukṣubhiḥ`
+names those who seek liberation, not people already declared free.
+The verse prohibits `pramāda`; its positive implication of vigilance
+does not replace the preceding analysis of attainments.
 
-| | |
-|---|---|
-| known | teaching at the throat; malas strong |
-| who | those who want out |
-| work | do not be negligent |
+## 6. Organon Determination
 
-## 7. The Verse's Own Decisions
+Represent the two known conditions, the seekers, and the injunction
+as distinct relations. The source's claim about the teaching belongs
+to this closing voice; the study does not turn it into an independent
+assessment of any later historical moment. The verse supplies no
+separate prose doctrine of the path.
 
-- `viditvā` governs both contents;
-- `pramādyam` is gerundive obligation;
-- colophon names Samāpattinirdeśa.
+## 7. Comparative Synthesis
 
-## 8. Interpretation
+The Organon can distinguish finishing a textual study from fulfilling
+the practical demand voiced here. That distinction is a project
+application. The verse itself directs those who seek liberation to
+avoid negligence in the circumstances it has described.
 
-This section is reconstruction.
+## 8. Review Status
 
-The House is still breathing. Vidyā knew the sittings. Technē now is not to sleep.
-Appearance would call the taxonomy the Path. The last word is *don't be heedless.*
-We do not Mara the saints. Yama's line still stands: raise samādhi to Pure Reason
-or be refuted. That is our work beside this book. This verse addresses the
-mumukṣu in kāmadhātu. Next: Marga hell, as you said.
-
-## 9. Review Status
-
-Organon pair `VAK_8.43.md` / `VAK_8.43_bhasya.md`, upgraded to the current
-Method: kārikā translations and anchor standardized; terminology upgraded
-(Pradhan 460|12–14 witness reference). Chapter 8 verse sequence complete
-through the colophon. `kosabhasya.txt` collation pending. Provisional.
+The verse-only unit [460|12–13] was collated exactly against
+`kosabhasya.txt`. Verse 8.42 is [460|07–11]; [460|14] is the
+separate chapter colophon. No prose gloss intervenes. The teaching's
+near-death image, the strength of defilements, and the addressees'
+obligation are kept distinct. No exact date, roster of defilements,
+or completed liberation is asserted.

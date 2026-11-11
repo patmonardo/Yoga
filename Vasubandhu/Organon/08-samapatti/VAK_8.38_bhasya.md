@@ -16,70 +16,117 @@ Kārikā study: [`VAK_8.38.md`](./VAK_8.38.md).
 
 ## 2. Continuous Sanskrit
 
-> kathaṃ rūpārūpyadhātvor ārūpyadhyānaviśeṣotpādanam /
-> tribhiḥ kāraṇair … hetukarmadharmatābalaiḥ /
-> dvayor rūpārūpyadhātvor ārūpyasamāpattyutpādanam /
-> hetubalād āsannābhīkṣṇābhyāsāt karmabalāc cordhvabhūmikasya … pratyupasthitavipākatvāt /
-> nāhy adhastād avītarāgeṇordhvaṃ śakyam utpattum /
-> rūpadhātau dhyānotpādanam etābhyāṃ … dharmatayā ca saṃvartanīkāle /
-> tadānīṃ hi sarvasattvā evādharabhūmikās tad dhyānam utpādayanti /
+```text
+[458|18]
+kathaṃ rūpārupyadhātvorārūpyadhyānaviśeṣotpādanam /
 
-**Witness.** Pradhan 458|18–459|07. Voices: Vasubandhu. Final `udbhūtavṛtti` clause compressed.
+[458|19]
+tribhiḥ kāraṇairdhyānārūpyasamāpattīnāmupapattirhetukarmadharmatābalaiḥ /
+tatra
+
+[458|20]
+     hetukarmabalāddhātvorārūpyotpādanaṃ dvayoḥ /
+
+[459|01]
+dvayo rūpārūpyadhātvorārūpyasamāpattyutpādanam /
+
+[459|01-459|03]
+hetubalādāsannābhīkṣṇābhyāsāt karmabalāccordhvabhūmikasyāparaparyāyavedanīyasya karmaṇaḥ pratyupasthitavipākatvāt /
+
+[459|03]
+nahyadhastādavīta rāgeṇordhva śakyamutpattumiti /
+
+[459|04]
+     dhyānānāṃ rūpadhātau tu tābhyāṃ dharmatayāpi ca // VAkK_8.38 //
+
+[459|05-459|06]
+rūpadhātau dhyānotpādanametābhyāṃ hetukarmabalābhyāṃ dharmatayā ca saṃvartanīkāle /
+
+[459|06]
+tadānīṃ hi sarvasttvā evādharabhūmikāstaddhyānamutpādayanti /
+
+[459|06-459|07]
+kṛtsnānāṃ dharmāṇāmudbhūtavṛttitvāt /
+```
+
+**Witness.** Pradhan [458|18] from `kathaṃ rūpārupyadhātvoḥ…`
+through [459|06–07], copied exactly from `kosabhasya.txt` with the
+shared opening label repeated. `Upadeśasāmarthyenotpādanāt` at
+[458|18] closes 8.37; `kiyacciraṃ punarayaṃ saddharmaḥ` at
+[459|07] opens 8.39. The running `avīta rāgeṇa` and `sarvasttvā`
+remain visible.
 
 ## 3. Continuous Translation
 
-> How are special formless [items] and dhyānas produced in the form and formless
-> domains? By three: causal power, karmic power, dharmatā.
+> How are special formless attainments and dhyānas produced in the
+> form and formless domains? Dhyāna and formless attainments arise
+> through three causes: the powers of cause, karma, and *dharmatā*.
+> Of these, “formless attainments are produced in the two domains
+> through the powers of cause and karma”: the two domains are form
+> and formless. Causal power comes from recent and repeated practice.
+> Karmic power comes from the impending maturation of higher-ground
+> karma whose result is to be experienced in a later existence.
+> For someone not freed from passion for a lower ground cannot be
+> reborn above it [the witness separates `avīta rāgeṇa`].
 >
-> Formless samāpatti in those two domains: causal power — recent, repeated
-> cultivation; karmic power — higher-level karma whose later-life result is now at
-> hand. One cannot arise above while still attached below.
->
-> Dhyānas in the form domain: those two, and also dharmatā — at the time of
-> *cosmic contraction*. Then all beings of the relevant lower grounds produce that
-> dhyāna. Reason given: the manifest operation of all the dharmas.
+> “But in the form domain, dhyānas [are produced] through those two
+> and also through *dharmatā*”: dhyāna production there occurs through
+> the powers of cause and karma and, at the time of cosmic contraction,
+> through *dharmatā*. At that time, all beings on lower grounds
+> produce the relevant dhyāna. This is because all dharmas have
+> entered into manifest operation [the closing explanation is
+> compressed in the witness].
 
 ## 4. Movement of the Commentary
 
-```text
-8.37 asked how special sittings arise above
-formless: two powers, two domains
-dhyāna in rūpa: those two + dharmatā at saṃvartanī
-```
+The question asks how special formless and dhyāna attainments can
+arise in the higher domains. The introductory answer names three
+powers, then distributes them unequally. Causal power is recent and
+frequent cultivation. Karmic power is the impending maturation of
+higher-ground karma; the lower-attachment restriction concerns the
+possibility of higher rebirth. Formless attainment production in the
+form and formless domains uses those two powers. Dhyāna production
+in the form domain uses them and additionally *dharmatā* at cosmic
+contraction, when lower-ground beings produce the relevant dhyāna.
+The final clause gives a compressed reason in terms of all dharmas'
+manifest operation.
 
-## 5. Dharmatā ≠ The Idea
+## 5. Bhāṣya Explanation
 
-Saṃvartanī = contraction, not re-formation. Karmic route does not skip dispassion.
-Production of a sitting ≠ the rebirth-event. This does not cancel 8.37's human-
-production rule for the named non-formless special practices.
+The verse's `dhātvor dvayoḥ` means the form and formless domains;
+`tābhyām` refers back to causal and karmic powers. `Hetubala` is
+explained by nearby and repeated practice. `Karmabala` is explained
+through a higher-ground karma with an impending result in a later
+existence. The statement about freedom from lower passion qualifies
+higher rebirth and should not be collapsed into the occurrence of a
+meditative attainment.
 
-## 6. Distribution
+The third power, `dharmatā`, appears for dhyāna production in the form
+domain at *saṃvartanīkāla*, the time of contraction. The source's
+`kṛtsnānāṃ dharmāṇāmudbhūtavṛttitvāt` supplies a reason but no
+further mechanism. The irregular `sarvasttvā` is translated by its
+contextual “all beings” without silently repairing the Sanskrit.
 
-| produced | where | by |
-|---|---|---|
-| ārūpya | rūpa and ārūpya | hetu, karma |
-| dhyāna | rūpa | those two + dharmatā at contraction |
+## 6. Organon Determination
 
-## 7. The Bhāṣya's Decisions for the Kārikā
+Record practice history, karmic maturation, domain, produced
+attainment, and contraction occasion separately. Causal and karmic
+powers apply to the two named production cases; *dharmatā* adds the
+specified contraction case in the form domain. The source does not
+make that third power a universal cause of meditative attainment.
 
-- `dhātvoḥ dvayoḥ` = form and formless;
-- `tābhyām` = the two powers, not the two domains;
-- `dharmatayā` timed to saṃvartanī.
+## 7. Comparative Synthesis
 
-## 8. Interpretation
+The Yoga Vidyā and Yoga Technē comparison can use this passage to
+distinguish cultivated capacity from karmic circumstance and cosmic
+occasion. These are explanations of production, not criteria for the
+truth or validity of knowledge. The final *udbhūtavṛtti* clause
+remains too compressed to ground a further cosmological mechanism.
 
-This section is reconstruction.
+## 8. Review Status
 
-Three geneses, not one glow. Vidyā: practice-history, karmic nearness, world-
-regularity. Technē is still recent repeated work. Appearance would call dharmatā
-the Absolute doing the sitting for you. The text gives a contraction-hour. Yama
-does not Mara cosmology. He asks whether the sitting was raised to Pure Reason.
-Validity of Knowledge is not derived from these three powers.
-
-## 9. Review Status
-
-Organon pair `VAK_8.38.md` / `VAK_8.38_bhasya.md`, upgraded to the current
-Method: kārikā translations and anchor standardized; terminology upgraded
-(Pradhan 458|18–459|07 witness reference). Saṃvartanī is read as
-contraction, not re-formation. `kosabhasya.txt` collation pending.
-Provisional.
+The complete natural unit [458|18]–[459|06–07] was collated with the
+local running source. [458|18] is shared with 8.37; [459|07] opens
+8.39. The broken `avīta rāgeṇa`, `sarvasttvā`, and compressed
+`kṛtsnānāṃ dharmāṇāmudbhūtavṛttitvāt` remain visible. The exact
+force of the closing causal explanation remains uncertain.

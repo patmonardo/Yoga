@@ -1,4 +1,4 @@
-# VAK_8.37 — Acquisition, Habituation, and Support
+# VAK_8.37 — Acquisition, Habituation, and Basis
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -15,8 +15,9 @@ tridhātvāśrayam ārūpyasaṃjñaṃ śeṣaṃ manuṣyajam || 8.37 ||
 ```
 
 The local verse is retained with analytical hyphens
-removed. The running source presents the same
-clauses separately within the explanatory prose.
+removed. Its complete Bhāṣya unit ends within [458|18],
+after `upadeśasāmarthyenotpādanāt`; the following question
+in that line opens 8.38. [458|09–10] closes 8.36.
 
 ## 3. Lexical Analysis
 
@@ -27,10 +28,10 @@ clauses separately within the explanatory prose.
 | `vairāgyaprayogāptam` | nominative singular neuter compound predicate | acquired through dispassion or application |
 | `tu` | indeclinable | but; as for |
 | `śeṣitam` | nominative singular neuter, substantivized | what remains after setting cessation aside |
-| `tridhātvāśrayam` | nominative singular neuter compound adjective | having support in the three domains |
+| `tridhātvāśrayam` | nominative singular neuter compound adjective | having a Basis in the three domains |
 | `ārūpyasaṃjñam` | nominative singular neuter compound adjective, substantivized | what bears the designation “formless” |
 | `śeṣam` | nominative singular neuter, substantivized | the rest after the formless group is distinguished |
-| `manuṣyajam` | nominative singular neuter compound adjective | human-born; generated on human support |
+| `manuṣyajam` | nominative singular neuter compound adjective | human-born; generated on a human Basis |
 
 Sandhi: `dhātu + āśraya` > `dhātvāśraya`; `prayoga + āpta`
 > `prayogāpta`. Āpta is the acquired/obtained
@@ -39,17 +40,17 @@ several practices under one description.
 
 ## 4. Grammar
 
-The neuter singulars classify the remainder and distinguish the formless group from what is human-born. Acquisition is through dispassion or application, depending on habituation; the two `śeṣa` forms have different scopes.
+The neuter singulars classify the remainder and distinguish the formless group from what is human-born. Acquisition is through dispassion or application, depending on habituation; the two `śeṣa` forms have different scopes. Both *āśraya* compounds concern Basis.
 
 ```nltk-fcfg
 % start S
 # tokens: nirodha uktaḥ ∅-nirodhavimokṣaḥ vairāgyaprayogāptam tu śeṣitam ∅-ucitānucitatvāt tridhātvāśrayam ārūpyasaṃjñam ∅-ārūpyavimokṣāḥ ∅-ārūpyakṛtsnāni śeṣam manuṣyajam ∅-manuṣyāśrayam
-S[SEM=<?a & ?b & ?c & ?d>] -> CL[K=cessation,SEM=?a] CL[K=acquisition,SEM=?b] CL[K=formlesssupport,SEM=?c] CL[K=humansupport,SEM=?d]
+S[SEM=<?a & ?b & ?c & ?d>] -> CL[K=cessation,SEM=?a] CL[K=acquisition,SEM=?b] CL[K=formlessbasis,SEM=?c] CL[K=humanbasis,SEM=?d]
 
 CL[K=cessation,SEM=<Cessation(cessationpractice)>] -> N[CASE=?c,NUM=?n,GEN=?g] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] N[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose]
 CL[K=acquisition,SEM=<all x.((Remaining(x) & Habituated(x)) -> ViaDispassion(x)) & all x.((Remaining(x) & -Habituated(x)) -> ViaApplication(x))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,ROUTE=either] PTCL[CONTRAST=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,REMAINDER=yes] N[CASE=abl,NUM=sg,GEN=n,SUPPLIED=prose]
-CL[K=formlesssupport,SEM=<all x.(FormlessDesignated(x) -> ThreeDomainSupport(x))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,SUPPORT=threedomain] ADJ[CASE=?c,NUM=?n,GEN=?g,DESIGNATION=formless] N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose]
-CL[K=humansupport,SEM=<all x.(HumanRemainder(x) -> HumanSupport(x))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,REMAINDER=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,ORIGIN=human] N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose]
+CL[K=formlessbasis,SEM=<all x.(FormlessDesignated(x) -> ThreeDomainBasis(x))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,BASIS=threedomain] ADJ[CASE=?c,NUM=?n,GEN=?g,DESIGNATION=formless] N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose]
+CL[K=humanbasis,SEM=<all x.(HumanRemainder(x) -> HumanBasis(x))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,REMAINDER=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,ORIGIN=human] N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose]
 
 N[CASE=nom,NUM=sg,GEN=m] -> 'nirodha'
 PTCP[CASE=nom,NUM=sg,GEN=m,TENSE=past] -> 'uktaḥ'
@@ -58,7 +59,7 @@ ADJ[CASE=nom,NUM=sg,GEN=n,ROUTE=either] -> 'vairāgyaprayogāptam'
 PTCL[CONTRAST=yes] -> 'tu'
 ADJ[CASE=nom,NUM=sg,GEN=n,REMAINDER=yes] -> 'śeṣitam'
 N[CASE=abl,NUM=sg,GEN=n,SUPPLIED=prose] -> '∅-ucitānucitatvāt'
-ADJ[CASE=nom,NUM=sg,GEN=n,SUPPORT=threedomain] -> 'tridhātvāśrayam'
+ADJ[CASE=nom,NUM=sg,GEN=n,BASIS=threedomain] -> 'tridhātvāśrayam'
 ADJ[CASE=nom,NUM=sg,GEN=n,DESIGNATION=formless] -> 'ārūpyasaṃjñam'
 N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] -> '∅-ārūpyavimokṣāḥ'
 N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] -> '∅-ārūpyakṛtsnāni'
@@ -75,12 +76,12 @@ N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose] -> '∅-manuṣyāśrayam'
 ```
 
 `Nirodha` is already explained, not subjected to the acquisition rule.
-`Tridhātvāśrayam` attaches only to what is called formless; the final human-production clause excludes that group and the source explains it through instruction.
+`Tridhātvāśrayam` attaches only to what is called formless; the final human-production clause excludes that group and the source explains it through instruction. *Āśraya* is Basis, distinct from Support (*ālambana*).
 **Close construe.** Cessation has been explained. The
 remaining practices are acquired through dispassion or
-application. Those designated formless have support in
+application. Those designated formless have a Basis in
 the three domains; the rest are generated
-on human support.
+on a human Basis.
 
 ## 5. Translation
 
@@ -88,25 +89,25 @@ on human support.
 
 > Cessation has been explained. The remainder, however,
 > is acquired through dispassion or application.
-> What is designated formless has support in
+> What is designated formless has a Basis in
 > the three domains; the rest is human-born.
 
 ### Bhāṣya-informed study translation
 
 > Cessation-release has been explained. The remainder, however, is
 > acquired through dispassion or through application. What is designated
-> formless has support in the three domains; the rest is human-born,
-> produced on human support.
+> formless can have a Basis in any of the three domains; the rest is
+> generated among humans, on a human Basis.
 
 ## 6. Philosophical Translation
 
 > An attainment's acquisition depends on the practitioner's
 > formation as well as the practice's classification.
 > Habituation permits one acquisition account; lack of
-> habituation calls for deliberate cultivation. The support
+> habituation calls for deliberate cultivation. The Basis
 > on which a practice is produced is a
 > further condition, with instruction explicitly explaining
-> the human support of the non-formless remainder.
+> the human Basis of the non-formless remainder.
 
 This is a reconstruction of the commentary's
 practical argument. It does not turn the two
@@ -141,15 +142,14 @@ functions here in the sense of a designation;
 the compound does not introduce another perception-attainment
 or a new formless level.
 
-**`Traidhātukāśraya`.** Having support across the three
+**`Traidhātukāśraya`.** Having a Basis across the three
 domains: desire, form, and formless. These are
 the three existential domains, not the eighteen
 dhātus of the earlier cognition-domain classification.
 
-**`Manuṣyāśraya`.** Human support. The predicate concerns
-the bearer/support on which the practice is
-produced; it does not mean that humans
-are its contemplative object.
+**`Manuṣyāśraya`.** Human Basis. The predicate concerns
+the bearer on which the practice is produced; it does not
+make humans its contemplative Support.
 
 **`Upadeśasāmarthya`.** Efficacy of instruction. This
 is the source's reason for the human-production
@@ -158,13 +158,13 @@ appeal to human intelligence or superior motivation.
 
 ## 8. Logical Determination
 
-The verse sets cessation aside, gives two acquisition routes for the remainder, then divides support: formless-designated practices have three-domain support; the remainder is human-born. The Bhāṣya ties the two routes to habituation. `[verse]` / `[prose]`.
+The verse sets cessation aside, gives two acquisition routes for the remainder, then divides possible Bases: formless-designated practices span the three domains; the remainder is human-born. The Bhāṣya ties the two routes to habituation. `[verse]` / `[prose]`.
 
-**Signature.** `Cessation(x)`, `Remaining(x)`, `Habituated(x)`, `ViaDispassion(x)`, `ViaApplication(x)`, `FormlessDesignated(x)`, `ThreeDomainSupport(x)`, `HumanRemainder(x)`, and `HumanSupport(x)`.
+**Signature.** `Cessation(x)`, `Remaining(x)`, `Habituated(x)`, `ViaDispassion(x)`, `ViaApplication(x)`, `FormlessDesignated(x)`, `ThreeDomainBasis(x)`, `HumanRemainder(x)`, and `HumanBasis(x)`.
 
 ```nltk-sem
 # derived by the section 4 parse, not typed by hand
-Cessation(cessationpractice) & all x.((Remaining(x) & Habituated(x)) -> ViaDispassion(x)) & all x.((Remaining(x) & -Habituated(x)) -> ViaApplication(x)) & all x.(FormlessDesignated(x) -> ThreeDomainSupport(x)) & all x.(HumanRemainder(x) -> HumanSupport(x))
+Cessation(cessationpractice) & all x.((Remaining(x) & Habituated(x)) -> ViaDispassion(x)) & all x.((Remaining(x) & -Habituated(x)) -> ViaApplication(x)) & all x.(FormlessDesignated(x) -> ThreeDomainBasis(x)) & all x.(HumanRemainder(x) -> HumanBasis(x))
 ```
 
 ```nltk-valuation
@@ -179,29 +179,29 @@ Habituated => {habitpractice}
 ViaDispassion => {habitpractice}
 ViaApplication => {newpractice}
 FormlessDesignated => {formlessgroup}
-ThreeDomainSupport => {formlessgroup}
+ThreeDomainBasis => {formlessgroup}
 HumanRemainder => {humanremainder}
-HumanSupport => {humanremainder}
+HumanBasis => {humanremainder}
 ```
 
 ```nltk-fol
 # THEORY shared
-# [verse] the two acquisition routes and support classifications
-Cessation(cessationpractice) & all x.((Remaining(x) & Habituated(x)) -> ViaDispassion(x)) & all x.((Remaining(x) & -Habituated(x)) -> ViaApplication(x)) & all x.(FormlessDesignated(x) -> ThreeDomainSupport(x)) & all x.(HumanRemainder(x) -> HumanSupport(x))
+# [verse] the two acquisition routes and Basis classifications
+Cessation(cessationpractice) & all x.((Remaining(x) & Habituated(x)) -> ViaDispassion(x)) & all x.((Remaining(x) & -Habituated(x)) -> ViaApplication(x)) & all x.(FormlessDesignated(x) -> ThreeDomainBasis(x)) & all x.(HumanRemainder(x) -> HumanBasis(x))
 ```
 
-**Results (NLTK).** The checker reports the shared rules true in this finite model of both acquisition routes and both support classes. No entailment or exhaustive census was tested.
+**Results (NLTK).** The checker reports the shared rules true in this finite model of both acquisition routes and both Basis classes. No entailment or exhaustive census was tested.
 
-**Scope cautions.** The model's `Remaining` and `HumanRemainder` classes are not asserted to be coextensive: the verse's first `śeṣitam` excludes cessation from acquisition, while the later human-born `śeṣam` has a different scope. Three-domain support is not object-field or attainment-level.
+**Scope cautions.** The model's `Remaining` and `HumanRemainder` classes are not asserted to be coextensive: the verse's first `śeṣitam` excludes cessation from acquisition, while the later human-born `śeṣam` has a different scope. Three-domain Basis is distinct from Support, Condition, and attainment ground.
 
 ## 9. Interpretive Note
 
-**Construe of the support clause.** Three-domain
-support belongs to the formless group only, not to the whole remainder, and
-human-generation belongs to the rest. The Bhāṣya
+**Construe of the Basis clause.** Three-domain
+Basis belongs to the formless group only, not to the whole remainder, and
+human generation belongs to the rest. The Bhāṣya
 prose explicitly confirms this: formless releases
-and formless totalities have three-domain support; the
-rest have human support. The translations
+and formless totalities have three-domain Basis; the
+rest have human Basis. The translations
 follow that controlled construe.
 
 **Source voice and limits.** The passage is
@@ -214,7 +214,7 @@ invented schedule or automatic-acquisition mechanism.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā articulates practice-type, acquisition route,
-prior habituation, and support as separate determinations.
+prior habituation, and Basis as separate determinations.
 Yoga Technē, its kriyā–karma companion, concerns the
 effective cultivation and instruction through which capacities
 are produced in the specified circumstances.
@@ -227,13 +227,13 @@ training or the constitution of the agent would
 be a further Organon development, not a translation
 of ucitānucitatva or upadeśasāmarthya by themselves.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The cessation exclusion, two acquisition routes, habituation
-explanation, restricted three-domain support, human-production rule,
-and instructional reason have been checked against
-the local witnesses and running source. The
-support reversal is excluded in this
-study.
+**Review status.** Source-collated, Bhāṣya-controlled study.
+The complete natural unit [458|11]–[458|18] ends after
+`upadeśasāmarthyenotpādanāt`; the next question within [458|18]
+opens 8.38. The cessation exclusion, two acquisition routes,
+habituation explanation, Basis classifications, and instructional
+reason have been checked against the running source. The exact
+scope of the second `śeṣam` remains tied to this local classification.
 
 ## 10. OWL++ Seed
 
@@ -241,12 +241,12 @@ study.
 Class: ContemplativePractice
 Class: AcquisitionRoute
 Class: HabituationStatus
-Class: RebirthSupport
+Class: ProductionBasis
 Class: ProductionCondition
 
 ObjectProperty: acquiredThrough
 ObjectProperty: conditionedByHabituation
-ObjectProperty: hasPossibleSupport
+ObjectProperty: hasPossibleBasis
 ObjectProperty: productionExplainedBy
 
 PracticesOtherThanCessationRelease:
@@ -259,13 +259,13 @@ HabituatedAcquisitionCase:
 UnhabituatedAcquisitionCase:
     route: DeliberateApplication
 
-FormlessSupportGroup:
+FormlessBasisGroup:
     members: FourFormlessReleases, TwoFormlessTotalities
-    possibleSupportDomains: Desire, Form, Formless
+    possibleBasisDomains: Desire, Form, Formless
 
 HumanProductionGroup:
     members: FirstThreeReleases, EightMasteryEssences, FirstEightTotalities
-    productionSupport: Human
+    productionBasis: Human
     productionExplanation: EfficacyOfInstruction
 
 CessationRelease:
@@ -273,9 +273,9 @@ CessationRelease:
     excludedFrom: PresentRemainderAcquisitionRule
 
 ProjectConstraint: Acquisition route is not a separate attainment species.
-ProjectConstraint: Three-domain support applies to the specified formless group.
+ProjectConstraint: Three-domain Basis applies to the specified formless group.
 ProjectConstraint: Human production applies to the non-formless remainder.
-ProjectConstraint: Support, object, and attainment-level remain distinct.
+ProjectConstraint: Basis, Support, Condition, and attainment ground remain distinct.
 ProjectConstraint: Production rule does not itself settle all later possession cases.
 ProjectConstraint: Local instruction explanation is not a universal denial of nonhuman teaching.
 ```

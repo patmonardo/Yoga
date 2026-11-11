@@ -7,69 +7,79 @@
 
 > Then, with the Self-Arisen gone to supreme peace, and the bearers of the
 > Self-Arisen's teaching also departed, in a world without a protector,
-> unrestrained views destructive of the community now roam freely here.
+> destructive, unrestrained views now roam freely here.
 
-Local: `gaṇaghātibhiḥ`. Running: `gunaghātibhir`. Harm-object unsettled. No separate
-prose. Exhortation: 8.43.
-
-Kārikā study: [`VAK_8.42.md`](./VAK_8.42.md).
+The local kārikā has `gaṇaghātibhir` and `śāsanadhūrdhareṣu`;
+the running verse prints `gunaghātibhir` and `śāsanadhurdhareṣu`.
+There is no separate prose gloss. Kārikā study:
+[`VAK_8.42.md`](./VAK_8.42.md).
 
 ## 2. Continuous Sanskrit
 
-> gate 'tha śāntiṃ paramāṃ svayaṃbhuvi svayaṃbhuvaḥ śāsanadhurdhareṣu ca /
-> jagaty anāthe gunaghātibhir mataiḥ niraṅkuśaiḥ svairam ihādya caryate /
+```text
+[460|07-460|11]
+     gate 'tha śāntiṃ paramāṃ svayaṃbhuvi svayaṃbhuvaḥ śāsanadhurdhareṣu ca /
+     jagatyanāthe gunaghātibhirmataiḥ niraṅkuśaiḥ svairamihādya caryate // VAkK_8.42 //
+```
 
-**Witness.** Pradhan 460|07–11. Voice: Vasubandhu. Verse carries the argument.
+**Witness.** This is the complete natural unit at [460|07–11] in
+`kosabhasya.txt`. Verse 8.41 ends at [460|04–07]; 8.43 opens with
+`iti kaṇṭhagataprāṇaṃ` at [460|12–13]. There is no intervening
+Bhāṣya prose. The running spellings are retained without repair.
 
 ## 3. Continuous Translation
 
-> Then, when the Self-Arisen had gone to supreme peace, and when those who bore
-> the burden of his teaching had also gone, the world without a protector: here
-> now unrestrained views roam at will — *gaṇa*-destructive on the local reading;
-> running spelling unresolved.
+> Then, with the Self-Arisen gone to supreme peace, and the bearers
+> of the Self-Arisen's teaching also departed, in a world without a
+> protector, destructive, unrestrained views now roam freely here.
 
-## 4. Movement of the Commentary
+The harm object remains uncertain: “destructive of the community”
+follows the local `gaṇa`, while the running `guna` cannot establish
+that reading or a corrected `guṇa`. The translation renders the
+shared force without deciding between them.
 
-```text
-Teacher to paramā śānti
-bearers of the yoke gone
-world anātha
-views unchecked
-```
+## 4. Movement of the Verse
 
-## 5. Mata ≠ Already False
+The verse first places the Self-Arisen's departure for supreme peace
+beside the departure of those who bore his teaching. In the world
+described as unprotected, destructive and unrestrained views are said to
+move freely here and now. The plural teaching-bearers share an
+understood departure predicate; `caryate` is impersonal. No school,
+community, or named adversary is identified.
 
-`Svayaṃbhū` is an epithet here, not a creator-doctrine. `Ihādya` is the speaker's
-now. No named school is tagged. Community-fragmentation depends on `gaṇa`.
+## 5. Source Explanation
 
-## 6. The Sentence
+`Svayaṃbhū` is an epithet of the Teacher in this context. The
+`śāsanadhūrdhara` compound portrays the others as bearers of the
+teaching's burden; its running vowel differs from the paired verse.
+`Anāthe` qualifies the world, and `svairam ihādya` locates the
+free activity in the speaker's present. `Mata` means view or doctrine;
+its destructive and unrestrained force comes from the accompanying
+modifiers. The local `gaṇaghātibhir` specifies harm to a group or
+community. The running `gunaghātibhir` leaves the exact compound
+unsettled; a `guṇa` construal would be a proposed repair, not the
+printed Sanskrit.
 
-| | |
-|---|---|
-| Teacher | gone to supreme peace |
-| dhūrdhara | gone by ellipsis |
-| jagat | without protector |
-| activity | views roam freely |
+## 6. Organon Determination
 
-## 7. The Verse's Own Decisions
+Represent the teacher's and bearers' departures, the unprotected
+world, and the free activity of the described views as separate
+claims. Keep the harm object unassigned in the common reading.
+The verse's judgment is attributed to its speaker, not an independent
+historical inventory established by this study.
 
-- `gate` with svayaṃbhuvi; plural departure understood for the bearers;
-- impersonal `caryate`;
-- compound of harm left dual-witness.
+## 7. Comparative Synthesis
 
-## 8. Interpretation
+The burden-bearing image can inform an Organon comparison about how
+people sustain a teaching. This is a project inference. The verse
+does not supply a theory of institutions, and any claim about
+community fragmentation depends on the unresolved `gaṇa` reading.
 
-This section is reconstruction.
+## 8. Review Status
 
-The House needs bearers of the burden, not only a file. Vidyā names that
-dependency. Technē is the yoke. Appearance would use the lament to ban every
-view. We do not Mara the saints or the books. Yama still waits outside with Pure
-Reason. This verse is the world left anātha when the Eye and the yoke-bearers are
-gone.
-
-## 9. Review Status
-
-Organon pair `VAK_8.42.md` / `VAK_8.42_bhasya.md`, upgraded to the current
-Method: kārikā translations and anchor standardized; terminology upgraded
-(Pradhan 460|07–11 witness reference). No separate prose. `gaṇa`/`guna`
-open. `kosabhasya.txt` collation pending. Provisional.
+The verse-only unit [460|07–11] was collated exactly against
+`kosabhasya.txt`. The adjacent verses are 8.41 at [460|04–07] and
+8.43 at [460|12–13]. No separate prose gloss occurs here. The local
+`gaṇaghātibhir` / running `gunaghātibhir` and local
+`śāsanadhūrdhareṣu` / running `śāsanadhurdhareṣu` differences remain
+visible; the harm object is unresolved.

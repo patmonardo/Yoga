@@ -15,8 +15,10 @@ dhātāras tasya vaktāraḥ pratipattāra eva ca || 8.39 ||
 ```
 
 The local verse agrees with the clauses embedded
-in the running source. Word separation and verse
-numbering follow the official study convention.
+in the running source. The complete Bhāṣya unit is
+[459|07]–[459|14]; [459|06–07] closes 8.38 and the
+Abhidharma question at [459|15] opens 8.40. Word
+separation and verse numbering follow the study convention.
 
 ## 3. Lexical Analysis
 
@@ -170,6 +172,7 @@ all d.(TrueDharma(d) -> (ConsistsOf(d,transmission) & ConsistsOf(d,realization))
 saddharma => saddharma
 transmission => transmission
 realization => realization
+sustainers => sustainers
 thousandyears => thousandyears
 expositor => expositor
 practitioner => practitioner
@@ -184,7 +187,7 @@ Retains => {(expositor,transmission)}
 Speaks => {(expositor,transmission)}
 Practices => {(practitioner,realization)}
 Comprises => {(transmission,sutravinayaabhidharma),(realization,awakeningfactors)}
-Duration => {(realization,thousandyears)}
+Duration => {(sustainers,thousandyears),(realization,thousandyears)}
 LongerThan => {(transmission,realization)}
 ```
 
@@ -196,25 +199,28 @@ all d.(TrueDharma(d) -> (ConsistsOf(d,transmission) & ConsistsOf(d,realization))
 Comprises(transmission,sutravinayaabhidharma)
 Comprises(realization,awakeningfactors)
 # THEORY ahuh
-# [prose] reported duration for realization
+# [prose] the first reported duration concerns these sustainers
+Duration(sustainers,thousandyears)
+# THEORY realization_qualification
+# [prose] adhigamasyaivam applies the duration to realization
 Duration(realization,thousandyears)
 # THEORY apare
-# [prose] others report longer transmission
+# [prose] others explicitly report longer transmission
 LongerThan(transmission,realization)
 ```
 
-**Results (NLTK).** The checker reports `shared`, `ahuh`, and `apare` true in the finite model; the two duration reports remain attributed rather than combined into an unqualified chronology.
+**Results (NLTK).** The checker reports `shared`, `ahuh`, `realization_qualification`, and `apare` true in the finite model. The separate theories retain the source order without forcing the scope of *apare* over `adhigamasyaivam`.
 
-**Scope cautions.** `Bearer` does not require two disjoint populations: a person may expound and practice. Duration formulas record only the Bhāṣya's reports, not a starting date or a fixed end for the teaching.
+**Scope cautions.** `Bearer` does not require two disjoint populations: a person may expound and practice. The first duration report concerns the sustainers; `adhigamasyaivam` applies that duration to realization; *apare* explicitly attributes longer duration to transmission. Neither supplies a starting date.
 
 ## 9. Interpretive Note
 
 **Source voices remain distinct.** The twofold classification
 and bearer mapping are presented expositionally. The
-duration statements are explicitly reported through āhuḥ
-and apare. The official study preserves those
-attributions rather than presenting one unqualified prediction
-as the conclusion of the kārikā.
+duration statements use *āhuḥ* and *apare*, with
+`adhigamasyaivam` between them. The reach of *apare*
+over that middle qualification remains open. The study
+does not present one unqualified prediction as the kārikā's conclusion.
 
 **Transmission and realization.** Transmission and realization are
 stressed together, but a stronger claim of inseparability obscures the
@@ -228,8 +234,8 @@ and their functional relation without that extra judgment.
 mavasthānam where the local excerpt joins varṣasahasramavasthānam.
 This spacing does not alter the thousand-year
 report. The more substantive editorial issue is
-attribution of the qualification beginning adhigamasyaivam,
-read with the closing ity apare as above.
+the scope of the closing `ityapare` over
+`adhigamasyaivam`; it is left open.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā articulates the teaching's determinations and
@@ -247,11 +253,12 @@ application, not a replacement of adhigama by
 generic technical proficiency or of the Teacher's
 Dharma by any formal knowledge system.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-collated, Bhāṣya-controlled study.
 The two forms, their specified contents, corresponding
 bearer functions, persistence statement, and differently scoped
-duration reports have been checked against the
-local witnesses and running source. The research
+duration reports have been checked against the complete
+running unit [459|07]–[459|14]. The question at
+[459|15] opens 8.40. The research
 claim of inseparability is qualified without altering
 the research originals.
 
@@ -285,8 +292,11 @@ InitialDurationReport:
     durationYears: 1000
     attribution: UnnamedReportedAuthorities
 
-AlternativeDurationReport:
+RealizationDurationQualification:
     realizationDurationYears: 1000
+    attribution: Open
+
+OtherDurationReport:
     transmissionDuration: LongerUnspecified
     attribution: OtherUnnamedAuthorities
 

@@ -15,8 +15,9 @@ dhyānānāṃ rūpadhātau tu tābhyāṃ dharmatayāpi ca || 8.38 ||
 ```
 
 The local verse is retained with analytical hyphens
-removed. The running source embeds the two lines
-in the commentary explaining their respective conditions.
+removed. The complete Bhāṣya unit begins with the question
+inside [458|18] and ends at [459|06–07]. The prior sentence
+at [458|18] closes 8.37; the question at [459|07] opens 8.39.
 
 ## 3. Lexical Analysis
 
@@ -48,7 +49,7 @@ The first production statement names two domains; the second elides production a
 S[SEM=<?a & ?b>] -> CL[K=formlessproduction,SEM=?a] CL[K=dhyanaproduction,SEM=?b]
 
 CL[K=formlessproduction,SEM=<all g.(?event(g) -> (?domains(g) & ?powers(g)))>] -> ABL[CAUSE=?cause,SEM=?powers] N[CASE=?c,NUM=?n,GEN=?g,DOMAIN=?d,SEM=?domains] N[CASE=nom,NUM=sg,GEN=n,EVENT=formless,SEM=?event] NUMR[CASE=?c,NUM=?n,GEN=?g] N[CASE=loc,NUM=sg,GEN=m,SUPPLIED=prose] N[CASE=loc,NUM=sg,GEN=m,SUPPLIED=prose]
-CL[K=dhyanaproduction,SEM=<all g.((?event(g) & AtContraction(g)) -> (?domain(g) & ?powers(g) & ?dharmata(g)))>] -> N[CASE=gen,NUM=pl,GEN=n,EVENT=dhyana,SEM=?event] N[SUPPLIED=prose,EVENT=production] N[CASE=loc,NUM=sg,GEN=m,DOMAIN=form,SEM=?domain] PTCL[CONTRAST=yes] PRON[CASE=ins,NUM=du,GEN=n,REF=twopowers,SEM=?powers] N[CASE=ins,NUM=sg,GEN=f,CAUSE=regularity,SEM=?dharmata] PTCL[ADDITIVE=yes] CONJ[ADDITIVE=yes]
+CL[K=dhyanaproduction,SEM=<all g.(?event(g) -> (?domain(g) & ?powers(g))) & all g.((?event(g) & AtContraction(g)) -> ?dharmata(g))>] -> N[CASE=gen,NUM=pl,GEN=n,EVENT=dhyana,SEM=?event] N[SUPPLIED=prose,EVENT=production] N[CASE=loc,NUM=sg,GEN=m,DOMAIN=form,SEM=?domain] PTCL[CONTRAST=yes] PRON[CASE=ins,NUM=du,GEN=n,REF=twopowers,SEM=?powers] N[CASE=ins,NUM=sg,GEN=f,CAUSE=regularity,SEM=?dharmata] PTCL[ADDITIVE=yes] CONJ[ADDITIVE=yes]
 
 ABL[CAUSE=power,SEM=<\g.(ByPower(g,causepower) & ByPower(g,karmapower))>] -> 'hetukarmabalāt'
 N[CASE=loc,NUM=du,GEN=m,DOMAIN=two,SEM=<\g.(InDomain(g,formdomain) & InDomain(g,formlessdomain))>] -> 'dhātvoḥ'
@@ -72,7 +73,7 @@ CONJ[ADDITIVE=yes] -> 'ca'
 ```
 
 `Dhātvoḥ` is interpreted locatively here.
-`Dharmatā` adds a route for dhyāna production at cosmic contraction, not a universal third condition; production of an attainment is distinct from a rebirth event.
+`Dharmatā` adds a route for dhyāna production at cosmic contraction, not a universal third condition; the lower-attachment statement concerns higher rebirth, distinct from producing an attainment.
 **Close construe.** In the two domains, form
 and formless, formless attainments are produced through
 causal and karmic power. In the form domain,
@@ -161,7 +162,7 @@ The verse contrasts production of formless attainments in two domains through ca
 
 ```nltk-sem
 # derived by the section 4 parse, not typed by hand
-all g.(FormlessProduction(g) -> (InDomain(g,formdomain) & InDomain(g,formlessdomain) & ByPower(g,causepower) & ByPower(g,karmapower))) & all g.((DhyanaProduction(g) & AtContraction(g)) -> (InDomain(g,formdomain) & ByPower(g,causepower) & ByPower(g,karmapower) & ByPower(g,dharmata)))
+all g.(FormlessProduction(g) -> (InDomain(g,formdomain) & InDomain(g,formlessdomain) & ByPower(g,causepower) & ByPower(g,karmapower))) & all g.(DhyanaProduction(g) -> (InDomain(g,formdomain) & ByPower(g,causepower) & ByPower(g,karmapower))) & all g.((DhyanaProduction(g) & AtContraction(g)) -> ByPower(g,dharmata))
 ```
 
 ```nltk-valuation
@@ -182,10 +183,10 @@ AtContraction => {dhyanagroup}
 ```nltk-fol
 # THEORY shared
 # [verse] both production clauses; dharmatā is restricted to contraction
-all g.(FormlessProduction(g) -> (InDomain(g,formdomain) & InDomain(g,formlessdomain) & ByPower(g,causepower) & ByPower(g,karmapower))) & all g.((DhyanaProduction(g) & AtContraction(g)) -> (InDomain(g,formdomain) & ByPower(g,causepower) & ByPower(g,karmapower) & ByPower(g,dharmata)))
+all g.(FormlessProduction(g) -> (InDomain(g,formdomain) & InDomain(g,formlessdomain) & ByPower(g,causepower) & ByPower(g,karmapower))) & all g.(DhyanaProduction(g) -> (InDomain(g,formdomain) & ByPower(g,causepower) & ByPower(g,karmapower))) & all g.((DhyanaProduction(g) & AtContraction(g)) -> ByPower(g,dharmata))
 ```
 
-**Results (NLTK).** The checker reports both distribution rules true in the finite model. No causal sufficiency beyond the stated conditions was tested.
+**Results (NLTK).** The checker reports the distribution rules true in the finite model. No causal sufficiency beyond the stated conditions was tested.
 
 **Scope cautions.** “Cause” is locally explained as recent, repeated practice; “karma” as impending maturation. The contraction condition restricts *dharmatā*, not the two powers shared with ordinary dhyāna production. Production of an attainment is distinct from a rebirth event.
 
@@ -210,7 +211,7 @@ not an independently established technical entity here.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā distinguishes practice history, karmic condition,
-cosmological occasion, support domain, and attainment produced.
+cosmological occasion, occurrence domain, and attainment produced.
 Yoga Technē, its kriyā–karma companion, concerns the
 effective cultivation represented explicitly by recent and
 repeated practice, while recognizing the other conditions
@@ -224,24 +225,25 @@ does not derive the validity of knowledge from
 its karmic origin or make cosmological regularity
 the project's Principle of Knowledge.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-collated, Bhāṣya-controlled study.
 The two-domain reference, three powers and their
 unequal distribution, cultivation specification, impending karmic
 maturation, lower-attachment restriction, and contraction context
-have been checked against the local witnesses
-and running source. The final explanatory compound
-is retained with its interpretive limit marked.
+have been checked against the complete running unit
+[458|18]–[459|06–07]. The question at [459|07] opens
+8.39. The final explanatory compound is retained with
+its interpretive limit marked.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: AttainmentProduction
 Class: ExplanatoryPower
-Class: SupportDomain
+Class: OccurrenceDomain
 Class: CosmologicalOccasion
 
 ObjectProperty: explainedBy
-ObjectProperty: occursOnSupport
+ObjectProperty: occursInDomain
 ObjectProperty: occasionedAt
 
 CausalPower:
@@ -253,7 +255,7 @@ KarmicPower:
     accompanyingConstraint: HigherRebirthRequiresFreedomFromLowerAttachment
 
 FormlessProduction:
-    possibleSupportDomains: Form, Formless
+    possibleDomains: Form, Formless
     explanatoryPowers: CausalPower, KarmicPower
 
 DhyanaProductionInFormDomain:
@@ -267,7 +269,7 @@ DharmataProductionCase:
 
 ProjectConstraint: The listed powers are not universally simultaneous requirements.
 ProjectConstraint: Cosmic contraction is not cosmic re-formation.
-ProjectConstraint: Dharmata route retains its stated occasion and support scope.
+ProjectConstraint: Dharmata route retains its stated occasion and domain scope.
 ProjectConstraint: Attainment production is distinct from the event of rebirth.
 ProjectConstraint: Karmic route does not bypass freedom from lower attachment.
 ProjectConstraint: Genesis of a capacity does not itself determine validity of knowledge.

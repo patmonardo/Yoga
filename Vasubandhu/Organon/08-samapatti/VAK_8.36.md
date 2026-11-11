@@ -19,8 +19,10 @@ spellings differ: Devanāgarī gives śuddhakārūpye, while
 the local IAST has śuddhākārūpye. The running
 verse prints śuddhakārupye, and its explanatory prose
 has śuddhakārūpyasvabhāve. The analysis below follows
-the prose-supported śuddhaka-ārūpya without silently altering
-the displayed witnesses.
+the prose-supported *śuddhaka-ārūpya* without silently altering
+the displayed witnesses. The complete Bhāṣya unit is
+[457|13]–[458|09–10]; [457|12] closes 8.35 and
+[458|11] opens 8.37.
 
 ## 3. Lexical Analysis
 
@@ -32,12 +34,12 @@ the displayed witnesses.
 | `aṣṭau` | numeral | eight, the first eight |
 | `dhyāne` | locative singular neuter | in dhyāna |
 | `antye` | locative singular adjective | in the last, here fourth |
-| `gocaraḥ` | nominative singular masculine | object-field |
+| `gocaraḥ` | nominative singular masculine | range |
 | `punaḥ` | indeclinable | again; as for |
-| `kāmāḥ` | nominative plural masculine | desire-domain objects, narrowed by the prose |
+| `kāmāḥ` | nominative plural masculine | desire-domain range, with its Support specified in prose |
 | `dve` | nominative dual neuter | the two remaining totalities |
 | `śuddhakārūpye` | nominative dual neuter, prose-supported analysis | pure formless attainments |
-| `svacatuḥskandhagocare` | nominative dual neuter compound adjective | having the four Bases of their own level as object-field |
+| `svacatuḥskandhagocare` | nominative dual neuter compound adjective | ranging over the four Bases of their own level |
 
 Sandhi: `alobhāḥ + aṣṭau` > `alobhāṣṭau`; `dhyāne + antye` is displayed
 with avagraha as `dhyāne 'ntye`.
@@ -46,7 +48,7 @@ the prose's svabhūmika, “belonging to one's own level.”
 
 ## 4. Grammar
 
-The tenfold subject is divided into the first eight and the final two; level and object are separate predicates. The Bhāṣya identifies `antye` as the fourth dhyāna and distributes each of the last pair's object-fields to its own level.
+The tenfold subject is divided into the first eight and the final two; attainment level, range, and Support are separate relations. The Bhāṣya identifies `antye` as the fourth dhyāna and distributes each of the final pair's four-Base Supports to its own level.
 
 ```nltk-fcfg
 % start S
@@ -81,48 +83,48 @@ ADJ[CASE=nom,NUM=du,GEN=n,ROLE=ownlevelobject] -> 'svacatuḥskandhagocare'
 'dve' -> 'śuddhākārūpye' | 'svacatuḥskandhagocare'
 ```
 
-`Alobhāṣṭau` assigns non-greed as nature, not as an injunction; `kāmāḥ` is narrowed by prose to visible form (one view assigns wind a tactile object).
-`Śuddha` does not mean *anāsrava*, and neither field is a claim of omniscience.
+`Alobhāṣṭau` assigns non-greed as nature, not as an injunction; the desire-domain range is specified in prose as visible Form Support (one attributed view assigns wind a tangible Support).
+`Śuddhaka` does not mean *anāsrava*, and neither range is a claim of omniscience.
 **Close construe.** There are ten totalities. The
 first eight have non-greed as nature and occur
-in the last dhyāna; their object-field is
-in the desire domain. The remaining two are
-pure formless attainments, each with the four
-Bases of its own level as object-field.
+in the last dhyāna; their range is
+the desire domain. The remaining two are
+pure formless attainments, each ranging over the four
+Bases of its own level.
 
 ## 5. Translation
 
 ### Literal Translation
 
 > There are ten totalities. Eight are non-greed,
-> in the last dhyāna; their object-field, again,
-> is desire-domain objects. Two are pure formless
-> attainments, having the four Bases of their
-> own level as their object-field.
+> in the last dhyāna; their range, moreover,
+> is the desire domain. Two are pure formless
+> attainments, ranging over the four Bases of
+> their own level.
 
 ### Bhāṣya-informed study translation
 
-> There are ten totalities, called Essences from their uninterrupted
-> complete pervasion: earth, water, fire, wind, blue, yellow, red, white,
-> and the totalities of infinite space and infinite knowledge. The first
-> eight have non-greed as their nature and belong to the last, the fourth,
-> dhyāna; their object-field is desire-domain visible form. The last two,
-> pure formless attainments, have as their object-field the four Bases
-> of their own level.
+> There are ten totality-Essences, so named for uninterrupted complete
+> pervasion: earth, water, fire, wind, blue, yellow, red, white, infinite
+> space, and infinite Cognition. The first eight have non-greed as their
+> nature and occur only in the fourth dhyāna. Their range is the desire
+> domain, with the visible Form Essence as Support; some assign wind the
+> tangible Essence instead. The final two are pure formless attainments,
+> each taking the four Bases of its own ground as Support.
 
 ## 6. Philosophical Translation
 
 > Totality concerns complete pervasion of a contemplative
 > field. Its classification still distinguishes the nature
 > of the practice, the level at which it
-> occurs, and the objects it takes. Even
+> occurs, and the Supports it takes. Even
 > this developed capacity can occur in an
 > ordinary person's continuum; its accomplishment alone
 > does not establish noble status.
 
 This formulation draws on the explanatory prose.
 “Totality” does not entail that all dharmas
-are simultaneously known or that every object
+are simultaneously known or that every Thing
 falls within each totality's range.
 
 ## 7. Technical Vocabulary
@@ -135,7 +137,7 @@ its extension must remain distinguishable.
 **`Nirantarakṛtsnaspharaṇa`.** Uninterrupted complete pervasion.
 This gives the local explanation of the name;
 it is more precise than merely describing the
-object as large or calling the practice universal.
+Support as large or calling the practice universal.
 
 **`Alobhasvabhāva`.** Having non-greed as nature.
 “Non-appropriation” can develop the project's interpretation,
@@ -143,10 +145,10 @@ but non-greed retains the explicit technical predicate.
 
 **`Rūpāyatana / spraṣṭavyāyatana`.** Visible-form Essence /
 tangible Essence. The principal account gives the
-former for the first eight; unnamed authorities
+former as Support for the first eight; unnamed authorities
 assign the latter to wind. Earth, water,
 fire, and wind in this inventory should not
-automatically be substituted by four tangible objects.
+automatically be substituted by four tangible Supports.
 
 **`Śuddhakārūpya`.** Pure formless attainment. Śuddhaka
 retains the chapter's technical pure classification;
@@ -155,16 +157,15 @@ uncontaminated. “Pure” here is not a new
 claim that all ten totalities are noble paths.
 
 **`Ākāśānantyāyatana / vijñānānantyāyatana`.** Essence of
-infinite space / Essence of infinite knowledge.
-These identify the final two totalities. Vijñāna
-is rendered “knowledge” according to the project's
-standing vocabulary, without equating it with liberative
-prajñā merely on that basis.
+infinite space / Essence of infinite Cognition.
+These identify the final two totalities. *Vijñāna*
+is Cognition in the project vocabulary; it is distinct from
+Knowledge (*jñāna*) and Prajñā.
 
 **`Svabhūmikāś catvāraḥ skandhāḥ`.** The four Bases
-of the respective level (Pradhan 457|13–458|10): feeling, recognition, formations,
-and knowledge. The formless context excludes the
-Form Base from this fourfold range.
+of the respective level: feeling, recognition, formations,
+and Cognition. The formless context excludes the
+Form Base from this fourfold Support.
 
 **`Prāveśika / uttarottaraviśiṣṭatva`.** Entry-related /
 successive superiority. The first term links the
@@ -174,20 +175,20 @@ explicit reason for their graded relation.
 **`Pṛthagjanāryasāṃtānika`.** Belonging to the continuities
 of ordinary and noble persons. This is a
 bearer classification, distinct from an attainment's
-level, object, and technical mode.
+level, range, Support, and technical mode.
 
 ## 8. Logical Determination
 
-The verse and Bhāṣya classify ten totalities by number, nature, level, and object-field. The first eight share non-greed, fourth-dhyāna location, and the desire-domain visible field; the final two are pure formless attainments with their own-level four Bases as field. `[verse]` / `[prose]`.
+The verse and Bhāṣya classify ten totalities by number, nature, attainment ground, range, and Support. The first eight share non-greed, fourth-dhyāna location, desire-domain range, and, in the principal account, visible Form Support. The final two are pure formless attainments with four own-ground Bases as Support. `[verse]` / `[prose]`.
 
-**Signature.** `Totality(x)`, `FirstEight(x)`, `LastTwo(x)`, `Nongreed(x)`, `FourthDhyana(x)`, `VisibleField(x)`, `PureFormless(x)`, and `OwnLevelFourBases(x)`.
+**Signature.** `Totality(x)`, `FirstEight(x)`, `LastTwo(x)`, `Nongreed(x)`, `FourthDhyana(x)`, `DesireRange(x)`, `VisibleFormSupport(x)`, `PureFormless(x)`, and `OwnLevelFourBaseSupport(x)`.
 
 ```nltk-fol
 # THEORY shared
-# [prose] the first eight; kāmāḥ is resolved as visible-form Essence
-all x.(FirstEight(x) -> (Nongreed(x) & FourthDhyana(x) & VisibleField(x)))
-# [verse] dve śuddhākārūpye; [prose] each has its own-level four Bases as field
-all x.(LastTwo(x) -> (PureFormless(x) & OwnLevelFourBases(x)))
+# [verse, prose] first-eight nature, level, range, and principal Support
+all x.(FirstEight(x) -> (Nongreed(x) & FourthDhyana(x) & DesireRange(x) & VisibleFormSupport(x)))
+# [verse] dve śuddhākārūpye; [prose] own-ground four Bases as Support
+all x.(LastTwo(x) -> (PureFormless(x) & OwnLevelFourBaseSupport(x)))
 all x.(Totality(x) -> (FirstEight(x) | LastTwo(x)))
 ```
 
@@ -203,25 +204,26 @@ yellow => yellow
 red => red
 white => white
 spacetotality => spacetotality
-knowledgetotality => knowledgetotality
-Totality => {earth,water,fire,wind,blue,yellow,red,white,spacetotality,knowledgetotality}
+cognitiontotality => cognitiontotality
+Totality => {earth,water,fire,wind,blue,yellow,red,white,spacetotality,cognitiontotality}
 FirstEight => {earth,water,fire,wind,blue,yellow,red,white}
-LastTwo => {spacetotality,knowledgetotality}
+LastTwo => {spacetotality,cognitiontotality}
 Nongreed => {earth,water,fire,wind,blue,yellow,red,white}
 FourthDhyana => {earth,water,fire,wind,blue,yellow,red,white}
-VisibleField => {earth,water,fire,wind,blue,yellow,red,white}
-PureFormless => {spacetotality,knowledgetotality}
-OwnLevelFourBases => {spacetotality,knowledgetotality}
+DesireRange => {earth,water,fire,wind,blue,yellow,red,white}
+VisibleFormSupport => {earth,water,fire,wind,blue,yellow,red,white}
+PureFormless => {spacetotality,cognitiontotality}
+OwnLevelFourBaseSupport => {spacetotality,cognitiontotality}
 ```
 
 **Results (NLTK).** The checker reports every shared rule true in the finite ten-member model. This is a model check, not a proof that no other totalities are possible.
 
-**Scope cautions.** The prose's *eke* assignment of a tangible field to wind is an attributed alternative, not included in the shared classification. “Pure” is not equated with uncontaminated; the four own-level Bases are object-field, not an assertion of omniscience.
+**Scope cautions.** The prose's *eke* assignment of a tangible Support to wind is an attributed alternative, not included in the shared classification. “Pure” does not silently mean without influx; the four own-ground Bases are Supports, not an assertion of omniscience.
 
 ## 9. Interpretive Note
 
 **Source voice.** The principal exposition assigns
-visible form to the first eight. The wind
+visible Form Support to the first eight. The wind
 exception is attributed to unnamed authorities. These
 are kept distinct in the translation and table;
 no school identity is supplied beyond the witness.
@@ -237,7 +239,7 @@ remains open for philological review.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā distinguishes selected determination, complete
-pervasion, technical nature, attainment-level, object-range,
+pervasion, technical nature, attainment ground, range, Support,
 and bearer status. Yoga Technē, its kriyā–karma
 companion, concerns the effective cultivation of a
 field pervaded by the selected determination.
@@ -250,25 +252,26 @@ an unrestricted constitutive Principle of Knowledge.
 The source's ordinary/noble bearer distinction helps
 keep practical accomplishment and liberative status separate.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The tenfold inventory, first-eight nature and exclusive
-fourth-dhyāna assignment, visible-object rule and attributed
-wind alternative, final-two own-level objects, and
-cessation exception have been checked against the
-local witnesses and running source. The entry-compound
-rendering remains explicitly qualified.
+**Review status.** Source-collated, Bhāṣya-controlled study.
+The complete unit [457|13]–[458|09–10], preceding [457|12], and
+following [458|11] boundaries were checked against the running source.
+The tenfold inventory, wind alternative, final-two four-Base Supports,
+entry-related compounds, and cessation exception are covered.
+The *prāveśika* direction and irregular `anyorālambanam` remain open.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: TotalityEssence
 Class: AttainmentLevel
-Class: ObjectRange
+Class: Range
+Class: Support
 Class: BearerStatus
 
 ObjectProperty: hasNature
 ObjectProperty: occursAtLevel
-ObjectProperty: takesAsObject
+ObjectProperty: hasRange
+ObjectProperty: takesAsSupport
 ObjectProperty: attributedTo
 
 TenTotalities:
@@ -279,21 +282,22 @@ FirstEightTotalities:
     members: Earth, Water, Fire, Wind, Blue, Yellow, Red, White
     nature: NonGreed
     exclusiveLevel: FourthDhyana
-    principalObjectRange: DesireDomainVisibleForm
+    range: DesireDomain
+    principalSupport: DesireDomainVisibleFormEssence
 
-WindAlternativeObjectAccount:
-    objectRange: TangibleField
+WindAlternativeSupportAccount:
+    support: TangibleEssence
     attributedTo: UnnamedAuthorities
 
 InfiniteSpaceTotality:
     mode: PureFormless
     level: InfiniteSpace
-    objects: FourBasesOfOwnLevel
+    supports: FourBasesOfOwnLevel
 
-InfiniteKnowledgeTotality:
+InfiniteCognitionTotality:
     mode: PureFormless
-    level: InfiniteKnowledge
-    objects: FourBasesOfOwnLevel
+    level: InfiniteCognition
+    supports: FourBasesOfOwnLevel
 
 ReleaseMasteryTotalityRelation:
     gradedOrder: Release, MasteryBase, TotalityEssence
@@ -306,12 +310,12 @@ PracticesBeginningWithReleases:
 
 ProjectConstraint: Wind alternative does not add an eleventh member.
 ProjectConstraint: Pure is not silently identified with uncontaminated.
-ProjectConstraint: Keep attainment-level separate from object-level.
+ProjectConstraint: Keep attainment ground, range, and Support separate.
 ProjectConstraint: Complete pervasion does not assert omniscience.
 ProjectConstraint: Graded order does not alone establish mandatory acquisition order.
 ProjectConstraint: Cessation-release is not one of the ten totalities.
 ```
 
 This is a declarative project seed, not executable OWL.
-VAK 8.37 next addresses acquisition and the supports
+VAK 8.37 next addresses acquisition and the Bases
 of these practices.

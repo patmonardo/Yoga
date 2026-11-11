@@ -15,9 +15,11 @@ dve dvitīyavat anyāni punaḥ śubhavimokṣavat || 8.35 ||
 ```
 
 The local verse is retained with analytical hyphens
-removed. The running source distributes its clauses
-through the commentary. The spelling abhibhvāyatana
-is retained; its analytical expansion is given below.
+removed. The complete Bhāṣya unit [457|01]–[457|12]
+distributes its clauses through the commentary. [456|23–24]
+closes 8.34; [457|13] opens 8.36. The spelling
+`abhibhvāyatana` is retained; its analytical expansion
+is given below.
 
 ## 3. Lexical Analysis
 
@@ -112,12 +114,12 @@ the remaining four are like the beautiful release.
 > practical functions. The first three releases provide
 > the patterns for eight Essences of mastery. Mastery
 > is specified by intentional command in relation
-> to the object together with non-arising of affliction.
-> The object relation and its affective consequence
+> to the Support together with non-arising of affliction.
+> The Support relation and its affective consequence
 > both enter the account of accomplishment.
 
 This formulation follows the commentary's two reasons.
-“Command” concerns the contemplative object relation here;
+“Command” concerns the contemplative Support relation here;
 it does not by itself establish unrestricted power
 to change external things.
 
@@ -125,7 +127,7 @@ to change external things.
 
 **`Abhibhvāyatana`.** Essence of mastery (Pradhan 457|01–12).
 The commentary explains the term through mastery
-of the ālambana, the object of contemplation.
+of the *ālambana*, the Support of contemplation.
 The field's scale and appearance are articulated
 within this particular eightfold classification.
 
@@ -133,7 +135,7 @@ within this particular eightfold classification.
 With / without internal perception of form.
 These are qualifications of the practitioner in
 the enumerative formula. Absence of internal form-perception
-does not remove the external visible-form object.
+does not remove the external visible-Form Support.
 
 **`Parītta / adhimātra`.** Limited / extensive.
 The second Essence repeats the first formula with
@@ -143,11 +145,11 @@ distinction without internal form-perception.
 **`Suvarṇa / durvarṇa`.** Attractive / unattractive
 in appearance. Here suvarṇa is read in its
 contrast with durvarṇa, not as a separate gold
-object added to the later list of four colors.
+color added to the later list of four colors.
 
 **`Nīla / pīta / lohita / avadāta`.**
 Blue / yellow / red / white. These
-supply the four separately counted objects of
+supply the four separately counted Forms of
 the final group, without internal form-perception.
 
 **`Abhibhūya jānāti / abhibhūya paśyati`.** Having
@@ -159,14 +161,14 @@ in the accomplished relation of mastery.
 the commentary's local comparative characterization of
 release in distinguishing it from the Essences of mastery.
 
-**`Ālambanābhibhavana`.** Mastery of the object.
-Ālambana here is the object-support of contemplation,
-not the practitioner's bodily or rebirth support.
+**`Ālambanābhibhavana`.** Mastery of the Support.
+*Ālambana* here is the Support of contemplation,
+distinct from the practitioner's bodily or rebirth Basis.
 
 **`Yatheccham adhimokṣa / kleśānutpāda`.** Determination
 at will / non-arising of affliction. The
 commentary gives both as explanatory grounds for
-object-mastery. Non-arising here should not be silently
+Support-mastery. Non-arising here should not be silently
 converted into permanent eradication of every kleśa.
 
 ## 8. Logical Determination
@@ -206,7 +208,7 @@ all x.(RemainingFour(x) -> (Mastery(x) & LikePattern(x,beautifulrelease)))
 
 **Results (NLTK).** The checker reports the shared rules true in the finite valuation, which contains eight Mastery members and the stated 2 + 2 + 4 pattern allocation. No theorem prover was run.
 
-**Scope cautions.** A comparison with a release is not identity with it. The Bhāṣya's object-mastery, command at will, and non-arising of affliction explain the distinction from mere turning away; this verse does not authorize an unrestricted power over external objects or assert permanent eradication of all affliction.
+**Scope cautions.** A comparison with a release is not identity with it. The Bhāṣya's Support-mastery, resolve at will, and non-arising of affliction explain the distinction from mere turning away; this verse does not authorize unrestricted power over external Things or assert permanent eradication of all affliction.
 
 ## 9. Interpretive Note
 
@@ -228,7 +230,7 @@ retained without silently repairing the earlier passage.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā articulates internal form-perception, external
-object determination, correspondence with release, and
+Support determination, correspondence with release, and
 the criterion of mastery as distinct relations.
 Yoga Technē, its kriyā–karma companion, concerns the
 effective exercise of determination without affliction
@@ -237,19 +239,21 @@ arising in the stated contemplative relation.
 The research's contrast between freedom from domination
 and positive command is useful project language
 for the passage. It should preserve the precise
-object and criterion rather than make “negative
+Support and criterion rather than make “negative
 freedom” the exhaustive meaning of every release.
 Similarly, the Organon use of āyatana as a
 mediated field is an interpretive development; the
 word alone does not establish the whole project's
 account of Essential Relation.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
+**Review status.** Source-collated, Bhāṣya-controlled study.
 The eight members, 2 + 2 + 4
 correspondence, explicit absence of internal form-perception,
 and two explanatory grounds for mastery have
-been checked against both local witnesses and
-the running source. Research originals remain untouched.
+been checked against the complete running unit
+[457|01]–[457|12]. The local `vahirdhā` and
+`parīttāni` remain visible in the paired Bhāṣya;
+8.32's second formula remains unresolved.
 
 ## 10. OWL++ Seed
 
@@ -271,13 +275,13 @@ EightMasteryEssences:
 FirstMasteryPair:
     patternedAfter: FirstRelease
     internalFormPerception: Present
-    objectDistinction: Limited, Extensive
+    supportSize: Limited, Extensive
     appearanceRange: AttractiveOrUnattractive
 
 SecondMasteryPair:
     patternedAfter: SecondRelease
     internalFormPerception: Absent
-    objectDistinction: Limited, Extensive
+    supportSize: Limited, Extensive
     appearanceRange: AttractiveOrUnattractive
 
 FinalFourMasteryEssences:
@@ -286,15 +290,15 @@ FinalFourMasteryEssences:
     separatelyEnumeratedObjects: Blue, Yellow, Red, White
 
 MasteryEssenceDistinctiveFunction:
-    function: MasteryOfContemplativeObject
+    function: MasteryOfContemplativeSupport
     explanatoryGrounds: DeterminationAtWill, NonArisingOfAffliction
 
 ProjectConstraint: Pattern correspondence does not assert class identity.
 ProjectConstraint: Release ordinals are not dhyana ordinals.
 ProjectConstraint: Attractive and unattractive do not double the member count.
-ProjectConstraint: Absent internal form-perception retains external form objects.
+ProjectConstraint: Absent internal form-perception retains external Form Supports.
 ProjectConstraint: Non-arising of affliction is not universal permanent eradication.
-ProjectConstraint: Keep object-mastery distinct from unrestricted external transformation.
+ProjectConstraint: Keep Support mastery distinct from unrestricted external transformation.
 ```
 
 This is a declarative project seed, not executable OWL.

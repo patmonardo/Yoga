@@ -14,14 +14,13 @@ gate 'tha śāntiṃ paramāṃ svayaṃbhuvi svayaṃbhuvaḥ śāsanadhūrdhar
 jagaty anāthe gaṇaghātibhir matair niraṅkuśaiḥ svairam ihādya caryate || 8.42 ||
 ```
 
-The local research verse is retained provisionally.
-The running source prints śāsanadhurdhareṣu and gunaghātibhir,
-where the local verse has śāsanadhūrdhareṣu and
-gaṇaghātibhir. The latter difference affects the meaning:
-“destructive of the community” depends on gaṇa.
-The running spelling gunaghātibhir, does not by itself establish that reading.
-There is no separate prose gloss in the
-running source to settle the compound.
+The local research verse is retained provisionally. The complete
+unit is [460|07–11]; 8.41 ends at [460|04–07], and 8.43 opens at
+[460|12–13]. The running source prints `śāsanadhurdhareṣu` and
+`gunaghātibhir`, where the local verse has `śāsanadhūrdhareṣu`
+and `gaṇaghātibhir`. “Destructive of the community” depends on
+the local `gaṇa`; the running `guna` does not by itself establish
+`guṇa`. No separate prose gloss settles either reading.
 
 ## 3. Lexical Analysis
 
@@ -110,13 +109,13 @@ the local gaṇa reading is retained.
 > peace, and the bearers of the Self-Arisen's
 > teaching also departed, in a world without
 > a protector, there is free roaming here
-> now by unrestrained views destructive of the community.
+> now by destructive, unrestrained views.
 
 ### Bhāṣya-informed study translation
 
 > Then, with the Self-Arisen gone to supreme peace, and the bearers of the
 > Self-Arisen's teaching also departed, in a world without a protector,
-> unrestrained views destructive of the community now roam freely here.
+> destructive, unrestrained views now roam freely here.
 
 ## 6. Philosophical Translation
 
@@ -246,13 +245,14 @@ not depend on treating the disputed gaṇa
 reading as settled or attributing a full
 theory of system governance to this brief lament.
 
-**Review status.** Provisional, source-controlled verse study.
-The locative constructions, departure ellipsis, burden-bearing image,
-impersonal verb, and absence of a prose
-gloss have been checked against the local
-witnesses and running source. The gaṇa/gunaghātin
-difference remains an explicit philological uncertainty. Research
-originals remain untouched.
+**Review status.** The complete verse-only unit [460|07–11]
+has been collated with `kosabhasya.txt`. The adjacent verses are
+8.41 at [460|04–07] and 8.43 at [460|12–13]. The locative
+constructions, departure ellipsis, burden-bearing image, impersonal
+verb, and absence of a prose gloss have been checked. The local
+`gaṇaghātibhir` versus running `gunaghātibhir`, and local
+`śāsanadhūrdhareṣu` versus running `śāsanadhurdhareṣu`, remain
+visible. The exact harm object remains unresolved.
 
 ## 10. OWL++ Seed
 

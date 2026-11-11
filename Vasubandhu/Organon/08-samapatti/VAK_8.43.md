@@ -14,10 +14,10 @@ iti kaṇṭhagataprāṇaṃ viditvā śāsanaṃ muneḥ |
 balakālaṃ malānāṃ ca na pramādyaṃ mumukṣubhiḥ || 8.43 ||
 ```
 
-The local scripts agree with the running verse.
-No separate prose gloss follows it. The source
-next supplies the colophon closing the eighth
-Kośasthāna, the exposition of attainments.
+The local scripts agree with the running verse at [460|12–13].
+The preceding 8.42 ends at [460|07–11]. No separate prose
+gloss follows 8.43; the colophon at [460|14] is separate
+paratext closing the eighth Kośasthāna.
 
 ## 3. Lexical Analysis
 
@@ -39,9 +39,8 @@ Kaṇṭha-gata-prāṇa describes the teaching through a
 bodily image. Mumukṣu is a desiderative formation
 related to √muc, “release”: its sense is
 one who wishes to be liberated, not
-one whose liberation is already asserted. Source: Pradhan
-460|12–14; the verse occupies the first two numbered lines, the final line
-is the chapter colophon, and there is no separate prose gloss.
+one whose liberation is already asserted. The complete verse
+is [460|12–13]; [460|14] is the separate chapter colophon.
 
 ## 4. Grammar
 
@@ -52,7 +51,7 @@ The absolutive takes two coordinated contents: the Sage's precarious teaching an
 # tokens: iti kaṇṭhagataprāṇaṃ viditvā śāsanaṃ muneḥ ∅-etam balakālaṃ malānāṃ ca na pramādyam mumukṣubhiḥ
 S[SEM=<?rule(?condition)>] -> CL[K=knowing,AGENT=seekers,COND=?condition] CL[K=injunction,AGENT=seekers,SEM=?rule]
 
-CL[K=knowing,AGENT=seekers,COND=<\x.(Knows(x,riskcondition) & TeachingAtRisk(riskcondition) & DefilementsStrong(riskcondition))>] -> PTCL[REPORT=yes] ADJ[CASE=acc,NUM=?n,GEN=?g,CONTENT=teaching,SEM=?teaching] ABS[COMP=knowing,TENSE=prior,SEM=?know] N[CASE=acc,NUM=?n,GEN=?g,CONTENT=teaching] N[CASE=gen,NUM=sg,GEN=m,OWNER=sage] PRON[CASE=acc,NUM=sg,GEN=m,SUPPLIED=prose] N[CASE=acc,NUM=sg,GEN=m,CONTENT=time,SEM=?strength] N[CASE=gen,NUM=pl,GEN=n,OWNER=defilements] CONJ[ADD=yes]
+CL[K=knowing,AGENT=seekers,COND=<\x.(Knows(x,riskcondition) & TeachingAtRisk(riskcondition) & DefilementsStrong(riskcondition))>] -> PTCL[REPORT=yes] ADJ[CASE=acc,NUM=?n,GEN=?g,CONTENT=teaching,SEM=?teaching] ABS[COMP=knowing,TENSE=prior,SEM=?know] N[CASE=acc,NUM=?n,GEN=?g,CONTENT=teaching] N[CASE=gen,NUM=sg,GEN=m,OWNER=sage] PRON[CASE=acc,NUM=sg,GEN=m,SUPPLIED=construal] N[CASE=acc,NUM=sg,GEN=m,CONTENT=time,SEM=?strength] N[CASE=gen,NUM=pl,GEN=n,OWNER=defilements] CONJ[ADD=yes]
 CL[K=injunction,AGENT=seekers,SEM=<\P.all x.((?seek(x) & P(x)) -> ?ought(x))>] -> NEG[POLARITY=no] VERB[CASE=nom,NUM=sg,GEN=n,MOOD=gerundive,VOICE=impersonal,SEM=?ought] N[CASE=ins,NUM=pl,GEN=m,ROLE=agent,AGENT=seekers,SEM=?seek]
 
 PTCL[REPORT=yes] -> 'iti'
@@ -60,7 +59,7 @@ ADJ[CASE=acc,NUM=sg,GEN=n,CONTENT=teaching,SEM=<\c.TeachingAtRisk(c)>] -> 'kaṇ
 ABS[COMP=knowing,TENSE=prior,SEM=<\P.\x.(Knows(x,riskcondition) & P(x))>] -> 'viditvā'
 N[CASE=acc,NUM=sg,GEN=n,CONTENT=teaching] -> 'śāsanaṃ'
 N[CASE=gen,NUM=sg,GEN=m,OWNER=sage] -> 'muneḥ'
-PRON[CASE=acc,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-etam'
+PRON[CASE=acc,NUM=sg,GEN=m,SUPPLIED=construal] -> '∅-etam'
 N[CASE=acc,NUM=sg,GEN=m,CONTENT=time,SEM=<\c.DefilementsStrong(c)>] -> 'balakālaṃ'
 N[CASE=gen,NUM=pl,GEN=n,OWNER=defilements] -> 'malānāṃ'
 CONJ[ADD=yes] -> 'ca'
@@ -221,7 +220,7 @@ its Buddhist content with a generic productivity rule.
 **Colophon.** The running source closes with:
 
 ```text
-abhidharmakośabhāṣye samāpattīnirdeśo nāmāṣṭamakośasthānam iti
+// abhidharmakośabhāṣye samāpattīnirdeśo nāmāṣṭamakośasthānamiti //
 ```
 
 Thus ends the eighth Kośasthāna, called the
@@ -230,13 +229,14 @@ The source's samāpattīnirdeśa spelling is retained in
 the quotation; the chapter title elsewhere follows
 the project's Samāpattinirdeśa convention.
 
-**Review status.** Provisional, source-controlled verse study.
-The breath metaphor, coordinated objects of knowing,
-gerundive obligation, desiderative addressee, absence of a
-prose gloss, and chapter colophon have been
-checked against the local witnesses and running
-source. Earlier flagged textual questions remain open
-for critical review. Research originals remain untouched.
+**Review status.** The complete verse-only unit [460|12–13]
+has been collated with `kosabhasya.txt`. The preceding 8.42
+ends at [460|07–11]; the chapter colophon at [460|14] is
+separate paratext. The breath metaphor, coordinated objects of
+knowing, gerundive obligation, and desiderative addressee were
+checked against the running source. No separate prose gloss occurs.
+The verse presents the teaching as near death, not extinct;
+no particular calendar date or list of defilements is supplied.
 
 ## 10. OWL++ Seed
 

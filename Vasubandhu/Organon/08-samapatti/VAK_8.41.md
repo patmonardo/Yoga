@@ -14,10 +14,10 @@ nimīlite śāstari lokacakṣuṣi kṣayaṃ gate sākṣijane ca bhūyasā |
 adṛṣṭatattvair niravagrahaiḥ kṛtaṃ kutārkikaiḥ śāsanam etad ākulam || 8.41 ||
 ```
 
-The local scripts agree with the verse in
-the running source. No separate prose gloss
-follows this verse in the witness used here;
-the next transmitted unit is VAK 8.42.
+The local scripts agree with the verse in the running source.
+The complete unit is [460|04–07], with no separate prose gloss.
+The final 8.40 prose ends at [460|02–03]; 8.42 begins at
+[460|07–11]. The two verse spans share printed line 07.
 
 ## 3. Lexical Analysis
 
@@ -234,12 +234,13 @@ neither validates a later technical architecture nor
 supplies a general prohibition on reasoning by
 those still learning the path.
 
-**Review status.** Provisional, source-controlled study of
-a verse without a separate transmitted prose gloss.
+**Review status.** The complete verse-only unit [460|04–07]
+has been collated with `kosabhasya.txt`. The adjacent boundaries
+are [460|02–03] for 8.40 and [460|07–11] for 8.42.
 The locative absolutes, world-eye image, partial-loss qualification,
-instrumental agents, and polemical scope have been
-checked against the local witnesses and running
-source. The research originals remain untouched.
+instrumental agents, and polemical scope have been checked.
+No separate prose gloss occurs here. The identities of the
+witnesses and bad reasoners remain unspecified.
 
 ## 10. OWL++ Seed
 

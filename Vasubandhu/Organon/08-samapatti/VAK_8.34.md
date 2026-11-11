@@ -49,8 +49,8 @@ The relative-correlative pair separates the first three visible-Form releases fr
 # tokens: kāmāptadṛśyaviṣayāḥ ∅-rūpāyatanam ∅-yathāyogam prathamāḥ ∅-trayaḥ ye tu arūpiṇaḥ te anvayajñānapakṣordhvasvabhūduḥkhādigocarāḥ ∅-duḥkham ∅-taddhetuḥ ∅-nirodhau ∅-mārgaḥ ∅-apratisaṃkhyānirodhaḥ ∅-ākāśam
 S[SEM=<?a & ?b>] -> CL[K=visible,SEM=?a] CL[K=formless,SEM=?b]
 
-CL[K=visible,SEM=<FirstThree(formgroup) & all g.(FirstThree(g) -> Includes(g,visible))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,OBJ=yes] N[CASE=acc,NUM=sg,GEN=n,SUPPLIED=prose] ADV[SUPPLIED=prose] N[CASE=?c,NUM=?n,GEN=?g] NUMR[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose]
-CL[K=formless,SEM=<FormlessFour(formlessgroup) & all g.(FormlessFour(g) -> Includes(g,ownhigher))>] -> PRON[CASE=?c,NUM=?n,GEN=?g,REL=yes] PTCL[CONTRAST=yes] N[CASE=?c,NUM=?n,GEN=?g] PRON[CASE=?c,NUM=?n,GEN=?g,CORR=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,OBJ=yes] OBJSEQ
+CL[K=visible,SEM=<FirstThree(formgroup) & all g.(FirstThree(g) -> HasCondition(g,visible))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,OBJ=yes] N[CASE=acc,NUM=sg,GEN=n,SUPPLIED=prose] ADV[SUPPLIED=prose] N[CASE=?c,NUM=?n,GEN=?g] NUMR[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose]
+CL[K=formless,SEM=<FormlessFour(formlessgroup) & all g.(FormlessFour(g) -> RangesOver(g,ownhigher))>] -> PRON[CASE=?c,NUM=?n,GEN=?g,REL=yes] PTCL[CONTRAST=yes] N[CASE=?c,NUM=?n,GEN=?g] PRON[CASE=?c,NUM=?n,GEN=?g,CORR=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,OBJ=yes] OBJSEQ
 OBJSEQ -> OBJ[K=dukkha] OBJ[K=hetu] OBJ[K=nirodha] OBJ[K=marga] OBJ[K=cessation] OBJ[K=space]
 
 ADJ[CASE=nom,NUM=pl,GEN=m,OBJ=yes] -> 'kāmāptadṛśyaviṣayāḥ'
@@ -119,22 +119,23 @@ immunity to every affliction in every circumstance.
 
 ## 7. Technical Vocabulary
 
-**`Rūpāyatana`.** The visible-form Essence, not every
+**`Rūpāyatana`.** The visible Form Essence, not every
 material phenomenon without distinction. The prose
-specifies this as the first three releases' object.
+specifies this as the first three releases' Support. The
+verse gives visible Form as their Condition (*viṣaya*).
 
 **`Amanojña / manojña`.** Unpleasant / pleasant.
-These qualify the visible objects as appropriate
+These qualify the visible Form Supports as appropriate
 to the particular release and preserve the
 unattractive/beautiful contrast.
 
 **`Anvayajñānapakṣa`.** Belonging to the anvayajñāna
 side. The commentary attaches this explicitly to
-the path object. A loose substitution such
+the Path Support. A loose substitution such
 as “inferential thinking” would obscure the technical scope.
 
 **`Apratisaṃkhyānirodha / ākāśa`.** Non-analytical cessation /
-space. These are additional object categories in
+space. These are additional Support categories in
 the prose, not simply new names for the
 cessation-truth object. The short sentence says
 space belongs to one release without naming
@@ -155,30 +156,34 @@ for cultivating releases and related qualities.
 
 ## 8. Logical Determination
 
-The verse classifies the object-fields of the first three releases and the formless four; the Bhāṣya supplies the list's additional limits. `[verse]` marks the two groups; `[prose]` marks the expanded fields and the space exception.
+The verse gives the first three releases' visible Form Condition and the formless four's range; the Bhāṣya specifies their Supports and the space exception. `[verse]` marks Condition and range; `[prose]` marks Support.
 
-**Signature.** `FirstThree(g)`, `FormlessFour(g)`, `Includes(g,f)`, and `SpaceForOne(g)` describe object-fields at group level; these are not claims that every individual release takes every listed item at once.
+**Signature.** `FirstThree(g)`, `FormlessFour(g)`, `HasCondition(g,c)`, `RangesOver(g,r)`, `HasSupport(g,s)`, and `SpaceForOne(g)` describe group-level relations; they do not claim that every individual release takes every listed Support at once.
 
 ```nltk-sem
 # derived by the section 4 parse, not typed by hand
-FirstThree(formgroup) & all g.(FirstThree(g) -> Includes(g,visible)) & FormlessFour(formlessgroup) & all g.(FormlessFour(g) -> Includes(g,ownhigher))
+FirstThree(formgroup) & all g.(FirstThree(g) -> HasCondition(g,visible)) & FormlessFour(formlessgroup) & all g.(FormlessFour(g) -> RangesOver(g,ownhigher))
 ```
 
 ```nltk-fol
 # THEORY shared
 # [verse] prathamāḥ / ye ... te: group-level object-field claims, derived in section 4
-FirstThree(formgroup) & all g.(FirstThree(g) -> Includes(g,visible)) & FormlessFour(formlessgroup) & all g.(FormlessFour(g) -> Includes(g,ownhigher))
+FirstThree(formgroup) & all g.(FirstThree(g) -> HasCondition(g,visible)) & FormlessFour(formlessgroup) & all g.(FormlessFour(g) -> RangesOver(g,ownhigher))
+# [prose] the visible Form Essence is the first group's Support
+HasSupport(formgroup,visibleEssence)
 # [prose] own- and higher-level truths, the anvaya-side Path, and additions
-all g.(FormlessFour(g) -> (Includes(g,causefield) & Includes(g,cessationfield) & Includes(g,anvayapath) & Includes(g,nonanalytical)))
+HasSupport(formlessgroup,ownhigher)
+all g.(FormlessFour(g) -> (HasSupport(g,causefield) & HasSupport(g,cessationfield) & HasSupport(g,anvayapath) & HasSupport(g,nonanalytical)))
 SpaceForOne(formlessgroup)
 ```
 
-**Finite object-field valuation.** `SpaceForOne` deliberately does not assign space to all four or name the one release.
+**Finite Condition, range, and Support valuation.** `SpaceForOne` deliberately does not assign space to all four or name the one release.
 
 ```nltk-valuation
 formgroup => formgroup
 formlessgroup => formlessgroup
 visible => visible
+visibleEssence => visibleEssence
 ownhigher => ownhigher
 causefield => causefield
 cessationfield => cessationfield
@@ -187,13 +192,15 @@ nonanalytical => nonanalytical
 spacefield => spacefield
 FirstThree => {formgroup}
 FormlessFour => {formlessgroup}
-Includes => {(formgroup,visible),(formlessgroup,ownhigher),(formlessgroup,causefield),(formlessgroup,cessationfield),(formlessgroup,anvayapath),(formlessgroup,nonanalytical)}
+HasCondition => {(formgroup,visible)}
+RangesOver => {(formlessgroup,ownhigher)}
+HasSupport => {(formgroup,visibleEssence),(formlessgroup,ownhigher),(formlessgroup,causefield),(formlessgroup,cessationfield),(formlessgroup,anvayapath),(formlessgroup,nonanalytical)}
 SpaceForOne => {formlessgroup}
 ```
 
 **Results (NLTK).** The session checker loaded the FOL and valuation; the shared theory is true in this finite model. No prover entailment was tested.
 
-**Scope cautions.** The source says *anvayajñāna* qualifies the Path; it is not generalized to every object. The added space item belongs to one unspecified release. The Bhāṣya's beautiful-object test for mastery is not converted into a universal immunity rule.
+**Scope cautions.** The source says *anvayajñāna* qualifies the Path; it is not generalized to every Support. The added space item belongs to one unspecified release. The Bhāṣya's beautiful-object test for mastery is not converted into a universal immunity rule.
 
 ## 9. Interpretive Note
 
@@ -215,11 +222,11 @@ this unit. The script discrepancy in the verse
 is disclosed above. Originals remain untouched.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
-Yoga Vidyā articulates object category, contemplative
+Yoga Vidyā articulates Condition, range, Support, contemplative
 aspect, and criterion of accomplishment. Yoga Technē,
 its kriyā–karma companion, concerns the shift to
 the beautiful aspect and observation of whether
-affliction arises. The object-aspect can change while
+affliction arises. The Support-aspect can change while
 the sought freedom from affliction remains the
 criterion in this account.
 
@@ -230,14 +237,14 @@ contemplative test rather than expanded into a
 complete theory of appearance. For Organon representation,
 record the two purposes and alternative reasons
 for beautiful-release cultivation separately from the
-object-range inventory.
+Condition, range, and Support inventory.
 
-**Review status.** Provisional, Bhāṣya-controlled study.
-The visible-form objects, qualified formless range,
-additional objects, third-dhyāna explanation, beautiful-release
-test, general purposes, and direct-realization explanation
-have been checked against the local research
-and running source.
+**Review status.** Source-collated, Bhāṣya-controlled study. The complete unit
+[456|09]–[456|23–24] and adjacent boundaries were checked against the running witness.
+The visible-Form Condition, specified Supports, third-dhyāna
+explanation, beautiful-release test, cultivation purposes, noble-power
+examples, and direct-realization explanation were checked. The damaged
+pleasure and noble-power compounds remain open.
 
 ## 10. OWL++ Seed
 
@@ -247,19 +254,22 @@ Class: ContemplativeAspect
 Class: AccomplishmentCriterion
 Class: CultivationPurpose
 
-ObjectProperty: takesAsObject
+ObjectProperty: hasCondition
+ObjectProperty: rangesOver
+ObjectProperty: takesAsSupport
 ObjectProperty: testedBy
 ObjectProperty: cultivatedFor
 
 FirstThreeReleases:
-    objects: DesireDomainVisibleForm
-    objectQuality: UnpleasantOrPleasantAsAppropriate
+    condition: DesireDomainVisibleForm
+    support: DesireDomainVisibleFormEssence
+    supportQuality: UnpleasantOrPleasantAsAppropriate
 
 FormlessReleases:
-    truthObjects: OwnAndHigherLevelSufferingItsCauseAndCessation
-    pathObject: EntireAnvayaJnanaSidePath
-    additionalObject: NonAnalyticalCessation
-    spaceObject: OneMemberSpecifiedWithoutNameInThisUnit
+    truthSupports: OwnAndHigherLevelSufferingItsCauseAndCessation
+    pathSupport: EntireAnvayaJnanaSidePath
+    additionalSupport: NonAnalyticalCessation
+    spaceSupport: OneMemberSpecifiedWithoutNameInThisUnit
 
 BeautifulReleaseCultivation:
     alternativePurposes: BrightenSunkenContinuum, TestFirstTwoReleases
